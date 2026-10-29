@@ -1,13 +1,13 @@
 <!doctype html>
-<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f5f9fe"><meta name="description" content="つくば市のニュース、店舗、開発、イベント、行政、交通、防災情報をまとめてチェック"><title>NFC TSUKUBA WATCH</title><link rel="icon" type="image/svg+xml" href="./favicon.svg">
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#ffffff"><meta name="description" content="つくば市のニュース、店舗、開発、イベント、行政、交通、防災情報をまとめてチェック"><title>NFC TSUKUBA WATCH</title><link rel="icon" type="image/svg+xml" href="./favicon.svg">
 <style>
-:root{color-scheme:light;--bg:#f5f9fe;--panel:#fff;--panel2:#eff6fe;--line:#dce6f0;--txt:#1c334a;--muted:#697d91;--accent:#1675bb}
+:root{color-scheme:light;--bg:#ffffff;--panel:#edf3fb;--panel2:#e8f0fb;--line:#cbdced;--txt:#1c334a;--muted:#697d91;--accent:#1675bb}
 *{box-sizing:border-box}
-body{margin:0;background:radial-gradient(ellipse at 50% 0,#e0f1ff 0,transparent 47%),var(--bg);font-family:system-ui,-apple-system,"Yu Gothic","Meiryo",sans-serif;color:var(--txt);min-height:100vh}
+body{margin:0;background:linear-gradient(155deg,#ffffff 0%,#f8fcff 28%,#e8f5ff 66%,#d4eafa 100%);background-attachment:fixed;font-family:system-ui,-apple-system,"Yu Gothic","Meiryo",sans-serif;color:var(--txt);min-height:100vh}
 .wrap{max-width:1120px;margin:auto;padding:30px 18px 70px}
 .eyebrow{font-size:11px;letter-spacing:.25em;color:#8498ac}
 h1{font-weight:800;letter-spacing:.035em;font-size:clamp(30px,6vw,48px);margin:6px 0}.star{color:#2589cc}.sub{color:var(--muted);font-size:14px;margin-top:0}.top{display:flex;justify-content:space-between;align-items:start;gap:12px;margin-bottom:24px}
-.toolbar,.section{background:#ffffffee;border:1px solid var(--line);border-radius:18px;padding:18px;margin-bottom:15px;box-shadow:0 5px 22px rgba(29,76,118,.045)}
+.toolbar,.section{background:#eaf0fbf2;border:1px solid var(--line);border-radius:18px;padding:18px;margin-bottom:15px;box-shadow:0 5px 22px rgba(29,76,118,.045)}
 .filters{display:flex;flex-wrap:wrap;gap:7px}
 .chip{background:#f0f5fb;color:#47647f;border:1px solid #dce7f1;border-radius:50px;padding:9px 14px;font-size:12px;cursor:pointer;transition:.15s}
 .chip:hover{background:#e1effb}.chip.active{background:#237cba;border-color:#237cba;color:white}
@@ -16,7 +16,7 @@ input,select{width:100%;background:#fff;border:1px solid #cfdeeb;color:#263f54;b
 input:focus,select:focus{outline:2px solid #86bfe9;outline-offset:1px}
 .bar{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:17px 0 0;color:var(--muted);font-size:12px}
 .articles{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
-.article{border:1px solid #dce7f0;background:#fff;border-radius:16px;padding:17px;box-shadow:0 4px 16px rgba(36,83,122,.045);transition:border-color .2s,transform .2s,box-shadow .2s}
+.article{border:1px solid #d1dfeb;background:#eef5f9;border-radius:16px;padding:17px;box-shadow:0 4px 16px rgba(36,83,122,.045);transition:border-color .2s,transform .2s,box-shadow .2s}
 .article:hover{border-color:#91c2e6;transform:translateY(-2px);box-shadow:0 8px 25px rgba(36,83,122,.09)}
 .line1,.meta{display:flex;gap:7px;flex-wrap:wrap;align-items:center}
 .tag{border:1px solid #d4e5f4;background:#f0f7ff;border-radius:6px;padding:4px 7px;color:#35739f;font-size:11px}
@@ -25,7 +25,7 @@ input:focus,select:focus{outline:2px solid #86bfe9;outline-offset:1px}
 .summary{font-size:12px;line-height:1.8;color:#63798c;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .meta{margin-top:15px;color:#8293a2;font-size:11px}.meta .sep{color:#aebdca}
 .foot{margin-top:35px;text-align:center;color:#8299ac;font-size:11px}
-.empty{padding:45px 18px;text-align:center;color:var(--muted);grid-column:1/-1;border:1px dashed #ccdeeb;background:#fff;border-radius:16px}
+.empty{padding:45px 18px;text-align:center;color:var(--muted);grid-column:1/-1;border:1px dashed #ccdeeb;background:#eaf1f9;border-radius:16px}
 .buttons{display:flex;gap:8px;flex-wrap:wrap}.action{color:#3378a9;background:#f2f8fe;border:1px solid #cfe1f0;padding:9px 13px;border-radius:10px;text-decoration:none;font-size:12px;cursor:pointer}.action:hover{background:#e4f1fc}
 .notice{color:#78879b;font-size:11px;line-height:1.7;margin:18px 0}.socials{display:flex;gap:8px;flex-wrap:wrap}.socials a{color:#2479b3;font-size:12px}.status{color:#6e8192;font-size:12px;line-height:1.7}
 #error{color:#c14959;font-size:12px}button:focus-visible,a:focus-visible{outline:2px solid #237cba;outline-offset:3px}
@@ -36,7 +36,7 @@ input:focus,select:focus{outline:2px solid #86bfe9;outline-offset:1px}
 <div class="articles" id="articles" aria-live="polite"></div>
 <section class="section" style="margin-top:20px"><strong>✦ SNS SEARCH</strong><p class="status">SNS投稿の自動取得は未接続です。以下から公開検索を開けます。投稿の真偽は必ず出典を確認してください。</p><div class="socials"><a class="action" href="https://x.com/search?q=%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82&src=typed_query&f=live" target="_blank" rel="noopener noreferrer">X：つくば市</a><a class="action" href="https://www.google.com/search?q=site%3Ainstagram.com+%E3%81%A4%E3%81%8F%E3%81%B0" target="_blank" rel="noopener noreferrer">Instagramを検索</a><a class="action" href="https://www.city.tsukuba.lg.jp/" target="_blank" rel="noopener noreferrer">つくば市公式</a></div></section>
 <p class="notice">記事は自動分類のため誤分類・地域外の記事が含まれる可能性があります。緊急時は自治体などの一次情報を確認してください。</p>
-<footer class="foot">WOOL PRIVATE COLLECTION ✦ TSUKUBA WATCH · NFC PROJECTS · v1.1</footer></main>
+<footer class="foot">WOOL PRIVATE COLLECTION ✦ TSUKUBA WATCH · NFC PROJECTS · v1.2</footer></main>
 <script>
 'use strict';
 const categories=['すべて','地域ニュース','店舗・グルメ','開発・建設','イベント','行政・市政','交通・生活','防災・安全'];
@@ -53,7 +53,7 @@ function render(){const articles=Array.isArray(data.articles)?data.articles:[];c
 list.sort((a,b)=>(dateOf(b)-dateOf(a))*(els.sort.value==='new'?1:-1));
 els.onlyUnread.textContent='未読のみ：'+(unreadOnly?'ON':'OFF');
 if(!list.length){els.articles.replaceChildren(el('div','empty',articles.length?'条件に一致する記事はありません。':'記事がありません。初回のGitHub Actions実行後に表示されます。'));return}
-els.articles.replaceChildren(...list.slice(0,200).map(a=>{const box=el('article','article');const line=el('div','line1');line.append(el('span','tag',a.category||'地域ニュース'));if(!readIds.has(a.id))line.append(el('span','tag new','NEW'));if(a.sourceType==='official')line.append(el('span','tag source','公式'));box.append(line);const title=el('h2');const link=el('a',null,a.title||'無題');if(/^https?:\/\//.test(a.url||'')){link.href=a.url;link.target='_blank';link.rel='noopener noreferrer';link.addEventListener('click',()=>{readIds.add(a.id);saveRead();setTimeout(render,100)})}title.append(link);box.append(title);if(a.summary)box.append(el('div','summary',a.summary));const meta=el('div','meta');meta.append(el('span',null,a.source||'情報源不明'),el('span','sep','•'),el('span',null,fmt(a.publishedAt||a.firstSeenAt)));if(a.areas?.length){meta.append(el('span','sep','•'),el('span',null,a.areas.join('・')))}box.append(meta);return box}))}
+els.articles.replaceChildren(...list.slice(0,200).map(a=>{const box=el('article','article');const line=el('div','line1');line.append(el('span','tag',a.category||'地域ニュース'));if(!readIds.has(a.id))line.append(el('span','tag new','NEW'));if(a.sourceType==='official')line.append(el('span','tag source','公式'));box.append(line);const title=el('h2');const link=el('a',null,a.title||'無題');if(/^https?:\/\//.test(a.url||'')){link.href=a.url;link.target='_blank';link.rel='noopener noreferrer';link.addEventListener('click',()=>{readIds.add(a.id);saveRead();setTimeout(render,100)})}title.append(link);box.append(title);const meta=el('div','meta');meta.append(el('span',null,a.source||'情報源不明'),el('span','sep','•'),el('span',null,fmt(a.publishedAt||a.firstSeenAt)));if(a.areas?.length){meta.append(el('span','sep','•'),el('span',null,a.areas.join('・')))}box.append(meta);return box}))}
 async function load(){els.error.textContent='';els.refresh.disabled=true;try{const r=await fetch('./data/tsukuba.json?t='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const j=await r.json();if(!Array.isArray(j.articles))throw Error('不正な記事データ');data=j;els.updated.textContent=j.updatedAt?fmt(j.updatedAt)+' 更新':'未更新（初回収集待ち）';render()}catch(e){els.error.textContent='データの読み込みに失敗しました：'+e.message;render()}finally{els.refresh.disabled=false}}
 areas.forEach(a=>{const o=document.createElement('option');o.value=a;o.textContent=a;els.area.append(o)});makeChip();els.search.addEventListener('input',render);els.area.addEventListener('change',render);els.sort.addEventListener('change',render);els.onlyUnread.onclick=()=>{unreadOnly=!unreadOnly;render()};els.refresh.onclick=load;load();
 </script></body></html>
