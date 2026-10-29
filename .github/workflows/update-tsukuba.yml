@@ -1,0 +1,32 @@
+name: Update TSUKUBA WATCH
+on:
+  workflow_dispatch:
+  schedule:
+    # 06:17, 12:17, 18:17, 00:17 JST = previous/current day UTC
+    - cron: '17 21,3,9,15 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: tsukuba-data-update
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python scripts/update.py
+      - name: Commit fresh data
+        run: |
+          if ! git diff --quiet -- data/tsukuba.json; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add data/tsukuba.json
+            git commit -m 'chore: refresh Tsukuba news'
+            git push
+          fi
