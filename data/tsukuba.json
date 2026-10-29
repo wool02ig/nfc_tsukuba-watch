@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T16:03:57.041493+00:00",
-  "articleCount": 152,
+  "updatedAt": "2026-10-29T21:53:04.722721+00:00",
+  "articleCount": 155,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,17 +11,17 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 95
+      "count": 94
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 7
+      "count": 13
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 4
+      "count": 5
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -36,7 +36,7 @@
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 5
+      "count": 4
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -45,6 +45,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "b86b0f3bd50810db077c",
+      "title": "【つくば市】10/30 最高19℃、最低11℃、朝は雨の可能性がある予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53YXlRajZRbjU3M1RabHhUbV9CcUJYcHp2MVladzVtQTdReXB5cnZmeDJ2QW9VZ0xQcFJXQUVrSjZjZktkZ1N6OHZJakZLT29jSnRWR3V0RFp4NlB6bzV1aEdGc2gyYnlyQ3pCQjJheWhuMWFHU3RTYi02VVVCTTQ?oc=5",
+      "summary": "【つくば市】10/30 最高19℃、最低11℃、朝は雨の可能性がある予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-29T20:42:26+00:00",
+      "firstSeenAt": "2026-10-29T21:53:04.722721+00:00"
+    },
     {
       "id": "6002627898faebe98b50",
       "title": "殺人未遂事件で逮捕の男ら 男性宅から金庫盗んだ疑いで再逮捕 茨城・つくば市 - テレ朝NEWS",
@@ -364,6 +376,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-27T20:42:07+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "3f8e6b73755b21fc74e6",
+      "title": "つくば市上河原崎商業施設 2027年夏開業！約30店舗が出店へ！テナントは？最新情報も！ - 出店ウォッチ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xSHRsZ2VWUVpLRFk5SWJ1RElxV1VKekgwS09IeVJjenFsNDVod3puQUl3LXp0NzRNaUZZVXZWU3NOWkpJS2FKTXo3bFhDNUE?oc=5",
+      "summary": "つくば市上河原崎商業施設 2027年夏開業！約30店舗が出店へ！テナントは？最新情報も！ 出店ウォッチ",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "出店ウォッチ",
+      "sourceType": "news",
+      "publishedAt": "2026-10-27T14:16:56+00:00",
+      "firstSeenAt": "2026-10-29T21:53:04.722721+00:00"
     },
     {
       "id": "4459a285bc2b3568b327",
@@ -692,6 +716,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "6b00097a0969bf330021",
+      "title": "【つくば市】東南アジアの食材が集まるお店！トナリエキュート1階に「THAI DOUNG MART」がオープンしました。 - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VbTZlTUlUeDZkUm5adjVEcFd4dThJLTN6eVRYMXdTMkl1UWZaVEJaZXBXOGpLd1A4Q3dUUl9tZTdnbWk0clZxeEI3eEZTVG9SU25FbmczejNVQWVLUlc4b3NiZ2lOQQ?oc=5",
+      "summary": "【つくば市】東南アジアの食材が集まるお店！トナリエキュート1階に「THAI DOUNG MART」がオープンしました。 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-10-21T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "6383ecab5cd99c668bb5",
       "title": "茨城県、埼玉県、千葉県、東京都、神奈川県で最大震度2の地震 茨城県・つくば市、坂東市 (TBS NEWS DIG Powered by JNN) - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVdQb1BoWERCM3YyMWhNbGE2bFNNanVLV1dmbFA1WjRZODEtTkZZTmU0M3RVR0cyQk40bW1rU0E1Q2JfbTFTMEtoZnAxU3czbEhWd3c2MXdNLU1Cc2FKbloxTzR5M0pQS2VpanlpMVRacms3TW1LUGRYemg4bzYxN1NVWG9qWHQ2TzJGdFNR?oc=5",
@@ -740,16 +776,18 @@
       "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
     },
     {
-      "id": "6b00097a0969bf330021",
-      "title": "【つくば市】東南アジアの食材が集まるお店！トナリエキュート1階に「THAI DOUNG MART」がオープンしました。 - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VbTZlTUlUeDZkUm5adjVEcFd4dThJLTN6eVRYMXdTMkl1UWZaVEJaZXBXOGpLd1A4Q3dUUl9tZTdnbWk0clZxeEI3eEZTVG9SU25FbmczejNVQWVLUlc4b3NiZ2lOQQ?oc=5",
-      "summary": "【つくば市】東南アジアの食材が集まるお店！トナリエキュート1階に「THAI DOUNG MART」がオープンしました。 号外NET つくば市",
+      "id": "8c710db4b1b26afc2f65",
+      "title": "イオンそよらつくば学園の森、2026年10月25日開店－スーパー激戦区の研究学園エリア、コストコ向かいに - 都市商業研究所",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrblBIZVRYLUFkb1VBVUlhd2R4UXRITjhOaFd6aGlVamNPQVZyaFR3ZVhONVlPNXU5bmo0OXlWSWtGWVJmVnc?oc=5",
+      "summary": "イオンそよらつくば学園の森、2026年10月25日開店－スーパー激戦区の研究学園エリア、コストコ向かいに 都市商業研究所",
       "category": "店舗・グルメ",
-      "areas": [],
-      "source": "号外NET つくば市",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "都市商業研究所",
       "sourceType": "news",
-      "publishedAt": "2026-10-20T22:38:11+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+      "publishedAt": "2026-10-20T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T21:53:04.722721+00:00"
     },
     {
       "id": "0fb25950e0d339bf5312",
@@ -1124,18 +1162,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "cbaae5afff16815bbfd6",
-      "title": "茨城・つくばのデータセンター計画 市に説明求める請願、6日に審議 - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CUEQ4ZnJwSkpORzU3NTByNHliZERBQkpxYTRPNFV2VjBZeFhBYnVhVlVZbll6cTMyYnd2RzNIVUk0YlJkbml1bWdOclBTdFdyTXdJS0xiREVkUEp3OW1WZ3lDQmx1b28?oc=5",
-      "summary": "茨城・つくばのデータセンター計画 市に説明求める請願、6日に審議 朝日新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-10-06T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
-    },
-    {
       "id": "270cf09bb94729624dc4",
       "title": "復活Ｖ大の里「次の場所が大事」 茨城県つくば市で秋巡業始まる | 全国のニュース - 福井新聞社",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kV2FxSWR1Znp0QjRlLWdzajcyRmxGZHozSVZzRkRrN0FlQ1NGUDZHeXJ1YVB6ZWlLcDRVcmlnakFwT0pQc3Zma203cnJzdG83WTNRLTJxS29aekRGUFE?oc=5",
@@ -1146,6 +1172,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-06T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "cbaae5afff16815bbfd6",
+      "title": "茨城・つくばのデータセンター計画 市に説明求める請願、6日に審議 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CUEQ4ZnJwSkpORzU3NTByNHliZERBQkpxYTRPNFV2VjBZeFhBYnVhVlVZbll6cTMyYnd2RzNIVUk0YlJkbml1bWdOclBTdFdyTXdJS0xiREVkUEp3OW1WZ3lDQmx1b28?oc=5",
+      "summary": "茨城・つくばのデータセンター計画 市に説明求める請願、6日に審議 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-10-06T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
     },
     {
       "id": "24bcc4e03f4734d684b5",
@@ -1282,18 +1320,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "ec8dac830d11e8de6c07",
-      "title": "【独自】筑波大 寄宿料来春値上げ 単身者用、月8630円増 (茨城新聞クロスアイ) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMF82Qjg5UE5Od3R6Tmo5MmpkY0luTmtXRmhEU0cxRVB6N19GUWl6S3Qxa0VNaU85bnRwbGtkNDdFSjFKYm9peml6S3E1TnhTaGlQTEpveVh4bGJXNHlIUlBNV0tGeGZDV3JXN2tyZ1dneXEzWVJ6ZDYzY3JpdjFfWllkZG10QVhac0xLNGdB?oc=5",
-      "summary": "【独自】筑波大 寄宿料来春値上げ 単身者用、月8630円増 (茨城新聞クロスアイ) Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-30T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "3ff8f29e6c18f9542946",
       "title": "そよらつくば学園の森 2026年10月25日(日)開業！全11テナント一覧！最新情報も！ - 出店ウォッチ",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yT09DRXRUdWQ3VlVhU2hETkhpcGQtbVByRFBqY0xJdmN1aGl0UGd1MVBFYWNicTd2TFhWVjB6MWlselFrY3lZOFdMTWRtVWM?oc=5",
@@ -1303,6 +1329,18 @@
         "研究学園"
       ],
       "source": "出店ウォッチ",
+      "sourceType": "news",
+      "publishedAt": "2026-09-30T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "ec8dac830d11e8de6c07",
+      "title": "【独自】筑波大 寄宿料来春値上げ 単身者用、月8630円増 (茨城新聞クロスアイ) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMF82Qjg5UE5Od3R6Tmo5MmpkY0luTmtXRmhEU0cxRVB6N19GUWl6S3Qxa0VNaU85bnRwbGtkNDdFSjFKYm9peml6S3E1TnhTaGlQTEpveVh4bGJXNHlIUlBNV0tGeGZDV3JXN2tyZ1dneXEzWVJ6ZDYzY3JpdjFfWllkZG10QVhac0xLNGdB?oc=5",
+      "summary": "【独自】筑波大 寄宿料来春値上げ 単身者用、月8630円増 (茨城新聞クロスアイ) Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-09-30T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
@@ -1370,6 +1408,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "a31583021a154406938b",
+      "title": "【更新】つくばの殺人未遂 容疑で新たに21歳男逮捕 6人目 就寝中の雇用主襲撃か 茨城県警（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3X282MEIwRS1ya0FWLXhOQi1zd1I4ZmJxY1AxNXNBNk90QTFwVFpLVWptbERtSkg1TE1NcVpaRFhBXzJjdWsxSlBJN0ZNOHVBcXA0d01rWTVYTE9lVmZsT1pmQk5hUXRENUQ5TzZOdkRpTkMzRjIzSFFXRFRtWG8?oc=5",
+      "summary": "【更新】つくばの殺人未遂 容疑で新たに21歳男逮捕 6人目 就寝中の雇用主襲撃か 茨城県警（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-09-25T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "0ebcf29a9c809b96bfb3",
       "title": "管理職2人に計74万円賠償請求を つくば市監査委員 生活保護行政の不適正事務 - NEWSつくば",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GdG5Mam5DUUNTZV90NHJLTFZjcXNaYkNLY19qRE9hZ09RVnlYVllHV3NjYU1HemxYMGZBSXR6aURZLXV0VWhYdG83aw?oc=5",
@@ -1403,18 +1453,6 @@
       "category": "開発・建設",
       "areas": [],
       "source": "ダイヤモンド・チェーンストアオンライン",
-      "sourceType": "news",
-      "publishedAt": "2026-09-25T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "a31583021a154406938b",
-      "title": "【更新】つくばの殺人未遂 容疑で新たに21歳男逮捕 6人目 就寝中の雇用主襲撃か 茨城県警（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3X282MEIwRS1ya0FWLXhOQi1zd1I4ZmJxY1AxNXNBNk90QTFwVFpLVWptbERtSkg1TE1NcVpaRFhBXzJjdWsxSlBJN0ZNOHVBcXA0d01rWTVYTE9lVmZsT1pmQk5hUXRENUQ5TzZOdkRpTkMzRjIzSFFXRFRtWG8?oc=5",
-      "summary": "【更新】つくばの殺人未遂 容疑で新たに21歳男逮捕 6人目 就寝中の雇用主襲撃か 茨城県警（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-09-25T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
@@ -1580,18 +1618,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "2d5ed56a3a5757f539e5",
-      "title": "自転車の男性、はねられ重体 茨城・つくば（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjRy1YSXUtcFd2V0RQbDZ6cXZwQjhOcWtUMnhnV2ktSWxRQ1p1bldLSWVKM2VnOWtLd2tuLTM4MkxsNUR0RVBUVFEyMlVhLUdlT3piNEwwdVQ2UXpSMXpyTXFCSEZjYlpYbnlRNk9mS1VXdDdBZzlQTmJUV2szcU0?oc=5",
-      "summary": "自転車の男性、はねられ重体 茨城・つくば（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "b5c2cbaead8406c5a51d",
       "title": "古式にのっとり包丁さばき 筑波山神社で披露 茨城・つくば（茨城新聞クロスアイ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vcEc1SnhjT3kyRWxBQXhocEdfYW95VGZwTzVkRXhweFpZeUpRc18xU0c1cjdBSC1UbGpHUGRNU3ZaaTYwX0hyLXU4ZmJBU1VBSmFjRGdnZjV2UjE0Qk42dGctYjQtcVFnOHpyY2xPckdaLUNBYjF5U2hONG5kNEU?oc=5",
@@ -1600,6 +1626,18 @@
       "areas": [
         "筑波山"
       ],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-09-09T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "2d5ed56a3a5757f539e5",
+      "title": "自転車の男性、はねられ重体 茨城・つくば（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjRy1YSXUtcFd2V0RQbDZ6cXZwQjhOcWtUMnhnV2ktSWxRQ1p1bldLSWVKM2VnOWtLd2tuLTM4MkxsNUR0RVBUVFEyMlVhLUdlT3piNEwwdVQ2UXpSMXpyTXFCSEZjYlpYbnlRNk9mS1VXdDdBZzlQTmJUV2szcU0?oc=5",
+      "summary": "自転車の男性、はねられ重体 茨城・つくば（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
       "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-09-09T07:00:00+00:00",
