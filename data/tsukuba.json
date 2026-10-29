@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T06:23:03.622987+00:00",
-  "articleCount": 126,
+  "updatedAt": "2026-10-29T09:59:44.516379+00:00",
+  "articleCount": 144,
   "sources": [
     {
       "source": "つくば市公式",
@@ -16,12 +16,12 @@
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 6
+      "count": 12
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 4
+      "count": 5
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -31,12 +31,12 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 5
+      "count": 8
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 4
+      "count": 1
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -45,6 +45,78 @@
     }
   ],
   "articles": [
+    {
+      "id": "266c1f27af2d77241472",
+      "title": "（茨城）つくば市みどりで盗撮 １０月２８日 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOakV1Y1NJdzBrS2RXLUN0SXJIQ2xXSkI0ZVJYX3k1MTdPQ2NhNTFsa3luQS1XbDB6NXFlMWxhOG1qbk4wOHZsbE1FdVI5dWdlU2VyelBUMTdUSUwtSEdfazhTaEM0aWV6cWlJbTBmR3VzN3dBUndVaHVYdUl1TmdGUEhCUFJEZ3lCWVdCWlNWdVRRY1JmZjJGZ2tfWUo2Sy1TaEVkU1FwUkVpSzE2RlRV0gGiAUFVX3lxTFBJUWNXb3hvZDNXVlMtSUQ5bnhrNGh5X0RZZHZ1RjlxSzNKV2RIQ3hvN0JXcGpCUkFFMlRvbzVzUmtTQzVrS0hiMzFfYjdJSHBOekNDSE1OaHFGQnV0OUdEYXdPMUlKSml4N0o5dmdKd1dVdUNFUlFiaFJycEdJZjJ0eERVNHVjY0dtTldmM1VBWVdSZm5XalgzelZ2TUxyVjRaUQ?oc=5",
+      "summary": "（茨城）つくば市みどりで盗撮 １０月２８日 ｄメニューニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ｄメニューニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-29T09:27:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
+      "id": "811adf2d0ca28e0276a3",
+      "title": "つくば 住宅街で工事中にガス漏れ 消防車など出動で一時騒然 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIcHJWT0N0U2JjRGx0Vnk4VUU1c1NSOVg3bkszU1Eydkg1cDVMeVlqMUdjQzJrQUtFaDZ4VDNZOUFKZzBPOGJIYmNneTVTclNCZGJTZTE5amNwNjBnODVr?oc=5",
+      "summary": "つくば 住宅街で工事中にガス漏れ 消防車など出動で一時騒然 NHKニュース",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "NHKニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-29T08:48:21+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
+      "id": "671e8dae8bc0137caf08",
+      "title": "40年前のビル 揺らして実験 つくばで奥村組 免震機能「維持」 ／茨城 - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51V2dfVlRBbVBpWVVXOVB2VzBsRGpiUFhjLV9MR3gyWGVENHhUZ01qNWQ3am5tMm9PUjZhUHptWl8yYkpfNXplbWIwV0Q4M2hPYXJUVXYzSU9nX1RFdHpCMngxamFyMWdq?oc=5",
+      "summary": "40年前のビル 揺らして実験 つくばで奥村組 免震機能「維持」 ／茨城 毎日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "毎日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-10-29T08:09:01+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
+      "id": "dfcfc19acf913d2aa7bf",
+      "title": "2027年1月16日(土)つくば「０歳からの・はじめてのオーケストラ」〜ニューイヤースペシャルコンサート〜開催！ - 水戸経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rNDkxcElvd1ZadDVYUGVLZ2R1OC1lbDE4MGM4LVgwbV82QnZxWWxkeWdZVDhCM1F1SERDZUhibmpEN0dBVU1sd3FwRGJtZFdl?oc=5",
+      "summary": "2027年1月16日(土)つくば「０歳からの・はじめてのオーケストラ」〜ニューイヤースペシャルコンサート〜開催！ 水戸経済新聞",
+      "category": "イベント",
+      "areas": [],
+      "source": "水戸経済新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-10-29T06:37:08+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
+      "id": "f94322a4d2100384a4c3",
+      "title": "2027年1月16日(土)つくば「０歳からの・はじめてのオーケストラ」～ニューイヤースペシャルコンサート～開催！ - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91QXZrVWFVdjhKWE9KQkJsTUlhTmhqa1lBclNsUFlONjhKdFR5S3JMdVByTUl6RGx0c3ZPQkdyQ0ItT3VSMVhaSDZBd3JQdGpiX0dHWmFFZ2tyM3plYUNVb1BvQld5QjQtT3ptSVhaLWVqWEdPaHc?oc=5",
+      "summary": "2027年1月16日(土)つくば「０歳からの・はじめてのオーケストラ」～ニューイヤースペシャルコンサート～開催！ Excite エキサイト",
+      "category": "イベント",
+      "areas": [],
+      "source": "Excite エキサイト",
+      "sourceType": "news",
+      "publishedAt": "2026-10-29T06:15:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
+      "id": "ca06686ecbad60ed8cb2",
+      "title": "2027年1月16日(土)つくば「０歳からの・はじめてのオーケストラ」〜ニューイヤースペシャルコンサート〜開催！ - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WeEhuTjVvX3NIS2dERlU1LTkwZjVIa0djZnRqbVZGQ1B5UEhBaWRKSmR3eHhhR085YkR5TU5WbTlxQUpzMTR4VVZvV1NSdktjSW5BV3RXLWE5dkRLd1Awd2oyNlFqLUZ5cm9saXQtbUpLdFpwb1h6ZUx0Zw?oc=5",
+      "summary": "2027年1月16日(土)つくば「０歳からの・はじめてのオーケストラ」〜ニューイヤースペシャルコンサート〜開催！ ニコニコニュース",
+      "category": "イベント",
+      "areas": [],
+      "source": "ニコニコニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-29T03:06:28+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
     {
       "id": "523f285e5682f0a95fb7",
       "title": "2027年1月16日(土)つくば「０歳からの・はじめてのオーケストラ」〜ニューイヤースペシャルコンサート〜開催！ - ニコニコニュース",
@@ -142,6 +214,20 @@
       "sourceType": "news",
       "publishedAt": "2026-10-28T18:00:31+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "0acd1d4c3dc69385a260",
+      "title": "【筑波山】11月1日「御座替祭」でにぎわう秋の山麓へ。昔の面影が今に生きる、つくば道を歩く！ - 山と溪谷オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52bkRrNjk3d3QyNWdPX2tlTDg2UEN3MTU1OURZTGxwd29qbHVMVkJ2Sk8xemxodWs4N1pBSXNYN2cyeXI3UjFYTUdtNF9ldXg2dzUzYkJQd21tSWMwWnZURHgxN0Z1Y0tm?oc=5",
+      "summary": "【筑波山】11月1日「御座替祭」でにぎわう秋の山麓へ。昔の面影が今に生きる、つくば道を歩く！ 山と溪谷オンライン",
+      "category": "地域ニュース",
+      "areas": [
+        "筑波山"
+      ],
+      "source": "山と溪谷オンライン",
+      "sourceType": "news",
+      "publishedAt": "2026-10-28T15:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
     },
     {
       "id": "df2c5c9f6c153817b8bf",
@@ -634,7 +720,7 @@
       "areas": [],
       "source": "Yahoo!ニュース",
       "sourceType": "news",
-      "publishedAt": "2026-10-19T02:27:00+00:00",
+      "publishedAt": "2026-10-19T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
@@ -804,6 +890,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-09T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "7587893b66194aabc954",
+      "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ0c4YmpLdXlabVdVeUE1Z084eGZneFhKcXhXSGppVGpTTjQ4M1BJc0dHR3RKeFpYOW9jb3haRkZJU0Z0dkVxUVNBYXZoZkxUQmJkT1RZWlkzeWxxeXlvMU5pQlhyY3ExUGpWVllFM3VKMkxXcDBkZl9xWWxFTHEwcjN3b2YxOW9Genpz0gGHAUFVX3lxTFBfVHloVmFWM2Q3bHUyVGRDQ3dmYUozN3lNR3RyMnE4dXR4SDI5eDFqMElpSXQ2d0NhOXljVjYxVmNKb214Y1pIWUNvakRrRkc2cnJKOEg4bnlhWDlXa1FuRHhXNjZ4YUs2LWotaVVhNUZBUHdYdldIcUlvZUQzRFhqc0c1OVhjNA?oc=5",
+      "summary": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 ｄメニューニュース",
+      "category": "交通・生活",
+      "areas": [],
+      "source": "ｄメニューニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-09T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
     },
     {
       "id": "f88a46c4da2262a12204",
@@ -986,6 +1084,32 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "22189fa9a5102947b349",
+      "title": "【つくば市】10月6日デイズタウンに新しい居酒屋がオープンするみたい♪「土佐炉端と藁焼き なぶら」が気になる！ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05VEgzNkZQOTJiRGtzaUJKMlllRm5Oa3BBRHV2QUg1cUdDenBMbkdoTnJwR05ORDY2bWhDTUk1RGRUejFvNFJLMlk5N3NQR3lUcmdZYUlXeFhBQVNzTlp6SA?oc=5",
+      "summary": "【つくば市】10月6日デイズタウンに新しい居酒屋がオープンするみたい♪「土佐炉端と藁焼き なぶら」が気になる！ 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-10-05T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
+      "id": "3c840bc5669432aafec4",
+      "title": "【つくば市】そよらつくば学園の森に入るお店がどんどん明らかに！ダイソー＆JINSも入るそうですよ♪ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Zd1JPWEVRT2h5ZTRxZlBVSDhGZlR6cGVtN0wtLVRaS1hhbnV6TzFIcWFaVm5FRzFmUFZES1ZIcHpycHNWX2xuanlya3NaU0hyR3pNYTRWZmoxX2dLdVVUVXE0YXFGdFRB?oc=5",
+      "summary": "【つくば市】そよらつくば学園の森に入るお店がどんどん明らかに！ダイソー＆JINSも入るそうですよ♪ 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-10-03T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
       "id": "f92cc6af8077e77bf191",
       "title": "自動運転バス つくばで本格運行 27年度はレベル4計画 茨城（茨城新聞クロスアイ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uX2Y0RW1FS0Z4M2tYV3B6ZHVaTXhSSXd0cTRIWDlSdHo4U0x0SUlKTXYtcG10bUVYa1FhWUhkMjFhTkhpLVZCR2JOV1NmTFRVc1pGamVTNmNWYVYxUHBtLU0wdEpnT2VuaUpVOUNXRjNlUVlBSlZRWGllX1dEYWs?oc=5",
@@ -1070,18 +1194,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "ec8dac830d11e8de6c07",
-      "title": "【独自】筑波大 寄宿料来春値上げ 単身者用、月8630円増 (茨城新聞クロスアイ) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMF82Qjg5UE5Od3R6Tmo5MmpkY0luTmtXRmhEU0cxRVB6N19GUWl6S3Qxa0VNaU85bnRwbGtkNDdFSjFKYm9peml6S3E1TnhTaGlQTEpveVh4bGJXNHlIUlBNV0tGeGZDV3JXN2tyZ1dneXEzWVJ6ZDYzY3JpdjFfWllkZG10QVhac0xLNGdB?oc=5",
-      "summary": "【独自】筑波大 寄宿料来春値上げ 単身者用、月8630円増 (茨城新聞クロスアイ) Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-30T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "3ff8f29e6c18f9542946",
       "title": "そよらつくば学園の森 2026年10月25日(日)開業！全11テナント一覧！最新情報も！ - 出店ウォッチ",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yT09DRXRUdWQ3VlVhU2hETkhpcGQtbVByRFBqY0xJdmN1aGl0UGd1MVBFYWNicTd2TFhWVjB6MWlselFrY3lZOFdMTWRtVWM?oc=5",
@@ -1091,6 +1203,18 @@
         "研究学園"
       ],
       "source": "出店ウォッチ",
+      "sourceType": "news",
+      "publishedAt": "2026-09-30T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "ec8dac830d11e8de6c07",
+      "title": "【独自】筑波大 寄宿料来春値上げ 単身者用、月8630円増 (茨城新聞クロスアイ) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMF82Qjg5UE5Od3R6Tmo5MmpkY0luTmtXRmhEU0cxRVB6N19GUWl6S3Qxa0VNaU85bnRwbGtkNDdFSjFKYm9peml6S3E1TnhTaGlQTEpveVh4bGJXNHlIUlBNV0tGeGZDV3JXN2tyZ1dneXEzWVJ6ZDYzY3JpdjFfWllkZG10QVhac0xLNGdB?oc=5",
+      "summary": "【独自】筑波大 寄宿料来春値上げ 単身者用、月8630円増 (茨城新聞クロスアイ) Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-09-30T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
@@ -1130,6 +1254,20 @@
       "sourceType": "news",
       "publishedAt": "2026-09-27T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "a29273d9fcf1d0e7e709",
+      "title": "【つくば市】これは気になる！竹園にある「鮨たけもと」直営のお店が下広岡にオープンしたみたいです！ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGNllmaHRPTVU5RzFnMG8weDJEN084bTFxSVNoOHlkSHNYNVUtUm5faklpX2M5MGdUaXBCcUh4YWtZUHhPV1BnQnJyNzZibUYxVl9qSEZFUWdDRi1ZSXN2MlBRMXdnbW92ZV9zYlFoVEo?oc=5",
+      "summary": "【つくば市】これは気になる！竹園にある「鮨たけもと」直営のお店が下広岡にオープンしたみたいです！ 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [
+        "つくば駅周辺"
+      ],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-09-26T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
     },
     {
       "id": "739440ea693fd72ed864",
@@ -1302,6 +1440,34 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "380d96ee9875bd69b786",
+      "title": "常磐道に「新しいインター」開業！ 11kmの「IC空白地帯」解消で発展中の「新興住宅地」にもほど近く！ 谷和原と谷田部の間に「つくばみらいSIC」 8月29日に開通 茨城 - くるまのニュース",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mZkFHdlcwOVRCVWZlbjdSSkNvellLX0tHWHVINi1Ha01xeWc5RTFmZzV6elY0Y3diOWVGSlRheHRCSXFOQkhqMVJXNA?oc=5",
+      "summary": "常磐道に「新しいインター」開業！ 11kmの「IC空白地帯」解消で発展中の「新興住宅地」にもほど近く！ 谷和原と谷田部の間に「つくばみらいSIC」 8月29日に開通 茨城 くるまのニュース",
+      "category": "交通・生活",
+      "areas": [
+        "みどりの"
+      ],
+      "source": "くるまのニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-09-14T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
+      "id": "10773c904f315506f7a1",
+      "title": "常磐道に「新しいインター」開業！ 11kmの「IC空白地帯」解消で発展中の「新興住宅地」にもほど近く！ 谷和原と谷田部の間に「つくばみらいSIC」 8月29日に開通 茨城 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JU1Jwa3Z6blh0SmNUZ2Y3UUM3RVZNaTZFb0otOWNaSzFOanJMYVFSWkpKV0g1bDNpMkgxb3RWY2E4dmZ5TE1QQndkcDlJR2ZpM3gtb1NVV0xpdU9Na3JmaXdhWm5Zd9IBa0FVX3lxTE1PdXBTTUNnWXBJbGMxZFFzMkxpTjZ6aVhRRExSNVI0NnIyekF5MzdNTGd1TkE1ZFI5ZXdJbElOUi1Nb25WUWsyUVVKTHR6T0xIemllTS1EeFVORmdJczdoNThndWlwQkVBMUdV?oc=5",
+      "summary": "常磐道に「新しいインター」開業！ 11kmの「IC空白地帯」解消で発展中の「新興住宅地」にもほど近く！ 谷和原と谷田部の間に「つくばみらいSIC」 8月29日に開通 茨城 Infoseek",
+      "category": "交通・生活",
+      "areas": [
+        "みどりの"
+      ],
+      "source": "Infoseek",
+      "sourceType": "news",
+      "publishedAt": "2026-09-14T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
       "id": "e9b530f4bc8435aff5ee",
       "title": "【11月23日（月曜日）】筑波交流センター・市民ホールつくばね臨時休館のお知らせ",
       "url": "https://www.city.tsukuba.lg.jp/soshikikarasagasu/shimimbuchiikisiennka/gyomuannai/kyukan/26099.html",
@@ -1390,6 +1556,20 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "a29855c58e7a449c9806",
+      "title": "【つくば市】バーキン派の皆様に朗報です♪バーガーキングがそよらつくば学園の森店にオープンするみたい！ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GYUNxcDdIUzRpQ0pydmRrWGtQalIxcEZTNGNHR2dnc1VGckZQbTI0NTYxQzRuQ0t0aXJuM0J6bm9tOURfNGV5MmoyNnpSY0hCdjNaWDhuMjJmaVViLWwtSUNBOFA0MzZWRjlncGF2ZTQ?oc=5",
+      "summary": "【つくば市】バーキン派の皆様に朗報です♪バーガーキングがそよらつくば学園の森店にオープンするみたい！ 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-09-02T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
       "id": "5c108317003df8787165",
       "title": "「要塞のような本屋さん」茨城県つくば市で見つけた大きすぎる書店が「夢の城だ」「半日はいられそう」 (LIMO) - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUlXdnFxSFgxdzVhVHhGNUpodUg0YWZsbUlsQ0tpZUVOUm9veF80SmRMTXB5QTE1eVJPQ1dsZVBjWEZrNEMwRDVNSWFKSzJHSWJONGpnSlpidC1WcllsZ0tPdTF4UEtrRU5CTGxkOVJmZDdmTldGX2dWdW1wR0t0dl9VSDRvVGpOakNnMjJB?oc=5",
@@ -1462,6 +1642,20 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "4c019dbb3f2d3a5bb580",
+      "title": "【つくば市】残念すぎる…「鮪と米 研究学園店」が8月31日で閉店されるそうです - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CbVVDaXp2cm96d0JWSlFidU5OZng3ZWY3bVdtNGRfVXJTNEdNOGY4dDB0d0JLYWdIZUhyQzRHbUpKOS02ckJjTEhFa3VxMnlZRERsNHNUb09fdGRUMURXQ2FvR1h5eER4MElDaTV3?oc=5",
+      "summary": "【つくば市】残念すぎる…「鮪と米 研究学園店」が8月31日で閉店されるそうです 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-08-22T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
       "id": "7d0c0c48239b9995d116",
       "title": "【茨城】2026年8月22日・23日週末開催の無料イベント6選 まつりつくば＆下妻まつりも - いこーよニュース",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wMjhTNzRfWXViWHRyWG5odHBMaWliNmhFMU1vV2pPSXJTV2tSaXBvaS1idUkwME1aZG1DNzY1dTZPRXdpOXlKQk5wSGxzclBLcmc?oc=5",
@@ -1486,6 +1680,20 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "aec6d59951a1f80852dd",
+      "title": "【つくば市】研究学園駅前の新たなランドマーク！2026年秋にオープンする「つくば寿横丁」が気になる - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mS2hCcmg0d0pkdk9RSlgxQkE2N1kzcENWYkNFR1dwRnl0bER0Y0g1b1p4WFhDdWQ4b0hvQjlQZ0xrbjI3SU1rcEJPcDh4QnJtU0hDNDJzSWNibFlPa2FUNkZtS01XTWFzVG1rWlAzclJ1Zw?oc=5",
+      "summary": "【つくば市】研究学園駅前の新たなランドマーク！2026年秋にオープンする「つくば寿横丁」が気になる 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-08-18T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
       "id": "1937681c5d3db72e19e5",
       "title": "つくばで約1650軒停電 茨城【まとめ】 - 47NEWS",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wN2VQQVNHVUM5V1VHaDl3dGcxWmxzdDZNdXZ1M0lJUkVtSjBNbElXQVVPX2o3UTExZC1pQmRIOU9TNDBlbWk4cTBlZw?oc=5",
@@ -1496,6 +1704,32 @@
       "sourceType": "news",
       "publishedAt": "2026-08-13T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "ec67c585c240dd45b996",
+      "title": "イオンそよらつくば学園の森、2026年10月開業－茨城初のイオン系近隣商圏型新業態、コストコそばに - 都市商業研究所",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0tTER0c3FWaU1hQ3NlZnhTM3ZTVzljdVhBUEJ2VTVhd3RiNTVpUTAwV0h2TGlBcVl2ZUNIbWJhQ3o1SWg1dGc?oc=5",
+      "summary": "イオンそよらつくば学園の森、2026年10月開業－茨城初のイオン系近隣商圏型新業態、コストコそばに 都市商業研究所",
+      "category": "開発・建設",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "都市商業研究所",
+      "sourceType": "news",
+      "publishedAt": "2026-08-12T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
+      "id": "39cb0761c69bbe65afe0",
+      "title": "八潮からTXで行く「まつりつくば2026」ねぶた・神輿の大パレード、臨時列車も運転 - やしおん",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBKYXEzWEZUVjBGcksxY1ZxWXJsRDBlZlFJSUdnU0NwUHRwaUZzZXBRZ04xNm43LWY5NElTVHEtaVg5TG43?oc=5",
+      "summary": "八潮からTXで行く「まつりつくば2026」ねぶた・神輿の大パレード、臨時列車も運転 やしおん",
+      "category": "交通・生活",
+      "areas": [],
+      "source": "やしおん",
+      "sourceType": "news",
+      "publishedAt": "2026-08-12T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
     },
     {
       "id": "6fc4608e5717a0a28be6",
