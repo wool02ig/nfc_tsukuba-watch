@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T03:58:11.828841+00:00",
-  "articleCount": 163,
+  "updatedAt": "2026-10-30T10:00:04.850766+00:00",
+  "articleCount": 172,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,17 +11,17 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 94
+      "count": 95
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 7
+      "count": 13
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 5
+      "count": 4
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -31,7 +31,7 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 7
+      "count": 5
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
@@ -46,6 +46,84 @@
   ],
   "articles": [
     {
+      "id": "6b8448ddf5fc07ece043",
+      "title": "筑波山の風景画家 御手洗さんしのび 回顧展と金色姫舞踏劇（NEWSつくば） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vS1FGNmhacEJXZUlVRzU1WmFDNWpsYVgtUTBQc3hPdTdLdk9SLW5BUFlSdWt1NnlUdzh1cmxVeGxNcGJpNGtzZ2pfb3NnU1RKb0xpZTNjRjg5amJUY3lxMXJVaG5JazNkdTFET3V1MzBlSDF0QmVKTzh1OXJfY1k?oc=5",
+      "summary": "筑波山の風景画家 御手洗さんしのび 回顧展と金色姫舞踏劇（NEWSつくば） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [
+        "筑波山"
+      ],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-30T09:21:04+00:00",
+      "firstSeenAt": "2026-10-30T10:00:04.850766+00:00"
+    },
+    {
+      "id": "f6483b3e12e1d158154d",
+      "title": "1985年にタイムスリップ？ つくば科学万博当時のバス「復活」へ（毎日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3UGw5bl95WTNxT1NwUk9NNndjazE4VmRhd0tmRUJMSFRRMTFWeUtkbjVrbHd0UFI5QmZRUko3ZUF2YjVRRzR5OTFRWnpXUWtxUzVHOS0yenRzLXBGdlpmVHR5RE43cnVzT3BYVmJwS3RBMk5PMWd4eXczaUZWODg?oc=5",
+      "summary": "1985年にタイムスリップ？ つくば科学万博当時のバス「復活」へ（毎日新聞） Yahoo!ニュース",
+      "category": "交通・生活",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-30T09:15:43+00:00",
+      "firstSeenAt": "2026-10-30T10:00:04.850766+00:00"
+    },
+    {
+      "id": "fc408ab8c8c561025f48",
+      "title": "仕事中の20分で健康づくり！筑波大学とつくばウエルネスリサーチが「Wellpathyコンディショニング」を公開 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qWE9sZ21zVTBkbHBMVW84RTJqYm1ZWGh0ekkxcHFzWnppVnhZU1VJdXI1NW5GMENvUlVyU1hBUUtndlp0QnJYVTBoZmV5QVJNSjY4WEIzelMxMGhORVptYW91ODQ?oc=5",
+      "summary": "仕事中の20分で健康づくり！筑波大学とつくばウエルネスリサーチが「Wellpathyコンディショニング」を公開 Infoseek",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Infoseek",
+      "sourceType": "news",
+      "publishedAt": "2026-10-30T08:30:51+00:00",
+      "firstSeenAt": "2026-10-30T10:00:04.850766+00:00"
+    },
+    {
+      "id": "5493fa205cb4c58872e5",
+      "title": "筑波大学、大学院教育でKEKと連携拡充 加速器科学の人材を育成 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56Qk1BTzFZR1JFUzFYcXJOaU5XSEdraXo5bjd3clZ1UHk4NXB1RzZxRUVHS3FqelZDWS16b2JDYlZ6RnJlUGhJSDA3R1pGY0hsSm1oSU1JOWlqMzgyVU1HaGpTelkxRGtBLXZaRw?oc=5",
+      "summary": "筑波大学、大学院教育でKEKと連携拡充 加速器科学の人材を育成 日本経済新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "日本経済新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-10-30T08:00:00+00:00",
+      "firstSeenAt": "2026-10-30T10:00:04.850766+00:00"
+    },
+    {
+      "id": "4693220481338f174a9f",
+      "title": "筑波山を駆けた２１年間に感謝を込めて ５代目筑波山ケーブルカー ラストランキャンペーンを実施いたします！ - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wOTktdi1ZS0hoOEZmY195bXZTSkxGa1BkaUM2NXYtWHh4ODBMMnA0aXNNQ2RyR2ZENUE4WVNhSWJsM1l1cU44QWpkWFhia2toRlVmcExOZXkwTlZObTJSbVBrOUdLOU1yejI4?oc=5",
+      "summary": "筑波山を駆けた２１年間に感謝を込めて ５代目筑波山ケーブルカー ラストランキャンペーンを実施いたします！ 時事ドットコム",
+      "category": "地域ニュース",
+      "areas": [
+        "筑波山"
+      ],
+      "source": "時事ドットコム",
+      "sourceType": "news",
+      "publishedAt": "2026-10-30T05:46:00+00:00",
+      "firstSeenAt": "2026-10-30T10:00:04.850766+00:00"
+    },
+    {
+      "id": "f2960e04b722547cbc6c",
+      "title": "筑波山を駆けた２１年間に感謝を込めて ５代目筑波山ケーブルカー ラストランキャンペーンを実施いたします！ - Mantan Web",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iZUkxTk5hNi1DdVdEYmk2bHh4NHJnWUlvOVNhVElvcFFSNktpZnZDZmRJU05IcUxTSEEwOThpYVJKd2lKRmc1Q1hfejhLWU9NWjlfOHR1Mko2Y0FhOVRlbzlDaXd0Tkd3dHB6V2ZBZXIzazIyM3c?oc=5",
+      "summary": "筑波山を駆けた２１年間に感謝を込めて ５代目筑波山ケーブルカー ラストランキャンペーンを実施いたします！ Mantan Web",
+      "category": "地域ニュース",
+      "areas": [
+        "筑波山"
+      ],
+      "source": "Mantan Web",
+      "sourceType": "news",
+      "publishedAt": "2026-10-30T05:00:00+00:00",
+      "firstSeenAt": "2026-10-30T10:00:04.850766+00:00"
+    },
+    {
       "id": "71228be44cb136df8ff2",
       "title": "お客様の「ありがとう」を、スタッフが働き続ける力に。イーアスつくばで従業員の働きがい・雇用定着率向上を目指した新しいESプロジェクトを実施中 - 時事ドットコム",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UekNQUTNWVkRPUU9ZTnJBcnJvS0FnR3lzZnhPV0dXOUVfZEZjLWhDaWlOMUdZUHRBRkhoRE44bGZxSFVaQjR6Q3FJVFdMN2I5bDZWVzdjNmRnQ2podzh0c3NjMU9VcE9kc1VV?oc=5",
@@ -54,7 +132,7 @@
       "areas": [],
       "source": "時事ドットコム",
       "sourceType": "news",
-      "publishedAt": "2026-10-30T02:15:00+00:00",
+      "publishedAt": "2026-10-30T02:16:00+00:00",
       "firstSeenAt": "2026-10-30T03:58:11.828841+00:00"
     },
     {
@@ -68,6 +146,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-30T00:44:39+00:00",
       "firstSeenAt": "2026-10-30T03:58:11.828841+00:00"
+    },
+    {
+      "id": "9570e686216d808470e3",
+      "title": "カタログギフトで地域おこし 筑波高校 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CNlV0bUZQSE41eFRCX2h1NWdfdWc1blVzV21LdmVDaUE2TE9BS3V2MVkyTVhCN0p4MmtqNjZIMGhBY1VHdDJZQ1FKUQ?oc=5",
+      "summary": "カタログギフトで地域おこし 筑波高校 NEWSつくば",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-10-30T00:22:38+00:00",
+      "firstSeenAt": "2026-10-30T10:00:04.850766+00:00"
     },
     {
       "id": "f3ce254e3e8a6c5fdeb1",
@@ -262,6 +352,18 @@
       "sourceType": "official",
       "publishedAt": "2026-10-29T03:01:06+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "fa0469dd0e31eec86291",
+      "title": "2027年1月16日(土)つくば「０歳からの・はじめてのオーケストラ」〜ニューイヤースペシャルコンサート〜開催！ - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xUGlVQk80a2MzUWdtOUtFSHFzNUVXVXVTWDRNY3dzOWRxVmRFOHdKc1p6V1VGSG9Fc3V3LUgzamFOUHk4LVAyYWpSZlZ6YnhxU1FZc2lqVEItRkVwcFYzcQ?oc=5",
+      "summary": "2027年1月16日(土)つくば「０歳からの・はじめてのオーケストラ」〜ニューイヤースペシャルコンサート〜開催！ Infoseek",
+      "category": "イベント",
+      "areas": [],
+      "source": "Infoseek",
+      "sourceType": "news",
+      "publishedAt": "2026-10-29T03:00:00+00:00",
+      "firstSeenAt": "2026-10-30T10:00:04.850766+00:00"
     },
     {
       "id": "4e1a98227fc9ea1a2b15",
@@ -872,18 +974,6 @@
       "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
     },
     {
-      "id": "0fb25950e0d339bf5312",
-      "title": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRXpOVjBMb1puUVJjZnlWLURhek5lY0JFWmNNRTl6OTVxaXdZMHNwR2t0Mm1CTFd0UC1tWldQNXlzT0ZVZG1uV25NbWNQYlRMUHVlaGFpUHZNcXlROVg5WA?oc=5",
-      "summary": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-10-20T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "8c710db4b1b26afc2f65",
       "title": "イオンそよらつくば学園の森、2026年10月25日開店－スーパー激戦区の研究学園エリア、コストコ向かいに - 都市商業研究所",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrblBIZVRYLUFkb1VBVUlhd2R4UXRITjhOaFd6aGlVamNPQVZyaFR3ZVhONVlPNXU5bmo0OXlWSWtGWVJmVnc?oc=5",
@@ -896,6 +986,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-20T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T21:53:04.722721+00:00"
+    },
+    {
+      "id": "0fb25950e0d339bf5312",
+      "title": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRXpOVjBMb1puUVJjZnlWLURhek5lY0JFWmNNRTl6OTVxaXdZMHNwR2t0Mm1CTFd0UC1tWldQNXlzT0ZVZG1uV25NbWNQYlRMUHVlaGFpUHZNcXlROVg5WA?oc=5",
+      "summary": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-10-20T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "887cdd2db101a83f4cfc",
@@ -970,10 +1072,10 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "c1585ee52e504002f055",
-      "title": "児童ら1268人の給食ご飯が半分に…備蓄食でしのぐ 茨城・つくば市、精米量の計算ミス（産経新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBycnl5X1RhTE45RnVPd0Z1UXgwckJtTUFhaVFITXdGbGZrcVpUM0FlM2c1OW1KcjdidkVCMFRLcFZVNUY4MkE3M2Vyb0N3MU5iMVpYOF9GeU5mZ21fcFZsY3UxeFdyd1pGTXlJS1hMRWllMElSWC0zODB3TnY2VVk?oc=5",
-      "summary": "児童ら1268人の給食ご飯が半分に…備蓄食でしのぐ 茨城・つくば市、精米量の計算ミス（産経新聞） Yahoo!ニュース",
+      "id": "b7778a237a9d1da6c08c",
+      "title": "児童ら1268人の給食ご飯が半分に…備蓄食でしのぐ 茨城・つくば市、精米量の計算ミス (産経新聞) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaE55Z0xwM1dfbmZPX281YzdSSFZraktFUWRIWG1FSXlUWkhuZnNxeTlBb0hqVmQ1VzViZDJTX1FkbXpRRlBtOW1SZTN3QU93ODBPX2J4LXVyQXpOY2VHT2hINHJXN19FelhaYVpqdUFHWHlnYXUtVHVxcHpPMEw5bENXR1Z0aDlrRGRaV2N3?oc=5",
+      "summary": "児童ら1268人の給食ご飯が半分に…備蓄食でしのぐ 茨城・つくば市、精米量の計算ミス (産経新聞) Yahoo!ニュース",
       "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
@@ -982,10 +1084,22 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "b7778a237a9d1da6c08c",
-      "title": "児童ら1268人の給食ご飯が半分に…備蓄食でしのぐ 茨城・つくば市、精米量の計算ミス (産経新聞) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaE55Z0xwM1dfbmZPX281YzdSSFZraktFUWRIWG1FSXlUWkhuZnNxeTlBb0hqVmQ1VzViZDJTX1FkbXpRRlBtOW1SZTN3QU93ODBPX2J4LXVyQXpOY2VHT2hINHJXN19FelhaYVpqdUFHWHlnYXUtVHVxcHpPMEw5bENXR1Z0aDlrRGRaV2N3?oc=5",
-      "summary": "児童ら1268人の給食ご飯が半分に…備蓄食でしのぐ 茨城・つくば市、精米量の計算ミス (産経新聞) Yahoo!ニュース",
+      "id": "ef4a7941a24df769bfde",
+      "title": "児童ら1268人の給食ご飯が半分に…備蓄食でしのぐ 茨城・つくば市、精米量の計算ミス - 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56TnlFSkdBT29ZZm1INmgyYzFEVGZVQ1liejNYODlmUndLN3ZJaEctVGdsNmlDNFR0Y3ZmUHhlaWtPVGVQVWEyQkdXM01DVEU4QXZMdkNiMURyLTYtYTZBR2tIdkU1Si1zbURfMWRMRHl0a2JrNnc?oc=5",
+      "summary": "児童ら1268人の給食ご飯が半分に…備蓄食でしのぐ 茨城・つくば市、精米量の計算ミス 産経ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "産経ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-15T07:00:00+00:00",
+      "firstSeenAt": "2026-10-30T10:00:04.850766+00:00"
+    },
+    {
+      "id": "c1585ee52e504002f055",
+      "title": "児童ら1268人の給食ご飯が半分に…備蓄食でしのぐ 茨城・つくば市、精米量の計算ミス（産経新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBycnl5X1RhTE45RnVPd0Z1UXgwckJtTUFhaVFITXdGbGZrcVpUM0FlM2c1OW1KcjdidkVCMFRLcFZVNUY4MkE3M2Vyb0N3MU5iMVpYOF9GeU5mZ21fcFZsY3UxeFdyd1pGTXlJS1hMRWllMElSWC0zODB3TnY2VVk?oc=5",
+      "summary": "児童ら1268人の給食ご飯が半分に…備蓄食でしのぐ 茨城・つくば市、精米量の計算ミス（産経新聞） Yahoo!ニュース",
       "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
@@ -1294,18 +1408,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "ec57887d0aaa6684bfd4",
-      "title": "《連載:医療の未来 筑波大病院50年》(1) 「開拓者」気概の1期生 (茨城新聞クロスアイ) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHZWNnk0UXJsYlN0UnVLUThJYkdyLTh4dFlSbUxsZVROLVEzZ081c3lYVXEzUEN0TEFnWWEtdmtXWWtFZEVRM0xjcGlVVlZfcl9wUk53VGd2eEJRM3pBcjlJSGFKU1I4VEtUbnVyQ0xFam1lREw2TG1GcEQ3bGhpbVAwbkZPaG9XaFRHcUZn?oc=5",
-      "summary": "《連載:医療の未来 筑波大病院50年》(1) 「開拓者」気概の1期生 (茨城新聞クロスアイ) Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-05T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "22189fa9a5102947b349",
       "title": "【つくば市】10月6日デイズタウンに新しい居酒屋がオープンするみたい♪「土佐炉端と藁焼き なぶら」が気になる！ - 号外NET つくば市",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05VEgzNkZQOTJiRGtzaUJKMlllRm5Oa3BBRHV2QUg1cUdDenBMbkdoTnJwR05ORDY2bWhDTUk1RGRUejFvNFJLMlk5N3NQR3lUcmdZYUlXeFhBQVNzTlp6SA?oc=5",
@@ -1316,6 +1418,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-05T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
+      "id": "ec57887d0aaa6684bfd4",
+      "title": "《連載:医療の未来 筑波大病院50年》(1) 「開拓者」気概の1期生 (茨城新聞クロスアイ) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHZWNnk0UXJsYlN0UnVLUThJYkdyLTh4dFlSbUxsZVROLVEzZ081c3lYVXEzUEN0TEFnWWEtdmtXWWtFZEVRM0xjcGlVVlZfcl9wUk53VGd2eEJRM3pBcjlJSGFKU1I4VEtUbnVyQ0xFam1lREw2TG1GcEQ3bGhpbVAwbkZPaG9XaFRHcUZn?oc=5",
+      "summary": "《連載:医療の未来 筑波大病院50年》(1) 「開拓者」気概の1期生 (茨城新聞クロスアイ) Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-05T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "3c840bc5669432aafec4",
@@ -1404,18 +1518,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "717a86db2bda9f36a3f9",
-      "title": "つくばアカデミー 破産手続き開始決定 負債1億2000万円 茨城（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETDVVeEt6NGYzaWoxbjVNUDF5Y1VkdmUzRlZOenhqZzl0ejVFUXpkTGhPeU9xb2U4WF9qYW82NTJvUWtYWlBERVhMV1pwU21ZWXYwSm5RdkdDdzhxbTRtbXlPQUg1blNkLXVJY090d2F3SHdQWXdDUXVVQTJwZ1k?oc=5",
-      "summary": "つくばアカデミー 破産手続き開始決定 負債1億2000万円 茨城（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-30T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "3ff8f29e6c18f9542946",
       "title": "そよらつくば学園の森 2026年10月25日(日)開業！全11テナント一覧！最新情報も！ - 出店ウォッチ",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yT09DRXRUdWQ3VlVhU2hETkhpcGQtbVByRFBqY0xJdmN1aGl0UGd1MVBFYWNicTd2TFhWVjB6MWlselFrY3lZOFdMTWRtVWM?oc=5",
@@ -1425,6 +1527,18 @@
         "研究学園"
       ],
       "source": "出店ウォッチ",
+      "sourceType": "news",
+      "publishedAt": "2026-09-30T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "717a86db2bda9f36a3f9",
+      "title": "つくばアカデミー 破産手続き開始決定 負債1億2000万円 茨城（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETDVVeEt6NGYzaWoxbjVNUDF5Y1VkdmUzRlZOenhqZzl0ejVFUXpkTGhPeU9xb2U4WF9qYW82NTJvUWtYWlBERVhMV1pwU21ZWXYwSm5RdkdDdzhxbTRtbXlPQUg1blNkLXVJY090d2F3SHdQWXdDUXVVQTJwZ1k?oc=5",
+      "summary": "つくばアカデミー 破産手続き開始決定 負債1億2000万円 茨城（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-09-30T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
