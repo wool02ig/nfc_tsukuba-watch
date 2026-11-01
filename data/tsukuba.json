@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T21:44:41.168450+00:00",
-  "articleCount": 205,
+  "updatedAt": "2026-11-01T04:00:00.656147+00:00",
+  "articleCount": 207,
   "sources": [
     {
       "source": "つくば市公式",
@@ -16,12 +16,12 @@
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 8
+      "count": 13
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 4
+      "count": 6
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -31,7 +31,7 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
@@ -45,6 +45,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "0f1c9feab844550f5c33",
+      "title": "12/1(火) Tsukuba Place Lab 10周年。「次の10年も、みんなで」目標500万円のクラウドファンディングを11/1(日) 開始 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51c29DQlJKRXhUX3FnbXdmcGtNNFdmVnZYY0g4a0M0czRfcXhXTFdoWXJkbE9YcEpXSnM1WEFUT3Q1NmZWZmktMm9ONzRMQTRZQ24zX0JPVG5PM3kyOFFnM3ppLW8xbjhxR0FhTEk1b05VWTZNbndTUk9DNA?oc=5",
+      "summary": "12/1(火) Tsukuba Place Lab 10周年。「次の10年も、みんなで」目標500万円のクラウドファンディングを11/1(日) 開始 ニコニコニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ニコニコニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T03:45:15+00:00",
+      "firstSeenAt": "2026-11-01T04:00:00.656147+00:00"
+    },
     {
       "id": "edddb161fc17f623c201",
       "title": "茨城：【研究所トラベラー】国土地理院 （つくば市） 正確な地図最新技術で ：地域ニュース - 読売新聞",
@@ -1128,7 +1140,19 @@
       "areas": [],
       "source": "Yahoo!ニュース",
       "sourceType": "news",
-      "publishedAt": "2026-10-23T10:16:02+00:00",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "248b78f6402ebf127cfc",
+      "title": "データセンター建設ガイドライン、つくば市が独自に作成 誰でも参加できる説明会など - 東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvMkNIbUJ6VHpRRHNKdjJkZzQ5ZHo0TkVicG1MTnR6Z0RabVFnSDM4T3d2ZHBlNU5vdTViRnJiaVdYSGM4WmFUelR1SmlWMkdSaDNF?oc=5",
+      "summary": "データセンター建設ガイドライン、つくば市が独自に作成 誰でも参加できる説明会など 東京新聞",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "東京新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
@@ -1153,18 +1177,6 @@
       "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-10-22T23:41:47+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "248b78f6402ebf127cfc",
-      "title": "データセンター建設ガイドライン、つくば市が独自に作成 誰でも参加できる説明会など - 東京新聞",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvMkNIbUJ6VHpRRHNKdjJkZzQ5ZHo0TkVicG1MTnR6Z0RabVFnSDM4T3d2ZHBlNU5vdTViRnJiaVdYSGM4WmFUelR1SmlWMkdSaDNF?oc=5",
-      "summary": "データセンター建設ガイドライン、つくば市が独自に作成 誰でも参加できる説明会など 東京新聞",
-      "category": "開発・建設",
-      "areas": [],
-      "source": "東京新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-10-22T23:25:08+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
@@ -1264,18 +1276,6 @@
       "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
     },
     {
-      "id": "0fb25950e0d339bf5312",
-      "title": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRXpOVjBMb1puUVJjZnlWLURhek5lY0JFWmNNRTl6OTVxaXdZMHNwR2t0Mm1CTFd0UC1tWldQNXlzT0ZVZG1uV25NbWNQYlRMUHVlaGFpUHZNcXlROVg5WA?oc=5",
-      "summary": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-10-20T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "8c710db4b1b26afc2f65",
       "title": "イオンそよらつくば学園の森、2026年10月25日開店－スーパー激戦区の研究学園エリア、コストコ向かいに - 都市商業研究所",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrblBIZVRYLUFkb1VBVUlhd2R4UXRITjhOaFd6aGlVamNPQVZyaFR3ZVhONVlPNXU5bmo0OXlWSWtGWVJmVnc?oc=5",
@@ -1288,6 +1288,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-20T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T21:53:04.722721+00:00"
+    },
+    {
+      "id": "0fb25950e0d339bf5312",
+      "title": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRXpOVjBMb1puUVJjZnlWLURhek5lY0JFWmNNRTl6OTVxaXdZMHNwR2t0Mm1CTFd0UC1tWldQNXlzT0ZVZG1uV25NbWNQYlRMUHVlaGFpUHZNcXlROVg5WA?oc=5",
+      "summary": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-10-20T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "887cdd2db101a83f4cfc",
@@ -1700,18 +1712,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "270cf09bb94729624dc4",
-      "title": "復活Ｖ大の里「次の場所が大事」 茨城県つくば市で秋巡業始まる | 全国のニュース - 福井新聞社",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kV2FxSWR1Znp0QjRlLWdzajcyRmxGZHozSVZzRkRrN0FlQ1NGUDZHeXJ1YVB6ZWlLcDRVcmlnakFwT0pQc3Zma203cnJzdG83WTNRLTJxS29aekRGUFE?oc=5",
-      "summary": "復活Ｖ大の里「次の場所が大事」 茨城県つくば市で秋巡業始まる | 全国のニュース 福井新聞社",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "福井新聞社",
-      "sourceType": "news",
-      "publishedAt": "2026-10-06T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "cbaae5afff16815bbfd6",
       "title": "茨城・つくばのデータセンター計画 市に説明求める請願、6日に審議 - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CUEQ4ZnJwSkpORzU3NTByNHliZERBQkpxYTRPNFV2VjBZeFhBYnVhVlVZbll6cTMyYnd2RzNIVUk0YlJkbml1bWdOclBTdFdyTXdJS0xiREVkUEp3OW1WZ3lDQmx1b28?oc=5",
@@ -1722,6 +1722,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-06T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
+    },
+    {
+      "id": "270cf09bb94729624dc4",
+      "title": "復活Ｖ大の里「次の場所が大事」 茨城県つくば市で秋巡業始まる | 全国のニュース - 福井新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kV2FxSWR1Znp0QjRlLWdzajcyRmxGZHozSVZzRkRrN0FlQ1NGUDZHeXJ1YVB6ZWlLcDRVcmlnakFwT0pQc3Zma203cnJzdG83WTNRLTJxS29aekRGUFE?oc=5",
+      "summary": "復活Ｖ大の里「次の場所が大事」 茨城県つくば市で秋巡業始まる | 全国のニュース 福井新聞社",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "福井新聞社",
+      "sourceType": "news",
+      "publishedAt": "2026-10-06T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "24bcc4e03f4734d684b5",
@@ -1858,6 +1870,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "717a86db2bda9f36a3f9",
+      "title": "つくばアカデミー 破産手続き開始決定 負債1億2000万円 茨城（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETDVVeEt6NGYzaWoxbjVNUDF5Y1VkdmUzRlZOenhqZzl0ejVFUXpkTGhPeU9xb2U4WF9qYW82NTJvUWtYWlBERVhMV1pwU21ZWXYwSm5RdkdDdzhxbTRtbXlPQUg1blNkLXVJY090d2F3SHdQWXdDUXVVQTJwZ1k?oc=5",
+      "summary": "つくばアカデミー 破産手続き開始決定 負債1億2000万円 茨城（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-09-30T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "3ff8f29e6c18f9542946",
       "title": "そよらつくば学園の森 2026年10月25日(日)開業！全11テナント一覧！最新情報も！ - 出店ウォッチ",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yT09DRXRUdWQ3VlVhU2hETkhpcGQtbVByRFBqY0xJdmN1aGl0UGd1MVBFYWNicTd2TFhWVjB6MWlselFrY3lZOFdMTWRtVWM?oc=5",
@@ -1867,18 +1891,6 @@
         "研究学園"
       ],
       "source": "出店ウォッチ",
-      "sourceType": "news",
-      "publishedAt": "2026-09-30T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "717a86db2bda9f36a3f9",
-      "title": "つくばアカデミー 破産手続き開始決定 負債1億2000万円 茨城（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETDVVeEt6NGYzaWoxbjVNUDF5Y1VkdmUzRlZOenhqZzl0ejVFUXpkTGhPeU9xb2U4WF9qYW82NTJvUWtYWlBERVhMV1pwU21ZWXYwSm5RdkdDdzhxbTRtbXlPQUg1blNkLXVJY090d2F3SHdQWXdDUXVVQTJwZ1k?oc=5",
-      "summary": "つくばアカデミー 破産手続き開始決定 負債1億2000万円 茨城（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-09-30T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
@@ -1984,6 +1996,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "0ebcf29a9c809b96bfb3",
+      "title": "管理職2人に計74万円賠償請求を つくば市監査委員 生活保護行政の不適正事務 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GdG5Mam5DUUNTZV90NHJLTFZjcXNaYkNLY19qRE9hZ09RVnlYVllHV3NjYU1HemxYMGZBSXR6aURZLXV0VWhYdG83aw?oc=5",
+      "summary": "管理職2人に計74万円賠償請求を つくば市監査委員 生活保護行政の不適正事務 NEWSつくば",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-09-25T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "67da636d3ebdd8fbfe32",
       "title": "【つくば市】「そよらつくば学園の森」にサイゼリヤがオープン！つくば市内で4店舗目のサイゼリヤです - 号外NET つくば市",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80cmdBQ0RCMFNoZThIVk5uRlQ4LTA1TUNoU043M1dGWWgwQXkzN2xzeGNwM3M4ZC0xY0syMF9SY1B0OWFXaXNUbTJnaTVaLUpaNjJuOFlPd2YtSmYzZFd1TkhibEg5WWM?oc=5",
@@ -2005,18 +2029,6 @@
       "category": "開発・建設",
       "areas": [],
       "source": "ダイヤモンド・チェーンストアオンライン",
-      "sourceType": "news",
-      "publishedAt": "2026-09-25T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "0ebcf29a9c809b96bfb3",
-      "title": "管理職2人に計74万円賠償請求を つくば市監査委員 生活保護行政の不適正事務 - NEWSつくば",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GdG5Mam5DUUNTZV90NHJLTFZjcXNaYkNLY19qRE9hZ09RVnlYVllHV3NjYU1HemxYMGZBSXR6aURZLXV0VWhYdG83aw?oc=5",
-      "summary": "管理職2人に計74万円賠償請求を つくば市監査委員 生活保護行政の不適正事務 NEWSつくば",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "NEWSつくば",
       "sourceType": "news",
       "publishedAt": "2026-09-25T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
@@ -2208,18 +2220,6 @@
       "firstSeenAt": "2026-10-31T21:44:41.168450+00:00"
     },
     {
-      "id": "9bb7aabf75dec18a2db8",
-      "title": "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査 - テレ朝NEWS",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UeDljOGRXcktORWNGY0RFQzUwNXQ5ekhnMENkQlEweHczMFJubW93a3FVWVJpNFNCLWNkSVlwS2NudDhFUmhFRzNWbG1TaUthbXhfQ3V1Z3d2d19SMkVxeFNEczRMS2txTW9ycHM4MjFJdw?oc=5",
-      "summary": "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査 テレ朝NEWS",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "テレ朝NEWS",
-      "sourceType": "news",
-      "publishedAt": "2026-09-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
-    },
-    {
       "id": "b5c2cbaead8406c5a51d",
       "title": "古式にのっとり包丁さばき 筑波山神社で披露 茨城・つくば（茨城新聞クロスアイ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vcEc1SnhjT3kyRWxBQXhocEdfYW95VGZwTzVkRXhweFpZeUpRc18xU0c1cjdBSC1UbGpHUGRNU3ZaaTYwX0hyLXU4ZmJBU1VBSmFjRGdnZjV2UjE0Qk42dGctYjQtcVFnOHpyY2xPckdaLUNBYjF5U2hONG5kNEU?oc=5",
@@ -2232,6 +2232,18 @@
       "sourceType": "news",
       "publishedAt": "2026-09-09T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "9bb7aabf75dec18a2db8",
+      "title": "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UeDljOGRXcktORWNGY0RFQzUwNXQ5ekhnMENkQlEweHczMFJubW93a3FVWVJpNFNCLWNkSVlwS2NudDhFUmhFRzNWbG1TaUthbXhfQ3V1Z3d2d19SMkVxeFNEczRMS2txTW9ycHM4MjFJdw?oc=5",
+      "summary": "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査 テレ朝NEWS",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "テレ朝NEWS",
+      "sourceType": "news",
+      "publishedAt": "2026-09-09T07:00:00+00:00",
+      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
     },
     {
       "id": "2d5ed56a3a5757f539e5",
@@ -2284,18 +2296,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "e04ea7523befa9aeca4c",
-      "title": "茨城・つくばのデータセンター計画、住民が市に説明会を求め請願提出 [茨城県] [AIの時代] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tSWpRTzBLWENKNWpZT2ZxNXk1TVdna2V5clpjT19qMGVkaHJXWUFkbkluY3kyMmVBQ3NIX1dyc2RtU1VTRUpLOFBMcFFCaHIxb3Rnd1pFc2xvcGl1NzRqeG1XNFdaaEU?oc=5",
-      "summary": "茨城・つくばのデータセンター計画、住民が市に説明会を求め請願提出 [茨城県] [AIの時代] 朝日新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-09-02T07:00:00+00:00",
-      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
-    },
-    {
       "id": "a29855c58e7a449c9806",
       "title": "【つくば市】バーキン派の皆様に朗報です♪バーガーキングがそよらつくば学園の森店にオープンするみたい！ - 号外NET つくば市",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GYUNxcDdIUzRpQ0pydmRrWGtQalIxcEZTNGNHR2dnc1VGckZQbTI0NTYxQzRuQ0t0aXJuM0J6bm9tOURfNGV5MmoyNnpSY0hCdjNaWDhuMjJmaVViLWwtSUNBOFA0MzZWRjlncGF2ZTQ?oc=5",
@@ -2308,6 +2308,18 @@
       "sourceType": "news",
       "publishedAt": "2026-09-02T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
+      "id": "e04ea7523befa9aeca4c",
+      "title": "茨城・つくばのデータセンター計画、住民が市に説明会を求め請願提出 [茨城県] [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tSWpRTzBLWENKNWpZT2ZxNXk1TVdna2V5clpjT19qMGVkaHJXWUFkbkluY3kyMmVBQ3NIX1dyc2RtU1VTRUpLOFBMcFFCaHIxb3Rnd1pFc2xvcGl1NzRqeG1XNFdaaEU?oc=5",
+      "summary": "茨城・つくばのデータセンター計画、住民が市に説明会を求め請願提出 [茨城県] [AIの時代] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-09-02T07:00:00+00:00",
+      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
     },
     {
       "id": "5c108317003df8787165",
@@ -2458,18 +2470,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "39cb0761c69bbe65afe0",
-      "title": "八潮からTXで行く「まつりつくば2026」ねぶた・神輿の大パレード、臨時列車も運転 - やしおん",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBKYXEzWEZUVjBGcksxY1ZxWXJsRDBlZlFJSUdnU0NwUHRwaUZzZXBRZ04xNm43LWY5NElTVHEtaVg5TG43?oc=5",
-      "summary": "八潮からTXで行く「まつりつくば2026」ねぶた・神輿の大パレード、臨時列車も運転 やしおん",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "やしおん",
-      "sourceType": "news",
-      "publishedAt": "2026-08-12T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
-    },
-    {
       "id": "ec67c585c240dd45b996",
       "title": "イオンそよらつくば学園の森、2026年10月開業－茨城初のイオン系近隣商圏型新業態、コストコそばに - 都市商業研究所",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0tTER0c3FWaU1hQ3NlZnhTM3ZTVzljdVhBUEJ2VTVhd3RiNTVpUTAwV0h2TGlBcVl2ZUNIbWJhQ3o1SWg1dGc?oc=5",
@@ -2479,6 +2479,18 @@
         "研究学園"
       ],
       "source": "都市商業研究所",
+      "sourceType": "news",
+      "publishedAt": "2026-08-12T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
+      "id": "39cb0761c69bbe65afe0",
+      "title": "八潮からTXで行く「まつりつくば2026」ねぶた・神輿の大パレード、臨時列車も運転 - やしおん",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBKYXEzWEZUVjBGcksxY1ZxWXJsRDBlZlFJSUdnU0NwUHRwaUZzZXBRZ04xNm43LWY5NElTVHEtaVg5TG43?oc=5",
+      "summary": "八潮からTXで行く「まつりつくば2026」ねぶた・神輿の大パレード、臨時列車も運転 やしおん",
+      "category": "交通・生活",
+      "areas": [],
+      "source": "やしおん",
       "sourceType": "news",
       "publishedAt": "2026-08-12T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
@@ -2558,6 +2570,18 @@
       "sourceType": "news",
       "publishedAt": "2026-08-03T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "bf3002a6cc574b81ef50",
+      "title": "佐川グローバルロジ／茨城県つくば市に2.4万m2の営業所開設、ネットワーク強化へ今年4件目 - 物流ニュースのLNEWS",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03UV96SVk2UUtvNDloRXBoNEFSdk9WYTRmaXdoMGozSVVJSTR0X2ZNdGR4VTZEN3k5SENhRTVRWm9EUDNfcnpNTVA1SkZBZU10OGZ3aw?oc=5",
+      "summary": "佐川グローバルロジ／茨城県つくば市に2.4万m2の営業所開設、ネットワーク強化へ今年4件目 物流ニュースのLNEWS",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "物流ニュースのLNEWS",
+      "sourceType": "news",
+      "publishedAt": "2026-08-03T07:00:00+00:00",
+      "firstSeenAt": "2026-11-01T04:00:00.656147+00:00"
     }
   ]
 }
