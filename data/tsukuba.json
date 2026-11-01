@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T04:00:00.656147+00:00",
-  "articleCount": 207,
+  "updatedAt": "2026-11-01T09:54:24.277227+00:00",
+  "articleCount": 216,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,17 +11,17 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 95
+      "count": 56
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 13
+      "count": 8
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -31,7 +31,7 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 5
+      "count": 4
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
@@ -46,6 +46,102 @@
   ],
   "articles": [
     {
+      "id": "f79c994b5df003a6e3bb",
+      "title": "JAXAの人事担当者の話を聴く参加者＝1日午後、茨城県つくば市 - 求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら130人 - 写真・画像(1/1) - 西日本新聞me",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kQmY0ZVBSMENURUwxUzZ3WjFIS2NWMUJDam93NGdzdnlkYmxyeHBMdlJ2UGhnOXBNZGFQcHczNENoUkp3WDh3MFNjcG10SGhneng5RnNQSQ?oc=5",
+      "summary": "JAXAの人事担当者の話を聴く参加者＝1日午後、茨城県つくば市 - 求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら130人 - 写真・画像(1/1) 西日本新聞me",
+      "category": "イベント",
+      "areas": [],
+      "source": "西日本新聞me",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T09:24:02+00:00",
+      "firstSeenAt": "2026-11-01T09:54:24.277227+00:00"
+    },
+    {
+      "id": "45626ffa14f47b5fdb09",
+      "title": "求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら130人 (2026年11月1日掲載) - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Gem1lY2dVeXRzT1ZMdHRuMFQzWmdUVFRIWXAyeU9odWViWlZVbC1ydDJhZnZNcU1EbmlOa2o0WjQ5eXJvQUp5ZlFTaDh0Q1daeXJwRm9xRi1ST3ZBc3c?oc=5",
+      "summary": "求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら130人 (2026年11月1日掲載) ライブドアニュース",
+      "category": "イベント",
+      "areas": [],
+      "source": "ライブドアニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T09:06:15+00:00",
+      "firstSeenAt": "2026-11-01T09:54:24.277227+00:00"
+    },
+    {
+      "id": "95d9a26b18c326e67790",
+      "title": "求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら130人 - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xOGJpdnNRUHNYaGdOalljbDVKRS01SmItSmtUdk9KQ1F3YXhnbGRNWnQ4UW9FYXpIUEVZS2psbGZHNjJ3c3VhaTNCWQ?oc=5",
+      "summary": "求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら130人 47NEWS",
+      "category": "イベント",
+      "areas": [],
+      "source": "47NEWS",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T08:37:25+00:00",
+      "firstSeenAt": "2026-11-01T09:54:24.277227+00:00"
+    },
+    {
+      "id": "3f67db5d92dfcf7a1906",
+      "title": "求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら130人（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmd3dtUTdidVRVcFk4NnlDSElYTkF3a2pyckR2WmdPVXdZSmpMNDE4Qy1kVGNfSUFrVFlPSXNHbFB5LVZNbmxZZmFHRmRnRW9sbEttYVRVX3dpaHhzRkpiS1JWNno3bjhEeTdZM1AwNlJQb1N5QkZJVDV0VXRPWmc?oc=5",
+      "summary": "求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら130人（共同通信） Yahoo!ニュース",
+      "category": "イベント",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T08:37:25+00:00",
+      "firstSeenAt": "2026-11-01T09:54:24.277227+00:00"
+    },
+    {
+      "id": "24a4e067debc43824d6f",
+      "title": "求職者に宇宙の仕事紹介、つくば - 中国新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaRUdhSVc3VXRfMDJJclZDMDJwMURJU3lJMzdMMy1qTW5rZTgwemNqQ2liWVROQUNfaFJfd0htYUJubUhUWW5mLWpCSUl5a19jNGhubTFaTEZBQQ?oc=5",
+      "summary": "求職者に宇宙の仕事紹介、つくば 中国新聞デジタル",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "中国新聞デジタル",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T08:37:25+00:00",
+      "firstSeenAt": "2026-11-01T09:54:24.277227+00:00"
+    },
+    {
+      "id": "75bd00d43f52f62178dd",
+      "title": "【写真】求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら１３０人 - 南日本新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCeVJwejFnM0RVWlF1ME1CeVEteHJteHE0MVdGbFVyVkpyTkZJWHgyeDc5STJUM054VkRRNFZGMEZDTzZaZnRLTWdLaTlKS0xJUGJtLTJfMDl6UmZaaUJCSm00bnA5R0t5?oc=5",
+      "summary": "【写真】求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら１３０人 南日本新聞",
+      "category": "イベント",
+      "areas": [],
+      "source": "南日本新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T08:37:25+00:00",
+      "firstSeenAt": "2026-11-01T09:54:24.277227+00:00"
+    },
+    {
+      "id": "711f30c0925b85219df1",
+      "title": "国総研、つくば市小田で電動カート実証 3年目の歴史探訪ツアーで周遊支援 - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1adXNWQ1hrMGE5eVZROWJqRGpheTIwQ0Zpb1lLa1lqV3RxSXNqdHp0aEhMdkUxNVlGMHo2Z1pRSFEtbVNGZ3lxN19MZTdDeV95WWpPd3BNNy1FVzg3NnJ3?oc=5",
+      "summary": "国総研、つくば市小田で電動カート実証 3年目の歴史探訪ツアーで周遊支援 千葉テレビ放送株式会社",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "千葉テレビ放送株式会社",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T08:11:47+00:00",
+      "firstSeenAt": "2026-11-01T09:54:24.277227+00:00"
+    },
+    {
+      "id": "712c68a9f491adc4076d",
+      "title": "プレスリリース：12/1(火) Tsukuba Place Lab 10周年。「次の10年も、みんなで」目標500万円のクラウドファンディングを11/1(日) 開始（PR TIMES） - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53N1dDRmJINVRJSWk3VzkxZ015ekhvNjVjRWF3aU5WSjY0cThWd1lEbVhtRlptTVRSZzQwNHYyVnNjQUQwNnV4bVN6T19iYUZDTUVjbENtX2l2RVc4bTRfckNyVjZmQ2VQ?oc=5",
+      "summary": "プレスリリース：12/1(火) Tsukuba Place Lab 10周年。「次の10年も、みんなで」目標500万円のクラウドファンディングを11/1(日) 開始（PR TIMES） 毎日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "毎日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T03:52:46+00:00",
+      "firstSeenAt": "2026-11-01T09:54:24.277227+00:00"
+    },
+    {
       "id": "0f1c9feab844550f5c33",
       "title": "12/1(火) Tsukuba Place Lab 10周年。「次の10年も、みんなで」目標500万円のクラウドファンディングを11/1(日) 開始 - ニコニコニュース",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51c29DQlJKRXhUX3FnbXdmcGtNNFdmVnZYY0g4a0M0czRfcXhXTFdoWXJkbE9YcEpXSnM1WEFUT3Q1NmZWZmktMm9ONzRMQTRZQ24zX0JPVG5PM3kyOFFnM3ppLW8xbjhxR0FhTEk1b05VWTZNbndTUk9DNA?oc=5",
@@ -56,6 +152,30 @@
       "sourceType": "news",
       "publishedAt": "2026-11-01T03:45:15+00:00",
       "firstSeenAt": "2026-11-01T04:00:00.656147+00:00"
+    },
+    {
+      "id": "e6f36f818ddffcc53029",
+      "title": "「わんわんランド」で学園祭 つくば国際ペット専門学校 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uQm1Qd3FSbnE3Zm5fUXd6dWxqRVR2NG1uS0lNUWdtbExQUFlXXzc2SzAyUDE4dW42clZRM0dLSTEzczBNdnEwb3BQSQ?oc=5",
+      "summary": "「わんわんランド」で学園祭 つくば国際ペット専門学校 NEWSつくば",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T01:30:00+00:00",
+      "firstSeenAt": "2026-11-01T09:54:24.277227+00:00"
+    },
+    {
+      "id": "5e474c7b831ed04c8bd4",
+      "title": "【つくば市】ドキドキ…！つくば市発の廃墟ツアーに参加してみませんか？ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GVE8zZmN2U2lHcTdhSFUxQTdqY2FYek9uaVZCeUpKTjNycmxJMzZwdFRXM0ZJbi1abE9tS1VhcWlDc2FCUEtmSEpwcEpwYlV3aXBNemcwU2p0UlE0bC1LTg?oc=5",
+      "summary": "【つくば市】ドキドキ…！つくば市発の廃墟ツアーに参加してみませんか？ 号外NET つくば市",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-10-31T22:38:36+00:00",
+      "firstSeenAt": "2026-11-01T09:54:24.277227+00:00"
     },
     {
       "id": "edddb161fc17f623c201",
@@ -202,6 +322,18 @@
       "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
     },
     {
+      "id": "71228be44cb136df8ff2",
+      "title": "お客様の「ありがとう」を、スタッフが働き続ける力に。イーアスつくばで従業員の働きがい・雇用定着率向上を目指した新しいESプロジェクトを実施中 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UekNQUTNWVkRPUU9ZTnJBcnJvS0FnR3lzZnhPV0dXOUVfZEZjLWhDaWlOMUdZUHRBRkhoRE44bGZxSFVaQjR6Q3FJVFdMN2I5bDZWVzdjNmRnQ2podzh0c3NjMU9VcE9kc1VV?oc=5",
+      "summary": "お客様の「ありがとう」を、スタッフが働き続ける力に。イーアスつくばで従業員の働きがい・雇用定着率向上を目指した新しいESプロジェクトを実施中 時事ドットコム",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "時事ドットコム",
+      "sourceType": "news",
+      "publishedAt": "2026-10-30T13:10:00+00:00",
+      "firstSeenAt": "2026-10-30T03:58:11.828841+00:00"
+    },
+    {
       "id": "663c0a85a66ec6a857c3",
       "title": "つくばエクスプレス沿線ウイーク 研究学園都市として発展 茨城 つくば 首都圏ネットワーク - NHKニュース",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IN2YzemhlZW1VaHozVEhIN0VMN3J4alBHRVU0Nm0yb3RMOF9TajhoWFRLVG9HeTRLQjFoNGtxWDZsODJqM291bTlUYlQ1VWNscHhBbUd4UnN5SDdIOVJ3?oc=5",
@@ -328,18 +460,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-30T05:00:00+00:00",
       "firstSeenAt": "2026-10-30T10:00:04.850766+00:00"
-    },
-    {
-      "id": "71228be44cb136df8ff2",
-      "title": "お客様の「ありがとう」を、スタッフが働き続ける力に。イーアスつくばで従業員の働きがい・雇用定着率向上を目指した新しいESプロジェクトを実施中 - 時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UekNQUTNWVkRPUU9ZTnJBcnJvS0FnR3lzZnhPV0dXOUVfZEZjLWhDaWlOMUdZUHRBRkhoRE44bGZxSFVaQjR6Q3FJVFdMN2I5bDZWVzdjNmRnQ2podzh0c3NjMU9VcE9kc1VV?oc=5",
-      "summary": "お客様の「ありがとう」を、スタッフが働き続ける力に。イーアスつくばで従業員の働きがい・雇用定着率向上を目指した新しいESプロジェクトを実施中 時事ドットコム",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "時事ドットコム",
-      "sourceType": "news",
-      "publishedAt": "2026-10-30T02:16:00+00:00",
-      "firstSeenAt": "2026-10-30T03:58:11.828841+00:00"
     },
     {
       "id": "e4764e73363f63f775da",
@@ -544,6 +664,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-29T08:48:00+00:00",
       "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
+      "id": "3d93a7c0cdb2a0097378",
+      "title": "2027年1月16日(土)つくば「０歳からの・はじめてのオーケストラ」～ニューイヤースペシャルコンサート～開催！ - 福島民報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WUDZvTUh3RUJwaUVrS3c5a3J0elBRTTAyd0tURXdWekpOWUZUblViWnlhY2l0dWRlaGowNjZWLS1GcWhfTWZoTG9KZVpvUG9rVDVGR0VOUVMtWUN0N2lqZm9BTEpSbFk?oc=5",
+      "summary": "2027年1月16日(土)つくば「０歳からの・はじめてのオーケストラ」～ニューイヤースペシャルコンサート～開催！ 福島民報デジタル",
+      "category": "イベント",
+      "areas": [],
+      "source": "福島民報デジタル",
+      "sourceType": "news",
+      "publishedAt": "2026-10-29T07:29:59+00:00",
+      "firstSeenAt": "2026-11-01T09:54:24.277227+00:00"
     },
     {
       "id": "dfcfc19acf913d2aa7bf",
@@ -1276,6 +1408,18 @@
       "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
     },
     {
+      "id": "0fb25950e0d339bf5312",
+      "title": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRXpOVjBMb1puUVJjZnlWLURhek5lY0JFWmNNRTl6OTVxaXdZMHNwR2t0Mm1CTFd0UC1tWldQNXlzT0ZVZG1uV25NbWNQYlRMUHVlaGFpUHZNcXlROVg5WA?oc=5",
+      "summary": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-10-20T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "8c710db4b1b26afc2f65",
       "title": "イオンそよらつくば学園の森、2026年10月25日開店－スーパー激戦区の研究学園エリア、コストコ向かいに - 都市商業研究所",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrblBIZVRYLUFkb1VBVUlhd2R4UXRITjhOaFd6aGlVamNPQVZyaFR3ZVhONVlPNXU5bmo0OXlWSWtGWVJmVnc?oc=5",
@@ -1288,18 +1432,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-20T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T21:53:04.722721+00:00"
-    },
-    {
-      "id": "0fb25950e0d339bf5312",
-      "title": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRXpOVjBMb1puUVJjZnlWLURhek5lY0JFWmNNRTl6OTVxaXdZMHNwR2t0Mm1CTFd0UC1tWldQNXlzT0ZVZG1uV25NbWNQYlRMUHVlaGFpUHZNcXlROVg5WA?oc=5",
-      "summary": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-10-20T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "887cdd2db101a83f4cfc",
@@ -1494,18 +1626,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "54f0e5303bacb8cc8f65",
-      "title": "データセンター説明会 つくば市主催求めて住民抗議 - 東京新聞",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnRHBMUU51SFhMVE5MdUdiMDZreDRCVm9ZSFpoX3AwdFRaYUNyWndmOC1PSW5FeHJFQUpNYkh3UlBWbGtqaGwzaVlTLUxLcDdPZkQw?oc=5",
-      "summary": "データセンター説明会 つくば市主催求めて住民抗議 東京新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "東京新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "8864bd4c1b482475e14e",
       "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - 乗りものニュース",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XcGpfYmFWejBQbnhBOHRnNnh1eHM5WERJLU5ZRDUyMEI2NWdIY0c5Y3N0OVc4NGN2TlY2cjE0b2Nvd2YzQk5ndWJB?oc=5",
@@ -1513,6 +1633,18 @@
       "category": "交通・生活",
       "areas": [],
       "source": "乗りものニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-09T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "54f0e5303bacb8cc8f65",
+      "title": "データセンター説明会 つくば市主催求めて住民抗議 - 東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnRHBMUU51SFhMVE5MdUdiMDZreDRCVm9ZSFpoX3AwdFRaYUNyWndmOC1PSW5FeHJFQUpNYkh3UlBWbGtqaGwzaVlTLUxLcDdPZkQw?oc=5",
+      "summary": "データセンター説明会 つくば市主催求めて住民抗議 東京新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "東京新聞",
       "sourceType": "news",
       "publishedAt": "2026-10-09T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
@@ -1786,6 +1918,18 @@
       "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
     },
     {
+      "id": "80351bb3e77a821c095d",
+      "title": "茨城・つくば市、自動運転バスを本格運行 「運転手不足の切り札」 [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tQnhVZGJHcXlzR3lTZHoxWnBNWmhLeWxkbk9mcHlUbHJLS2FpZUxsY0M4NGlJRm5vOWpXTXJnYzRpc0hoNjh5QmFiWUU0ZkN1eWNLYUx5V0dPcDdTQlVrcWJmRWlkYm8?oc=5",
+      "summary": "茨城・つくば市、自動運転バスを本格運行 「運転手不足の切り札」 [茨城県] 朝日新聞",
+      "category": "交通・生活",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-10-02T07:00:00+00:00",
+      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
+    },
+    {
       "id": "f92cc6af8077e77bf191",
       "title": "自動運転バス つくばで本格運行 27年度はレベル4計画 茨城（茨城新聞クロスアイ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uX2Y0RW1FS0Z4M2tYV3B6ZHVaTXhSSXd0cTRIWDlSdHo4U0x0SUlKTXYtcG10bUVYa1FhWUhkMjFhTkhpLVZCR2JOV1NmTFRVc1pGamVTNmNWYVYxUHBtLU0wdEpnT2VuaUpVOUNXRjNlUVlBSlZRWGllX1dEYWs?oc=5",
@@ -1808,18 +1952,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-02T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "80351bb3e77a821c095d",
-      "title": "茨城・つくば市、自動運転バスを本格運行 「運転手不足の切り札」 [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tQnhVZGJHcXlzR3lTZHoxWnBNWmhLeWxkbk9mcHlUbHJLS2FpZUxsY0M4NGlJRm5vOWpXTXJnYzRpc0hoNjh5QmFiWUU0ZkN1eWNLYUx5V0dPcDdTQlVrcWJmRWlkYm8?oc=5",
-      "summary": "茨城・つくば市、自動運転バスを本格運行 「運転手不足の切り札」 [茨城県] 朝日新聞",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-10-02T07:00:00+00:00",
-      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
     },
     {
       "id": "6d9e90b29087d888dc79",
@@ -1858,6 +1990,34 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "53017cc6bdf51f4247b9",
+      "title": "クリエイトSD／茨城県つくば市に「つくば市学園の森商業施設」27年4月13日新設 - 流通ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sQldSbEJoSlJoODRta2laWGZGZjNWdkdGaXBraDJuRUhLZU1sVzc2NUV6bnAxblB5OW5OSHdEc3I0MFpxcy1nMjZuaE9KdXJBaWxzUkVn?oc=5",
+      "summary": "クリエイトSD／茨城県つくば市に「つくば市学園の森商業施設」27年4月13日新設 流通ニュース",
+      "category": "開発・建設",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "流通ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-09-30T07:00:00+00:00",
+      "firstSeenAt": "2026-10-31T03:54:28.316386+00:00"
+    },
+    {
+      "id": "3ff8f29e6c18f9542946",
+      "title": "そよらつくば学園の森 2026年10月25日(日)開業！全11テナント一覧！最新情報も！ - 出店ウォッチ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yT09DRXRUdWQ3VlVhU2hETkhpcGQtbVByRFBqY0xJdmN1aGl0UGd1MVBFYWNicTd2TFhWVjB6MWlselFrY3lZOFdMTWRtVWM?oc=5",
+      "summary": "そよらつくば学園の森 2026年10月25日(日)開業！全11テナント一覧！最新情報も！ 出店ウォッチ",
+      "category": "店舗・グルメ",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "出店ウォッチ",
+      "sourceType": "news",
+      "publishedAt": "2026-09-30T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "547c38730b0fff60d595",
       "title": "ユニバーサルデザイン 筑波技術大学生ら「歩み寄る姿勢で」 つくば市職員 実践通じ学ぶ - 東京新聞",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lN2RmTFlIVmJhakcwN0FnRnc1eFZqYktUQXViN0pBNmZ2S2pyTjV1ZFhEVVNGNjVRYkk5MXE3NVFDZkNfSWUxb29WSFNJWU12LXJj?oc=5",
@@ -1880,34 +2040,6 @@
       "sourceType": "news",
       "publishedAt": "2026-09-30T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "3ff8f29e6c18f9542946",
-      "title": "そよらつくば学園の森 2026年10月25日(日)開業！全11テナント一覧！最新情報も！ - 出店ウォッチ",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yT09DRXRUdWQ3VlVhU2hETkhpcGQtbVByRFBqY0xJdmN1aGl0UGd1MVBFYWNicTd2TFhWVjB6MWlselFrY3lZOFdMTWRtVWM?oc=5",
-      "summary": "そよらつくば学園の森 2026年10月25日(日)開業！全11テナント一覧！最新情報も！ 出店ウォッチ",
-      "category": "店舗・グルメ",
-      "areas": [
-        "研究学園"
-      ],
-      "source": "出店ウォッチ",
-      "sourceType": "news",
-      "publishedAt": "2026-09-30T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "53017cc6bdf51f4247b9",
-      "title": "クリエイトSD／茨城県つくば市に「つくば市学園の森商業施設」27年4月13日新設 - 流通ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sQldSbEJoSlJoODRta2laWGZGZjNWdkdGaXBraDJuRUhLZU1sVzc2NUV6bnAxblB5OW5OSHdEc3I0MFpxcy1nMjZuaE9KdXJBaWxzUkVn?oc=5",
-      "summary": "クリエイトSD／茨城県つくば市に「つくば市学園の森商業施設」27年4月13日新設 流通ニュース",
-      "category": "開発・建設",
-      "areas": [
-        "研究学園"
-      ],
-      "source": "流通ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-30T07:00:00+00:00",
-      "firstSeenAt": "2026-10-31T03:54:28.316386+00:00"
     },
     {
       "id": "ec8dac830d11e8de6c07",
@@ -1996,18 +2128,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "0ebcf29a9c809b96bfb3",
-      "title": "管理職2人に計74万円賠償請求を つくば市監査委員 生活保護行政の不適正事務 - NEWSつくば",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GdG5Mam5DUUNTZV90NHJLTFZjcXNaYkNLY19qRE9hZ09RVnlYVllHV3NjYU1HemxYMGZBSXR6aURZLXV0VWhYdG83aw?oc=5",
-      "summary": "管理職2人に計74万円賠償請求を つくば市監査委員 生活保護行政の不適正事務 NEWSつくば",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "NEWSつくば",
-      "sourceType": "news",
-      "publishedAt": "2026-09-25T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "67da636d3ebdd8fbfe32",
       "title": "【つくば市】「そよらつくば学園の森」にサイゼリヤがオープン！つくば市内で4店舗目のサイゼリヤです - 号外NET つくば市",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80cmdBQ0RCMFNoZThIVk5uRlQ4LTA1TUNoU043M1dGWWgwQXkzN2xzeGNwM3M4ZC0xY0syMF9SY1B0OWFXaXNUbTJnaTVaLUpaNjJuOFlPd2YtSmYzZFd1TkhibEg5WWM?oc=5",
@@ -2029,6 +2149,18 @@
       "category": "開発・建設",
       "areas": [],
       "source": "ダイヤモンド・チェーンストアオンライン",
+      "sourceType": "news",
+      "publishedAt": "2026-09-25T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "0ebcf29a9c809b96bfb3",
+      "title": "管理職2人に計74万円賠償請求を つくば市監査委員 生活保護行政の不適正事務 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GdG5Mam5DUUNTZV90NHJLTFZjcXNaYkNLY19qRE9hZ09RVnlYVllHV3NjYU1HemxYMGZBSXR6aURZLXV0VWhYdG83aw?oc=5",
+      "summary": "管理職2人に計74万円賠償請求を つくば市監査委員 生活保護行政の不適正事務 NEWSつくば",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NEWSつくば",
       "sourceType": "news",
       "publishedAt": "2026-09-25T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
@@ -2058,18 +2190,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "994c8a5a1da36ab3e0b1",
-      "title": "つくばで約1300軒停電 茨城【まとめ】（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtU2hvR3p0Q0t1bThlaUo4a1FzSHVpSFNUS0N1OXhLLWN3aWU3RXFKcGtTTlg5eE1sRW5RYkpzOXB0amNBd25jSUJMRWgzOXVqR09zY1NfVFkzamNnUE9YV1d0YVhzY1RwdGc5QURRNmo0blI1QklNZUtQLXFTN00?oc=5",
-      "summary": "つくばで約1300軒停電 茨城【まとめ】（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "防災・安全",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-21T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "cbcf5d4e50d252ca2bf8",
       "title": "【レベル３土砂災害警報】茨城県・つくば市に発表 17:15時点 - TBS NEWS DIG",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3MkFPX0praTVXamNfb1p0TmFieDZoTUpNN0pwTE41M01aMklVUVk3WTJaVC1VUHFWeWVuckF6OHYxYnNPM3NuY2pNMEx4LUhqaXdtaVhNMA?oc=5",
@@ -2077,6 +2197,18 @@
       "category": "防災・安全",
       "areas": [],
       "source": "TBS NEWS DIG",
+      "sourceType": "news",
+      "publishedAt": "2026-09-21T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "994c8a5a1da36ab3e0b1",
+      "title": "つくばで約1300軒停電 茨城【まとめ】（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtU2hvR3p0Q0t1bThlaUo4a1FzSHVpSFNUS0N1OXhLLWN3aWU3RXFKcGtTTlg5eE1sRW5RYkpzOXB0amNBd25jSUJMRWgzOXVqR09zY1NfVFkzamNnUE9YV1d0YVhzY1RwdGc5QURRNmo0blI1QklNZUtQLXFTN00?oc=5",
+      "summary": "つくばで約1300軒停電 茨城【まとめ】（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "防災・安全",
+      "areas": [],
+      "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-09-21T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
@@ -2220,6 +2352,18 @@
       "firstSeenAt": "2026-10-31T21:44:41.168450+00:00"
     },
     {
+      "id": "9bb7aabf75dec18a2db8",
+      "title": "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UeDljOGRXcktORWNGY0RFQzUwNXQ5ekhnMENkQlEweHczMFJubW93a3FVWVJpNFNCLWNkSVlwS2NudDhFUmhFRzNWbG1TaUthbXhfQ3V1Z3d2d19SMkVxeFNEczRMS2txTW9ycHM4MjFJdw?oc=5",
+      "summary": "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査 テレ朝NEWS",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "テレ朝NEWS",
+      "sourceType": "news",
+      "publishedAt": "2026-09-09T07:00:00+00:00",
+      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
+    },
+    {
       "id": "b5c2cbaead8406c5a51d",
       "title": "古式にのっとり包丁さばき 筑波山神社で披露 茨城・つくば（茨城新聞クロスアイ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vcEc1SnhjT3kyRWxBQXhocEdfYW95VGZwTzVkRXhweFpZeUpRc18xU0c1cjdBSC1UbGpHUGRNU3ZaaTYwX0hyLXU4ZmJBU1VBSmFjRGdnZjV2UjE0Qk42dGctYjQtcVFnOHpyY2xPckdaLUNBYjF5U2hONG5kNEU?oc=5",
@@ -2232,18 +2376,6 @@
       "sourceType": "news",
       "publishedAt": "2026-09-09T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "9bb7aabf75dec18a2db8",
-      "title": "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査 - テレ朝NEWS",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UeDljOGRXcktORWNGY0RFQzUwNXQ5ekhnMENkQlEweHczMFJubW93a3FVWVJpNFNCLWNkSVlwS2NudDhFUmhFRzNWbG1TaUthbXhfQ3V1Z3d2d19SMkVxeFNEczRMS2txTW9ycHM4MjFJdw?oc=5",
-      "summary": "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査 テレ朝NEWS",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "テレ朝NEWS",
-      "sourceType": "news",
-      "publishedAt": "2026-09-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
     },
     {
       "id": "2d5ed56a3a5757f539e5",
@@ -2296,6 +2428,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "e04ea7523befa9aeca4c",
+      "title": "茨城・つくばのデータセンター計画、住民が市に説明会を求め請願提出 [茨城県] [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tSWpRTzBLWENKNWpZT2ZxNXk1TVdna2V5clpjT19qMGVkaHJXWUFkbkluY3kyMmVBQ3NIX1dyc2RtU1VTRUpLOFBMcFFCaHIxb3Rnd1pFc2xvcGl1NzRqeG1XNFdaaEU?oc=5",
+      "summary": "茨城・つくばのデータセンター計画、住民が市に説明会を求め請願提出 [茨城県] [AIの時代] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-09-02T07:00:00+00:00",
+      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
+    },
+    {
       "id": "a29855c58e7a449c9806",
       "title": "【つくば市】バーキン派の皆様に朗報です♪バーガーキングがそよらつくば学園の森店にオープンするみたい！ - 号外NET つくば市",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GYUNxcDdIUzRpQ0pydmRrWGtQalIxcEZTNGNHR2dnc1VGckZQbTI0NTYxQzRuQ0t0aXJuM0J6bm9tOURfNGV5MmoyNnpSY0hCdjNaWDhuMjJmaVViLWwtSUNBOFA0MzZWRjlncGF2ZTQ?oc=5",
@@ -2308,18 +2452,6 @@
       "sourceType": "news",
       "publishedAt": "2026-09-02T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
-    },
-    {
-      "id": "e04ea7523befa9aeca4c",
-      "title": "茨城・つくばのデータセンター計画、住民が市に説明会を求め請願提出 [茨城県] [AIの時代] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tSWpRTzBLWENKNWpZT2ZxNXk1TVdna2V5clpjT19qMGVkaHJXWUFkbkluY3kyMmVBQ3NIX1dyc2RtU1VTRUpLOFBMcFFCaHIxb3Rnd1pFc2xvcGl1NzRqeG1XNFdaaEU?oc=5",
-      "summary": "茨城・つくばのデータセンター計画、住民が市に説明会を求め請願提出 [茨城県] [AIの時代] 朝日新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-09-02T07:00:00+00:00",
-      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
     },
     {
       "id": "5c108317003df8787165",
@@ -2558,30 +2690,6 @@
       "sourceType": "news",
       "publishedAt": "2026-08-04T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "d2cfa5fa89355b206241",
-      "title": "新たに、茨城県つくば市に「つくば営業所」を開設 - 47NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03dFJ0eGxVYkVQdlo1ZEl6RG02LVBTQmFuXzVVTVU4T0NtQkxlYjZ4XzFEOE9DRHEwWXJ5Y0V1SDhma2tjaU5SRDlXTQ?oc=5",
-      "summary": "新たに、茨城県つくば市に「つくば営業所」を開設 47NEWS",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "47NEWS",
-      "sourceType": "news",
-      "publishedAt": "2026-08-03T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "bf3002a6cc574b81ef50",
-      "title": "佐川グローバルロジ／茨城県つくば市に2.4万m2の営業所開設、ネットワーク強化へ今年4件目 - 物流ニュースのLNEWS",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03UV96SVk2UUtvNDloRXBoNEFSdk9WYTRmaXdoMGozSVVJSTR0X2ZNdGR4VTZEN3k5SENhRTVRWm9EUDNfcnpNTVA1SkZBZU10OGZ3aw?oc=5",
-      "summary": "佐川グローバルロジ／茨城県つくば市に2.4万m2の営業所開設、ネットワーク強化へ今年4件目 物流ニュースのLNEWS",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "物流ニュースのLNEWS",
-      "sourceType": "news",
-      "publishedAt": "2026-08-03T07:00:00+00:00",
-      "firstSeenAt": "2026-11-01T04:00:00.656147+00:00"
     }
   ]
 }
