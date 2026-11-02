@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T16:11:39.323189+00:00",
-  "articleCount": 237,
+  "updatedAt": "2026-11-02T21:52:12.798709+00:00",
+  "articleCount": 252,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 54
+      "count": 94
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -31,7 +31,7 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
@@ -246,6 +246,30 @@
       "firstSeenAt": "2026-11-01T09:54:24.277227+00:00"
     },
     {
+      "id": "95d9a26b18c326e67790",
+      "title": "求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら130人 - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xOGJpdnNRUHNYaGdOalljbDVKRS01SmItSmtUdk9KQ1F3YXhnbGRNWnQ4UW9FYXpIUEVZS2psbGZHNjJ3c3VhaTNCWQ?oc=5",
+      "summary": "求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら130人 47NEWS",
+      "category": "イベント",
+      "areas": [],
+      "source": "47NEWS",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T09:06:00+00:00",
+      "firstSeenAt": "2026-11-01T09:54:24.277227+00:00"
+    },
+    {
+      "id": "29925ccc7003cfe38ac3",
+      "title": "求職者に宇宙の仕事紹介、つくば - 大分合同新聞",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMbXRyajN0VHJqTldwUjl5T21EM1NOV3ZrVnotNENtaFM3b1JfV194SWh2YUNmWGtJVm9BYnpKZ05fWnFUcFhLcU5lbWQ5c1RISkxmVkYydW9tTkg0TGVFZ1BNOEltbVlUSEYxQ2tlTXVwS2xoaWdOcNIBhAFBVV95cUxQdVVNRUFrWkNQUUhmamNJQTUxRWhOaE5Ydk5EZk9kMXdxa3piM3V2cm5OY2hWX19NSjU4bnJkQVdQLWFobGR0UjBjZUwteHpIcWRIZFRxX3Y4bGY5TUhnaTZfcndQMU9fNEdRbS1MTjA3WVN1SXkyUy01Ny00M2h0NWlFQkg?oc=5",
+      "summary": "求職者に宇宙の仕事紹介、つくば 大分合同新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "大分合同新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T08:54:08+00:00",
+      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
+    },
+    {
       "id": "e4f4be66e58d6e906152",
       "title": "求職者に宇宙の仕事紹介、つくば - デイリースポーツ",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55aUpBcGc5M0gzcmZodDRzWlpJamJSQVdLaGprbTdMaVVKZzFBSHlhUlpfOUFwMi1FVktMS0RSLVlpcnZ4UEo5bE9GVTh3SVhjcmZTNEtzQkVjNnQyM3laREEzZU8xenVnN25ZcmhNNlgzNlppdlE?oc=5",
@@ -289,18 +313,6 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "中国新聞デジタル",
-      "sourceType": "news",
-      "publishedAt": "2026-11-01T08:37:25+00:00",
-      "firstSeenAt": "2026-11-01T09:54:24.277227+00:00"
-    },
-    {
-      "id": "95d9a26b18c326e67790",
-      "title": "求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら130人 - 47NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xOGJpdnNRUHNYaGdOalljbDVKRS01SmItSmtUdk9KQ1F3YXhnbGRNWnQ4UW9FYXpIUEVZS2psbGZHNjJ3c3VhaTNCWQ?oc=5",
-      "summary": "求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら130人 47NEWS",
-      "category": "イベント",
-      "areas": [],
-      "source": "47NEWS",
       "sourceType": "news",
       "publishedAt": "2026-11-01T08:37:25+00:00",
       "firstSeenAt": "2026-11-01T09:54:24.277227+00:00"
@@ -486,18 +498,6 @@
       "firstSeenAt": "2026-10-31T03:54:28.316386+00:00"
     },
     {
-      "id": "4e43e99bfa87afa60818",
-      "title": "参加制限なし、質問可 DC建設企業、市民向け説明会 茨城・つくば（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jU2VWeW0taWlmQmdNdzRaMHdsTVJqTjRuVHNSdm0yNHRoQ1lQenBvSk10TF9TclRhSDVrcjRkQmFRMmt0U1h6VTBGYkgxei1MZ3JNYnpZZ0hLbWZaZGtBeDI3VmoyakwyV1dienByWVcyRE1qcDlqdjlpZUN2OFE?oc=5",
-      "summary": "参加制限なし、質問可 DC建設企業、市民向け説明会 茨城・つくば（朝日新聞） Yahoo!ニュース",
-      "category": "開発・建設",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-31T02:15:00+00:00",
-      "firstSeenAt": "2026-10-31T03:54:28.316386+00:00"
-    },
-    {
       "id": "3b9f0760aa849c6995f9",
       "title": "参加制限なし、質問可 DC建設企業、市民向け説明会 茨城・つくば [茨城県] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tbm16QWhoNld3QTZ4d24ydFYzWWh4LVZKVkttVGVoWEZEVDhReW5ZeHd2bW5jTzh4VXA4d2hpOTR2MDZRS19IV1cwdHFESnV3UFBEMHp2RUZuWFAwX3ZZaFpZWkFLeWs?oc=5",
@@ -508,6 +508,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-31T02:15:00+00:00",
       "firstSeenAt": "2026-10-31T09:50:47.806792+00:00"
+    },
+    {
+      "id": "4e43e99bfa87afa60818",
+      "title": "参加制限なし、質問可 DC建設企業、市民向け説明会 茨城・つくば（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jU2VWeW0taWlmQmdNdzRaMHdsTVJqTjRuVHNSdm0yNHRoQ1lQenBvSk10TF9TclRhSDVrcjRkQmFRMmt0U1h6VTBGYkgxei1MZ3JNYnpZZ0hLbWZaZGtBeDI3VmoyakwyV1dienByWVcyRE1qcDlqdjlpZUN2OFE?oc=5",
+      "summary": "参加制限なし、質問可 DC建設企業、市民向け説明会 茨城・つくば（朝日新聞） Yahoo!ニュース",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-31T02:15:00+00:00",
+      "firstSeenAt": "2026-10-31T03:54:28.316386+00:00"
     },
     {
       "id": "0b69e9bb21e37f84ae34",
@@ -1450,6 +1462,30 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "a5ab059b1c8efb96951d",
+      "title": "データセンター計画、市の要請受け説明会 つくばで来月以降 - 東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyTnp0THBHZGcyMl83SXI0aUNuY21TT3VCM0Fld0NsWUg1Rkc2WTFyZ2dJR3RIcnpjZDk2VHhneEpkSnlLVkRObWlEeF93V2ZnbWRJ?oc=5",
+      "summary": "データセンター計画、市の要請受け説明会 つくばで来月以降 東京新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "東京新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-10-24T07:00:00+00:00",
+      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
+    },
+    {
+      "id": "8fe2bde7e1da07ad09c5",
+      "title": "イオンの都市型SCが茨城・つくば、牛久に開業へ 子育て世帯ねらい [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qNVA5cGxOWVFILU5kWUtNSXU0aFlPQXdxN2xNb0VsM0tPVHo1S0N1UnVWRFBMTkg2ZHVkSkF0NDl1T2J4RGpsMXdGanBaUFphVjEwWmJvdWdheGNRQWNmZGRxRVNjZkk?oc=5",
+      "summary": "イオンの都市型SCが茨城・つくば、牛久に開業へ 子育て世帯ねらい [茨城県] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-10-24T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "5f67a980fb85da19f98d",
       "title": "イオンの都市型SCが茨城・つくば、牛久に開業へ 子育て世帯ねらい（朝日新聞） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yN2hLYzBpNnJ4LUROUkFrX0hfZ2N1VlBzWTRnZTZ2ajlZYWM2azVSdm5jeXhaa2YzZS1Gb2p3MEtPbkVPa1lMRGx5MjgybFktRW5YUmF6WG9aNnZQdm9lVHhqenM3bWJudU0wWnZ6RmFXRDd5Nzh3VC0yWXdiWm8?oc=5",
@@ -1469,18 +1505,6 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-24T02:15:01+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "8fe2bde7e1da07ad09c5",
-      "title": "イオンの都市型SCが茨城・つくば、牛久に開業へ 子育て世帯ねらい [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qNVA5cGxOWVFILU5kWUtNSXU0aFlPQXdxN2xNb0VsM0tPVHo1S0N1UnVWRFBMTkg2ZHVkSkF0NDl1T2J4RGpsMXdGanBaUFphVjEwWmJvdWdheGNRQWNmZGRxRVNjZkk?oc=5",
-      "summary": "イオンの都市型SCが茨城・つくば、牛久に開業へ 子育て世帯ねらい [茨城県] 朝日新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "朝日新聞",
       "sourceType": "news",
       "publishedAt": "2026-10-24T02:15:01+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
@@ -1510,30 +1534,6 @@
       "firstSeenAt": "2026-10-30T21:48:09.243745+00:00"
     },
     {
-      "id": "de04d0534cd05862ab45",
-      "title": "茨城・つくば市 DCガイドライン策定 事業者にオープン型説明会要求（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QbEcybEtTUldSR29nVWNIa1RaNm1hVTBfN2YtNG1XZmUtYkFBaVBrMDQ5NmExbFRmQTdIYjd2cTQ3UnhwYTl5YU1RX2lTa3NSS1ZLdzFyNzBEYnJxU3RPdXg0VTFRdzlPYnNFTDVXeHcwZXpKbXZXM1pENUlKUjQ?oc=5",
-      "summary": "茨城・つくば市 DCガイドライン策定 事業者にオープン型説明会要求（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-23T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "1413f1090eda3717d3f0",
-      "title": "バーガーキングが10月に東京・つくばで2店舗オープン、全国385店舗へ 2028年末600店舗の目標に向け出店拡大（LIMO） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqN0dEY0I1c0c4a1packFzZGprRHZvVzdmZUh2T0JCRlZxYTV3R19kVXVWOEZfQzUzT2hoNThJVU9rUGY4bGlEN2NjWVNQZWZyRVZoSDAzU24yTnU0UEd3cExGNnU3WjJZN21JOXJnVjljcG1YOEJvZU9xcHRxZlE?oc=5",
-      "summary": "バーガーキングが10月に東京・つくばで2店舗オープン、全国385店舗へ 2028年末600店舗の目標に向け出店拡大（LIMO） Yahoo!ニュース",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-23T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "248b78f6402ebf127cfc",
       "title": "データセンター建設ガイドライン、つくば市が独自に作成 誰でも参加できる説明会など - 東京新聞",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvMkNIbUJ6VHpRRHNKdjJkZzQ5ZHo0TkVicG1MTnR6Z0RabVFnSDM4T3d2ZHBlNU5vdTViRnJiaVdYSGM4WmFUelR1SmlWMkdSaDNF?oc=5",
@@ -1553,6 +1553,30 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "47NEWS",
+      "sourceType": "news",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "de04d0534cd05862ab45",
+      "title": "茨城・つくば市 DCガイドライン策定 事業者にオープン型説明会要求（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QbEcybEtTUldSR29nVWNIa1RaNm1hVTBfN2YtNG1XZmUtYkFBaVBrMDQ5NmExbFRmQTdIYjd2cTQ3UnhwYTl5YU1RX2lTa3NSS1ZLdzFyNzBEYnJxU3RPdXg0VTFRdzlPYnNFTDVXeHcwZXpKbXZXM1pENUlKUjQ?oc=5",
+      "summary": "茨城・つくば市 DCガイドライン策定 事業者にオープン型説明会要求（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "1413f1090eda3717d3f0",
+      "title": "バーガーキングが10月に東京・つくばで2店舗オープン、全国385店舗へ 2028年末600店舗の目標に向け出店拡大（LIMO） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqN0dEY0I1c0c4a1packFzZGprRHZvVzdmZUh2T0JCRlZxYTV3R19kVXVWOEZfQzUzT2hoNThJVU9rUGY4bGlEN2NjWVNQZWZyRVZoSDAzU24yTnU0UEd3cExGNnU3WjJZN21JOXJnVjljcG1YOEJvZU9xcHRxZlE?oc=5",
+      "summary": "バーガーキングが10月に東京・つくばで2店舗オープン、全国385店舗へ 2028年末600店舗の目標に向け出店拡大（LIMO） Yahoo!ニュース",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-10-23T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
@@ -1740,18 +1764,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "654f1e4ec65a4427a67f",
-      "title": "【更新】90歳男性運転の軽乗用車 外壁に衝突し死亡 茨城・つくば（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qNFI3UEdzQWNseDJhZXozdGF3MG5lNFhFVjJWaFBqaldpWjF4RWliZW52RnZtYkxoWlczc1FRa3hEYnhnNlpqZzEyY3BBWDJSOU5wYTdWM1Zpd2FLdkQwSElYYW5nUngtLU1Tb0htNktyZXZ0c0Z5VUUyVUNUcXc?oc=5",
-      "summary": "【更新】90歳男性運転の軽乗用車 外壁に衝突し死亡 茨城・つくば（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-16T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "52a5546c0808fba605d8",
       "title": "【更新】90歳男性運転の軽乗用車 外壁に衝突し死亡 茨城・つくば - 47NEWS",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nazg3d2ZVTExraGgwNFNhUlYteHNfekJLMUpWZ2dpbGtWVE1zNWt2eW9FTXl5U2pxUjVsRE9kRWZTNUw1bW9ZWER4OA?oc=5",
@@ -1762,6 +1774,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-16T07:00:00+00:00",
       "firstSeenAt": "2026-11-02T10:17:16.077542+00:00"
+    },
+    {
+      "id": "654f1e4ec65a4427a67f",
+      "title": "【更新】90歳男性運転の軽乗用車 外壁に衝突し死亡 茨城・つくば（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qNFI3UEdzQWNseDJhZXozdGF3MG5lNFhFVjJWaFBqaldpWjF4RWliZW52RnZtYkxoWlczc1FRa3hEYnhnNlpqZzEyY3BBWDJSOU5wYTdWM1Zpd2FLdkQwSElYYW5nUngtLU1Tb0htNktyZXZ0c0Z5VUUyVUNUcXc?oc=5",
+      "summary": "【更新】90歳男性運転の軽乗用車 外壁に衝突し死亡 茨城・つくば（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-16T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "1d3ce08545a07e0553b7",
@@ -1812,6 +1836,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "353ed6c608fc8d5e2456",
+      "title": "動物の交通事故死、ネコが４割 つくば市、飼育管理に課題 | 全国のニュース - 福井新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0WE5ndVdxb2RPVjhBTFljbjROMlFKYjl3Mm1nbnAtZHNuWGZuWDRWcVZlSlZmaXRBdHN2NVJRWHpkOEc5bFFPUEZiOEsycmVLV3IyWmN0UXlFaXRBSEE?oc=5",
+      "summary": "動物の交通事故死、ネコが４割 つくば市、飼育管理に課題 | 全国のニュース 福井新聞社",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "福井新聞社",
+      "sourceType": "news",
+      "publishedAt": "2026-10-14T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "fe883255b3c67dc5d17e",
       "title": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題（共同通信） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11WFo0VFQ1Mk56QUhuZ1NLMU5jMWNZbVp4dFVac3ZVVk91Wk9UUU13cVNsZUQyeUg5Nm9pOXVjZVJQQnZ0RmNmSzY1T3ljZjY1aTgwb1FnQnNXUElaSWhZblVxdFp1ZTlFdmZGVmM2UWZINDlVTGdrS2ptclFHS0U?oc=5",
@@ -1836,16 +1872,16 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "353ed6c608fc8d5e2456",
-      "title": "動物の交通事故死、ネコが４割 つくば市、飼育管理に課題 | 全国のニュース - 福井新聞社",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0WE5ndVdxb2RPVjhBTFljbjROMlFKYjl3Mm1nbnAtZHNuWGZuWDRWcVZlSlZmaXRBdHN2NVJRWHpkOEc5bFFPUEZiOEsycmVLV3IyWmN0UXlFaXRBSEE?oc=5",
-      "summary": "動物の交通事故死、ネコが４割 つくば市、飼育管理に課題 | 全国のニュース 福井新聞社",
+      "id": "2f087fb0117c4dd53c34",
+      "title": "動物の交通事故死、ネコが４割 つくば市、飼育管理に課題｜全国のニュース｜Web東奥 - 東奥日報社",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kWWtIeExodFkxSnpQZ25CLUhMU2gwWkh5NE1oVW43VHQ2QXk2enNkVHdydVRQYmtzSVBmS3B6cWk3RXRPTmI0UWRlSGtfcFRSbGlzTmJuVVo?oc=5",
+      "summary": "動物の交通事故死、ネコが４割 つくば市、飼育管理に課題｜全国のニュース｜Web東奥 東奥日報社",
       "category": "地域ニュース",
       "areas": [],
-      "source": "福井新聞社",
+      "source": "東奥日報社",
       "sourceType": "news",
-      "publishedAt": "2026-10-14T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+      "publishedAt": "2026-10-14T06:34:02+00:00",
+      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
     },
     {
       "id": "81d096627efdb6f0a4ee",
@@ -1884,18 +1920,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "8864bd4c1b482475e14e",
-      "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - 乗りものニュース",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XcGpfYmFWejBQbnhBOHRnNnh1eHM5WERJLU5ZRDUyMEI2NWdIY0c5Y3N0OVc4NGN2TlY2cjE0b2Nvd2YzQk5ndWJB?oc=5",
-      "summary": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 乗りものニュース",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "乗りものニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "54f0e5303bacb8cc8f65",
       "title": "データセンター説明会 つくば市主催求めて住民抗議 - 東京新聞",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnRHBMUU51SFhMVE5MdUdiMDZreDRCVm9ZSFpoX3AwdFRaYUNyWndmOC1PSW5FeHJFQUpNYkh3UlBWbGtqaGwzaVlTLUxLcDdPZkQw?oc=5",
@@ -1903,6 +1927,18 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "東京新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-10-09T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "8864bd4c1b482475e14e",
+      "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - 乗りものニュース",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XcGpfYmFWejBQbnhBOHRnNnh1eHM5WERJLU5ZRDUyMEI2NWdIY0c5Y3N0OVc4NGN2TlY2cjE0b2Nvd2YzQk5ndWJB?oc=5",
+      "summary": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 乗りものニュース",
+      "category": "交通・生活",
+      "areas": [],
+      "source": "乗りものニュース",
       "sourceType": "news",
       "publishedAt": "2026-10-09T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
@@ -2006,6 +2042,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "1eb6a9e4622f56a64b50",
+      "title": "《つくば刺傷》「やっちまおうぜ」6人の若手従業員が“結託”し社長（28）を刺し殺人未遂で逮捕…背景に残業・給料めぐるトラブルか…過去には従業員と親しげにBBQも【2026年9月ニュース記事3位】 - 集英社オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxZzlBNDY4TUIzMy1iRXlPX0RkY3NsOC1tQVg5MklDZHQzZDM4RWk1YzUyTlJCSUgxRUl4VG9Bb2JXN0swakE0QWsxUXNkVm1YeXpV?oc=5",
+      "summary": "《つくば刺傷》「やっちまおうぜ」6人の若手従業員が“結託”し社長（28）を刺し殺人未遂で逮捕…背景に残業・給料めぐるトラブルか…過去には従業員と親しげにBBQも【2026年9月ニュース記事3位】 集英社オンライン",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "集英社オンライン",
+      "sourceType": "news",
+      "publishedAt": "2026-10-08T07:00:00+00:00",
+      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
+    },
+    {
       "id": "439bd9e594c9ac7a9d9d",
       "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - NewsPicks",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE81Rm5waFJ1elg0eGdma29lR2tyYkVLaDE0ZXNOWmd6b3QxbG9YSXMybHkwbG9sMWU3Q2FmX0JfbzRHOGhwazJPNzJJVFE?oc=5",
@@ -2042,18 +2090,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "bcfe0b21913e254b7efe",
-      "title": "DC説明会、実現困難 茨城・つくば市議会 請願を趣旨採択 住民団体「納得できぬ」（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RSW5zSjlObmU4T3pYSkNnZUxEazJXY1c5cWF0Ym5HYVBKRl9PcEExdkdZN1BaY1pRWkt1MEJmc1pKSDl0NFZobWhrazJ1M25iYk1kVmVjNkJfVXlPemt5aEVjRFV6VUNic1Y2c3BkelpGS3g4cTZ5a2RpaEd4eTg?oc=5",
-      "summary": "DC説明会、実現困難 茨城・つくば市議会 請願を趣旨採択 住民団体「納得できぬ」（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "行政・市政",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-07T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "f85b4e48d20d65d9cdfd",
       "title": "（茨城）つくば市桜２丁目で盗撮 １０月６日 - ｄメニューニュース",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM1hIMzFwWDFza3RRRHRoVU9XUmc1clh3Rm4yOFhxRnBrTi1Ib3hMR1doNnF4QkVZOF9BNGNDSUdPMXRYVkd1Z0wtbmJZUk10Sm5TRzB1Z1VTeG5lUGJ6S21YWkVjbmJXWlZoUWRDdklTamRLM1diVUFELW03SGI0NlNyX3pZME0wSmZOU0c0a0VCWUJibkxLTFRObELSAaIBQVVfeXFMTUlkaDNuX1FZWmduME0xZkRwSmMzNVhReEg0RHVzbGR5ZVA1UkZONm1ySzNrSEg3MTFfaFRPY3hPRV9LYU1hak1vOTdwMjhoVk9lMEctYkN4Vl9DLWotdDN5WUJld1lKeW1WWk90bTZsdjZqQi1HMDZabzdEZEREWkd1U2Q5VE1PeEkzdnB0OGZtR0NBa2dUNW5yZkNlZkNUR0xB?oc=5",
@@ -2066,11 +2102,11 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "141923839b601d6af0f0",
-      "title": "バレーSVリーグ つくばU主将「王者へ全力」 チーム一丸、活躍誓う 茨城（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NN1AzUU1OZTdmT09YS0dObFNad3Y2VFlJVnV0UE5fSDNQdmt4aS03eW1pcTV6dGUxcWZ2QXhZVlRsSlI0R2ZuS0h3ZHlKM3hEUkhiamZBQnlwSmV3QjhUc1QwNlhkWEdUWGtlVGEyR0VWNFJveXZybU1SN3VVeUU?oc=5",
-      "summary": "バレーSVリーグ つくばU主将「王者へ全力」 チーム一丸、活躍誓う 茨城（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "地域ニュース",
+      "id": "bcfe0b21913e254b7efe",
+      "title": "DC説明会、実現困難 茨城・つくば市議会 請願を趣旨採択 住民団体「納得できぬ」（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RSW5zSjlObmU4T3pYSkNnZUxEazJXY1c5cWF0Ym5HYVBKRl9PcEExdkdZN1BaY1pRWkt1MEJmc1pKSDl0NFZobWhrazJ1M25iYk1kVmVjNkJfVXlPemt5aEVjRFV6VUNic1Y2c3BkelpGS3g4cTZ5a2RpaEd4eTg?oc=5",
+      "summary": "DC説明会、実現困難 茨城・つくば市議会 請願を趣旨採択 住民団体「納得できぬ」（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "行政・市政",
       "areas": [],
       "source": "Yahoo!ニュース",
       "sourceType": "news",
@@ -2087,6 +2123,54 @@
       "source": "東京新聞",
       "sourceType": "news",
       "publishedAt": "2026-10-07T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "ad3e1e0f617a7d40a8f9",
+      "title": "バレーSVリーグ つくばU主将「王者へ全力」 チーム一丸、活躍誓う 茨城 - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Bc0RXTUlEcldLbVFGa2FqVHlFXzVST3dJbl9uNTBlTnliWFpya2M2X3R3X0hTQnlpbTRyLXpsaFVCWTRPX1lpSFZ3aw?oc=5",
+      "summary": "バレーSVリーグ つくばU主将「王者へ全力」 チーム一丸、活躍誓う 茨城 47NEWS",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "47NEWS",
+      "sourceType": "news",
+      "publishedAt": "2026-10-07T07:00:00+00:00",
+      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
+    },
+    {
+      "id": "141923839b601d6af0f0",
+      "title": "バレーSVリーグ つくばU主将「王者へ全力」 チーム一丸、活躍誓う 茨城（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NN1AzUU1OZTdmT09YS0dObFNad3Y2VFlJVnV0UE5fSDNQdmt4aS03eW1pcTV6dGUxcWZ2QXhZVlRsSlI0R2ZuS0h3ZHlKM3hEUkhiamZBQnlwSmV3QjhUc1QwNlhkWEdUWGtlVGEyR0VWNFJveXZybU1SN3VVeUU?oc=5",
+      "summary": "バレーSVリーグ つくばU主将「王者へ全力」 チーム一丸、活躍誓う 茨城（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-07T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "3eef69de6a0ecbb28041",
+      "title": "復活Ｖ大の里「次の場所が大事」 茨城県つくば市で秋巡業始まる - 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0MXo2dG1BQU16eXQ1UURjY3ZhTkJqWTlDbTQ5bkZXSWlpVDNkckhJOHZ0MXI1cVlQdzVUUzhra2ZLa0RUdFBvMEdIMllkWlZ0YmtaZGRrY19NcWlRaHc?oc=5",
+      "summary": "復活Ｖ大の里「次の場所が大事」 茨城県つくば市で秋巡業始まる 沖縄タイムス社",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "沖縄タイムス社",
+      "sourceType": "news",
+      "publishedAt": "2026-10-06T07:00:00+00:00",
+      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
+    },
+    {
+      "id": "270cf09bb94729624dc4",
+      "title": "復活Ｖ大の里「次の場所が大事」 茨城県つくば市で秋巡業始まる | 全国のニュース - 福井新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kV2FxSWR1Znp0QjRlLWdzajcyRmxGZHozSVZzRkRrN0FlQ1NGUDZHeXJ1YVB6ZWlLcDRVcmlnakFwT0pQc3Zma203cnJzdG83WTNRLTJxS29aekRGUFE?oc=5",
+      "summary": "復活Ｖ大の里「次の場所が大事」 茨城県つくば市で秋巡業始まる | 全国のニュース 福井新聞社",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "福井新聞社",
+      "sourceType": "news",
+      "publishedAt": "2026-10-06T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
@@ -2114,16 +2198,28 @@
       "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
     },
     {
-      "id": "270cf09bb94729624dc4",
-      "title": "復活Ｖ大の里「次の場所が大事」 茨城県つくば市で秋巡業始まる | 全国のニュース - 福井新聞社",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kV2FxSWR1Znp0QjRlLWdzajcyRmxGZHozSVZzRkRrN0FlQ1NGUDZHeXJ1YVB6ZWlLcDRVcmlnakFwT0pQc3Zma203cnJzdG83WTNRLTJxS29aekRGUFE?oc=5",
-      "summary": "復活Ｖ大の里「次の場所が大事」 茨城県つくば市で秋巡業始まる | 全国のニュース 福井新聞社",
+      "id": "24bcc4e03f4734d684b5",
+      "title": "連載:医療の未来 筑波大病院50年》(1) 「開拓者」気概の1期生（茨城新聞クロスアイ - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EdHBwTWR2MDdITFBKRzlmX3JuLWtDS0xNSVNjcWpab3B0Yjg5bXlKd1lfVTFWRTNNY0F4TFl5TlFjQjlpWGdVNlFKQkZ1UXpyZWlKSkNmY2gxOHo0ZDZXd1FtMkVLX0F1RDJtc0xLUTR2NUgtZHFaSmd3SUtWQ1U?oc=5",
+      "summary": "連載:医療の未来 筑波大病院50年》(1) 「開拓者」気概の1期生（茨城新聞クロスアイ Yahoo!ニュース",
       "category": "地域ニュース",
       "areas": [],
-      "source": "福井新聞社",
+      "source": "Yahoo!ニュース",
       "sourceType": "news",
-      "publishedAt": "2026-10-06T07:00:00+00:00",
+      "publishedAt": "2026-10-05T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "e65c278c073767419587",
+      "title": "水戸9月の雨 平年の3.4倍 つくば、日照時間最短 茨城 - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HWDNZMmZHbkFwSVI4T3BuSGJqamEyZlZvOEJfVHg5NG9CdUVoSVh5Y3pWSmJJc1NwUDV3VzdKWElQUXlleUJXTXpTbw?oc=5",
+      "summary": "水戸9月の雨 平年の3.4倍 つくば、日照時間最短 茨城 47NEWS",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "47NEWS",
+      "sourceType": "news",
+      "publishedAt": "2026-10-05T07:00:00+00:00",
+      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
     },
     {
       "id": "4dc763b2c9a5cfad2178",
@@ -2136,18 +2232,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-05T07:00:00+00:00",
       "firstSeenAt": "2026-11-02T16:11:39.323189+00:00"
-    },
-    {
-      "id": "24bcc4e03f4734d684b5",
-      "title": "連載:医療の未来 筑波大病院50年》(1) 「開拓者」気概の1期生（茨城新聞クロスアイ - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EdHBwTWR2MDdITFBKRzlmX3JuLWtDS0xNSVNjcWpab3B0Yjg5bXlKd1lfVTFWRTNNY0F4TFl5TlFjQjlpWGdVNlFKQkZ1UXpyZWlKSkNmY2gxOHo0ZDZXd1FtMkVLX0F1RDJtc0xLUTR2NUgtZHFaSmd3SUtWQ1U?oc=5",
-      "summary": "連載:医療の未来 筑波大病院50年》(1) 「開拓者」気概の1期生（茨城新聞クロスアイ Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-05T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "22189fa9a5102947b349",
@@ -2260,6 +2344,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "547c38730b0fff60d595",
+      "title": "ユニバーサルデザイン 筑波技術大学生ら「歩み寄る姿勢で」 つくば市職員 実践通じ学ぶ - 東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lN2RmTFlIVmJhakcwN0FnRnc1eFZqYktUQXViN0pBNmZ2S2pyTjV1ZFhEVVNGNjVRYkk5MXE3NVFDZkNfSWUxb29WSFNJWU12LXJj?oc=5",
+      "summary": "ユニバーサルデザイン 筑波技術大学生ら「歩み寄る姿勢で」 つくば市職員 実践通じ学ぶ 東京新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "東京新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-09-30T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "3ff8f29e6c18f9542946",
       "title": "そよらつくば学園の森 2026年10月25日(日)開業！全11テナント一覧！最新情報も！ - 出店ウォッチ",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yT09DRXRUdWQ3VlVhU2hETkhpcGQtbVByRFBqY0xJdmN1aGl0UGd1MVBFYWNicTd2TFhWVjB6MWlselFrY3lZOFdMTWRtVWM?oc=5",
@@ -2269,18 +2365,6 @@
         "研究学園"
       ],
       "source": "出店ウォッチ",
-      "sourceType": "news",
-      "publishedAt": "2026-09-30T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "547c38730b0fff60d595",
-      "title": "ユニバーサルデザイン 筑波技術大学生ら「歩み寄る姿勢で」 つくば市職員 実践通じ学ぶ - 東京新聞",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lN2RmTFlIVmJhakcwN0FnRnc1eFZqYktUQXViN0pBNmZ2S2pyTjV1ZFhEVVNGNjVRYkk5MXE3NVFDZkNfSWUxb29WSFNJWU12LXJj?oc=5",
-      "summary": "ユニバーサルデザイン 筑波技術大学生ら「歩み寄る姿勢で」 つくば市職員 実践通じ学ぶ 東京新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "東京新聞",
       "sourceType": "news",
       "publishedAt": "2026-09-30T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
@@ -2336,6 +2420,30 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "3dcf25bde1ea7a9599fc",
+      "title": "つくばに建設予定のデータセンターで「接待のような」住民説明会 カニ、ローストビーフ…「コース料理」提供 - 東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SelF2SlBLanFwUGdzQnU3SnlxZDNXUGh4c005VFZZeUxIckRfcllDVTBaeHBHSkItOWtvLXVQaHNHUzFFdXdfcXlNU05MOWtMeUFr?oc=5",
+      "summary": "つくばに建設予定のデータセンターで「接待のような」住民説明会 カニ、ローストビーフ…「コース料理」提供 東京新聞",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "東京新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-09-29T07:00:00+00:00",
+      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
+    },
+    {
+      "id": "08129e09cc9c654cf763",
+      "title": "大相撲秋場所V 大の里「余韻に浸りたい」 祝賀会で大歓声 茨城・つくば - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBTi1XbTV1dUJ2Q3pQY2RuMG5UX0pXajdWa3JUQUlvNzFrSl9CM2FFbHZudGQwbmhBN2d3MnlkTjZMZlR0S3J2YnRDaw?oc=5",
+      "summary": "大相撲秋場所V 大の里「余韻に浸りたい」 祝賀会で大歓声 茨城・つくば 47NEWS",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "47NEWS",
+      "sourceType": "news",
+      "publishedAt": "2026-09-27T23:21:38+00:00",
+      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
+    },
+    {
       "id": "fd2f2371393b19588a5e",
       "title": "【更新】つくばの殺人未遂 容疑でアルゼンチン国籍の男逮捕 7人目 茨城県警（茨城新聞クロスアイ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vUEJSamZPcHlORGtLY21QdjZVdUZFQ0JOUk9nYk1lWEJhUWM4VHhTVFVWX1hrdzhXT1llbXFEeDhQNjFmd1dYcnBGUldoZko3UlREeWIwUDhBMllJMm1tQXdPbjNHMGVKX0plaUlHaExCR0ZzQ2xFYWJCOHE2X2s?oc=5",
@@ -2360,6 +2468,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "67ee8c7b68db5ae70e94",
+      "title": "給食に異物混入 つくば市の義務教育学校 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sZGRDLTBnWXE3bVVVUnE3Y3g4TEVTejhlR0tET011TjFfYjZ4VXN0azREVmtGNkR6Zno4SW1mNzZ6cDhucTVTSTZoZw?oc=5",
+      "summary": "給食に異物混入 つくば市の義務教育学校 NEWSつくば",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-09-26T07:00:00+00:00",
+      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
+    },
+    {
       "id": "a29273d9fcf1d0e7e709",
       "title": "【つくば市】これは気になる！竹園にある「鮨たけもと」直営のお店が下広岡にオープンしたみたいです！ - 号外NET つくば市",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGNllmaHRPTVU5RzFnMG8weDJEN084bTFxSVNoOHlkSHNYNVUtUm5faklpX2M5MGdUaXBCcUh4YWtZUHhPV1BnQnJyNzZibUYxVl9qSEZFUWdDRi1ZSXN2MlBRMXdnbW92ZV9zYlFoVEo?oc=5",
@@ -2372,6 +2492,18 @@
       "sourceType": "news",
       "publishedAt": "2026-09-26T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
+      "id": "0ebcf29a9c809b96bfb3",
+      "title": "管理職2人に計74万円賠償請求を つくば市監査委員 生活保護行政の不適正事務 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GdG5Mam5DUUNTZV90NHJLTFZjcXNaYkNLY19qRE9hZ09RVnlYVllHV3NjYU1HemxYMGZBSXR6aURZLXV0VWhYdG83aw?oc=5",
+      "summary": "管理職2人に計74万円賠償請求を つくば市監査委員 生活保護行政の不適正事務 NEWSつくば",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-09-25T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "739440ea693fd72ed864",
@@ -2424,18 +2556,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "0ebcf29a9c809b96bfb3",
-      "title": "管理職2人に計74万円賠償請求を つくば市監査委員 生活保護行政の不適正事務 - NEWSつくば",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GdG5Mam5DUUNTZV90NHJLTFZjcXNaYkNLY19qRE9hZ09RVnlYVllHV3NjYU1HemxYMGZBSXR6aURZLXV0VWhYdG83aw?oc=5",
-      "summary": "管理職2人に計74万円賠償請求を つくば市監査委員 生活保護行政の不適正事務 NEWSつくば",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "NEWSつくば",
-      "sourceType": "news",
-      "publishedAt": "2026-09-25T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "7902ac51aeed078175d3",
       "title": "【更新】交差点で乗用車同士衝突、男女2人死傷 茨城・つくば（茨城新聞クロスアイ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uYlVqb2RlempDRjU0TUpyMHlzTnJSVkp4THRqZEc0c3l0MEZQaDU1Tl9CVVVPVTB3NVFZdWFUSUhwalU1WHQ4LUE1dURoWGtyOFdoZDFqVlE4X2VUeW03WTk2SjVNMnBiOVMwU1FidTRMVEluS1VVdVpIUnU0YzA?oc=5",
@@ -2448,6 +2568,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "b03cbed0e4d77fc7458f",
+      "title": "【更新】交差点で乗用車同士衝突、男女2人死傷 茨城・つくば - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92NHNnaGVOUWRabnpoYXlhYUdvWE0zak9mak5YSGdFSVg0c21yT192cHBwaVJOLWp0Y1pmemI3V2NFbDZSSUFjSF9FNA?oc=5",
+      "summary": "【更新】交差点で乗用車同士衝突、男女2人死傷 茨城・つくば 47NEWS",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "47NEWS",
+      "sourceType": "news",
+      "publishedAt": "2026-09-24T07:00:00+00:00",
+      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
+    },
+    {
       "id": "84c84619fc1659567589",
       "title": "【続報】つくばで殺人未遂 28歳男性、背中刺され搬送 茨城（茨城新聞クロスアイ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5abUNLd19feGlzdXV4TVhZR191dXNwNTZoVEFId2s3TlJYR0NQemhMaGJ6VkxlQTlQRVlSTGFVUXkxNTdrM1kxbDc4TFB5bWRrVll6RUw4azRkd19EWTJSc3NLcHB5X2FhNlZxWTNJS3l6aWZnb1oxLWVMU0ptaG8?oc=5",
@@ -2458,6 +2590,20 @@
       "sourceType": "news",
       "publishedAt": "2026-09-22T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "c3c9ef898aad5cc88b0d",
+      "title": "TXつくば駅前のホテル競争加速 新規開業や大型改装相次ぐ 茨城 [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfaTlCd21UdFpQVGZ6ZF84aWdra1ZvWDU1eVp5ZEhZWkpERWNwUDktVDJFTVlNSXFxMXdzRm02WTVHUS03amxiQ3ZVV3l6ZUh5R204SEN0eTRXV2NSMW5QeEVwSFJhQVE?oc=5",
+      "summary": "TXつくば駅前のホテル競争加速 新規開業や大型改装相次ぐ 茨城 [茨城県] 朝日新聞",
+      "category": "交通・生活",
+      "areas": [
+        "つくば駅周辺"
+      ],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-09-22T07:00:00+00:00",
+      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
     },
     {
       "id": "cbcf5d4e50d252ca2bf8",
@@ -2686,6 +2832,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "9864c173f3781a1262fb",
+      "title": "「分からないことだらけ、不安たくさん」住民団体が設立総会【つくばに国内最大級のデータセンター】 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hUWx4MnFjZERMcllLSFRobTMxQ3J4ejFnMHpaeVFQU2s1b3pCNl9NLWtOS3BTUkk4alR5aUlYNjJYcmtNTEo1ejJHUQ?oc=5",
+      "summary": "「分からないことだらけ、不安たくさん」住民団体が設立総会【つくばに国内最大級のデータセンター】 NEWSつくば",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-09-07T07:00:00+00:00",
+      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
+    },
+    {
       "id": "b0aadf814cc74d2813ba",
       "title": "カーシェア「関鉄×Raku-Pカーシェア」、つくば市内の21ステーションで開始…関東鉄道とRaku-Pが提携 - carview!",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdzJaUEVZdFFUTDdvT2wzLU1KWTR0d2lGNDJ5aTFYR3EzS3R4OVBhZjNHQjRFTUl5MUVjbXhlb1JJUnVnTFYwbE41TnJqaFppZDV3cDRrV2pFY01PTFJPNF9mSnVVVHg5eHpiYnRzdDI1MmNTVlB6Y244ZGttcHZpTlUtSjdic1F3?oc=5",
@@ -2722,6 +2880,18 @@
       "sourceType": "news",
       "publishedAt": "2026-09-02T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
+      "id": "b5cb24d9270a5e4a761b",
+      "title": "つくば市に建設予定のデータセンターに住民反発「十分な説明を受けてない」 市議会に請願を提出 - 東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HeVVPcFdzX1RQOXRGeEsybVFXMkgwellVX2tROHF4QWxmX2RBVGl4WThaUmRBUmNBSEI5NGdHTm96YjZUVzFhZ1lEcUZ0OW1VS0VF?oc=5",
+      "summary": "つくば市に建設予定のデータセンターに住民反発「十分な説明を受けてない」 市議会に請願を提出 東京新聞",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "東京新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-09-01T07:00:00+00:00",
+      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
     },
     {
       "id": "5c108317003df8787165",
@@ -2908,6 +3078,18 @@
       "sourceType": "official",
       "publishedAt": "2026-08-12T06:15:11+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "bebaea3aae3de79efc93",
+      "title": "【台風15号】すでに強風域 上陸は「茨城か千葉か」きょう11日(火)午後6時～9時予想 つくば市付近通過し本州横断へ 最大瞬間風速35mでお盆の交通乱れに警戒【11日9時気象庁発表】 | 長崎のニュース | 天気 | NBC長崎放送 (1ページ) - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fel9teXRfQ290dkJsSjJLR2NhUVFDVHdyaV9JZndJOG5BYkV3OXo3TmR6UF9pY1dQMGM2ZElSclJCSElhLXp3M3NpWVBCdzhyYmdPaUg2UVZMM1BQc0pKVGRUR0xzU1k?oc=5",
+      "summary": "【台風15号】すでに強風域 上陸は「茨城か千葉か」きょう11日(火)午後6時～9時予想 つくば市付近通過し本州横断へ 最大瞬間風速35mでお盆の交通乱れに警戒【11日9時気象庁発表】 | 長崎のニュース | 天気 | NBC長崎放送 (1ページ) TBS NEWS DIG",
+      "category": "防災・安全",
+      "areas": [],
+      "source": "TBS NEWS DIG",
+      "sourceType": "news",
+      "publishedAt": "2026-08-11T07:00:00+00:00",
+      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
     },
     {
       "id": "2735a040f21f79eeaf5b",
