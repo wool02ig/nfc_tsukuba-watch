@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T04:06:42.039873+00:00",
-  "articleCount": 232,
+  "updatedAt": "2026-11-02T10:17:16.077542+00:00",
+  "articleCount": 236,
   "sources": [
     {
       "source": "つくば市公式",
@@ -16,12 +16,12 @@
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 13
+      "count": 8
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 4
+      "count": 5
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -31,12 +31,12 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 4
+      "count": 3
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 2
+      "count": 5
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -94,6 +94,30 @@
       "sourceType": "news",
       "publishedAt": "2026-11-01T22:58:39+00:00",
       "firstSeenAt": "2026-10-30T10:00:04.850766+00:00"
+    },
+    {
+      "id": "b84b18f0f3038fc2801a",
+      "title": "【つくば市】明日(11/3)まで！イーアスつくば18周年祭が開催されています - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FbG1zOVpDNjRjMnAwZWo5RzdVN0s4RXYzUV85dXZfaWtpOUMyOWxLOFZUQjUzd3JxM000LV9RS3ExbDBiZGs0TjhCMDYycjhkRWI4Qk1aM2lBTTVjRmlQLW4zQ3Yzd1A0MVpKYUNn?oc=5",
+      "summary": "【つくば市】明日(11/3)まで！イーアスつくば18周年祭が開催されています 号外NET つくば市",
+      "category": "イベント",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T22:38:21+00:00",
+      "firstSeenAt": "2026-11-02T10:17:16.077542+00:00"
+    },
+    {
+      "id": "0b576624e51c78c53efe",
+      "title": "農家の所得向上求める つくばで「一揆デモ」 (茨城新聞クロスアイ) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdWRCZlRPTk9NcDd4X1NsZGJQWHJXTmoxN2R0ajJZWXpqYUhMWEhucjBlaFZfT1ViVC1Sallwb2s3dm5ES1haVW9vcFJ0UWloTUhjX0F4VHRWNkJSVmQ0RWZpUnY1YmVUN0hqZWk2QTcxQm00amlzWDFnRWIydGhDRW5hcThZYVlEN3lNMXhB?oc=5",
+      "summary": "農家の所得向上求める つくばで「一揆デモ」 (茨城新聞クロスアイ) Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T22:37:54+00:00",
+      "firstSeenAt": "2026-11-02T10:17:16.077542+00:00"
     },
     {
       "id": "b89b16d2730e12d30496",
@@ -156,6 +180,20 @@
       "sourceType": "news",
       "publishedAt": "2026-11-01T14:00:00+00:00",
       "firstSeenAt": "2026-11-01T15:45:21.447193+00:00"
+    },
+    {
+      "id": "45be4c334127fb5d06ee",
+      "title": "つくば駅前でトラクターデモ 令和の百姓一揆いばらき（NEWSつくば） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41bjN6bHBRYkxuWDlQUnJvWEh0aS0tRkowclBlRVJEdndJS1V0eTd1dE9UdWF6N2IwbVJESm5BYWU4d3AxVkNPWUtGMWh3Z1FzYlRMYzhLQnVncE5aY1h0Y3Z4WDd5N1pkNE9KUmlqcktxX2dTRXU4RnlTVFBKejA?oc=5",
+      "summary": "つくば駅前でトラクターデモ 令和の百姓一揆いばらき（NEWSつくば） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [
+        "つくば駅周辺"
+      ],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T12:55:06+00:00",
+      "firstSeenAt": "2026-11-02T10:17:16.077542+00:00"
     },
     {
       "id": "06050e62a787f40af7c5",
@@ -292,6 +330,18 @@
       "firstSeenAt": "2026-11-01T09:54:24.277227+00:00"
     },
     {
+      "id": "932d515bca216cf0e272",
+      "title": "求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら１３０人 | | 全国のニュース - 佐賀新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9STEx5b2hLbGFlMjByN0FQZ3ZjT01zcVNGTnYyQjNKNWxBei16YUotTDNRLTE4c2FVZmNfUTFrVElHSWdoZHZERUNyMW1xcDZmRkFYbWFB?oc=5",
+      "summary": "求職者に宇宙の仕事紹介、つくば 就活イベントに大学生ら１３０人 | | 全国のニュース 佐賀新聞",
+      "category": "イベント",
+      "areas": [],
+      "source": "佐賀新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T08:37:00+00:00",
+      "firstSeenAt": "2026-11-02T10:17:16.077542+00:00"
+    },
+    {
       "id": "711f30c0925b85219df1",
       "title": "国総研、つくば市小田で電動カート実証 3年目の歴史探訪ツアーで周遊支援 - 千葉テレビ放送株式会社",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1adXNWQ1hrMGE5eVZROWJqRGpheTIwQ0Zpb1lLa1lqV3RxSXNqdHp0aEhMdkUxNVlGMHo2Z1pRSFEtbVNGZ3lxN19MZTdDeV95WWpPd3BNNy1FVzg3NnJ3?oc=5",
@@ -410,6 +460,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-31T07:52:40+00:00",
       "firstSeenAt": "2026-10-31T09:50:47.806792+00:00"
+    },
+    {
+      "id": "d6c84f89678699ad8338",
+      "title": "つくば市消防フェア2026 in つくば市消防本部｜2026年10月31日(土) - 陸自調査団",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkxUTU5lQl9KNXVaS3VtSXREY3JOSGN1MEdTZkdJNnhOZzlWbk04WHdqdTliMGRuZ0VEc2tNNnpKNVBhZkFQNGFoRWc5aG5KX01QeFhkUS1YSTlNRUpfZmZSaHdCNkJpd3FFak9zTldicVNMRlNaZkE0MGZtVmNnTjJWMlZtdmZXUjd2Z05hN3JLUQ?oc=5",
+      "summary": "つくば市消防フェア2026 in つくば市消防本部｜2026年10月31日(土) 陸自調査団",
+      "category": "防災・安全",
+      "areas": [],
+      "source": "陸自調査団",
+      "sourceType": "news",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
     },
     {
       "id": "a7723909cea36ff9505d",
@@ -616,18 +678,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-30T08:00:00+00:00",
       "firstSeenAt": "2026-10-30T10:00:04.850766+00:00"
-    },
-    {
-      "id": "d6c84f89678699ad8338",
-      "title": "つくば市消防フェア2026 in つくば市消防本部｜2026年10月31日(土) - 陸自調査団",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkxUTU5lQl9KNXVaS3VtSXREY3JOSGN1MEdTZkdJNnhOZzlWbk04WHdqdTliMGRuZ0VEc2tNNnpKNVBhZkFQNGFoRWc5aG5KX01QeFhkUS1YSTlNRUpfZmZSaHdCNkJpd3FFak9zTldicVNMRlNaZkE0MGZtVmNnTjJWMlZtdmZXUjd2Z05hN3JLUQ?oc=5",
-      "summary": "つくば市消防フェア2026 in つくば市消防本部｜2026年10月31日(土) 陸自調査団",
-      "category": "防災・安全",
-      "areas": [],
-      "source": "陸自調査団",
-      "sourceType": "news",
-      "publishedAt": "2026-10-30T07:11:44+00:00",
-      "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
     },
     {
       "id": "4693220481338f174a9f",
@@ -1604,6 +1654,18 @@
       "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
     },
     {
+      "id": "0fb25950e0d339bf5312",
+      "title": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRXpOVjBMb1puUVJjZnlWLURhek5lY0JFWmNNRTl6OTVxaXdZMHNwR2t0Mm1CTFd0UC1tWldQNXlzT0ZVZG1uV25NbWNQYlRMUHVlaGFpUHZNcXlROVg5WA?oc=5",
+      "summary": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-10-20T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "8c710db4b1b26afc2f65",
       "title": "イオンそよらつくば学園の森、2026年10月25日開店－スーパー激戦区の研究学園エリア、コストコ向かいに - 都市商業研究所",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrblBIZVRYLUFkb1VBVUlhd2R4UXRITjhOaFd6aGlVamNPQVZyaFR3ZVhONVlPNXU5bmo0OXlWSWtGWVJmVnc?oc=5",
@@ -1616,18 +1678,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-20T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T21:53:04.722721+00:00"
-    },
-    {
-      "id": "0fb25950e0d339bf5312",
-      "title": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRXpOVjBMb1puUVJjZnlWLURhek5lY0JFWmNNRTl6OTVxaXdZMHNwR2t0Mm1CTFd0UC1tWldQNXlzT0ZVZG1uV25NbWNQYlRMUHVlaGFpUHZNcXlROVg5WA?oc=5",
-      "summary": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-10-20T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "887cdd2db101a83f4cfc",
@@ -1702,6 +1752,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "52a5546c0808fba605d8",
+      "title": "【更新】90歳男性運転の軽乗用車 外壁に衝突し死亡 茨城・つくば - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nazg3d2ZVTExraGgwNFNhUlYteHNfekJLMUpWZ2dpbGtWVE1zNWt2eW9FTXl5U2pxUjVsRE9kRWZTNUw1bW9ZWER4OA?oc=5",
+      "summary": "【更新】90歳男性運転の軽乗用車 外壁に衝突し死亡 茨城・つくば 47NEWS",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "47NEWS",
+      "sourceType": "news",
+      "publishedAt": "2026-10-16T07:00:00+00:00",
+      "firstSeenAt": "2026-11-02T10:17:16.077542+00:00"
+    },
+    {
       "id": "1d3ce08545a07e0553b7",
       "title": "「つくば市民の日」記念事業を実施します",
       "url": "https://www.city.tsukuba.lg.jp/soshikikarasagasu/somubusomuka/gyomuannai/4/16535.html",
@@ -1711,18 +1773,6 @@
       "source": "つくば市公式",
       "sourceType": "official",
       "publishedAt": "2026-10-15T15:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "b7778a237a9d1da6c08c",
-      "title": "児童ら1268人の給食ご飯が半分に…備蓄食でしのぐ 茨城・つくば市、精米量の計算ミス (産経新聞) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaE55Z0xwM1dfbmZPX281YzdSSFZraktFUWRIWG1FSXlUWkhuZnNxeTlBb0hqVmQ1VzViZDJTX1FkbXpRRlBtOW1SZTN3QU93ODBPX2J4LXVyQXpOY2VHT2hINHJXN19FelhaYVpqdUFHWHlnYXUtVHVxcHpPMEw5bENXR1Z0aDlrRGRaV2N3?oc=5",
-      "summary": "児童ら1268人の給食ご飯が半分に…備蓄食でしのぐ 茨城・つくば市、精米量の計算ミス (産経新聞) Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-15T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
@@ -1736,6 +1786,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-15T07:00:00+00:00",
       "firstSeenAt": "2026-10-30T10:00:04.850766+00:00"
+    },
+    {
+      "id": "b7778a237a9d1da6c08c",
+      "title": "児童ら1268人の給食ご飯が半分に…備蓄食でしのぐ 茨城・つくば市、精米量の計算ミス (産経新聞) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaE55Z0xwM1dfbmZPX281YzdSSFZraktFUWRIWG1FSXlUWkhuZnNxeTlBb0hqVmQ1VzViZDJTX1FkbXpRRlBtOW1SZTN3QU93ODBPX2J4LXVyQXpOY2VHT2hINHJXN19FelhaYVpqdUFHWHlnYXUtVHVxcHpPMEw5bENXR1Z0aDlrRGRaV2N3?oc=5",
+      "summary": "児童ら1268人の給食ご飯が半分に…備蓄食でしのぐ 茨城・つくば市、精米量の計算ミス (産経新聞) Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-15T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "c1585ee52e504002f055",
@@ -2873,18 +2935,6 @@
       "source": "出店ウォッチ",
       "sourceType": "news",
       "publishedAt": "2026-08-06T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "1a018ad997b6bac018b8",
-      "title": "常磐道つくばみらいスマートICが8月29日開通。谷和原ICの渋滞回避、17分→9分に｜自動車交通トピックス - JAF Mate Online",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rMnJLNjBlYlBLb2hja09nVW1JdDJuR0pUUmt1Q3dBTTdYckF4ZTNmZDVKNFFOU1FPMXhLTkZYUVdFS1hJbTRHb3dOVGZuVl9xazBwOXJVSGF1OExiWlN1bmwtMkFXaWdtNk5N?oc=5",
-      "summary": "常磐道つくばみらいスマートICが8月29日開通。谷和原ICの渋滞回避、17分→9分に｜自動車交通トピックス JAF Mate Online",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "JAF Mate Online",
-      "sourceType": "news",
-      "publishedAt": "2026-08-04T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     }
   ]
