@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T04:00:36.104333+00:00",
-  "articleCount": 255,
+  "updatedAt": "2026-11-03T10:04:00.453512+00:00",
+  "articleCount": 256,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 40
+      "count": 39
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 13
+      "count": 9
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -31,12 +31,12 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 3
+      "count": 6
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 2
+      "count": 1
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -182,6 +182,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-01T20:42:21+00:00",
       "firstSeenAt": "2026-11-01T21:46:12.053869+00:00"
+    },
+    {
+      "id": "3716062754a83d929e11",
+      "title": "【つくば市】11/2 最高17℃、ひんやりするタイミングも、昼間から夕方は雨の予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX1RfYWN0RWgtTjNmTFRLc0pPQVNTQzFpSVZCekNxQ1QwSnRmbmJpUEh0OG1BNFRmeDFwbnMzTjBoNjBXOURZTUs5MjJxRVpDMTVuSlRqZjNmeW1CVmJUWklFUlFjaU5KZXR2WTBrNVgtZWhxTEVzWDB4OUJmRFM5UUxkRzR2Zk9nUDlLc3hB?oc=5",
+      "summary": "【つくば市】11/2 最高17℃、ひんやりするタイミングも、昼間から夕方は雨の予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-01T20:42:21+00:00",
+      "firstSeenAt": "2026-11-03T10:04:00.453512+00:00"
     },
     {
       "id": "e7e7e6b670a6080d5425",
@@ -538,18 +550,6 @@
       "firstSeenAt": "2026-10-31T03:54:28.316386+00:00"
     },
     {
-      "id": "3b9f0760aa849c6995f9",
-      "title": "参加制限なし、質問可 DC建設企業、市民向け説明会 茨城・つくば [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tbm16QWhoNld3QTZ4d24ydFYzWWh4LVZKVkttVGVoWEZEVDhReW5ZeHd2bW5jTzh4VXA4d2hpOTR2MDZRS19IV1cwdHFESnV3UFBEMHp2RUZuWFAwX3ZZaFpZWkFLeWs?oc=5",
-      "summary": "参加制限なし、質問可 DC建設企業、市民向け説明会 茨城・つくば [茨城県] 朝日新聞",
-      "category": "開発・建設",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-10-31T02:15:00+00:00",
-      "firstSeenAt": "2026-10-31T09:50:47.806792+00:00"
-    },
-    {
       "id": "4e43e99bfa87afa60818",
       "title": "参加制限なし、質問可 DC建設企業、市民向け説明会 茨城・つくば（朝日新聞） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jU2VWeW0taWlmQmdNdzRaMHdsTVJqTjRuVHNSdm0yNHRoQ1lQenBvSk10TF9TclRhSDVrcjRkQmFRMmt0U1h6VTBGYkgxei1MZ3JNYnpZZ0hLbWZaZGtBeDI3VmoyakwyV1dienByWVcyRE1qcDlqdjlpZUN2OFE?oc=5",
@@ -560,6 +560,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-31T02:15:00+00:00",
       "firstSeenAt": "2026-10-31T03:54:28.316386+00:00"
+    },
+    {
+      "id": "3b9f0760aa849c6995f9",
+      "title": "参加制限なし、質問可 DC建設企業、市民向け説明会 茨城・つくば [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tbm16QWhoNld3QTZ4d24ydFYzWWh4LVZKVkttVGVoWEZEVDhReW5ZeHd2bW5jTzh4VXA4d2hpOTR2MDZRS19IV1cwdHFESnV3UFBEMHp2RUZuWFAwX3ZZaFpZWkFLeWs?oc=5",
+      "summary": "参加制限なし、質問可 DC建設企業、市民向け説明会 茨城・つくば [茨城県] 朝日新聞",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-10-31T02:15:00+00:00",
+      "firstSeenAt": "2026-10-31T09:50:47.806792+00:00"
     },
     {
       "id": "0b69e9bb21e37f84ae34",
@@ -1718,6 +1730,18 @@
       "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
     },
     {
+      "id": "0fb25950e0d339bf5312",
+      "title": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRXpOVjBMb1puUVJjZnlWLURhek5lY0JFWmNNRTl6OTVxaXdZMHNwR2t0Mm1CTFd0UC1tWldQNXlzT0ZVZG1uV25NbWNQYlRMUHVlaGFpUHZNcXlROVg5WA?oc=5",
+      "summary": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-10-20T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "8c710db4b1b26afc2f65",
       "title": "イオンそよらつくば学園の森、2026年10月25日開店－スーパー激戦区の研究学園エリア、コストコ向かいに - 都市商業研究所",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrblBIZVRYLUFkb1VBVUlhd2R4UXRITjhOaFd6aGlVamNPQVZyaFR3ZVhONVlPNXU5bmo0OXlWSWtGWVJmVnc?oc=5",
@@ -1730,18 +1754,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-20T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T21:53:04.722721+00:00"
-    },
-    {
-      "id": "0fb25950e0d339bf5312",
-      "title": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRXpOVjBMb1puUVJjZnlWLURhek5lY0JFWmNNRTl6OTVxaXdZMHNwR2t0Mm1CTFd0UC1tWldQNXlzT0ZVZG1uV25NbWNQYlRMUHVlaGFpUHZNcXlROVg5WA?oc=5",
-      "summary": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-10-20T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "887cdd2db101a83f4cfc",
@@ -1948,6 +1960,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "7587893b66194aabc954",
+      "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ0c4YmpLdXlabVdVeUE1Z084eGZneFhKcXhXSGppVGpTTjQ4M1BJc0dHR3RKeFpYOW9jb3haRkZJU0Z0dkVxUVNBYXZoZkxUQmJkT1RZWlkzeWxxeXlvMU5pQlhyY3ExUGpWVllFM3VKMkxXcDBkZl9xWWxFTHEwcjN3b2YxOW9Genpz0gGHAUFVX3lxTFBfVHloVmFWM2Q3bHUyVGRDQ3dmYUozN3lNR3RyMnE4dXR4SDI5eDFqMElpSXQ2d0NhOXljVjYxVmNKb214Y1pIWUNvakRrRkc2cnJKOEg4bnlhWDlXa1FuRHhXNjZ4YUs2LWotaVVhNUZBUHdYdldIcUlvZUQzRFhqc0c1OVhjNA?oc=5",
+      "summary": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 ｄメニューニュース",
+      "category": "交通・生活",
+      "areas": [],
+      "source": "ｄメニューニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-09T08:09:37+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
       "id": "20ef5d308c0a98775c69",
       "title": "つくばデータセンター 説明会求め地元住民ら抗議 趣旨採択受け 茨城（茨城新聞クロスアイ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WVlFYejVEVDRxTUoxYjRJUnJaWklOQ2lYcHpBaXJPNFZwaHRCM1VtbFdDaG0tOXFnV1BmN2VjcTF6UHJRZUZLTnhCS0cyaTEyZ0RXd3AzOWVJWGtDa1Z2amYwa0h6U1NYaGRHT0ZfQXFJWU9RNUdWc3VKbUVTVkE?oc=5",
@@ -1972,18 +1996,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "54f0e5303bacb8cc8f65",
-      "title": "データセンター説明会 つくば市主催求めて住民抗議 - 東京新聞",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnRHBMUU51SFhMVE5MdUdiMDZreDRCVm9ZSFpoX3AwdFRaYUNyWndmOC1PSW5FeHJFQUpNYkh3UlBWbGtqaGwzaVlTLUxLcDdPZkQw?oc=5",
-      "summary": "データセンター説明会 つくば市主催求めて住民抗議 東京新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "東京新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "12db0b289c26d65c562f",
       "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - Infoseek",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZmMwVEJ2Rnc4MkdrbXVOWGR2VG1uRlc1M2tOMExOc1k2WUIxeXlJRmtoS0d1Yk52cUI5aUJPaEpZamNMRUVCbklYeTJlTmZwd3NmTXhhQUliaEd6LUN6SDEzOGZ4UdIBa0FVX3lxTE9QbDlUOGczcUV5QmdyVXMtV0RlaUk0VTlEUk1HSm5GR0JWREJ0UnJ0OWZiWFhnRTVTSloza3NGQTJrVTItRXNRUWVicXEzQ1FkY0dIXzV3X1drYjBXbElJVVZkNkRhVF96dXJB?oc=5",
@@ -1996,16 +2008,16 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "7587893b66194aabc954",
-      "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ0c4YmpLdXlabVdVeUE1Z084eGZneFhKcXhXSGppVGpTTjQ4M1BJc0dHR3RKeFpYOW9jb3haRkZJU0Z0dkVxUVNBYXZoZkxUQmJkT1RZWlkzeWxxeXlvMU5pQlhyY3ExUGpWVllFM3VKMkxXcDBkZl9xWWxFTHEwcjN3b2YxOW9Genpz0gGHAUFVX3lxTFBfVHloVmFWM2Q3bHUyVGRDQ3dmYUozN3lNR3RyMnE4dXR4SDI5eDFqMElpSXQ2d0NhOXljVjYxVmNKb214Y1pIWUNvakRrRkc2cnJKOEg4bnlhWDlXa1FuRHhXNjZ4YUs2LWotaVVhNUZBUHdYdldIcUlvZUQzRFhqc0c1OVhjNA?oc=5",
-      "summary": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 ｄメニューニュース",
-      "category": "交通・生活",
+      "id": "54f0e5303bacb8cc8f65",
+      "title": "データセンター説明会 つくば市主催求めて住民抗議 - 東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnRHBMUU51SFhMVE5MdUdiMDZreDRCVm9ZSFpoX3AwdFRaYUNyWndmOC1PSW5FeHJFQUpNYkh3UlBWbGtqaGwzaVlTLUxLcDdPZkQw?oc=5",
+      "summary": "データセンター説明会 つくば市主催求めて住民抗議 東京新聞",
+      "category": "地域ニュース",
       "areas": [],
-      "source": "ｄメニューニュース",
+      "source": "東京新聞",
       "sourceType": "news",
       "publishedAt": "2026-10-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "098accf715f1882b4bca",
