@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T10:04:00.453512+00:00",
-  "articleCount": 256,
+  "updatedAt": "2026-11-03T16:02:11.874917+00:00",
+  "articleCount": 257,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 39
+      "count": 41
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -21,7 +21,7 @@
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -31,12 +31,12 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 6
+      "count": 3
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 1
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -45,6 +45,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "db5e2b66bc7be8ef4362",
+      "title": "本日11/3は明治節🎌昨日のことですが、つくば市内で綺麗な食用菊を家庭菜園で作っている方と偶然... - 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kUGZEMlFZSHlpTnV0ZXRQVVo1QWExTk9weXNzcXlwQjlNRmloMVd4ZVNrYktIYkZnUVJoYnFKRFVteWczbDFKSjltWFdXWU15aVhmdGpHWVByeEY1TVRN?oc=5",
+      "summary": "本日11/3は明治節🎌昨日のことですが、つくば市内で綺麗な食用菊を家庭菜園で作っている方と偶然... 選挙ドットコム",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "選挙ドットコム",
+      "sourceType": "news",
+      "publishedAt": "2026-11-03T13:03:39+00:00",
+      "firstSeenAt": "2026-11-03T16:02:11.874917+00:00"
+    },
     {
       "id": "5e5557c580df155b8393",
       "title": "（茨城）つくば市竹園で不審な接触 １１月２日 - ｄメニューニュース",
@@ -3094,18 +3106,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "39cb0761c69bbe65afe0",
-      "title": "八潮からTXで行く「まつりつくば2026」ねぶた・神輿の大パレード、臨時列車も運転 - やしおん",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBKYXEzWEZUVjBGcksxY1ZxWXJsRDBlZlFJSUdnU0NwUHRwaUZzZXBRZ04xNm43LWY5NElTVHEtaVg5TG43?oc=5",
-      "summary": "八潮からTXで行く「まつりつくば2026」ねぶた・神輿の大パレード、臨時列車も運転 やしおん",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "やしおん",
-      "sourceType": "news",
-      "publishedAt": "2026-08-12T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
-    },
-    {
       "id": "ec67c585c240dd45b996",
       "title": "イオンそよらつくば学園の森、2026年10月開業－茨城初のイオン系近隣商圏型新業態、コストコそばに - 都市商業研究所",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0tTER0c3FWaU1hQ3NlZnhTM3ZTVzljdVhBUEJ2VTVhd3RiNTVpUTAwV0h2TGlBcVl2ZUNIbWJhQ3o1SWg1dGc?oc=5",
@@ -3115,6 +3115,18 @@
         "研究学園"
       ],
       "source": "都市商業研究所",
+      "sourceType": "news",
+      "publishedAt": "2026-08-12T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
+      "id": "39cb0761c69bbe65afe0",
+      "title": "八潮からTXで行く「まつりつくば2026」ねぶた・神輿の大パレード、臨時列車も運転 - やしおん",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBKYXEzWEZUVjBGcksxY1ZxWXJsRDBlZlFJSUdnU0NwUHRwaUZzZXBRZ04xNm43LWY5NElTVHEtaVg5TG43?oc=5",
+      "summary": "八潮からTXで行く「まつりつくば2026」ねぶた・神輿の大パレード、臨時列車も運転 やしおん",
+      "category": "交通・生活",
+      "areas": [],
+      "source": "やしおん",
       "sourceType": "news",
       "publishedAt": "2026-08-12T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
