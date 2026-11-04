@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T16:03:20.008996+00:00",
-  "articleCount": 280,
+  "updatedAt": "2026-11-04T21:57:04.589881+00:00",
+  "articleCount": 283,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 52
+      "count": 51
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -45,6 +45,30 @@
     }
   ],
   "articles": [
+    {
+      "id": "7b537f745ec8751f9563",
+      "title": "つくば市/DC用地整備で公募/12月18日まで受付つくば西SIC地区 - 建設通信新聞Digital",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iN040blp6bmVMNXdLdENrbVJDZ3hjdXVXRzc5QWk1bGN5YldHOHNJQ2RPbUhXdUsyTUFuT0NlNEU0TVpUWWhjaHJPQ3JTYXhmNWtzMDZXVm8?oc=5",
+      "summary": "つくば市/DC用地整備で公募/12月18日まで受付つくば西SIC地区 建設通信新聞Digital",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "建設通信新聞Digital",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T19:55:00+00:00",
+      "firstSeenAt": "2026-11-04T21:57:04.589881+00:00"
+    },
+    {
+      "id": "69698f1c2933857f2d43",
+      "title": "10/25つくば・市民ネットワークで包括的性教育学習会を開催。 - 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYVXBtZGVvbkE5WHFGTURld3ZrTy16dzZGUjFOZ2EtWnNvN0U2UFVhQ29hQmhXZTNwS21ZcVl0Z3RCbmpPMGxhb1BDQUJpSlVZemRRN01wY1gyVjNhaDBR?oc=5",
+      "summary": "10/25つくば・市民ネットワークで包括的性教育学習会を開催。 選挙ドットコム",
+      "category": "イベント",
+      "areas": [],
+      "source": "選挙ドットコム",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T18:49:03+00:00",
+      "firstSeenAt": "2026-11-04T21:57:04.589881+00:00"
+    },
     {
       "id": "5e95229b14f070a10df8",
       "title": "【ホテル日航つくば】『新春お正月ファミリーランチ＆ディナー2027』を2027年1月2日（土）に開催 - ニコニコニュース",
@@ -108,6 +132,20 @@
       "sourceType": "news",
       "publishedAt": "2026-11-04T07:16:00+00:00",
       "firstSeenAt": "2026-11-04T16:03:20.008996+00:00"
+    },
+    {
+      "id": "ffe0cd9f34a994a1c5e7",
+      "title": "筑波山ケーブルカーの歴史を未来へつなぐ「５代目筑波山ケーブルカー」の譲渡契約を締結しました - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lOFYyVnhxWHh1T3VhczdCMmJuM3h4NHpybWNwWkk0alFvQmVwd25xZlMtSkR5UUIyWnpNZEZKNFNaZzhQOVUtOHhzOFV6bkFvV2lGc0lwcXdnUVlQWUdtcjh1aFFKbWdXZTRsWjVoXzJ6Zw?oc=5",
+      "summary": "筑波山ケーブルカーの歴史を未来へつなぐ「５代目筑波山ケーブルカー」の譲渡契約を締結しました Infoseek",
+      "category": "地域ニュース",
+      "areas": [
+        "筑波山"
+      ],
+      "source": "Infoseek",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T07:15:26+00:00",
+      "firstSeenAt": "2026-11-04T21:57:04.589881+00:00"
     },
     {
       "id": "040a0e0471b565f6398f",
@@ -3232,18 +3270,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "e04ea7523befa9aeca4c",
-      "title": "茨城・つくばのデータセンター計画、住民が市に説明会を求め請願提出 [茨城県] [AIの時代] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tSWpRTzBLWENKNWpZT2ZxNXk1TVdna2V5clpjT19qMGVkaHJXWUFkbkluY3kyMmVBQ3NIX1dyc2RtU1VTRUpLOFBMcFFCaHIxb3Rnd1pFc2xvcGl1NzRqeG1XNFdaaEU?oc=5",
-      "summary": "茨城・つくばのデータセンター計画、住民が市に説明会を求め請願提出 [茨城県] [AIの時代] 朝日新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-09-02T07:00:00+00:00",
-      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
-    },
-    {
       "id": "a29855c58e7a449c9806",
       "title": "【つくば市】バーキン派の皆様に朗報です♪バーガーキングがそよらつくば学園の森店にオープンするみたい！ - 号外NET つくば市",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GYUNxcDdIUzRpQ0pydmRrWGtQalIxcEZTNGNHR2dnc1VGckZQbTI0NTYxQzRuQ0t0aXJuM0J6bm9tOURfNGV5MmoyNnpSY0hCdjNaWDhuMjJmaVViLWwtSUNBOFA0MzZWRjlncGF2ZTQ?oc=5",
@@ -3256,6 +3282,18 @@
       "sourceType": "news",
       "publishedAt": "2026-09-02T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
+      "id": "e04ea7523befa9aeca4c",
+      "title": "茨城・つくばのデータセンター計画、住民が市に説明会を求め請願提出 [茨城県] [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tSWpRTzBLWENKNWpZT2ZxNXk1TVdna2V5clpjT19qMGVkaHJXWUFkbkluY3kyMmVBQ3NIX1dyc2RtU1VTRUpLOFBMcFFCaHIxb3Rnd1pFc2xvcGl1NzRqeG1XNFdaaEU?oc=5",
+      "summary": "茨城・つくばのデータセンター計画、住民が市に説明会を求め請願提出 [茨城県] [AIの時代] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-09-02T07:00:00+00:00",
+      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
     },
     {
       "id": "5c108317003df8787165",
