@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T21:57:04.589881+00:00",
-  "articleCount": 283,
+  "updatedAt": "2026-11-05T04:04:38.420641+00:00",
+  "articleCount": 290,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 51
+      "count": 48
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -21,7 +21,7 @@
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 4
+      "count": 3
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -45,6 +45,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "fc40dcb98320ce448020",
+      "title": "茨城・つくば市、データセンター集積へ事業者公募 - 建設通信新聞Digital",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pcWw1UXR3TlZiblpnNkZlNTdhU1BvMjRHa1dUT2g1YlptMkdpVFh3d1ZjdGtWaFZrU2htX0JHUXVhdnpsLWRkbFVQWmNmSzEtdmYwUDVR?oc=5",
+      "summary": "茨城・つくば市、データセンター集積へ事業者公募 建設通信新聞Digital",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "建設通信新聞Digital",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T03:26:40+00:00",
+      "firstSeenAt": "2026-11-04T16:03:20.008996+00:00"
+    },
+    {
+      "id": "6888a975a5a13f173be1",
+      "title": "つくばで開催、令和の百姓一揆いばらきのデモに参加しました。 - 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1URkhheGt6ME83RjBxSXRMOThoVmFoRmhGem5idkJZdWkwWHktUWVWZ25YVjVhWERHZDEwRGo2Ty1oNEVWdGpKNC1pTUFRV1F1elk0ZFI1RlVSLWp4RkZJ?oc=5",
+      "summary": "つくばで開催、令和の百姓一揆いばらきのデモに参加しました。 選挙ドットコム",
+      "category": "イベント",
+      "areas": [],
+      "source": "選挙ドットコム",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T23:35:10+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
+      "id": "3c4aa2c4430f9f077af2",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T22:00:00+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
+      "id": "9c1c64ca55bb8e21e9db",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T22:00:00+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
+      "id": "9cbf5d4d04fc6990a087",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い (朝日新聞) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLThnd0lEUi0xR3RpYWZzSUNiWGpWV2RtWWo5SXRYSjI1NV9oMkZhZnFkakdVc19rSHFveVQyX3BSZjdnSmxYakN6ZjFuX093NzJmVEVOZUJ3ZGVpeXU3UUExQnMtb0cwanlnaktJTU1mdmxacjNNQjdqN0FoeTV3LXk0cGRQS1MyOG1zMFZn?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い (朝日新聞) Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T22:00:00+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
+      "id": "3216cdbe4640118f1623",
+      "title": "【つくば市】11/5 最高18℃、朝は雨、ひんやりする場面もある予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXNDYldXaWI3SnBqT0lqXzJsNDl6Q2lGdU9BTVd5YWRCcGRIVnNfQlBsTnY4TE1mZVprbEp3Mll5aHhtcktaYjlvbTBFaWZVTUdVWTN5djZ5NnB4R014cFIzbHJLN2ZjRDF6a193dDdrWWZEMjBWQWFMdTNBYjBpaUp6cXVtRDZRQ0NEVEh3?oc=5",
+      "summary": "【つくば市】11/5 最高18℃、朝は雨、ひんやりする場面もある予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T20:43:25+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
+      "id": "94bb8e13fbaba8f2c4e5",
+      "title": "つくばの教育を充実 茨城県議選へ支援訴え 街頭演説会で山口常任顧問 2026.11.5付 - 公明新聞電子版プラス",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qYnFLMlFJZ2NsUTVoTVc0c1k1YU5taTJjZ21rVU5PQ29pRllva0dfNk9aa1YwOXN4TmxzSF82WUUyZHVyRlN1MG1vMXczWkVlVFBwdGwtQ3RNVElsb3NweVhPcXo1NkZKY1hhZlpR?oc=5",
+      "summary": "つくばの教育を充実 茨城県議選へ支援訴え 街頭演説会で山口常任顧問 2026.11.5付 公明新聞電子版プラス",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "公明新聞電子版プラス",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T20:32:48+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
     {
       "id": "7b537f745ec8751f9563",
       "title": "つくば市/DC用地整備で公募/12月18日まで受付つくば西SIC地区 - 建設通信新聞Digital",
@@ -105,18 +189,6 @@
       "source": "LuckyFM茨城放送",
       "sourceType": "news",
       "publishedAt": "2026-11-04T08:25:29+00:00",
-      "firstSeenAt": "2026-11-04T16:03:20.008996+00:00"
-    },
-    {
-      "id": "fc40dcb98320ce448020",
-      "title": "茨城・つくば市、データセンター集積へ事業者公募 - 建設通信新聞Digital",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pcWw1UXR3TlZiblpnNkZlNTdhU1BvMjRHa1dUT2g1YlptMkdpVFh3d1ZjdGtWaFZrU2htX0JHUXVhdnpsLWRkbFVQWmNmSzEtdmYwUDVR?oc=5",
-      "summary": "茨城・つくば市、データセンター集積へ事業者公募 建設通信新聞Digital",
-      "category": "開発・建設",
-      "areas": [],
-      "source": "建設通信新聞Digital",
-      "sourceType": "news",
-      "publishedAt": "2026-11-04T07:39:03+00:00",
       "firstSeenAt": "2026-11-04T16:03:20.008996+00:00"
     },
     {
@@ -237,12 +309,12 @@
     },
     {
       "id": "a1cc94ca596d89064a9a",
-      "title": "【常磐道】つくば市内で5台衝突事故 下り線2車線規制続く（4日06:30現在） - 千葉テレビ放送",
+      "title": "【常磐道】つくば市内で5台衝突事故 下り線2車線規制続く（4日06:30現在） - 千葉テレビ放送株式会社",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94am1pRTBQeF8zWldaMEtZREV6VkZEeWk2VmRWd3VKNDZDU1R4ZjlRUG51QWRfQ2dVbk9NcEZnRjB4WmNmVktFZUFLeHJ3YXVLWWpjTEZUUVBXWE5iS2NJ?oc=5",
-      "summary": "【常磐道】つくば市内で5台衝突事故 下り線2車線規制続く（4日06:30現在） 千葉テレビ放送",
+      "summary": "【常磐道】つくば市内で5台衝突事故 下り線2車線規制続く（4日06:30現在） 千葉テレビ放送株式会社",
       "category": "地域ニュース",
       "areas": [],
-      "source": "千葉テレビ放送",
+      "source": "千葉テレビ放送株式会社",
       "sourceType": "news",
       "publishedAt": "2026-11-03T21:59:38+00:00",
       "firstSeenAt": "2026-11-03T21:55:45.026370+00:00"
@@ -372,6 +444,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-02T07:11:09+00:00",
       "firstSeenAt": "2026-11-03T04:00:36.104333+00:00"
+    },
+    {
+      "id": "a48498e009822404c2db",
+      "title": "宇宙の仕事、求職者に紹介／つくばで就活イベント開催 - AGARA 紀伊民報",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02bVR1eUxkSk1TR2dvSXNzWWQtV04xdGxZSi1yM1NIay1rYlBWZG8wZ1MxN0otbHNkTGJ3U3pYeHlkaWw0N1hCYzRlbHJ6NFU?oc=5",
+      "summary": "宇宙の仕事、求職者に紹介／つくばで就活イベント開催 AGARA 紀伊民報",
+      "category": "イベント",
+      "areas": [],
+      "source": "AGARA 紀伊民報",
+      "sourceType": "news",
+      "publishedAt": "2026-11-02T05:30:00+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
     },
     {
       "id": "a8173e4b580f17031725",
@@ -1768,6 +1852,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "e71de94891fd47db78a8",
+      "title": "【つくば市】気になる…！黒墨商店というシフォンケーキみたいなドーナツのお店がオープンするみたい - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85N2cycWkyZFFVaGFkOFRFS2pZbGY4cDgwNWhZallaY2hQT29JMHg5a3BpWGdJb3dNNWRJcThEZ19YY3RsSjFnbnJHSzRWV1ZSUU1jYmh3QnVqTzFXX1lwSjdwdmstZw?oc=5",
+      "summary": "【つくば市】気になる…！黒墨商店というシフォンケーキみたいなドーナツのお店がオープンするみたい 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-10-26T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "c13a61f47313ecb742c7",
       "title": "つくば「そよら」 オープン 茨城県内初出店 「日常使い」都市型店舗（茨城新聞クロスアイ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aQnMwSnVZTXRJcW9CRmNURm1EdEdLTngyR3NrNkFhdGZ6TDlZT2VnMmZMVTNNek9SNlVPZmdjWk9TanROUTdTOGEwcUw1MXFFd3RJNlN1cTl2U1RDTjRxNkl0UHNqamhlblpnWFNJdkI3clhYZWJudGw3bEk1TzQ?oc=5",
@@ -1813,18 +1909,6 @@
       "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-10-25T23:08:56+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "e71de94891fd47db78a8",
-      "title": "【つくば市】気になる…！黒墨商店というシフォンケーキみたいなドーナツのお店がオープンするみたい - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85N2cycWkyZFFVaGFkOFRFS2pZbGY4cDgwNWhZallaY2hQT29JMHg5a3BpWGdJb3dNNWRJcThEZ19YY3RsSjFnbnJHSzRWV1ZSUU1jYmh3QnVqTzFXX1lwSjdwdmstZw?oc=5",
-      "summary": "【つくば市】気になる…！黒墨商店というシフォンケーキみたいなドーナツのお店がオープンするみたい 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-10-25T22:38:54+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
@@ -3092,11 +3176,11 @@
       "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
     },
     {
-      "id": "248cacef52e260ce50f4",
-      "title": "【更新】商業施設駐車場ではねられ67歳男性重体 茨城・つくば（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mZnozQXVieTB4UzFNTWNwZkJMU3BTM0hqc2s3cVh1Z3k2Rld5a2ZNTGluOFdQYjZ0cm16RlhrTHhoRVdCRVA0bXYtMmpkRE51TlIydzNoSmtVb21XYTFQUTBSTmltaVVHanRiSUw1WFIxUmRvbzJqWm45Mm1HaU0?oc=5",
-      "summary": "【更新】商業施設駐車場ではねられ67歳男性重体 茨城・つくば（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "開発・建設",
+      "id": "953b01db3cf844466b33",
+      "title": "常磐道に新IC「つくばみらいSIC」8月29日に開通 TX「みらい平駅」周辺の住宅地が最寄り - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00UmJtN2xXay1QU1ZBc3gzaXBQdl93NUpqdjRpMXVzclVEZ19fNWk5RUM0QWEzMW5kREQ4TkV4OTlHWm83amU4U3lGdTVOeUxyV3pfTWpKZHN5eDN0QW9UMlZQWHZzWGxBNGpzQjdMUl9LU0tfWFBNdjRGdExTX2s?oc=5",
+      "summary": "常磐道に新IC「つくばみらいSIC」8月29日に開通 TX「みらい平駅」周辺の住宅地が最寄り Yahoo!ニュース",
+      "category": "交通・生活",
       "areas": [],
       "source": "Yahoo!ニュース",
       "sourceType": "news",
@@ -3104,11 +3188,11 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "953b01db3cf844466b33",
-      "title": "常磐道に新IC「つくばみらいSIC」8月29日に開通 TX「みらい平駅」周辺の住宅地が最寄り - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00UmJtN2xXay1QU1ZBc3gzaXBQdl93NUpqdjRpMXVzclVEZ19fNWk5RUM0QWEzMW5kREQ4TkV4OTlHWm83amU4U3lGdTVOeUxyV3pfTWpKZHN5eDN0QW9UMlZQWHZzWGxBNGpzQjdMUl9LU0tfWFBNdjRGdExTX2s?oc=5",
-      "summary": "常磐道に新IC「つくばみらいSIC」8月29日に開通 TX「みらい平駅」周辺の住宅地が最寄り Yahoo!ニュース",
-      "category": "交通・生活",
+      "id": "248cacef52e260ce50f4",
+      "title": "【更新】商業施設駐車場ではねられ67歳男性重体 茨城・つくば（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mZnozQXVieTB4UzFNTWNwZkJMU3BTM0hqc2s3cVh1Z3k2Rld5a2ZNTGluOFdQYjZ0cm16RlhrTHhoRVdCRVA0bXYtMmpkRE51TlIydzNoSmtVb21XYTFQUTBSTmltaVVHanRiSUw1WFIxUmRvbzJqWm45Mm1HaU0?oc=5",
+      "summary": "【更新】商業施設駐車場ではねられ67歳男性重体 茨城・つくば（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "開発・建設",
       "areas": [],
       "source": "Yahoo!ニュース",
       "sourceType": "news",
