@@ -1,27 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T04:04:38.420641+00:00",
-  "articleCount": 290,
+  "updatedAt": "2026-11-05T10:15:41.720200+00:00",
+  "articleCount": 300,
   "sources": [
     {
       "source": "つくば市公式",
       "ok": true,
-      "count": 12
+      "count": 13
     },
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 48
+      "count": 53
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 3
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -31,12 +31,12 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 4
+      "count": 3
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 1
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -46,6 +46,18 @@
   ],
   "articles": [
     {
+      "id": "77ef82a2329ba19e5daf",
+      "title": "つくば市内の交差点では、雨でも皆さん温かく手を振り返してくださいます👋だからこそ、皆さんの声援... - 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aHJ4bUZ1aU1rSWt4RXFuNFBUd2ZIbm5VY1hGbFNwZ3Z2UDRzUWdWWGVrR1FRalh6T05KVWRKQXB0SlFVdVRTZXJUWmRTRGhHcS1kaV93NGhGekt6UzJR?oc=5",
+      "summary": "つくば市内の交差点では、雨でも皆さん温かく手を振り返してくださいます👋だからこそ、皆さんの声援... 選挙ドットコム",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "選挙ドットコム",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T09:59:06+00:00",
+      "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
+    },
+    {
       "id": "fc40dcb98320ce448020",
       "title": "茨城・つくば市、データセンター集積へ事業者公募 - 建設通信新聞Digital",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pcWw1UXR3TlZiblpnNkZlNTdhU1BvMjRHa1dUT2g1YlptMkdpVFh3d1ZjdGtWaFZrU2htX0JHUXVhdnpsLWRkbFVQWmNmSzEtdmYwUDVR?oc=5",
@@ -54,8 +66,128 @@
       "areas": [],
       "source": "建設通信新聞Digital",
       "sourceType": "news",
-      "publishedAt": "2026-11-05T03:26:40+00:00",
+      "publishedAt": "2026-11-05T09:30:48+00:00",
       "firstSeenAt": "2026-11-04T16:03:20.008996+00:00"
+    },
+    {
+      "id": "ad33916bcedf72751c76",
+      "title": "（茨城）つくば市稲荷前で暴行 １１月５日 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONkdBdVc5SkFUdGNNazNQTHFPNUZlRnVLTi05b3JFNzhpc0t6OTdyWlBqTWNvbTJQQlVHcnpxQkJ4Wkx6ejJ4c2xfNUJZS1d3cDR4VGRtVWtFMXBzSGI3UFdDX0NhY0d5N2lyZGxLbmJWUkhJUnVrRy04SktaNXRjYk1MQUpyeHVkaEVydVliZGdMNXYyNm9HenBBaTXSAaIBQVVfeXFMT3R2Rm1KQVE0N3NEczB1Tmt1VlppY2Jobjdmd013dldyWDJwSWxiNGQ4NlhMV0dPTmZ2SDlqdWZwNXlEZGJpSEdaSEFIWVlSalRzVGdpQ1NqeWRVZkljNGZaa2tWQldjQnJkNU5FekJZOGc1RXJTdi1fY0JRNms4OS1ib3hxZko0NHNON3J3ZEFqV1pxdXYyZjJsSGpjXzA1Wkln?oc=5",
+      "summary": "（茨城）つくば市稲荷前で暴行 １１月５日 ｄメニューニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ｄメニューニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T09:11:00+00:00",
+      "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
+    },
+    {
+      "id": "cd8075123c89db27a978",
+      "title": "中古住宅買取再販No.1※1のカチタスが茨城県つくば市に新店舗「つくば南店」を開設 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GanRGeC1fUHM5SUNmY2ZLaEhOQ2h5ZHQza19KS0N4TWZ5T1d6VFJUSkF3U3ZNbV9BSjIzby1vY25WUWVmV09aV1dZQ2VKay1SUEJnd3hSMDNEd0xNNk1IM0gzRHpndmlZSGFB?oc=5",
+      "summary": "中古住宅買取再販No.1※1のカチタスが茨城県つくば市に新店舗「つくば南店」を開設 時事ドットコム",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "時事ドットコム",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T08:16:00+00:00",
+      "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
+    },
+    {
+      "id": "6ebb52be0b846b6b424b",
+      "title": "茨城県つくば市で外国人留学生が「やさしい日本語」の防災かるたを楽しみました - やさしい朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kMnlQRWQxVDhUVUp2RWc5N0V4MGpsLWtKeDM0YmhCV2pIbzNYYTdVTXJWUXB4NmlUamEwVTZuNk9ZUkNpczJmaDQ3OUJCVmdWMjkxZ1BvS1V5cVBlandvYU9hcnJvSjQ?oc=5",
+      "summary": "茨城県つくば市で外国人留学生が「やさしい日本語」の防災かるたを楽しみました やさしい朝日新聞",
+      "category": "防災・安全",
+      "areas": [],
+      "source": "やさしい朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T07:32:22+00:00",
+      "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
+    },
+    {
+      "id": "d2f71799a286c576f9d2",
+      "title": "中古住宅買取再販No.1※1のカチタスが茨城県つくば市に新店舗「つくば南店」を開設 (2026年11月5日掲載) - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3bVdvR3VUZ1F5VEg3bDY4YWJBcEJVaFZWLW45UWZ6a0haeEJYeFVmckZLVFd0V3pSc3NCTllTemEzcW1ZUEdETlNMU1RtNGctOFNQRXkzUlNKeUtQYnE5S3Z3?oc=5",
+      "summary": "中古住宅買取再販No.1※1のカチタスが茨城県つくば市に新店舗「つくば南店」を開設 (2026年11月5日掲載) ライブドアニュース",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "ライブドアニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T06:40:00+00:00",
+      "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
+    },
+    {
+      "id": "b2c7c1ae7eaa685d4db1",
+      "title": "つくば市、圏央道沿いにデータセンター集積地 受電容量1050メガワット - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HOE5TUlJfcUw3VUQyUlp3NUVJQ0xESVBRSVFXQXR2ekllY2NnNldGVGFpTURDSnJyQjlFQWJ3blR0U2JaNTRhVG9rOXcwNzRLSnBuLWp5SUpNbl9LZW5qRTI2c0VqVFhOemZ2TlFzVW5PbFA1?oc=5",
+      "summary": "つくば市、圏央道沿いにデータセンター集積地 受電容量1050メガワット BigGo ファイナンス",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "BigGo ファイナンス",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T06:36:00+00:00",
+      "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
+    },
+    {
+      "id": "414c9bd5c7c966034a42",
+      "title": "茨城・つくば市、データセンター集積拠点整備 GX戦略地域認定で - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ocURtUERXN3FKZ2pwYjNjTmlDcWp4WktBel9qOE1OOHZlazB6N3BvX2pHSWtTQ2J3VUlWZ05xQzR0Y09WU2xsZ0dXdUloMW9aRWExLTRoOVpTamNDS3ZwM3Q4V2paR1VXWW9Qeg?oc=5",
+      "summary": "茨城・つくば市、データセンター集積拠点整備 GX戦略地域認定で 日本経済新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "日本経済新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T06:15:00+00:00",
+      "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
+    },
+    {
+      "id": "81d096627efdb6f0a4ee",
+      "title": "令和8年度つくば地域有機農業支援研修会を開催します",
+      "url": "https://www.city.tsukuba.lg.jp/soshikikarasagasu/keizaibunogyoseisakuka/gyomuannai/3/25676.html",
+      "summary": "",
+      "category": "イベント",
+      "areas": [],
+      "source": "つくば市公式",
+      "sourceType": "official",
+      "publishedAt": "2026-11-05T05:36:01+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "ec7a7758d6e5de8d748f",
+      "title": "つくばの教育を充実 - 公明党",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oR2czcWNTYm80QVN6b1VGdDV3M1BrMlNzVnUyOU1ueXlzYlFaem55THZJbHpuSTM4ekh0NnZoVVdwM3pRTHNUdXFHMWVZTjllSzRBMw?oc=5",
+      "summary": "つくばの教育を充実 公明党",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "公明党",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T05:25:35+00:00",
+      "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
+    },
+    {
+      "id": "d06bc5d21d10c5f2ade3",
+      "title": "住民手づくり 8日 つくばで「おのがわ防災まつり」 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Cd0lpTms5ZWFWM0hGU2ttTTV0SFl5bUVsV0VEaWlwdnZRM2phaVRUeWk4X3pOSWZpdXZMSFZyc2JtM09ZbExNZU1jcw?oc=5",
+      "summary": "住民手づくり 8日 つくばで「おのがわ防災まつり」 NEWSつくば",
+      "category": "防災・安全",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T05:00:15+00:00",
+      "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
+    },
+    {
+      "id": "94bb8e13fbaba8f2c4e5",
+      "title": "つくばの教育を充実 茨城県議選へ支援訴え 街頭演説会で山口常任顧問 2026.11.5付 - 公明新聞電子版プラス",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qYnFLMlFJZ2NsUTVoTVc0c1k1YU5taTJjZ21rVU5PQ29pRllva0dfNk9aa1YwOXN4TmxzSF82WUUyZHVyRlN1MG1vMXczWkVlVFBwdGwtQ3RNVElsb3NweVhPcXo1NkZKY1hhZlpR?oc=5",
+      "summary": "つくばの教育を充実 茨城県議選へ支援訴え 街頭演説会で山口常任顧問 2026.11.5付 公明新聞電子版プラス",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "公明新聞電子版プラス",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T03:49:52+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
     },
     {
       "id": "6888a975a5a13f173be1",
@@ -80,6 +212,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-04T22:00:00+00:00",
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
+      "id": "5e09732de9e85de6a10b",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91eUdpOWpPMnJnQl94Q0h6b3NLdUxDMXZaaHhlRlNqZEVWakJkRUl5bXhWaG9ySEZnV1FDdnNOeVIydERqODNSMmszbG9xbXFoZjZnRFR5OUJMZlRQOUgwcF9IQm0zVDRkRnF2d2t3?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T22:00:00+00:00",
+      "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
     },
     {
       "id": "9c1c64ca55bb8e21e9db",
@@ -118,18 +262,6 @@
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
     },
     {
-      "id": "94bb8e13fbaba8f2c4e5",
-      "title": "つくばの教育を充実 茨城県議選へ支援訴え 街頭演説会で山口常任顧問 2026.11.5付 - 公明新聞電子版プラス",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qYnFLMlFJZ2NsUTVoTVc0c1k1YU5taTJjZ21rVU5PQ29pRllva0dfNk9aa1YwOXN4TmxzSF82WUUyZHVyRlN1MG1vMXczWkVlVFBwdGwtQ3RNVElsb3NweVhPcXo1NkZKY1hhZlpR?oc=5",
-      "summary": "つくばの教育を充実 茨城県議選へ支援訴え 街頭演説会で山口常任顧問 2026.11.5付 公明新聞電子版プラス",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "公明新聞電子版プラス",
-      "sourceType": "news",
-      "publishedAt": "2026-11-04T20:32:48+00:00",
-      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
-    },
-    {
       "id": "7b537f745ec8751f9563",
       "title": "つくば市/DC用地整備で公募/12月18日まで受付つくば西SIC地区 - 建設通信新聞Digital",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iN040blp6bmVMNXdLdENrbVJDZ3hjdXVXRzc5QWk1bGN5YldHOHNJQ2RPbUhXdUsyTUFuT0NlNEU0TVpUWWhjaHJPQ3JTYXhmNWtzMDZXVm8?oc=5",
@@ -152,6 +284,20 @@
       "sourceType": "news",
       "publishedAt": "2026-11-04T18:49:03+00:00",
       "firstSeenAt": "2026-11-04T21:57:04.589881+00:00"
+    },
+    {
+      "id": "b3f69014f2cc0db83fe6",
+      "title": "筑波山ケーブルカーの歴史を未来へつなぐ「５代目筑波山ケーブルカー」の譲渡契約を締結しました - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wUFgyVnRyZTZzcUR1MzdHRm05VWF3TW0yVjNMNUJtXzNJRXBZLUdpa2lMbGVydzJPU1NWUHJ3NDNab0ptZkR5S2dqd3BMdW5jb2tWMTNIUlpOdlpyVmM3ZnVsX0g0VWpu?oc=5",
+      "summary": "筑波山ケーブルカーの歴史を未来へつなぐ「５代目筑波山ケーブルカー」の譲渡契約を締結しました ニコニコニュース",
+      "category": "地域ニュース",
+      "areas": [
+        "筑波山"
+      ],
+      "source": "ニコニコニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T18:48:25+00:00",
+      "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
     },
     {
       "id": "5e95229b14f070a10df8",
@@ -2382,18 +2528,6 @@
       "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
     },
     {
-      "id": "81d096627efdb6f0a4ee",
-      "title": "令和8年度つくば地域有機農業支援研修会を開催します",
-      "url": "https://www.city.tsukuba.lg.jp/soshikikarasagasu/keizaibunogyoseisakuka/gyomuannai/3/25676.html",
-      "summary": "",
-      "category": "イベント",
-      "areas": [],
-      "source": "つくば市公式",
-      "sourceType": "official",
-      "publishedAt": "2026-10-12T23:30:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "3fd9c5173a83a88fe800",
       "title": "《連載:医療の未来 筑波大病院50年》(5) 赤字でも高度医療提供 (茨城新聞クロスアイ) - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb2tOa1JUaG16djBYc1dCMlNFdXl6NXhXMjV5QmZ0Q2hhRG1wZktWYTl6b3I0SU9jYWN2NDVDdkJya1RYZnRJOEwwc2VlNm9KWER2enFtUHhMcTJYS2pILTk0aEJZQ2FvdVFOcjcxLTVVeFMyeFBFdUxGUjNjOXlhQjBTbXg4TVpCZnlOUC1B?oc=5",
@@ -3588,20 +3722,6 @@
       "sourceType": "news",
       "publishedAt": "2026-08-11T07:00:00+00:00",
       "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
-    },
-    {
-      "id": "2735a040f21f79eeaf5b",
-      "title": "茨城・つくば駅前「旧国家公務員宿舎跡地70街区」、広大な敷地の行方は？問われるスーパーシティ実装の実体 - 健美家",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ibkcyN185Q0UwdnQxOWdidmVNNXFqeldfMzdnOGl6YVN4a1o5NFZZYkJvRTdSZjl5bHRlMzlJRUFvLUpzZDFvZUxIaUdBdUIyTHN1QzlaaWNsS2Uwa21uTXIzOFdsZzg?oc=5",
-      "summary": "茨城・つくば駅前「旧国家公務員宿舎跡地70街区」、広大な敷地の行方は？問われるスーパーシティ実装の実体 健美家",
-      "category": "店舗・グルメ",
-      "areas": [
-        "つくば駅周辺"
-      ],
-      "source": "健美家",
-      "sourceType": "news",
-      "publishedAt": "2026-08-07T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     }
   ]
 }
