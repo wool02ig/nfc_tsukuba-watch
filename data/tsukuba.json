@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T16:15:03.158362+00:00",
-  "articleCount": 302,
+  "updatedAt": "2026-11-05T21:56:33.949249+00:00",
+  "articleCount": 303,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 50
+      "count": 52
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -21,7 +21,7 @@
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 2
+      "count": 3
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -54,8 +54,20 @@
       "areas": [],
       "source": "建設通信新聞Digital",
       "sourceType": "news",
-      "publishedAt": "2026-11-05T15:32:33+00:00",
+      "publishedAt": "2026-11-05T21:35:44+00:00",
       "firstSeenAt": "2026-11-04T16:03:20.008996+00:00"
+    },
+    {
+      "id": "d33158e7e36e93c7631d",
+      "title": "市南部にも1000メガワット つくば市、新たなデータセンター集積地誘致 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuTzFlWl9acmNxLU1XMlJzbU5ySGdCVHJYRmZ5dzBjdzNIY0RNSlA5aThNbkszWFhicks4YllYTnYwcmwyU3RPcFJEcw?oc=5",
+      "summary": "市南部にも1000メガワット つくば市、新たなデータセンター集積地誘致 NEWSつくば",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T12:32:00+00:00",
+      "firstSeenAt": "2026-11-05T21:56:33.949249+00:00"
     },
     {
       "id": "77ef82a2329ba19e5daf",
