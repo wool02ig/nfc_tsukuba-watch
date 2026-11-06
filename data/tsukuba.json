@@ -1,22 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T04:02:32.022857+00:00",
-  "articleCount": 306,
+  "updatedAt": "2026-11-06T10:13:17.035977+00:00",
+  "articleCount": 308,
   "sources": [
     {
       "source": "つくば市公式",
       "ok": true,
-      "count": 13
+      "count": 14
     },
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 54
+      "count": 47
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 8
+      "count": 6
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -36,7 +36,7 @@
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 1
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -54,8 +54,32 @@
       "areas": [],
       "source": "建設通信新聞Digital",
       "sourceType": "news",
-      "publishedAt": "2026-11-06T03:38:49+00:00",
+      "publishedAt": "2026-11-06T06:40:39+00:00",
       "firstSeenAt": "2026-11-04T16:03:20.008996+00:00"
+    },
+    {
+      "id": "ec05763ea1201dee7ac1",
+      "title": "【令和9年2月8日（月曜日）及び2月9日（火曜日）17時まで】 小野川交流センター利用制限のお知らせ",
+      "url": "https://www.city.tsukuba.lg.jp/soshikikarasagasu/shimimbuchiikisiennka/gyomuannai/kyukan/26414.html",
+      "summary": "",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "つくば市公式",
+      "sourceType": "official",
+      "publishedAt": "2026-11-06T06:31:43+00:00",
+      "firstSeenAt": "2026-11-06T10:13:17.035977+00:00"
+    },
+    {
+      "id": "cd7a573f47a4316e2254",
+      "title": "つくば市、DC誘致へ 西部産業用地 民間の募集開始 (茨城新聞クロスアイ) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjBIWjRIVEtRaVk1bXVVSzVkckVJd3NraEx3NmpOWEtON0dwVVk1dzBUSjNpb0dTZ0xYeFFWR01QcG90d2NsQ1FVUi1JNXFCbW9hWlg1WXVtNW9aTWR4NDdqNC1LdGpsYUNXdUt4WlVWQ3cxSS0tSk9meWZPVjZ0Z1pGckJnNHBlTU02a1pB?oc=5",
+      "summary": "つくば市、DC誘致へ 西部産業用地 民間の募集開始 (茨城新聞クロスアイ) Yahoo!ニュース",
+      "category": "イベント",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T23:55:57+00:00",
+      "firstSeenAt": "2026-11-06T10:13:17.035977+00:00"
     },
     {
       "id": "2e3540ec5089039c6dea",
@@ -286,18 +310,6 @@
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
     },
     {
-      "id": "5e09732de9e85de6a10b",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91eUdpOWpPMnJnQl94Q0h6b3NLdUxDMXZaaHhlRlNqZEVWakJkRUl5bXhWaG9ySEZnV1FDdnNOeVIydERqODNSMmszbG9xbXFoZjZnRFR5OUJMZlRQOUgwcF9IQm0zVDRkRnF2d2t3?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-11-04T22:00:00+00:00",
-      "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
-    },
-    {
       "id": "9c1c64ca55bb8e21e9db",
       "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
@@ -320,6 +332,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-04T22:00:00+00:00",
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
+      "id": "5e09732de9e85de6a10b",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91eUdpOWpPMnJnQl94Q0h6b3NLdUxDMXZaaHhlRlNqZEVWakJkRUl5bXhWaG9ySEZnV1FDdnNOeVIydERqODNSMmszbG9xbXFoZjZnRFR5OUJMZlRQOUgwcF9IQm0zVDRkRnF2d2t3?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T22:00:00+00:00",
+      "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
     },
     {
       "id": "3216cdbe4640118f1623",
@@ -1874,10 +1898,10 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "f64748648cb47969dc13",
-      "title": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YWlptVkMwS3JjeXhRMGlpbEJ0WnFqSXc4NHFwbXlwLXlDWC1iSU5oUm9UYXhEX2h3RUdKeVY5N0RXRVVxdnFtVTdiSXpkbUI1ek1vYUhVMWgzTFJOTEFhRDItM0xFVkJUM0lucElIRTlBeC1GX2dQcGhmTXZvN0k?oc=5",
-      "summary": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催（朝日新聞） Yahoo!ニュース",
+      "id": "592ebc3ed37cfb931001",
+      "title": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 (朝日新聞) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWN3UmVVTDNfcXA3TzhTcDhfVWh2TzhDY09iOHpUdGV2UTlkM0tITDBkQkcteDZadTVWUUF6V1FSVGxKVF9RcGhMb2JkS0lCbFJoQXdXSWVrWDBuN1FmN1FsVnVFMkNPTWJGelZTNTR1cWhlYmhwNm5QVUNXX1hrZkNDMFVMMGpnM3RJbVRn?oc=5",
+      "summary": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 (朝日新聞) Yahoo!ニュース",
       "category": "イベント",
       "areas": [],
       "source": "Yahoo!ニュース",
@@ -1886,10 +1910,10 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "592ebc3ed37cfb931001",
-      "title": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 (朝日新聞) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWN3UmVVTDNfcXA3TzhTcDhfVWh2TzhDY09iOHpUdGV2UTlkM0tITDBkQkcteDZadTVWUUF6V1FSVGxKVF9RcGhMb2JkS0lCbFJoQXdXSWVrWDBuN1FmN1FsVnVFMkNPTWJGelZTNTR1cWhlYmhwNm5QVUNXX1hrZkNDMFVMMGpnM3RJbVRn?oc=5",
-      "summary": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 (朝日新聞) Yahoo!ニュース",
+      "id": "f64748648cb47969dc13",
+      "title": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YWlptVkMwS3JjeXhRMGlpbEJ0WnFqSXc4NHFwbXlwLXlDWC1iSU5oUm9UYXhEX2h3RUdKeVY5N0RXRVVxdnFtVTdiSXpkbUI1ek1vYUhVMWgzTFJOTEFhRDItM0xFVkJUM0lucElIRTlBeC1GX2dQcGhmTXZvN0k?oc=5",
+      "summary": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催（朝日新聞） Yahoo!ニュース",
       "category": "イベント",
       "areas": [],
       "source": "Yahoo!ニュース",
