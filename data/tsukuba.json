@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T15:58:31.399736+00:00",
-  "articleCount": 312,
+  "updatedAt": "2026-11-06T21:51:14.744350+00:00",
+  "articleCount": 314,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 52
+      "count": 50
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -36,7 +36,7 @@
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 2
+      "count": 1
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -45,6 +45,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "9007715ab349e1d9030a",
+      "title": "【つくば駅にて夜のご挨拶】お仕事や学校帰り、多くの方に温かいお声がけをいただき元気をいただきま... - 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xNHhOUmN6MHBTWS1BYUx1ZGlqaGR3a1JrOVNUekRiWTVuTE5Xcm9zYXlvZlZPcVpkSVpFc0JWYXhpMGxHS0ZtZzkwaWN2WDFnQWdxb29KSlc3eFZVVW5Z?oc=5",
+      "summary": "【つくば駅にて夜のご挨拶】お仕事や学校帰り、多くの方に温かいお声がけをいただき元気をいただきま... 選挙ドットコム",
+      "category": "地域ニュース",
+      "areas": [
+        "つくば駅周辺"
+      ],
+      "source": "選挙ドットコム",
+      "sourceType": "news",
+      "publishedAt": "2026-11-06T21:27:40+00:00",
+      "firstSeenAt": "2026-11-06T21:51:14.744350+00:00"
+    },
     {
       "id": "5f6f193af9b2dce8a003",
       "title": "堀幸太後援会事務所開設❗️つくば市妻木にて、地域の皆様の声を聞きながら、地に足のついた政治家と... - 選挙ドットコム",
@@ -346,10 +360,10 @@
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
     },
     {
-      "id": "9cbf5d4d04fc6990a087",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い (朝日新聞) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLThnd0lEUi0xR3RpYWZzSUNiWGpWV2RtWWo5SXRYSjI1NV9oMkZhZnFkakdVc19rSHFveVQyX3BSZjdnSmxYakN6ZjFuX093NzJmVEVOZUJ3ZGVpeXU3UUExQnMtb0cwanlnaktJTU1mdmxacjNNQjdqN0FoeTV3LXk0cGRQS1MyOG1zMFZn?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い (朝日新聞) Yahoo!ニュース",
+      "id": "3c4aa2c4430f9f077af2",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
       "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
@@ -358,10 +372,10 @@
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
     },
     {
-      "id": "3c4aa2c4430f9f077af2",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
+      "id": "9cbf5d4d04fc6990a087",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い (朝日新聞) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLThnd0lEUi0xR3RpYWZzSUNiWGpWV2RtWWo5SXRYSjI1NV9oMkZhZnFkakdVc19rSHFveVQyX3BSZjdnSmxYakN6ZjFuX093NzJmVEVOZUJ3ZGVpeXU3UUExQnMtb0cwanlnaktJTU1mdmxacjNNQjdqN0FoeTV3LXk0cGRQS1MyOG1zMFZn?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い (朝日新聞) Yahoo!ニュース",
       "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
@@ -3380,6 +3394,18 @@
       "sourceType": "news",
       "publishedAt": "2026-09-22T07:00:00+00:00",
       "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
+    },
+    {
+      "id": "9cd65c1946d4719562a2",
+      "title": "柏旭町のラーメン店「麺屋こうじ本店」が9月30日閉店、約20年の歴史を経てつくば店へ機能移管 - 柏つうしん",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QejlMZ2NTcEdQeXVGMTRJUVlCTWRCajJvSGtmemN4bnZ3TG1vbm5RTHExaTZmeDE4X1lXX1M3Qi1PdEJDMHNHYjNzYXZzQVk?oc=5",
+      "summary": "柏旭町のラーメン店「麺屋こうじ本店」が9月30日閉店、約20年の歴史を経てつくば店へ機能移管 柏つうしん",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "柏つうしん",
+      "sourceType": "news",
+      "publishedAt": "2026-09-21T07:00:00+00:00",
+      "firstSeenAt": "2026-11-06T21:51:14.744350+00:00"
     },
     {
       "id": "cbcf5d4e50d252ca2bf8",
