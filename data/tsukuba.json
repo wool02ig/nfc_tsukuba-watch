@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T10:13:17.035977+00:00",
-  "articleCount": 308,
+  "updatedAt": "2026-11-06T15:58:31.399736+00:00",
+  "articleCount": 312,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 47
+      "count": 52
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 6
+      "count": 7
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -46,16 +46,16 @@
   ],
   "articles": [
     {
-      "id": "fc40dcb98320ce448020",
-      "title": "茨城・つくば市、データセンター集積へ事業者公募 - 建設通信新聞Digital",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pcWw1UXR3TlZiblpnNkZlNTdhU1BvMjRHa1dUT2g1YlptMkdpVFh3d1ZjdGtWaFZrU2htX0JHUXVhdnpsLWRkbFVQWmNmSzEtdmYwUDVR?oc=5",
-      "summary": "茨城・つくば市、データセンター集積へ事業者公募 建設通信新聞Digital",
-      "category": "開発・建設",
+      "id": "5f6f193af9b2dce8a003",
+      "title": "堀幸太後援会事務所開設❗️つくば市妻木にて、地域の皆様の声を聞きながら、地に足のついた政治家と... - 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oeWdXaWJiS0ZUMHUzekdPQ0xoS1NOYTgtQlVlNzBKY1lJZlh1T3F2Qzd6LTJXaVBYLU1BUHRlTkFpZC1NN3ZGdG9MbmN5aDVBOVM2VGRjcU5yVmF3T3Bn?oc=5",
+      "summary": "堀幸太後援会事務所開設❗️つくば市妻木にて、地域の皆様の声を聞きながら、地に足のついた政治家と... 選挙ドットコム",
+      "category": "地域ニュース",
       "areas": [],
-      "source": "建設通信新聞Digital",
+      "source": "選挙ドットコム",
       "sourceType": "news",
-      "publishedAt": "2026-11-06T06:40:39+00:00",
-      "firstSeenAt": "2026-11-04T16:03:20.008996+00:00"
+      "publishedAt": "2026-11-06T12:37:39+00:00",
+      "firstSeenAt": "2026-11-06T15:58:31.399736+00:00"
     },
     {
       "id": "ec05763ea1201dee7ac1",
@@ -104,6 +104,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-05T23:00:00+00:00",
       "firstSeenAt": "2026-11-06T04:02:32.022857+00:00"
+    },
+    {
+      "id": "67d861f3be1ca4736ab7",
+      "title": "つくば市、新たにデータセンター誘致 74ヘクタール、つくば西スマートIC付近 来春にも優先交渉権者決定か - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xTVBzWndON3NTaDBqSkFFZ0R1Qmd0V0thR3ZJNVRnU0xEeEtVWUh5UTB3c1kwZjFUWjRZRUdDMXRQRzliS1h1QUVPampzXzNHRzhNS2lQenUtVy1mZEQtdnA1c3FXaE8zdjFHZkI5ZFcycW_SAXhBVV95cUxPQ1dzcnJYMTFSUm9xLXFQbDM0Z2pTTnp6MjBJcWVfM29fS0JqYUtPc2tZLVlMd0RDcy1kc2t2MXc0WG9rSC1leTFIZG1GUVI2WEJfME9mNVJRR0N3NG44aVRZZU9FdXl6ekkyc2U2N3lXZUdlTVVzeWo?oc=5",
+      "summary": "つくば市、新たにデータセンター誘致 74ヘクタール、つくば西スマートIC付近 来春にも優先交渉権者決定か ｄメニューニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ｄメニューニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T23:00:00+00:00",
+      "firstSeenAt": "2026-11-06T15:58:31.399736+00:00"
     },
     {
       "id": "d59f94c1e92ac9c23237",
@@ -164,6 +176,30 @@
       "sourceType": "news",
       "publishedAt": "2026-11-05T08:16:00+00:00",
       "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
+    },
+    {
+      "id": "fc40dcb98320ce448020",
+      "title": "茨城・つくば市、データセンター集積へ事業者公募 - 建設通信新聞Digital",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pcWw1UXR3TlZiblpnNkZlNTdhU1BvMjRHa1dUT2g1YlptMkdpVFh3d1ZjdGtWaFZrU2htX0JHUXVhdnpsLWRkbFVQWmNmSzEtdmYwUDVR?oc=5",
+      "summary": "茨城・つくば市、データセンター集積へ事業者公募 建設通信新聞Digital",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "建設通信新聞Digital",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "firstSeenAt": "2026-11-04T16:03:20.008996+00:00"
+    },
+    {
+      "id": "2b4acb795e54dfe9e8f3",
+      "title": "つくば市春日のライブカメラ - ウェザーニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxY3FBZGRkdWgxbXFYUXZSbG9JMVVWYzh6QWlhX2NKS3UyNE9TZWpncDRtRmlNamZjejB3cV8yTnlXb21wS3VENmJNRWdfWDZnZjhfRFB6WkQ0VGZldU41eEdyRXg0djU1UDJpM1hLclRtUFk?oc=5",
+      "summary": "つくば市春日のライブカメラ ウェザーニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ウェザーニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T07:48:43+00:00",
+      "firstSeenAt": "2026-11-06T15:58:31.399736+00:00"
     },
     {
       "id": "6ebb52be0b846b6b424b",
@@ -298,18 +334,6 @@
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
     },
     {
-      "id": "3c4aa2c4430f9f077af2",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-04T22:00:00+00:00",
-      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
-    },
-    {
       "id": "9c1c64ca55bb8e21e9db",
       "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
@@ -326,6 +350,18 @@
       "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い (朝日新聞) - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLThnd0lEUi0xR3RpYWZzSUNiWGpWV2RtWWo5SXRYSjI1NV9oMkZhZnFkakdVc19rSHFveVQyX3BSZjdnSmxYakN6ZjFuX093NzJmVEVOZUJ3ZGVpeXU3UUExQnMtb0cwanlnaktJTU1mdmxacjNNQjdqN0FoeTV3LXk0cGRQS1MyOG1zMFZn?oc=5",
       "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い (朝日新聞) Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T22:00:00+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
+      "id": "3c4aa2c4430f9f077af2",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
       "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
@@ -394,6 +430,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-04T18:48:25+00:00",
       "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
+    },
+    {
+      "id": "569b3f13b1afa87715fe",
+      "title": "新たなENEOSサービスステーション内併設店舗として、完全個室型インドアゴルフ「DOOR TO GOLF アドバンスセルフつくば梅園店」2026年11月6日（金）オープン - 福島民報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aYXdQQjBPQjhxUW1hTHRNWUNjcjYzQnU3Sjg1UWZXdXJDQmlXVko1dTg1ZWVmRWtITklycmdUYm9ZN1R3aXIxSC0tMGFyTVZsNFdoTnctU0VmREZzSnFFTDZtZGxWWHc?oc=5",
+      "summary": "新たなENEOSサービスステーション内併設店舗として、完全個室型インドアゴルフ「DOOR TO GOLF アドバンスセルフつくば梅園店」2026年11月6日（金）オープン 福島民報デジタル",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "福島民報デジタル",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T10:24:41+00:00",
+      "firstSeenAt": "2026-11-06T15:58:31.399736+00:00"
     },
     {
       "id": "5e95229b14f070a10df8",
@@ -551,12 +599,12 @@
     },
     {
       "id": "a1cc94ca596d89064a9a",
-      "title": "【常磐道】つくば市内で5台衝突事故 下り線2車線規制続く（4日06:30現在） - 千葉テレビ放送株式会社",
+      "title": "【常磐道】つくば市内で5台衝突事故 下り線2車線規制続く（4日06:30現在） - 千葉テレビ放送",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94am1pRTBQeF8zWldaMEtZREV6VkZEeWk2VmRWd3VKNDZDU1R4ZjlRUG51QWRfQ2dVbk9NcEZnRjB4WmNmVktFZUFLeHJ3YXVLWWpjTEZUUVBXWE5iS2NJ?oc=5",
-      "summary": "【常磐道】つくば市内で5台衝突事故 下り線2車線規制続く（4日06:30現在） 千葉テレビ放送株式会社",
+      "summary": "【常磐道】つくば市内で5台衝突事故 下り線2車線規制続く（4日06:30現在） 千葉テレビ放送",
       "category": "地域ニュース",
       "areas": [],
-      "source": "千葉テレビ放送株式会社",
+      "source": "千葉テレビ放送",
       "sourceType": "news",
       "publishedAt": "2026-11-03T21:59:38+00:00",
       "firstSeenAt": "2026-11-03T21:55:45.026370+00:00"
@@ -1874,6 +1922,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "02a0b7a3340f9253d34c",
+      "title": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56UHdkY3Y0dURtb0hDLVFGMGsxdW40SDNGT3Z5R0dpbGt0OWU2NjdRdjF2M3ZycEtwdUdQRU1KOVlQWnY3NEpMdVlZNFhfQXZmaC0xSUU4X1dQMF8ySnBiQ1FSc0hRbzQ?oc=5",
+      "summary": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 [茨城県] 朝日新聞",
+      "category": "イベント",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-10-28T07:00:00+00:00",
+      "firstSeenAt": "2026-10-30T03:58:11.828841+00:00"
+    },
+    {
       "id": "7e91995187ed852b7c3b",
       "title": "筑波技術大学 東京2025デフリンピック1周年記念イベントを開催します - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wSmtRSUo5ZEF5U2xuWHIyT3VsSGR4VU1Ba3ZSZEQ3LXhHN1pmeHBsbFAxcVl6bk1rTzVPT2xtbmJiNEUzUVNQd1I0NUFTSWpqRVhuMEV3NGgySV9DYjR4azhMRlZrc3JpSnc?oc=5",
@@ -1932,18 +1992,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-28T02:15:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "02a0b7a3340f9253d34c",
-      "title": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56UHdkY3Y0dURtb0hDLVFGMGsxdW40SDNGT3Z5R0dpbGt0OWU2NjdRdjF2M3ZycEtwdUdQRU1KOVlQWnY3NEpMdVlZNFhfQXZmaC0xSUU4X1dQMF8ySnBiQ1FSc0hRbzQ?oc=5",
-      "summary": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 [茨城県] 朝日新聞",
-      "category": "イベント",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-10-28T02:15:00+00:00",
-      "firstSeenAt": "2026-10-30T03:58:11.828841+00:00"
     },
     {
       "id": "4bc004d73b2101bdb09f",
