@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T15:48:38.714463+00:00",
+  "updatedAt": "2026-11-07T21:47:08.534754+00:00",
   "articleCount": 318,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 43
+      "count": 39
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -31,7 +31,7 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
@@ -384,6 +384,18 @@
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
     },
     {
+      "id": "9c1c64ca55bb8e21e9db",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T22:00:00+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
       "id": "3c4aa2c4430f9f077af2",
       "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
@@ -403,18 +415,6 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-04T22:00:00+00:00",
-      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
-    },
-    {
-      "id": "9c1c64ca55bb8e21e9db",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "朝日新聞",
       "sourceType": "news",
       "publishedAt": "2026-11-04T22:00:00+00:00",
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
@@ -2784,6 +2784,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "12db0b289c26d65c562f",
+      "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZmMwVEJ2Rnc4MkdrbXVOWGR2VG1uRlc1M2tOMExOc1k2WUIxeXlJRmtoS0d1Yk52cUI5aUJPaEpZamNMRUVCbklYeTJlTmZwd3NmTXhhQUliaEd6LUN6SDEzOGZ4UdIBa0FVX3lxTE9QbDlUOGczcUV5QmdyVXMtV0RlaUk0VTlEUk1HSm5GR0JWREJ0UnJ0OWZiWFhnRTVTSloza3NGQTJrVTItRXNRUWVicXEzQ1FkY0dIXzV3X1drYjBXbElJVVZkNkRhVF96dXJB?oc=5",
+      "summary": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 Infoseek",
+      "category": "交通・生活",
+      "areas": [],
+      "source": "Infoseek",
+      "sourceType": "news",
+      "publishedAt": "2026-10-09T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "098accf715f1882b4bca",
       "title": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vS2k3RlEwejhUTUZWYnAxVS1ZVmhxNG55VUkzdTBYeW1wajdYQjFYTVFMNnNlSUlFNGVMVE9pVUpBaFBnZF9vZFJwa1hyQmRIdXpyajZIS1MwT1o4dm9sZFpEWDU2SDQ?oc=5",
@@ -2796,18 +2808,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-09T07:00:00+00:00",
       "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
-    },
-    {
-      "id": "12db0b289c26d65c562f",
-      "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZmMwVEJ2Rnc4MkdrbXVOWGR2VG1uRlc1M2tOMExOc1k2WUIxeXlJRmtoS0d1Yk52cUI5aUJPaEpZamNMRUVCbklYeTJlTmZwd3NmTXhhQUliaEd6LUN6SDEzOGZ4UdIBa0FVX3lxTE9QbDlUOGczcUV5QmdyVXMtV0RlaUk0VTlEUk1HSm5GR0JWREJ0UnJ0OWZiWFhnRTVTSloza3NGQTJrVTItRXNRUWVicXEzQ1FkY0dIXzV3X1drYjBXbElJVVZkNkRhVF96dXJB?oc=5",
-      "summary": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 Infoseek",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "Infoseek",
-      "sourceType": "news",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "54f0e5303bacb8cc8f65",
