@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T21:51:14.744350+00:00",
-  "articleCount": 314,
+  "updatedAt": "2026-11-07T03:59:24.488301+00:00",
+  "articleCount": 318,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 50
+      "count": 51
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -46,6 +46,30 @@
   ],
   "articles": [
     {
+      "id": "0e0bab53cd681ebb288b",
+      "title": "シミュレーションゴルフ施設 つくば市梅園にオープン 24時間 完全個室型 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94ZVZwMjc0MkpoUXFzS05CaDVsYTRreW5UQVJBVXhSZTMyT0RpazZCeUdwT202cjExOGljOVB4Z3dNQTNfOU1EVUhQVQ?oc=5",
+      "summary": "シミュレーションゴルフ施設 つくば市梅園にオープン 24時間 完全個室型 NEWSつくば",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-07T03:13:15+00:00",
+      "firstSeenAt": "2026-11-07T03:59:24.488301+00:00"
+    },
+    {
+      "id": "d97c9686a2fce7f518d6",
+      "title": "【つくば市】コーチャンフォーつくば店で発見！気になるレトルトカレー3種類をご紹介します♪ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44QUdrS05kTDRuMEp4NzVMamZTRlZGQlJxM1BCcG5qemM5eUx4T3pPU2lRcTFSdU9fekU5ZjJGRWRVUnJWTEhrNl9pamhZQlpZcUlqX3pLclBUaEpNQkU2WW5BT3d6TldHV1cw?oc=5",
+      "summary": "【つくば市】コーチャンフォーつくば店で発見！気になるレトルトカレー3種類をご紹介します♪ 号外NET つくば市",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-06T22:38:21+00:00",
+      "firstSeenAt": "2026-11-07T03:59:24.488301+00:00"
+    },
+    {
       "id": "9007715ab349e1d9030a",
       "title": "【つくば駅にて夜のご挨拶】お仕事や学校帰り、多くの方に温かいお声がけをいただき元気をいただきま... - 選挙ドットコム",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xNHhOUmN6MHBTWS1BYUx1ZGlqaGR3a1JrOVNUekRiWTVuTE5Xcm9zYXlvZlZPcVpkSVpFc0JWYXhpMGxHS0ZtZzkwaWN2WDFnQWdxb29KSlc3eFZVVW5Z?oc=5",
@@ -58,6 +82,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-06T21:27:40+00:00",
       "firstSeenAt": "2026-11-06T21:51:14.744350+00:00"
+    },
+    {
+      "id": "5df085dba35c1a3648d6",
+      "title": "「宇宙」と人つなぐ つくばで就職イベント ／茨城 - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GTFBtMEJvMWQtZDQzNXUxQzUyYlR6djlGYXoxWUFtcmZKaEp0NUxFcVcydXhIWUNWcnZqbXZmMkUtYlNLTnRtSGVlcDRrLTV0UjFKMHlWSllxOTZ5bzRZYmF2T3NyVnZX?oc=5",
+      "summary": "「宇宙」と人つなぐ つくばで就職イベント ／茨城 毎日新聞",
+      "category": "イベント",
+      "areas": [],
+      "source": "毎日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-06T20:01:51+00:00",
+      "firstSeenAt": "2026-11-07T03:59:24.488301+00:00"
     },
     {
       "id": "5f6f193af9b2dce8a003",
@@ -348,18 +384,6 @@
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
     },
     {
-      "id": "9c1c64ca55bb8e21e9db",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-11-04T22:00:00+00:00",
-      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
-    },
-    {
       "id": "3c4aa2c4430f9f077af2",
       "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
@@ -367,6 +391,18 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T22:00:00+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
+      "id": "9c1c64ca55bb8e21e9db",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
       "sourceType": "news",
       "publishedAt": "2026-11-04T22:00:00+00:00",
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
@@ -456,6 +492,20 @@
       "sourceType": "news",
       "publishedAt": "2026-11-04T10:24:41+00:00",
       "firstSeenAt": "2026-11-06T15:58:31.399736+00:00"
+    },
+    {
+      "id": "e4de38282ec81506a88c",
+      "title": "筑波山ケーブルカーの歴史を未来へつなぐ「５代目筑波山ケーブルカー」の譲渡契約を締結しました - 福島民報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ya0xTRE1VeWVFeXlhWFRVaV9nMzVqU2l4aEkxVm9aSlY3SVJHc1dOUjFKa2p3Ql9CalI0V3gxWmR4RFh6QzNpUTdQcm5LcXhVVlBHMnduTEpBSHotaGN0Qk80TDZuUUE?oc=5",
+      "summary": "筑波山ケーブルカーの歴史を未来へつなぐ「５代目筑波山ケーブルカー」の譲渡契約を締結しました 福島民報デジタル",
+      "category": "地域ニュース",
+      "areas": [
+        "筑波山"
+      ],
+      "source": "福島民報デジタル",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T09:22:15+00:00",
+      "firstSeenAt": "2026-11-07T03:59:24.488301+00:00"
     },
     {
       "id": "5e95229b14f070a10df8",
@@ -2722,6 +2772,20 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "098accf715f1882b4bca",
+      "title": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vS2k3RlEwejhUTUZWYnAxVS1ZVmhxNG55VUkzdTBYeW1wajdYQjFYTVFMNnNlSUlFNGVMVE9pVUpBaFBnZF9vZFJwa1hyQmRIdXpyajZIS1MwT1o4dm9sZFpEWDU2SDQ?oc=5",
+      "summary": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] 朝日新聞",
+      "category": "交通・生活",
+      "areas": [
+        "筑波山"
+      ],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-10-09T07:00:00+00:00",
+      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
+    },
+    {
       "id": "8864bd4c1b482475e14e",
       "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - 乗りものニュース",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XcGpfYmFWejBQbnhBOHRnNnh1eHM5WERJLU5ZRDUyMEI2NWdIY0c5Y3N0OVc4NGN2TlY2cjE0b2Nvd2YzQk5ndWJB?oc=5",
@@ -2756,20 +2820,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-09T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "098accf715f1882b4bca",
-      "title": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vS2k3RlEwejhUTUZWYnAxVS1ZVmhxNG55VUkzdTBYeW1wajdYQjFYTVFMNnNlSUlFNGVMVE9pVUpBaFBnZF9vZFJwa1hyQmRIdXpyajZIS1MwT1o4dm9sZFpEWDU2SDQ?oc=5",
-      "summary": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] 朝日新聞",
-      "category": "交通・生活",
-      "areas": [
-        "筑波山"
-      ],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
     },
     {
       "id": "f88a46c4da2262a12204",
