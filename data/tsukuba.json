@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T15:47:06.620363+00:00",
-  "articleCount": 327,
+  "updatedAt": "2026-11-08T21:46:45.947454+00:00",
+  "articleCount": 328,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 40
+      "count": 42
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -45,6 +45,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "15660f43df7a5c3d596a",
+      "title": "【つくば市】11/9 最高11℃、冷えるタイミングがありそう、朝から夜は雨の予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Bd19VeHZQdlpUOWliOGt2OFg4dG0wQjlKSi1vOEs3aGRJMlQtZTBXdjBYMnlWdTFpWm15ZVQxSG9pcmVtaC11RUJ3VzNkY19hbk9BbDc1ZGx3bHVGcHpWWkZ0cU5PUVFCTWJEbVk4dTRKaW1lUWJsc0M0NVFTTEE?oc=5",
+      "summary": "【つくば市】11/9 最高11℃、冷えるタイミングがありそう、朝から夜は雨の予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-08T20:41:45+00:00",
+      "firstSeenAt": "2026-11-08T21:46:45.947454+00:00"
+    },
     {
       "id": "af01132f60015e64c9b4",
       "title": "地元妻木神社の例祭、そしてつくばカピオで行われたつくば市民文化祭に行ってきました❗️妻木神社で... - 選挙ドットコム",
