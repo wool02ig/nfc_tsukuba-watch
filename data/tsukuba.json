@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T09:56:10.210143+00:00",
-  "articleCount": 324,
+  "updatedAt": "2026-11-08T15:47:06.620363+00:00",
+  "articleCount": 327,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 39
+      "count": 40
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -46,6 +46,30 @@
   ],
   "articles": [
     {
+      "id": "af01132f60015e64c9b4",
+      "title": "地元妻木神社の例祭、そしてつくばカピオで行われたつくば市民文化祭に行ってきました❗️妻木神社で... - 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBieUFyY3hldGU1NUpudnlEUmpEUF9TamdKV3pTQU80bzhKNmZ4WTFhWHJCWnhxb3ExdXQ5VUVSWlM3aFNFTVRBRHlGMU1BLS1sY0xaOTg2SWhHNDZGSHdz?oc=5",
+      "summary": "地元妻木神社の例祭、そしてつくばカピオで行われたつくば市民文化祭に行ってきました❗️妻木神社で... 選挙ドットコム",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "選挙ドットコム",
+      "sourceType": "news",
+      "publishedAt": "2026-11-08T11:44:33+00:00",
+      "firstSeenAt": "2026-11-08T15:47:06.620363+00:00"
+    },
+    {
+      "id": "365852b9a2b57354116f",
+      "title": "日本一競う「土浦全国花火競技大会」 頂点にはつくば市の業者 [写真特集1/15] - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcEZOemQxRkRXMEZ6QUM5MDhZcGFGYzdlRlduX3R0eU8zZFJVamFVMTZyNXJJZXFSaG9Lb0FoNmpBZnd2dkNjZ0t3LXExcjMxakNqbF8yUk5UeFpZLVlFUjlCNmdsYTFrclNUYmZEOGhpMDgxekk3WWdOY2dJdDlENHNtS1Q1Q2M?oc=5",
+      "summary": "日本一競う「土浦全国花火競技大会」 頂点にはつくば市の業者 [写真特集1/15] 毎日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "毎日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-08T09:06:14+00:00",
+      "firstSeenAt": "2026-11-08T15:47:06.620363+00:00"
+    },
+    {
       "id": "4ca6321a2b1b0d29f362",
       "title": "日本一競う「土浦全国花火競技大会」 頂点にはつくば市の業者 [写真特集1/15] - 毎日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pS0h4QWt4c1NBMk1LNWgxanRmUGdjUmNJbmlKREpWbklJdDhPS3UwdzB5VXZfeDlsSXJVSDkwS0N0TlB5djZaYlVFYXZDZUF6Z0dvNmZOODFpbkd1U2lqRkI4WUY5Zw?oc=5",
@@ -68,6 +92,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-08T08:49:14+00:00",
       "firstSeenAt": "2026-11-08T09:56:10.210143+00:00"
+    },
+    {
+      "id": "5d5414503588f05f0ce7",
+      "title": "日本一競う「土浦全国花火競技大会」 頂点にはつくば市の業者 - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nbjZGQmZyR2lFU1NmOWZzMU1oX3lDa2VyS19vdDg0OE5JRnNuWS1ZSDJPbU1mb3M4RVRKdTRlNmlMYnR3UC1kckZaTUtyTm1aNFpia2xQTU5FbjBmWjBhQnFfYTlqbjNT?oc=5",
+      "summary": "日本一競う「土浦全国花火競技大会」 頂点にはつくば市の業者 毎日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "毎日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-08T08:48:52+00:00",
+      "firstSeenAt": "2026-11-08T15:47:06.620363+00:00"
     },
     {
       "id": "a5e2f9f383dd6e2aecc7",
@@ -194,18 +230,6 @@
       "firstSeenAt": "2026-11-06T04:02:32.022857+00:00"
     },
     {
-      "id": "67d861f3be1ca4736ab7",
-      "title": "つくば市、新たにデータセンター誘致 74ヘクタール、つくば西スマートIC付近 来春にも優先交渉権者決定か - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xTVBzWndON3NTaDBqSkFFZ0R1Qmd0V0thR3ZJNVRnU0xEeEtVWUh5UTB3c1kwZjFUWjRZRUdDMXRQRzliS1h1QUVPampzXzNHRzhNS2lQenUtVy1mZEQtdnA1c3FXaE8zdjFHZkI5ZFcycW_SAXhBVV95cUxPQ1dzcnJYMTFSUm9xLXFQbDM0Z2pTTnp6MjBJcWVfM29fS0JqYUtPc2tZLVlMd0RDcy1kc2t2MXc0WG9rSC1leTFIZG1GUVI2WEJfME9mNVJRR0N3NG44aVRZZU9FdXl6ekkyc2U2N3lXZUdlTVVzeWo?oc=5",
-      "summary": "つくば市、新たにデータセンター誘致 74ヘクタール、つくば西スマートIC付近 来春にも優先交渉権者決定か ｄメニューニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "ｄメニューニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-05T23:00:00+00:00",
-      "firstSeenAt": "2026-11-06T15:58:31.399736+00:00"
-    },
-    {
       "id": "d671bccc2759472204e9",
       "title": "つくば市、DC誘致へ 西部産業用地 民間の募集開始（茨城新聞クロスアイ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MHFKdi1IMGM3amN3TWxJU2hpbE9xd2tUd09lZHBoNWdwNkR4RFRDX1duQ0d5T1F2Z2ZkMjNLSzZoQWdReGVQbUw2US00M0NXcjdpUWNGQVI2THBpS1czaTJQdngwNzB1V3l2cEl4SmVwb3ZGTUtnUVlVV0FhQ3c?oc=5",
@@ -216,6 +240,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-05T23:00:00+00:00",
       "firstSeenAt": "2026-11-06T04:02:32.022857+00:00"
+    },
+    {
+      "id": "67d861f3be1ca4736ab7",
+      "title": "つくば市、新たにデータセンター誘致 74ヘクタール、つくば西スマートIC付近 来春にも優先交渉権者決定か - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xTVBzWndON3NTaDBqSkFFZ0R1Qmd0V0thR3ZJNVRnU0xEeEtVWUh5UTB3c1kwZjFUWjRZRUdDMXRQRzliS1h1QUVPampzXzNHRzhNS2lQenUtVy1mZEQtdnA1c3FXaE8zdjFHZkI5ZFcycW_SAXhBVV95cUxPQ1dzcnJYMTFSUm9xLXFQbDM0Z2pTTnp6MjBJcWVfM29fS0JqYUtPc2tZLVlMd0RDcy1kc2t2MXc0WG9rSC1leTFIZG1GUVI2WEJfME9mNVJRR0N3NG44aVRZZU9FdXl6ekkyc2U2N3lXZUdlTVVzeWo?oc=5",
+      "summary": "つくば市、新たにデータセンター誘致 74ヘクタール、つくば西スマートIC付近 来春にも優先交渉権者決定か ｄメニューニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ｄメニューニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T23:00:00+00:00",
+      "firstSeenAt": "2026-11-06T15:58:31.399736+00:00"
     },
     {
       "id": "d59f94c1e92ac9c23237",
@@ -446,13 +482,13 @@
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
     },
     {
-      "id": "3c4aa2c4430f9f077af2",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
+      "id": "9c1c64ca55bb8e21e9db",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
       "category": "地域ニュース",
       "areas": [],
-      "source": "Yahoo!ニュース",
+      "source": "朝日新聞",
       "sourceType": "news",
       "publishedAt": "2026-11-04T22:00:00+00:00",
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
@@ -470,13 +506,13 @@
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
     },
     {
-      "id": "9c1c64ca55bb8e21e9db",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
+      "id": "3c4aa2c4430f9f077af2",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
       "category": "地域ニュース",
       "areas": [],
-      "source": "朝日新聞",
+      "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-11-04T22:00:00+00:00",
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
