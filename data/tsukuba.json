@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T21:47:08.534754+00:00",
-  "articleCount": 318,
+  "updatedAt": "2026-11-08T04:01:56.034771+00:00",
+  "articleCount": 321,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 39
+      "count": 38
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -36,7 +36,7 @@
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 1
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -45,6 +45,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "9bd25143386b874652cf",
+      "title": "【つくば】11月14日つくば市中央公園で「ワン博フェス」開催！犬も人も楽しめるドッグイベントです - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0bVl0dDVsZk5KTWpnQS1XYi0xRFFKUkp1Mi1Iendsa0k3UVhQZEtDd0pRZ3JCdDJPaGpsM1dXOGtmRVBVNlV6cTFZdHM1NklmQjVDaU9JYlh2Mk5aSVRacQ?oc=5",
+      "summary": "【つくば】11月14日つくば市中央公園で「ワン博フェス」開催！犬も人も楽しめるドッグイベントです 号外NET つくば市",
+      "category": "イベント",
+      "areas": [
+        "つくば駅周辺"
+      ],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-07T22:38:24+00:00",
+      "firstSeenAt": "2026-11-08T04:01:56.034771+00:00"
+    },
     {
       "id": "0e0bab53cd681ebb288b",
       "title": "シミュレーションゴルフ施設 つくば市梅園にオープン 24時間 完全個室型 - NEWSつくば",
@@ -178,6 +192,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-05T22:38:06+00:00",
       "firstSeenAt": "2026-11-06T04:02:32.022857+00:00"
+    },
+    {
+      "id": "de5e95f0afb45fe55e00",
+      "title": "【つくば市】11/6 最高24℃、昼間はやや風がある晴れの予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeWJkMzd6N0dmU3BvX0RJbGZjTXpvcGpTWGY1Mm9GZnhTdDBNc3h5dUhpMk9vNk1WcnBPZHBSZml6OWZSZ3dYX25rVE9yZE1vOFI4UGhVam5rM0h2NnhnOFMtUjJNZWhWUHJHZlJ5czg5TTVxRW96Skp5V1Y3UVhWZE0wQXQza2ZFY09WNnR3?oc=5",
+      "summary": "【つくば市】11/6 最高24℃、昼間はやや風がある晴れの予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T20:42:33+00:00",
+      "firstSeenAt": "2026-11-08T04:01:56.034771+00:00"
     },
     {
       "id": "d33158e7e36e93c7631d",
@@ -384,18 +410,6 @@
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
     },
     {
-      "id": "9c1c64ca55bb8e21e9db",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-11-04T22:00:00+00:00",
-      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
-    },
-    {
       "id": "3c4aa2c4430f9f077af2",
       "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
@@ -415,6 +429,18 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T22:00:00+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
+      "id": "9c1c64ca55bb8e21e9db",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
       "sourceType": "news",
       "publishedAt": "2026-11-04T22:00:00+00:00",
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
@@ -586,6 +612,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-04T07:15:00+00:00",
       "firstSeenAt": "2026-11-04T16:03:20.008996+00:00"
+    },
+    {
+      "id": "f94e48673cc684059538",
+      "title": "農家減は「暮らせる所得がないから」 つくばで令和の百姓一揆（毎日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0LW9lenI5Rmo1TnR5dXdYLS1EQ05LaTB5Ui13ZjFwclhlRGlVUFJHZVNjWmRQR1dwaEx0emFVVndNSWc1YWV2LTBJUF9ZM0tNYWU1Yndnc0paTC1vUV9rYWxRM0JjWGY4emRMT3VnT1lNOWE2b0h0Z0VZR1JWQkU?oc=5",
+      "summary": "農家減は「暮らせる所得がないから」 つくばで令和の百姓一揆（毎日新聞） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T06:23:57+00:00",
+      "firstSeenAt": "2026-11-08T04:01:56.034771+00:00"
     },
     {
       "id": "a931984d3f79ad78d9af",
@@ -3038,6 +3076,18 @@
       "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
     },
     {
+      "id": "4dc763b2c9a5cfad2178",
+      "title": "つくばで30年愛された「らーめん三水」が下妻へ！ 10/5(月)、待望の3号店をグランドオープン ― 30年の味と人を受け継ぎ、つくば・守谷に続く新たな一歩 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KYklRU2U3QnQwMEhfR0hxNVhKS2ZOZk5xMFVhSWdCcjJsNkJmVGhhbUxIRk90YnoyckhqcnB2TGpMVVZ2Q1pOYXU2VW11Nmc?oc=5",
+      "summary": "つくばで30年愛された「らーめん三水」が下妻へ！ 10/5(月)、待望の3号店をグランドオープン ― 30年の味と人を受け継ぎ、つくば・守谷に続く新たな一歩 Newscast.jp",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "Newscast.jp",
+      "sourceType": "news",
+      "publishedAt": "2026-10-05T07:00:00+00:00",
+      "firstSeenAt": "2026-11-02T16:11:39.323189+00:00"
+    },
+    {
       "id": "24bcc4e03f4734d684b5",
       "title": "連載:医療の未来 筑波大病院50年》(1) 「開拓者」気概の1期生（茨城新聞クロスアイ - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EdHBwTWR2MDdITFBKRzlmX3JuLWtDS0xNSVNjcWpab3B0Yjg5bXlKd1lfVTFWRTNNY0F4TFl5TlFjQjlpWGdVNlFKQkZ1UXpyZWlKSkNmY2gxOHo0ZDZXd1FtMkVLX0F1RDJtc0xLUTR2NUgtZHFaSmd3SUtWQ1U?oc=5",
@@ -3072,18 +3122,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-05T07:00:00+00:00",
       "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
-    },
-    {
-      "id": "4dc763b2c9a5cfad2178",
-      "title": "つくばで30年愛された「らーめん三水」が下妻へ！ 10/5(月)、待望の3号店をグランドオープン ― 30年の味と人を受け継ぎ、つくば・守谷に続く新たな一歩 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KYklRU2U3QnQwMEhfR0hxNVhKS2ZOZk5xMFVhSWdCcjJsNkJmVGhhbUxIRk90YnoyckhqcnB2TGpMVVZ2Q1pOYXU2VW11Nmc?oc=5",
-      "summary": "つくばで30年愛された「らーめん三水」が下妻へ！ 10/5(月)、待望の3号店をグランドオープン ― 30年の味と人を受け継ぎ、つくば・守谷に続く新たな一歩 Newscast.jp",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "Newscast.jp",
-      "sourceType": "news",
-      "publishedAt": "2026-10-05T07:00:00+00:00",
-      "firstSeenAt": "2026-11-02T16:11:39.323189+00:00"
     },
     {
       "id": "ec57887d0aaa6684bfd4",
@@ -3446,18 +3484,6 @@
       "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
     },
     {
-      "id": "9cd65c1946d4719562a2",
-      "title": "柏旭町のラーメン店「麺屋こうじ本店」が9月30日閉店、約20年の歴史を経てつくば店へ機能移管 - 柏つうしん",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QejlMZ2NTcEdQeXVGMTRJUVlCTWRCajJvSGtmemN4bnZ3TG1vbm5RTHExaTZmeDE4X1lXX1M3Qi1PdEJDMHNHYjNzYXZzQVk?oc=5",
-      "summary": "柏旭町のラーメン店「麺屋こうじ本店」が9月30日閉店、約20年の歴史を経てつくば店へ機能移管 柏つうしん",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "柏つうしん",
-      "sourceType": "news",
-      "publishedAt": "2026-09-21T07:00:00+00:00",
-      "firstSeenAt": "2026-11-06T21:51:14.744350+00:00"
-    },
-    {
       "id": "cbcf5d4e50d252ca2bf8",
       "title": "【レベル３土砂災害警報】茨城県・つくば市に発表 17:15時点 - TBS NEWS DIG",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3MkFPX0praTVXamNfb1p0TmFieDZoTUpNN0pwTE41M01aMklVUVk3WTJaVC1VUHFWeWVuckF6OHYxYnNPM3NuY2pNMEx4LUhqaXdtaVhNMA?oc=5",
@@ -3468,6 +3494,18 @@
       "sourceType": "news",
       "publishedAt": "2026-09-21T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "9cd65c1946d4719562a2",
+      "title": "柏旭町のラーメン店「麺屋こうじ本店」が9月30日閉店、約20年の歴史を経てつくば店へ機能移管 - 柏つうしん",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QejlMZ2NTcEdQeXVGMTRJUVlCTWRCajJvSGtmemN4bnZ3TG1vbm5RTHExaTZmeDE4X1lXX1M3Qi1PdEJDMHNHYjNzYXZzQVk?oc=5",
+      "summary": "柏旭町のラーメン店「麺屋こうじ本店」が9月30日閉店、約20年の歴史を経てつくば店へ機能移管 柏つうしん",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "柏つうしん",
+      "sourceType": "news",
+      "publishedAt": "2026-09-21T07:00:00+00:00",
+      "firstSeenAt": "2026-11-06T21:51:14.744350+00:00"
     },
     {
       "id": "994c8a5a1da36ab3e0b1",
