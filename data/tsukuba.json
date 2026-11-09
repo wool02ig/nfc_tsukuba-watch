@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T10:17:20.925917+00:00",
-  "articleCount": 332,
+  "updatedAt": "2026-11-09T16:13:41.208139+00:00",
+  "articleCount": 335,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 37
+      "count": 41
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -31,12 +31,12 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 1
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -45,6 +45,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "4bcaf2dd127b51a45d3e",
+      "title": "（茨城）つくば市香取台で声かけ １１月７日 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGR1amJRRGtjNlZiQk1FUEE5S2V2VkNUQVJjdzE5c3NwbHZLOHdwNXlQZUV1UHVrUElpbFY0cmlZbGQ0NWpNclpGTkVRYzZ0OWlwX21pWEx4dHcwV0tRRWd4TzhieEU1NDJIZmQ2VmtIZE5lQXpyOXp6MkJ2aGVyWDR3bWtCS0htWklfS25zcm5lZHN1c0ZuWW91bmrSAaIBQVVfeXFMT3dGZzZZUnRzMEpLQW1pUzNYaENLN2NWWDBmUkY3ME1YbG05dTMzR2VMekNSeVJKZ3ZNTkhYR0NiZnlVcmw5d0RXYl9XdzlPc0pVTmtnbURXUUEzckZhS192UVg2ZTdPTUdaUEw4N3c4M295Zi1Sb0REOGl1X3k0RldVVThGa0JxbWhXLVV2RFIxMEJsd1FNai1vNzlNOEFIRURn?oc=5",
+      "summary": "（茨城）つくば市香取台で声かけ １１月７日 ｄメニューニュース",
+      "category": "地域ニュース",
+      "areas": [
+        "万博記念公園"
+      ],
+      "source": "ｄメニューニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-09T12:27:00+00:00",
+      "firstSeenAt": "2026-11-09T16:13:41.208139+00:00"
+    },
     {
       "id": "f9b8e718d2467aa5cc94",
       "title": "茨城県つくば市のDC集積拠点、GX戦略地域は大穂地区も対象に - 日本経済新聞",
@@ -58,6 +72,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-09T09:10:56+00:00",
       "firstSeenAt": "2026-11-09T10:17:20.925917+00:00"
+    },
+    {
+      "id": "60bfa443833698d98234",
+      "title": "《連載:迫る県議選 選挙区情勢》(2) つくば市(定数5) 8人表明 激戦必至 (茨城新聞クロスアイ) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdTFRRkNMVFJMcTJoWVZRaE42RTdkdlJ1ek4xS1NWbE9KdHFGeDQ3aXB0SkpkQVBhX2tqdHRUbk5OdTFmbXN3NlFxLVk5ZllQNnctVlBUWGpVdnpDZk5pM21QMWJDRVRKNEJvLWExOVFrZHg4QkctMDBENlJlZnlUajQ1by01VWJKX2VleXJ3?oc=5",
+      "summary": "《連載:迫る県議選 選挙区情勢》(2) つくば市(定数5) 8人表明 激戦必至 (茨城新聞クロスアイ) Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-09T08:55:00+00:00",
+      "firstSeenAt": "2026-11-09T16:13:41.208139+00:00"
     },
     {
       "id": "321e8ad2b65b4e265846",
@@ -85,9 +111,9 @@
     },
     {
       "id": "19db7976a9386de716b3",
-      "title": "【つくば市】イオンスタイルつくば学園の森でメイプリーズのケーキを発見！お手頃価格がとっても嬉しい - 号外NET つくば市",
+      "title": "【つくば市】(※販売終了)イオンスタイルつくば学園の森でメイプリーズのケーキを発見！お手頃価格がとっても嬉しい - 号外NET つくば市",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOGkwMV9NekdZdzJSa2JQa2d4VUFNb050azJyV2RaZWZEa3ZOamRGYm9ySHFtdlpEUXNBTVhHTWoyQi1Va0hqakZRVEtFaFBtUU1pRkpwMlJ3UG9TazN1VDJGaTY5ZlE?oc=5",
-      "summary": "【つくば市】イオンスタイルつくば学園の森でメイプリーズのケーキを発見！お手頃価格がとっても嬉しい 号外NET つくば市",
+      "summary": "【つくば市】(※販売終了)イオンスタイルつくば学園の森でメイプリーズのケーキを発見！お手頃価格がとっても嬉しい 号外NET つくば市",
       "category": "地域ニュース",
       "areas": [
         "研究学園"
@@ -108,6 +134,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-08T20:41:45+00:00",
       "firstSeenAt": "2026-11-08T21:46:45.947454+00:00"
+    },
+    {
+      "id": "1998623a511255fd60f4",
+      "title": "【つくば市】11/9 最高11℃、冷えるタイミングがありそう、朝から夜は雨の予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSjI0RDNjM0tiMmZGejB6TnVyWVc3YndmT21sTkZSUDlRdUNaVmtvbWNObk03NHdWWnRBdVZtZ2ZXX21vVnBodktNQnA5bzh0QmJWNkFnczRMTmpYdE9aUlZHdzl2bDFUa0xXU1JuRERNdDFQZ2JwTTVEWUZranExb19RSzl3ZUhXNXUxWUN3?oc=5",
+      "summary": "【つくば市】11/9 最高11℃、冷えるタイミングがありそう、朝から夜は雨の予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-08T20:41:45+00:00",
+      "firstSeenAt": "2026-11-09T16:13:41.208139+00:00"
     },
     {
       "id": "af01132f60015e64c9b4",
@@ -158,18 +196,6 @@
       "firstSeenAt": "2026-11-08T09:56:10.210143+00:00"
     },
     {
-      "id": "d2303181e143e7af63e7",
-      "title": "日本一競う「土浦全国花火競技大会」 頂点にはつくば市の業者 - au Webポータル",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VUUJxUXQ4clYtMTRzby1vcnU5UEV3c0JzYTBkSmxYdVRHcFdDMl9SZUlEcEJqU0IxTF9JQUZhUFE2MTZ1T2NjMXZNRi1PS1FWaGVhQ3RGb3ZLSDlyRi01cXZqWVVkUnd4VkF2cFRn?oc=5",
-      "summary": "日本一競う「土浦全国花火競技大会」 頂点にはつくば市の業者 au Webポータル",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "au Webポータル",
-      "sourceType": "news",
-      "publishedAt": "2026-11-08T08:48:52+00:00",
-      "firstSeenAt": "2026-11-09T10:17:20.925917+00:00"
-    },
-    {
       "id": "5d5414503588f05f0ce7",
       "title": "日本一競う「土浦全国花火競技大会」 頂点にはつくば市の業者 - 毎日新聞",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nbjZGQmZyR2lFU1NmOWZzMU1oX3lDa2VyS19vdDg0OE5JRnNuWS1ZSDJPbU1mb3M4RVRKdTRlNmlMYnR3UC1kckZaTUtyTm1aNFpia2xQTU5FbjBmWjBhQnFfYTlqbjNT?oc=5",
@@ -180,6 +206,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-08T08:48:52+00:00",
       "firstSeenAt": "2026-11-08T15:47:06.620363+00:00"
+    },
+    {
+      "id": "d2303181e143e7af63e7",
+      "title": "日本一競う「土浦全国花火競技大会」 頂点にはつくば市の業者 - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VUUJxUXQ4clYtMTRzby1vcnU5UEV3c0JzYTBkSmxYdVRHcFdDMl9SZUlEcEJqU0IxTF9JQUZhUFE2MTZ1T2NjMXZNRi1PS1FWaGVhQ3RGb3ZLSDlyRi01cXZqWVVkUnd4VkF2cFRn?oc=5",
+      "summary": "日本一競う「土浦全国花火競技大会」 頂点にはつくば市の業者 au Webポータル",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "au Webポータル",
+      "sourceType": "news",
+      "publishedAt": "2026-11-08T08:48:52+00:00",
+      "firstSeenAt": "2026-11-09T10:17:20.925917+00:00"
     },
     {
       "id": "a5e2f9f383dd6e2aecc7",
@@ -2500,6 +2538,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "5f67a980fb85da19f98d",
+      "title": "イオンの都市型SCが茨城・つくば、牛久に開業へ 子育て世帯ねらい（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yN2hLYzBpNnJ4LUROUkFrX0hfZ2N1VlBzWTRnZTZ2ajlZYWM2azVSdm5jeXhaa2YzZS1Gb2p3MEtPbkVPa1lMRGx5MjgybFktRW5YUmF6WG9aNnZQdm9lVHhqenM3bWJudU0wWnZ6RmFXRDd5Nzh3VC0yWXdiWm8?oc=5",
+      "summary": "イオンの都市型SCが茨城・つくば、牛久に開業へ 子育て世帯ねらい（朝日新聞） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-24T07:00:00+00:00",
+      "firstSeenAt": "2026-10-30T03:58:11.828841+00:00"
+    },
+    {
       "id": "8fe2bde7e1da07ad09c5",
       "title": "イオンの都市型SCが茨城・つくば、牛久に開業へ 子育て世帯ねらい [茨城県] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qNVA5cGxOWVFILU5kWUtNSXU0aFlPQXdxN2xNb0VsM0tPVHo1S0N1UnVWRFBMTkg2ZHVkSkF0NDl1T2J4RGpsMXdGanBaUFphVjEwWmJvdWdheGNRQWNmZGRxRVNjZkk?oc=5",
@@ -2522,18 +2572,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-24T07:00:00+00:00",
       "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
-    },
-    {
-      "id": "5f67a980fb85da19f98d",
-      "title": "イオンの都市型SCが茨城・つくば、牛久に開業へ 子育て世帯ねらい（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yN2hLYzBpNnJ4LUROUkFrX0hfZ2N1VlBzWTRnZTZ2ajlZYWM2azVSdm5jeXhaa2YzZS1Gb2p3MEtPbkVPa1lMRGx5MjgybFktRW5YUmF6WG9aNnZQdm9lVHhqenM3bWJudU0wWnZ6RmFXRDd5Nzh3VC0yWXdiWm8?oc=5",
-      "summary": "イオンの都市型SCが茨城・つくば、牛久に開業へ 子育て世帯ねらい（朝日新聞） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-24T07:00:00+00:00",
-      "firstSeenAt": "2026-10-30T03:58:11.828841+00:00"
     },
     {
       "id": "dda2c7f3633a68a0b5c0",
