@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T04:07:53.197317+00:00",
-  "articleCount": 330,
+  "updatedAt": "2026-11-09T10:17:20.925917+00:00",
+  "articleCount": 332,
   "sources": [
     {
       "source": "つくば市公式",
@@ -45,6 +45,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "f9b8e718d2467aa5cc94",
+      "title": "茨城県つくば市のDC集積拠点、GX戦略地域は大穂地区も対象に - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4X21DUk9ac2ZuSTJmX25hSG9pQXZQenUxZHlKVDdzLW12SjNQVFRWNjNMSDUzR05OR3BYenlHeXNGckVxeTlmbUlpTlUycm52R1B5UDhaUVdCdHhTR0NFN2h2VWFNZjhtWk9odQ?oc=5",
+      "summary": "茨城県つくば市のDC集積拠点、GX戦略地域は大穂地区も対象に 日本経済新聞",
+      "category": "地域ニュース",
+      "areas": [
+        "大穂・豊里"
+      ],
+      "source": "日本経済新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-09T09:10:56+00:00",
+      "firstSeenAt": "2026-11-09T10:17:20.925917+00:00"
+    },
+    {
+      "id": "321e8ad2b65b4e265846",
+      "title": "つくば市の文科省研究交流センターで 交流サロン開催 - LuckyFM茨城放送",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjUXpyWG83Sml6VDRTeTRidS1aM0VDTzVYMmcwMDA3WUprVUFKUmdxWWVYTFdQMUEtT2VpTG5IQVBkWGVQTGFvT0JlMlZScGNFY05YZFZn?oc=5",
+      "summary": "つくば市の文科省研究交流センターで 交流サロン開催 LuckyFM茨城放送",
+      "category": "イベント",
+      "areas": [],
+      "source": "LuckyFM茨城放送",
+      "sourceType": "news",
+      "publishedAt": "2026-11-09T07:49:30+00:00",
+      "firstSeenAt": "2026-11-09T10:17:20.925917+00:00"
+    },
     {
       "id": "d53959f8ec16280eb6ca",
       "title": "「つくばブックフェス」初開催 五十嵐市長の呼びかけで、図書館と4書店が協働 - 新文化オンライン",
@@ -130,6 +156,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-08T08:49:14+00:00",
       "firstSeenAt": "2026-11-08T09:56:10.210143+00:00"
+    },
+    {
+      "id": "d2303181e143e7af63e7",
+      "title": "日本一競う「土浦全国花火競技大会」 頂点にはつくば市の業者 - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VUUJxUXQ4clYtMTRzby1vcnU5UEV3c0JzYTBkSmxYdVRHcFdDMl9SZUlEcEJqU0IxTF9JQUZhUFE2MTZ1T2NjMXZNRi1PS1FWaGVhQ3RGb3ZLSDlyRi01cXZqWVVkUnd4VkF2cFRn?oc=5",
+      "summary": "日本一競う「土浦全国花火競技大会」 頂点にはつくば市の業者 au Webポータル",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "au Webポータル",
+      "sourceType": "news",
+      "publishedAt": "2026-11-08T08:48:52+00:00",
+      "firstSeenAt": "2026-11-09T10:17:20.925917+00:00"
     },
     {
       "id": "5d5414503588f05f0ce7",
@@ -4078,18 +4116,6 @@
       "sourceType": "official",
       "publishedAt": "2026-08-12T06:15:11+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "bebaea3aae3de79efc93",
-      "title": "【台風15号】すでに強風域 上陸は「茨城か千葉か」きょう11日(火)午後6時～9時予想 つくば市付近通過し本州横断へ 最大瞬間風速35mでお盆の交通乱れに警戒【11日9時気象庁発表】 | 長崎のニュース | 天気 | NBC長崎放送 (1ページ) - TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fel9teXRfQ290dkJsSjJLR2NhUVFDVHdyaV9JZndJOG5BYkV3OXo3TmR6UF9pY1dQMGM2ZElSclJCSElhLXp3M3NpWVBCdzhyYmdPaUg2UVZMM1BQc0pKVGRUR0xzU1k?oc=5",
-      "summary": "【台風15号】すでに強風域 上陸は「茨城か千葉か」きょう11日(火)午後6時～9時予想 つくば市付近通過し本州横断へ 最大瞬間風速35mでお盆の交通乱れに警戒【11日9時気象庁発表】 | 長崎のニュース | 天気 | NBC長崎放送 (1ページ) TBS NEWS DIG",
-      "category": "防災・安全",
-      "areas": [],
-      "source": "TBS NEWS DIG",
-      "sourceType": "news",
-      "publishedAt": "2026-08-11T07:00:00+00:00",
-      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
     }
   ]
 }
