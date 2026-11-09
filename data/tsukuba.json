@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T21:46:45.947454+00:00",
-  "articleCount": 328,
+  "updatedAt": "2026-11-09T04:07:53.197317+00:00",
+  "articleCount": 330,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 42
+      "count": 37
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -31,7 +31,7 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 4
+      "count": 3
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
@@ -45,6 +45,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "d53959f8ec16280eb6ca",
+      "title": "「つくばブックフェス」初開催 五十嵐市長の呼びかけで、図書館と4書店が協働 - 新文化オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkeGg5ckNsUEZvSUo0VUFKMV9aeTh0WlMwTUhVNHMwWGNPbUJMbXE5RkI0cXdxSW00eWI1UU4yd1Y0S2xyd3ZhUFdfaWJTcGhpRlFYTA?oc=5",
+      "summary": "「つくばブックフェス」初開催 五十嵐市長の呼びかけで、図書館と4書店が協働 新文化オンライン",
+      "category": "イベント",
+      "areas": [],
+      "source": "新文化オンライン",
+      "sourceType": "news",
+      "publishedAt": "2026-11-09T03:40:36+00:00",
+      "firstSeenAt": "2026-11-09T04:07:53.197317+00:00"
+    },
+    {
+      "id": "19db7976a9386de716b3",
+      "title": "【つくば市】イオンスタイルつくば学園の森でメイプリーズのケーキを発見！お手頃価格がとっても嬉しい - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOGkwMV9NekdZdzJSa2JQa2d4VUFNb050azJyV2RaZWZEa3ZOamRGYm9ySHFtdlpEUXNBTVhHTWoyQi1Va0hqakZRVEtFaFBtUU1pRkpwMlJ3UG9TazN1VDJGaTY5ZlE?oc=5",
+      "summary": "【つくば市】イオンスタイルつくば学園の森でメイプリーズのケーキを発見！お手頃価格がとっても嬉しい 号外NET つくば市",
+      "category": "地域ニュース",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-08T22:38:16+00:00",
+      "firstSeenAt": "2026-11-09T04:07:53.197317+00:00"
+    },
     {
       "id": "15660f43df7a5c3d596a",
       "title": "【つくば市】11/9 最高11℃、冷えるタイミングがありそう、朝から夜は雨の予想【朝版】 - Yahoo!ニュース",
