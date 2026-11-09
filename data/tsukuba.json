@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T16:13:41.208139+00:00",
-  "articleCount": 335,
+  "updatedAt": "2026-11-09T21:56:35.070704+00:00",
+  "articleCount": 337,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 41
+      "count": 44
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -21,7 +21,7 @@
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 2
+      "count": 3
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -36,7 +36,7 @@
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 2
+      "count": 1
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -45,6 +45,30 @@
     }
   ],
   "articles": [
+    {
+      "id": "f2837f4ac92ff124165f",
+      "title": "【つくば市】11/10 最低7℃、ひんやりするタイミングも、朝は雨の可能性もある予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94MXVBcUUtaXoydFV4alcxaUwxTFU3dVczYXFTMGxjNDBHR2FFMnFyeHFMMWt1QmpYYXRpa0xQczVkT3dsQmdQU1VsbVR6NmpNOVNzTVBGNDhiMjRSQlJPamY3WG1fYzFvUnZ6NUZsZ3U3aXU2Z2IwNjNFeHBsVFE?oc=5",
+      "summary": "【つくば市】11/10 最低7℃、ひんやりするタイミングも、朝は雨の可能性もある予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-09T21:06:41+00:00",
+      "firstSeenAt": "2026-11-09T21:56:35.070704+00:00"
+    },
+    {
+      "id": "a91b2c7d773e2828da24",
+      "title": "茨城・つくば市にデータセンター集積加速 行政主導、説明責任重く - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jUnpQVXlmQV9PN2dwM2NWMUJUTllNeTcxcU9qV05tSlM2Nmt6NEk4eEZ4Y00yN0RmSDNTQmpNbkNwRkRlcFZlcHE5NzVub2IzVElJZkdxZDZqVEk1RnNCbjE4eVByN0xVTFRkVg?oc=5",
+      "summary": "茨城・つくば市にデータセンター集積加速 行政主導、説明責任重く 日本経済新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "日本経済新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-09T20:00:00+00:00",
+      "firstSeenAt": "2026-11-09T21:56:35.070704+00:00"
+    },
     {
       "id": "4bcaf2dd127b51a45d3e",
       "title": "（茨城）つくば市香取台で声かけ １１月７日 - ｄメニューニュース",
@@ -2222,18 +2246,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "f64748648cb47969dc13",
-      "title": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YWlptVkMwS3JjeXhRMGlpbEJ0WnFqSXc4NHFwbXlwLXlDWC1iSU5oUm9UYXhEX2h3RUdKeVY5N0RXRVVxdnFtVTdiSXpkbUI1ek1vYUhVMWgzTFJOTEFhRDItM0xFVkJUM0lucElIRTlBeC1GX2dQcGhmTXZvN0k?oc=5",
-      "summary": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催（朝日新聞） Yahoo!ニュース",
-      "category": "イベント",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-28T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "02a0b7a3340f9253d34c",
       "title": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 [茨城県] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56UHdkY3Y0dURtb0hDLVFGMGsxdW40SDNGT3Z5R0dpbGt0OWU2NjdRdjF2M3ZycEtwdUdQRU1KOVlQWnY3NEpMdVlZNFhfQXZmaC0xSUU4X1dQMF8ySnBiQ1FSc0hRbzQ?oc=5",
@@ -2244,6 +2256,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-28T07:00:00+00:00",
       "firstSeenAt": "2026-10-30T03:58:11.828841+00:00"
+    },
+    {
+      "id": "f64748648cb47969dc13",
+      "title": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YWlptVkMwS3JjeXhRMGlpbEJ0WnFqSXc4NHFwbXlwLXlDWC1iSU5oUm9UYXhEX2h3RUdKeVY5N0RXRVVxdnFtVTdiSXpkbUI1ek1vYUhVMWgzTFJOTEFhRDItM0xFVkJUM0lucElIRTlBeC1GX2dQcGhmTXZvN0k?oc=5",
+      "summary": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催（朝日新聞） Yahoo!ニュース",
+      "category": "イベント",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-28T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "7e91995187ed852b7c3b",
@@ -2996,6 +3020,20 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "098accf715f1882b4bca",
+      "title": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vS2k3RlEwejhUTUZWYnAxVS1ZVmhxNG55VUkzdTBYeW1wajdYQjFYTVFMNnNlSUlFNGVMVE9pVUpBaFBnZF9vZFJwa1hyQmRIdXpyajZIS1MwT1o4dm9sZFpEWDU2SDQ?oc=5",
+      "summary": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] 朝日新聞",
+      "category": "交通・生活",
+      "areas": [
+        "筑波山"
+      ],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-10-09T07:00:00+00:00",
+      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
+    },
+    {
       "id": "8864bd4c1b482475e14e",
       "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - 乗りものニュース",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XcGpfYmFWejBQbnhBOHRnNnh1eHM5WERJLU5ZRDUyMEI2NWdIY0c5Y3N0OVc4NGN2TlY2cjE0b2Nvd2YzQk5ndWJB?oc=5",
@@ -3018,20 +3056,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-09T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "098accf715f1882b4bca",
-      "title": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vS2k3RlEwejhUTUZWYnAxVS1ZVmhxNG55VUkzdTBYeW1wajdYQjFYTVFMNnNlSUlFNGVMVE9pVUpBaFBnZF9vZFJwa1hyQmRIdXpyajZIS1MwT1o4dm9sZFpEWDU2SDQ?oc=5",
-      "summary": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] 朝日新聞",
-      "category": "交通・生活",
-      "areas": [
-        "筑波山"
-      ],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
     },
     {
       "id": "54f0e5303bacb8cc8f65",
