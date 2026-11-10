@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T21:56:35.070704+00:00",
-  "articleCount": 337,
+  "updatedAt": "2026-11-10T04:00:03.020825+00:00",
+  "articleCount": 345,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 44
+      "count": 46
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -45,6 +45,92 @@
     }
   ],
   "articles": [
+    {
+      "id": "6ec12aad8a0bc779e4f0",
+      "title": "GX戦略地域、2カ所認定 つくば市「DC集積型」 環境配慮、地域共生に重点 説明会も（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1haElOX181UU02UDJKUW5LM2NUV3VlTlpRUldNTGxpVG1icVRzVktkai12YVVmLWFXbEx2V0M0akpZTTFFOWlpcnJfZlBVRldiWUJJWU11S21kaTRBdzlJbnNwd2VLQmhYT3I5SGlUOUpISlpBSTlycGhBcVBsVlE?oc=5",
+      "summary": "GX戦略地域、2カ所認定 つくば市「DC集積型」 環境配慮、地域共生に重点 説明会も（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T02:00:00+00:00",
+      "firstSeenAt": "2026-11-10T04:00:03.020825+00:00"
+    },
+    {
+      "id": "c28bb92fcaf6d1477893",
+      "title": "つくばから、地域企業の採用課題解決へ。株式会社LeadSTARが本社をつくばスタートアップパークへ移転 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zdk1lV2cta0NzX05BdmZmME9hQ3Z6NmF6RDhpSElhQm9UeW01RWJFX3BLU0l1c0ZYQmlHcjNrb2xhekFRcEx5SHh1dWdVSmVPeFZuc2Q3QlgwYjZ3X1VOa1lPMFd1UGZPWkI0TXBpUVQzZw?oc=5",
+      "summary": "つくばから、地域企業の採用課題解決へ。株式会社LeadSTARが本社をつくばスタートアップパークへ移転 Infoseek",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Infoseek",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T01:15:43+00:00",
+      "firstSeenAt": "2026-11-10T04:00:03.020825+00:00"
+    },
+    {
+      "id": "229ea7f05642a7831fdf",
+      "title": "とんきゅう、カフェ参入 若年層向け「雪ノ下珈琲」 つくば出店 看板商品「豚かつサンド」（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3elFaVUt4RGV5VElDbC1uQlRyNUVwQkx3LTBheDV6NjJjZHhLTGFCWlZQMWFnX3hvRk4weFkwYmpqNmgxb0V3X0FfbnJ0eFdieXhsSFhjSWFFcE9ZN0piQnVhRzd4NmtXWWt5a3h6WWNLWGtpUVVkV1Y5LXBJZWs?oc=5",
+      "summary": "とんきゅう、カフェ参入 若年層向け「雪ノ下珈琲」 つくば出店 看板商品「豚かつサンド」（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T01:00:00+00:00",
+      "firstSeenAt": "2026-11-10T04:00:03.020825+00:00"
+    },
+    {
+      "id": "c3bcce5d11c857ab5a7f",
+      "title": "ママハピEXPO＠イーアスつくば - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcHhsU2wyWmlXbXJkY0EzNmtRVWdHenBFTnN4bTN4SDVBcFBtWTNMTFEzNTc1RVN6dVRSTlQyZHFINkpwQXZCLXYxeTI3VzdJMGpZMWtnall6MWVMMTM2YlVvS0w5allNbVZCdXBKWmZRSGJ6YTVGSk1nRWxTeUZ3VjkxVHZtdHdCQkZRTXd3XzhWcDNKTzliVWlod1hzOGVwaVdPNHZjTngyRTktV2lCZmk4MTAweFZ1ZzF4UnpwekVGcEswRVNZU0poNzAtR3gzdWlsdnN30gGGAUFVX3lxTE5wYnhfMjhySm1SM3FTRUNWRHI5UXVKMDRPbGNjX2w0d2pHSklsOEpRTFJVc2xmcTBUd0tQTUFHZXpNYkV3TmQzLS1vbVQwVXRKTzE3S1RRbEpjSUNjM2dOSGNEQ1Z3S0xuYU9MTUlaOU85c0ctV0xDSEZteGJVMjU3cGhuY293?oc=5",
+      "summary": "ママハピEXPO＠イーアスつくば ｄメニューニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ｄメニューニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T01:00:00+00:00",
+      "firstSeenAt": "2026-11-10T04:00:03.020825+00:00"
+    },
+    {
+      "id": "3e872455e6fd462fa7b5",
+      "title": "つくばから、地域企業の採用課題解決へ。株式会社LeadSTARが本社をつくばスタートアップパークへ移転 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51MDltcjdKQVc0ZllPYXRKNlZzWlozSmJtU1hhYWI5cmUtck1iRzlPSmxqQmNwR0ZlcXdLY215c1ZYZVJBdGl2Q2U2M1lyVWlYanMwd3B2cGlFZXBhVDhBdWhua3E4WjZWbkE?oc=5",
+      "summary": "つくばから、地域企業の採用課題解決へ。株式会社LeadSTARが本社をつくばスタートアップパークへ移転 PR TIMES",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "PR TIMES",
+      "sourceType": "news",
+      "publishedAt": "2026-11-09T23:43:59+00:00",
+      "firstSeenAt": "2026-11-10T04:00:03.020825+00:00"
+    },
+    {
+      "id": "386f3cc83772364fd92e",
+      "title": "糖尿病、早期発見で健康な体を あす筑波大病院で「世界デー」催し - 東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQS2NMSDdQVTQyd3hoeVQ2NVJnVHNERHhwOFhpLXBFSWlBQXRXMXlZSFpRUDV6OV9zc0JSYVJ1bjBlaXJWTEtpVjBramx5ZldKMFdN?oc=5",
+      "summary": "糖尿病、早期発見で健康な体を あす筑波大病院で「世界デー」催し 東京新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "東京新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-09T22:43:55+00:00",
+      "firstSeenAt": "2026-11-10T04:00:03.020825+00:00"
+    },
+    {
+      "id": "bf0c471966a12141ebcb",
+      "title": "【つくば市】オリーブの丘 つくば研究学園店が店舗改装のため一時休業。11月11日～12月2日までは利用不可となります。 - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aZkJHQWJxVkI1akdpRzAtOVpUQTFGdHlBRVlvNjZqT0dxY2tpelVPS2U4YmVaWEpHa1JpOHE3OFVhX05qMTEtY1pCdmZuZTNjZlpmdXhma2J6SHpBVk9oSkZUVzdVN05MczRDZnJZWQ?oc=5",
+      "summary": "【つくば市】オリーブの丘 つくば研究学園店が店舗改装のため一時休業。11月11日～12月2日までは利用不可となります。 号外NET つくば市",
+      "category": "地域ニュース",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-09T22:38:53+00:00",
+      "firstSeenAt": "2026-11-10T04:00:03.020825+00:00"
+    },
     {
       "id": "f2837f4ac92ff124165f",
       "title": "【つくば市】11/10 最低7℃、ひんやりするタイミングも、朝は雨の可能性もある予想【朝版】 - Yahoo!ニュース",
@@ -148,18 +234,6 @@
       "firstSeenAt": "2026-11-09T04:07:53.197317+00:00"
     },
     {
-      "id": "15660f43df7a5c3d596a",
-      "title": "【つくば市】11/9 最高11℃、冷えるタイミングがありそう、朝から夜は雨の予想【朝版】 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Bd19VeHZQdlpUOWliOGt2OFg4dG0wQjlKSi1vOEs3aGRJMlQtZTBXdjBYMnlWdTFpWm15ZVQxSG9pcmVtaC11RUJ3VzNkY19hbk9BbDc1ZGx3bHVGcHpWWkZ0cU5PUVFCTWJEbVk4dTRKaW1lUWJsc0M0NVFTTEE?oc=5",
-      "summary": "【つくば市】11/9 最高11℃、冷えるタイミングがありそう、朝から夜は雨の予想【朝版】 Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-08T20:41:45+00:00",
-      "firstSeenAt": "2026-11-08T21:46:45.947454+00:00"
-    },
-    {
       "id": "1998623a511255fd60f4",
       "title": "【つくば市】11/9 最高11℃、冷えるタイミングがありそう、朝から夜は雨の予想【朝版】 - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSjI0RDNjM0tiMmZGejB6TnVyWVc3YndmT21sTkZSUDlRdUNaVmtvbWNObk03NHdWWnRBdVZtZ2ZXX21vVnBodktNQnA5bzh0QmJWNkFnczRMTmpYdE9aUlZHdzl2bDFUa0xXU1JuRERNdDFQZ2JwTTVEWUZranExb19RSzl3ZUhXNXUxWUN3?oc=5",
@@ -170,6 +244,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-08T20:41:45+00:00",
       "firstSeenAt": "2026-11-09T16:13:41.208139+00:00"
+    },
+    {
+      "id": "15660f43df7a5c3d596a",
+      "title": "【つくば市】11/9 最高11℃、冷えるタイミングがありそう、朝から夜は雨の予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Bd19VeHZQdlpUOWliOGt2OFg4dG0wQjlKSi1vOEs3aGRJMlQtZTBXdjBYMnlWdTFpWm15ZVQxSG9pcmVtaC11RUJ3VzNkY19hbk9BbDc1ZGx3bHVGcHpWWkZ0cU5PUVFCTWJEbVk4dTRKaW1lUWJsc0M0NVFTTEE?oc=5",
+      "summary": "【つくば市】11/9 最高11℃、冷えるタイミングがありそう、朝から夜は雨の予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-08T20:41:45+00:00",
+      "firstSeenAt": "2026-11-08T21:46:45.947454+00:00"
     },
     {
       "id": "af01132f60015e64c9b4",
@@ -218,6 +304,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-08T08:49:14+00:00",
       "firstSeenAt": "2026-11-08T09:56:10.210143+00:00"
+    },
+    {
+      "id": "1708ecf810737016dfd3",
+      "title": "日本一競う「土浦全国花火競技大会」 頂点にはつくば市の業者（毎日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUkpDMTdNd3JuNFVfYjFQTFFfQndtTUx1RzRNSERCTTB1MEtSaXM5Q01RRkJsNTJUeVhVb1h2cVFrYTR2eEwtS050RjRiSWtfOFh6QzV2dWlxbmVveHN5c0J2dnNLMnBpeWdKNHNJY01ZSGdkTWwzZHBrR05RSHpKcm92NG1xNkFDaEtjSUVKQXE3dmJwS3kyNkx5aElCM3UwTHZ3ejM5dk5LUGhFcDR1a1NpOXRwRXNGS2NQdVppZ3BHUUJ0ZGNaVEtGYm4?oc=5",
+      "summary": "日本一競う「土浦全国花火競技大会」 頂点にはつくば市の業者（毎日新聞） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-08T08:49:14+00:00",
+      "firstSeenAt": "2026-11-10T04:00:03.020825+00:00"
     },
     {
       "id": "5d5414503588f05f0ce7",
@@ -620,13 +718,13 @@
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
     },
     {
-      "id": "9c1c64ca55bb8e21e9db",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
+      "id": "3c4aa2c4430f9f077af2",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
       "category": "地域ニュース",
       "areas": [],
-      "source": "朝日新聞",
+      "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-11-04T22:00:00+00:00",
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
@@ -644,13 +742,13 @@
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
     },
     {
-      "id": "3c4aa2c4430f9f077af2",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
+      "id": "9c1c64ca55bb8e21e9db",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
       "category": "地域ニュース",
       "areas": [],
-      "source": "Yahoo!ニュース",
+      "source": "朝日新聞",
       "sourceType": "news",
       "publishedAt": "2026-11-04T22:00:00+00:00",
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
@@ -2246,18 +2344,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "02a0b7a3340f9253d34c",
-      "title": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56UHdkY3Y0dURtb0hDLVFGMGsxdW40SDNGT3Z5R0dpbGt0OWU2NjdRdjF2M3ZycEtwdUdQRU1KOVlQWnY3NEpMdVlZNFhfQXZmaC0xSUU4X1dQMF8ySnBiQ1FSc0hRbzQ?oc=5",
-      "summary": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 [茨城県] 朝日新聞",
-      "category": "イベント",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-10-28T07:00:00+00:00",
-      "firstSeenAt": "2026-10-30T03:58:11.828841+00:00"
-    },
-    {
       "id": "f64748648cb47969dc13",
       "title": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催（朝日新聞） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YWlptVkMwS3JjeXhRMGlpbEJ0WnFqSXc4NHFwbXlwLXlDWC1iSU5oUm9UYXhEX2h3RUdKeVY5N0RXRVVxdnFtVTdiSXpkbUI1ek1vYUhVMWgzTFJOTEFhRDItM0xFVkJUM0lucElIRTlBeC1GX2dQcGhmTXZvN0k?oc=5",
@@ -2268,6 +2354,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-28T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "02a0b7a3340f9253d34c",
+      "title": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56UHdkY3Y0dURtb0hDLVFGMGsxdW40SDNGT3Z5R0dpbGt0OWU2NjdRdjF2M3ZycEtwdUdQRU1KOVlQWnY3NEpMdVlZNFhfQXZmaC0xSUU4X1dQMF8ySnBiQ1FSc0hRbzQ?oc=5",
+      "summary": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 [茨城県] 朝日新聞",
+      "category": "イベント",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-10-28T07:00:00+00:00",
+      "firstSeenAt": "2026-10-30T03:58:11.828841+00:00"
     },
     {
       "id": "7e91995187ed852b7c3b",
