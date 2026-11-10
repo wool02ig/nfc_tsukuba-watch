@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T15:58:41.344457+00:00",
-  "articleCount": 346,
+  "updatedAt": "2026-11-10T21:52:15.782814+00:00",
+  "articleCount": 354,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 46
+      "count": 52
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 5
+      "count": 7
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -45,6 +45,82 @@
     }
   ],
   "articles": [
+    {
+      "id": "7daf6ef10da059a7cfa6",
+      "title": "筑波山ケーブルカー、新たな装い 赤と紫の6代目車両が来春デビュー [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMNjB5akE5WUhyZFVjR0lJcWJ3RmZfVWFBSG83VEtQUkk0ZER1NGNRNEZSdldrdGx3dWxpeGtZVXB1Q3dEaGE3eGJUQ0FIRjNRdnVuczB4MnhSQ2hxdERXU3hDdFZkZU0?oc=5",
+      "summary": "筑波山ケーブルカー、新たな装い 赤と紫の6代目車両が来春デビュー [茨城県] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [
+        "筑波山"
+      ],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T21:30:00+00:00",
+      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
+    },
+    {
+      "id": "1cd4e161c3d6a4bb0c1a",
+      "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zWmNXRjI5QldYOHlFdmxwVFY3UHN6WC02c3lpM2l4aEdPODNtdGxLX1prQ1NqYllzMThzUDRodW9Uc3ktcjJiWE5URmdOckpsMDNkbTdMQTE1VDRMQ2QtSTRWYlF3SVk?oc=5",
+      "summary": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] 朝日新聞",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T21:15:00+00:00",
+      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
+    },
+    {
+      "id": "f240b7d7b8c1b09f5aaa",
+      "title": "【つくば市】11/11 最低2℃、冷え込み、乾燥に注意、朝から夜まで晴れる予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1Q0JFM1RXcXFNOVVZNVJmVy12NVEzLVhUeWhnemluT0xXak9VVDVLd0JBU0dBMTB1SEpzTmp5RV9ZdWE1OWN6aWJzN3BPV2JydzY5QlRxcVdhRkdpMFFvVTJvTmtlMWJRM0ZUaGtmYm8ySUx1N0RiamtmWUYzbnM?oc=5",
+      "summary": "【つくば市】11/11 最低2℃、冷え込み、乾燥に注意、朝から夜まで晴れる予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T20:45:49+00:00",
+      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
+    },
+    {
+      "id": "61b2b26c58e3cb5fd0fe",
+      "title": "茨城：幻想的な筑波山 竹あかりテラス：地域ニュース - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tZURUdFV1Y3ZUeDRLczBNVmY3d3ZWaF9tSEw1bHpXcEJOV3UwX1E1YVVvRERFMmx1eHIzX09HZkkxa24ydVdMNS1yNkFXa1AxR2tWM1J0RTFvU094ZkdDZW5DMDlnMEUxYUd6ejJnSzBwOWM?oc=5",
+      "summary": "茨城：幻想的な筑波山 竹あかりテラス：地域ニュース 読売新聞",
+      "category": "地域ニュース",
+      "areas": [
+        "筑波山"
+      ],
+      "source": "読売新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T20:00:00+00:00",
+      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
+    },
+    {
+      "id": "d1d2236ae96010451a70",
+      "title": "「誘致、全国がこぞって進めてる」2地区のデータセンター問題に五十嵐つくば市長 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DWGJQbUJoMDVuelIyMUpkMW5fcTNEd2pZdWVhNnZ4Q2txeU9leFM4dG8xbUlZblBFVkRkRTZsQS1QSDZZS3pyZzZZQQ?oc=5",
+      "summary": "「誘致、全国がこぞって進めてる」2地区のデータセンター問題に五十嵐つくば市長 NEWSつくば",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T20:00:00+00:00",
+      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
+    },
+    {
+      "id": "2b849652272829402229",
+      "title": "茨城：筑波技術大 学長に谷氏 定員割れなど課題、改革に意欲：地域ニュース - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93V1dQbmpfSXdwaklsQTFObW1GUDUwYjVQbm11UnJZNFhUNm1yNXhiYURlSGZjdnJwME9GZlFWRFRrZnZVX3pJTFlaQjdzZHJtaHN3eTJoR1FCYUxBVnoxdVFxV3A3QWFUS2Vwa1VRbll4Vzg?oc=5",
+      "summary": "茨城：筑波技術大 学長に谷氏 定員割れなど課題、改革に意欲：地域ニュース 読売新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "読売新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T20:00:00+00:00",
+      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
+    },
     {
       "id": "d163b2b427342ebfef8d",
       "title": "つくば市【投票率が変われば、議会も変わる？】11月10日｜青森市議選とつくば市議選から考える、... - 選挙ドットコム",
@@ -94,6 +170,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "c3cc65db150e651df6c7",
+      "title": "宇宙飛行士講演や体験型イベント…筑波宇宙センター特別公開11/28 - リセマム",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YWTlyZkdKdV83VkFCTUtPcDhoUEpYMzdLQzM5cmRWZy1SekxVcnZBVkRmeUtQaHp5MVcwRWZUaU12anFHb20zTXl1S29NU3JWcmZKSUFfREJzdy1n?oc=5",
+      "summary": "宇宙飛行士講演や体験型イベント…筑波宇宙センター特別公開11/28 リセマム",
+      "category": "イベント",
+      "areas": [],
+      "source": "リセマム",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T06:15:03+00:00",
+      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
+    },
+    {
       "id": "6ec12aad8a0bc779e4f0",
       "title": "GX戦略地域、2カ所認定 つくば市「DC集積型」 環境配慮、地域共生に重点 説明会も（茨城新聞クロスアイ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1haElOX181UU02UDJKUW5LM2NUV3VlTlpRUldNTGxpVG1icVRzVktkai12YVVmLWFXbEx2V0M0akpZTTFFOWlpcnJfZlBVRldiWUJJWU11S21kaTRBdzlJbnNwd2VLQmhYT3I5SGlUOUpISlpBSTlycGhBcVBsVlE?oc=5",
@@ -104,6 +192,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-10T02:00:00+00:00",
       "firstSeenAt": "2026-11-10T04:00:03.020825+00:00"
+    },
+    {
+      "id": "67019d11f27e29924f8e",
+      "title": "とんきゅう、カフェ参入 若年層向け「雪ノ下珈琲」 つくば出店 看板商品「豚かつサンド」 (茨城新聞クロスアイ) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnMxc01wSjdCaEgwZUxOcDVsd19DWGQyOFVWY0xiR3hXYTF2cWlkSlk3M2dyUVZfSHpEVjhLVTduZ3IyQ3BTVXQ0UnY1UEJYMTRHQXZncTdCVDEzeE5lUFNwMHJ3bFBfUFVwM3VZMzR2ZGJjckVHc3NPQUJQbkJnNG1QR0prWVFWQldNem9n?oc=5",
+      "summary": "とんきゅう、カフェ参入 若年層向け「雪ノ下珈琲」 つくば出店 看板商品「豚かつサンド」 (茨城新聞クロスアイ) Yahoo!ニュース",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T01:39:24+00:00",
+      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
     },
     {
       "id": "c28bb92fcaf6d1477893",
