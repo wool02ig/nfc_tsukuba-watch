@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T10:04:04.054858+00:00",
-  "articleCount": 343,
+  "updatedAt": "2026-11-10T15:58:41.344457+00:00",
+  "articleCount": 346,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 43
+      "count": 46
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 4
+      "count": 5
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -31,7 +31,7 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 3
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
@@ -45,6 +45,42 @@
     }
   ],
   "articles": [
+    {
+      "id": "d163b2b427342ebfef8d",
+      "title": "つくば市【投票率が変われば、議会も変わる？】11月10日｜青森市議選とつくば市議選から考える、... - 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwcXNEWVlSMEpKRy01OTY2MEZsOV82UXg1ZHpBaHByWDF3Qjl0WXAxNE9Qc3pEcWJSc2dvXzhSOHdnUTdzRUdvNUV3YnBnZ0xKV0hJY1RwQWx5QkVwcjQ0?oc=5",
+      "summary": "つくば市【投票率が変われば、議会も変わる？】11月10日｜青森市議選とつくば市議選から考える、... 選挙ドットコム",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "選挙ドットコム",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T15:39:56+00:00",
+      "firstSeenAt": "2026-11-10T15:58:41.344457+00:00"
+    },
+    {
+      "id": "c818c60ab8831dafbbe1",
+      "title": "（茨城）つくば市観音台で暴行 １１月９日 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVhNdUQxOVV3SFZuR25yX0ZGMkRyWldIenZZR2pneVZBYUxJbnZFcmxKaEw1bDZ1V1czUUV5QmdfOXZRVXVmODBBVlJPR2xBZmtfWk9VRC1fWFBPVkRMVXRqSTNHcWVJdWpPVnpOdkc5UGJrYURFd2FraEJJeU9RTEloeUFVN2U1TlZyeGRMdEVQZGlKdHd3WWM0NC3SAaIBQVVfeXFMTmdRUWZPZGJUdlZTVjB6eV9GSmpWT0dmRXF1UGc1Qk9ucWtuU2RBYlNlYVlOUFg4WnlFMHVLdTdHNmxPVU9zYUo5R3pmNlhnbV9acndSZWhVTWNKeW1oaUFEdHk1RDZWNEtXcGp5N3hHcEVqblVXODI1dW4yS2lxTlhGMmY3bmJWODVaTXByZEg2cHQ1QmNZNEJIRW12WmRhTDVB?oc=5",
+      "summary": "（茨城）つくば市観音台で暴行 １１月９日 ｄメニューニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ｄメニューニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T12:51:00+00:00",
+      "firstSeenAt": "2026-11-10T15:58:41.344457+00:00"
+    },
+    {
+      "id": "0c334fadc6dec7d75885",
+      "title": "茨城県つくば市長、市誘致データセンターの住民説明「民間任せにせず」 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56dmdnMF9vMm9xYjdXS3loWVhIRlZpdlVHbDJtcnR6UnZza1EtUWpxRDV4ZDAyazg1c1FrV3ZFajNwY0Q5NUJOVmd6b092MWFMYVMzeFFvdDlaQVBMbGU4Z3FwV3RoZzNZMzlnZg?oc=5",
+      "summary": "茨城県つくば市長、市誘致データセンターの住民説明「民間任せにせず」 日本経済新聞",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "日本経済新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T10:10:00+00:00",
+      "firstSeenAt": "2026-11-10T15:58:41.344457+00:00"
+    },
     {
       "id": "887cdd2db101a83f4cfc",
       "title": "つくば市公共下水道における官民連携事業に関するアンケート調査の実施および説明会資料の公表について",
