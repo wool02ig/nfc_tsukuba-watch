@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T21:52:15.782814+00:00",
-  "articleCount": 354,
+  "updatedAt": "2026-11-11T04:06:46.416276+00:00",
+  "articleCount": 363,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 52
+      "count": 58
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 7
+      "count": 5
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -45,6 +45,80 @@
     }
   ],
   "articles": [
+    {
+      "id": "31124dc8b3340a35fce9",
+      "title": "つくば市はなぜデータセンター工事の一時中止を要請できないのか《投稿・酒井泉》 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45TFZFdjVZTjJUMl9Qd3BVVGh6NzVVODZmVVZnTHd4emxIam1oclBzM3huejI4TWhQLTc5bS1fdDNkUkROSnlneWQ2QQ?oc=5",
+      "summary": "つくば市はなぜデータセンター工事の一時中止を要請できないのか《投稿・酒井泉》 NEWSつくば",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T01:59:50+00:00",
+      "firstSeenAt": "2026-11-11T04:06:46.416276+00:00"
+    },
+    {
+      "id": "e5a6a4c0d99dc1d0c41f",
+      "title": "つくばボードゲームフェア2026、11月28日(土)につくば駅前で開催 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rQWc5TnFSOGYyemMzdnc0V1NfYmZJV1VyZFZHMTNtTExGa1hqXzdhdEhQckpVYWJmX1hSWTRreTMtTmdBOTlTTHpxcVZOSlkzVjdDTDItamlpU3ZOOVdPamZ3UjB5RENCWUN0VjVFRzE2N28?oc=5",
+      "summary": "つくばボードゲームフェア2026、11月28日(土)につくば駅前で開催 ニコニコニュース",
+      "category": "イベント",
+      "areas": [
+        "つくば駅周辺"
+      ],
+      "source": "ニコニコニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T01:06:27+00:00",
+      "firstSeenAt": "2026-11-11T04:06:46.416276+00:00"
+    },
+    {
+      "id": "72493838720ad398667a",
+      "title": "「交通事故の被害者が、一人で抱え込まないように」つくば第一法律事務所がホームページを全面リニューアル - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83c04xVVlJMFdtelRzZk9TSjNCdkhiUUJTWkhzRGZfcnNsb2pIR0ZyY3ZtUHFXN1NOVG1rZGdoYjdPMW0tZGtnYTZiVUNuZFVhX2k1NFlCQkM4VFdYVlI3am50Z1N6THk4d0E?oc=5",
+      "summary": "「交通事故の被害者が、一人で抱え込まないように」つくば第一法律事務所がホームページを全面リニューアル PR TIMES",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "PR TIMES",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T01:00:02+00:00",
+      "firstSeenAt": "2026-11-11T04:06:46.416276+00:00"
+    },
+    {
+      "id": "a7e12864e3bd0ea2b7f5",
+      "title": "身近な困り事をビジネスに、筑波大で中学生向け起業ゼミ開催 - こどもとIT",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ib0NWOWdxYjNNUnd4eXVmNEt0MWxIU09CSHhxZlBzdW16T3R4RmpGdVU0clpub0doMWJmbV9DUEVEcFNjaXQtOXRydUVBaUJqWVlTa2l5WE5FbU53VW5tQTlrYmo?oc=5",
+      "summary": "身近な困り事をビジネスに、筑波大で中学生向け起業ゼミ開催 こどもとIT",
+      "category": "イベント",
+      "areas": [],
+      "source": "こどもとIT",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T01:00:00+00:00",
+      "firstSeenAt": "2026-11-11T04:06:46.416276+00:00"
+    },
+    {
+      "id": "442b477bbc56af1b978b",
+      "title": "「誰でも参加可」説明会開催 つくばデータセンター計画 25日から計7日間 前回、一部住民に「接待」と批判 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfZy1sc1E2bVRoMUdSbVQyY3ZEQTlNYnF2d0t3cjhHMEpGdW1XMlozeV84UUlVT3lFZnZJVl8yV1JFVEtqLTcycFkza19fb3hhUFlqa3lDaTNsSzYxZUNVd05scVNsWXNiZXRKM1NHQmwzM2fSAXhBVV95cUxPNWowTklUZDMwajJtTk13VlE5RFh5R1h2NC1aakNzRzByZ2pTWXlybWFLMXdidHY5UVVacnoybk5fVzdUNmJYQ2tha2FuY21xN09jTkVrSG9kQ0JLQzN4cGgyRUphR1NseGpkY3Q2UlBsdFRRUHdDaG4?oc=5",
+      "summary": "「誰でも参加可」説明会開催 つくばデータセンター計画 25日から計7日間 前回、一部住民に「接待」と批判 ｄメニューニュース",
+      "category": "イベント",
+      "areas": [],
+      "source": "ｄメニューニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T23:22:34+00:00",
+      "firstSeenAt": "2026-11-11T04:06:46.416276+00:00"
+    },
+    {
+      "id": "942617dd9e50750418c1",
+      "title": "「誰でも参加可」説明会開催 つくばデータセンター計画 25日から計7日間 前回、一部住民に「接待」と批判 - 東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WQnBYT0l3X3MtekJWR0w0elJTb0NVcDVoakU1bjB3SlpOWmlXUXFILWtWWWloM2tkYzZsanNGckRXSXN0MHJOUnlSZ3BoS2JJVnQw?oc=5",
+      "summary": "「誰でも参加可」説明会開催 つくばデータセンター計画 25日から計7日間 前回、一部住民に「接待」と批判 東京新聞",
+      "category": "イベント",
+      "areas": [],
+      "source": "東京新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T23:05:18+00:00",
+      "firstSeenAt": "2026-11-11T04:06:46.416276+00:00"
+    },
     {
       "id": "7daf6ef10da059a7cfa6",
       "title": "筑波山ケーブルカー、新たな装い 赤と紫の6代目車両が来春デビュー [茨城県] - 朝日新聞",
@@ -82,6 +156,30 @@
       "sourceType": "news",
       "publishedAt": "2026-11-10T20:45:49+00:00",
       "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
+    },
+    {
+      "id": "361533e2e7ca8bf2ee4a",
+      "title": "【つくば市】11/11 最低2℃、冷え込み、乾燥に注意、朝から夜まで晴れる予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelFHRXBRREVtZ3dPWUdRZXRGQ3hpWWV1cWhmeWJtV1RmUXRVengtdzBIM2R4cU5faGh0UGVIRTNmdWpMRmRkbG9RenN5d1EtVzhlWG5lQnVYSmt4QzFObDVSVW5WWFQxbzhGcThpcnBFZk5la2hWODZEaUtaQW94aXNaQzB0dk8wMWNFcTZR?oc=5",
+      "summary": "【つくば市】11/11 最低2℃、冷え込み、乾燥に注意、朝から夜まで晴れる予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T20:42:24+00:00",
+      "firstSeenAt": "2026-11-11T04:06:46.416276+00:00"
+    },
+    {
+      "id": "9bb98e6684c87d84be84",
+      "title": "つくばDC冷却水量、県公表せず 「地下水使われないか」 生活直結、大量消費に不安の声 ／茨城 - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52dEM0SC02SVFjNHNBMzNHSENfMThIUjB5NnZRTllsZzU0S3cyWnN4cnBNVUlxLUpWeHNoZEl3NmxUcy1scm5nd3VyQ1hKMVVUX1VxWkxjalF3a0NQQ3lBTmRoNzNSUFdy?oc=5",
+      "summary": "つくばDC冷却水量、県公表せず 「地下水使われないか」 生活直結、大量消費に不安の声 ／茨城 毎日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "毎日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T20:01:13+00:00",
+      "firstSeenAt": "2026-11-11T04:06:46.416276+00:00"
     },
     {
       "id": "61b2b26c58e3cb5fd0fe",
@@ -228,6 +326,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-10T01:00:00+00:00",
       "firstSeenAt": "2026-11-10T04:00:03.020825+00:00"
+    },
+    {
+      "id": "cb39f1a77596f53dee16",
+      "title": "ママハピEXPO＠イーアスつくば - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdmYzS1BGRUQwV2tFX3FzY0trVlJxalNmSm00bUdsdUpmcVZhUVdLck5BX0pZZGNhV2lsTFc5WDZqaEY1MGhsTUpDNVJLdEpycEQ0NXlaWHotSnY0Y29mSDVtZ3B4QVNvR1FMSDNPWE1sUHVUZGJ2RVV1YXlROTBvNtIBhgFBVV95cUxOcGJ4XzI4ckptUjNxU0VDVkRyOVF1SjA0T2xjY19sNHdqR0pJbDhKUUxSVXNsZnEwVHdLUE1BR2V6TWJFd05kMy0tb21UMFV0Sk8xN0tUUWxKY0lDYzNnTkhjRENWd0tMbmFPTE1JWjlPOXNHLVdMQ0hGbXhiVTI1N3BobmNvdw?oc=5",
+      "summary": "ママハピEXPO＠イーアスつくば ｄメニューニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ｄメニューニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T01:00:00+00:00",
+      "firstSeenAt": "2026-11-11T04:06:46.416276+00:00"
     },
     {
       "id": "c3bcce5d11c857ab5a7f",
