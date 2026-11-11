@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T04:06:46.416276+00:00",
-  "articleCount": 363,
+  "updatedAt": "2026-11-11T10:10:19.082484+00:00",
+  "articleCount": 368,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 58
+      "count": 60
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -45,6 +45,54 @@
     }
   ],
   "articles": [
+    {
+      "id": "b1d3ca6a1536c8fa5831",
+      "title": "【茨城・つくば】HYROX全8種目をトレーニングできる屋外型ジム「THE EIGHT GYM つくば」が誕生！オープンに伴いクラウドファンディングを実施 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TZUlkbTRLZFJrVG51U3hvbVdub2hrQl9xY0ZIeXd3MmphSzZOSXliTjRlNGJ5SG1DZkNvWlg2SzJCbWRQRTBzaXhEaWhrLWdIWGpBRGxFbXRkTVZCc2N5R1pmaVJuT2Exa2M0am82ZXBadw?oc=5",
+      "summary": "【茨城・つくば】HYROX全8種目をトレーニングできる屋外型ジム「THE EIGHT GYM つくば」が誕生！オープンに伴いクラウドファンディングを実施 Infoseek",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "Infoseek",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T07:01:34+00:00",
+      "firstSeenAt": "2026-11-11T10:10:19.082484+00:00"
+    },
+    {
+      "id": "03e57664d65b78f25439",
+      "title": "【つくば市】11月23日までの期間限定！そば坊つくば店に第157回オリジナルメニュー「秋天丼 ミニそば付」が登場しています - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KeXpZb2VNd3FpNVYwVTVNNmdhUkg5WW9yZmlUb0YzV01BUEVPcDd5LUxoUFlTS0lCdkV6eW5lblJ6QVE3SjZlek5yY2FYbTJ6X0Q2WnZBMHhFWjdmaUpmMFVBQzVpdw?oc=5",
+      "summary": "【つくば市】11月23日までの期間限定！そば坊つくば店に第157回オリジナルメニュー「秋天丼 ミニそば付」が登場しています 号外NET つくば市",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T06:31:10+00:00",
+      "firstSeenAt": "2026-11-11T10:10:19.082484+00:00"
+    },
+    {
+      "id": "2930f4875e9f10bf4758",
+      "title": "利上げ影響 過去最高益に 筑波銀行が27年3月期中間決算 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aNU5YQUJlUGg1T2hzZTdiM2x1SFBubkdnMHNDTVUxNS0yMmxZNDE2eW9GdGFaM0l2cXctT1hiV2N5aUdyTjFLSk10SQ?oc=5",
+      "summary": "利上げ影響 過去最高益に 筑波銀行が27年3月期中間決算 NEWSつくば",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T05:43:00+00:00",
+      "firstSeenAt": "2026-11-11T10:10:19.082484+00:00"
+    },
+    {
+      "id": "0bf5f30671937b93ab53",
+      "title": "「交通事故の被害者が、一人で抱え込まないように」つくば第一法律事務所がホームページを全面リニューアル - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1dDhVOGRkUFoyekN5bUZPaG54ckwyQnlEaE14V2RUTHpsYVNGeDBvTEdhMzVWS1RiR3BmZTU5NkR1UVdBbzlrWEl5SDRaRF9oWlptNVNodjZDcEpER0tlc21rVHJaLTZqczR0MU16VHpFS0xyODREU2Q1WQ?oc=5",
+      "summary": "「交通事故の被害者が、一人で抱え込まないように」つくば第一法律事務所がホームページを全面リニューアル ニコニコニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ニコニコニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T04:21:33+00:00",
+      "firstSeenAt": "2026-11-11T10:10:19.082484+00:00"
+    },
     {
       "id": "31124dc8b3340a35fce9",
       "title": "つくば市はなぜデータセンター工事の一時中止を要請できないのか《投稿・酒井泉》 - NEWSつくば",
@@ -144,6 +192,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-10T21:15:00+00:00",
       "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
+    },
+    {
+      "id": "099be5f8db03e1783155",
+      "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める (朝日新聞) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVBseGVCQkpZTWpiZVBOSXEwQVhNaFRicUM2TEtxb3FGZFNWcTVwaWNGV1l4LWpnLU53bDUyWjNFTC1Kby01NE5KNXZxWDZSS0l1emxmVlo2ZFI5aXpkb2JtMmZqQmk4Sl9UQlN5d2VBTVFhck83MEo3blJFbDY2NThXWXJlMF9QT1E5Z2l3?oc=5",
+      "summary": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める (朝日新聞) Yahoo!ニュース",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T21:15:00+00:00",
+      "firstSeenAt": "2026-11-11T10:10:19.082484+00:00"
     },
     {
       "id": "f240b7d7b8c1b09f5aaa",
@@ -452,6 +512,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-09T09:10:56+00:00",
       "firstSeenAt": "2026-11-09T10:17:20.925917+00:00"
+    },
+    {
+      "id": "a398b271b2cf599692ec",
+      "title": "連載:迫る県議選 選挙区情勢》(2) つくば市(定数5) 8人表明 激戦必至（茨城新聞クロスアイ - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDhqbXdoRmVDalZXZlotTF9ockxSSkJKWllZRDNOUXpVMFh1Q3BTZFlUMHJFUWs3Ul9xWnBfYi15WHZ0a0VNbUxOSE1yemZhTlZHblBBZExUZWRSWk93Nkg0dDRhc3ZDdzNOM3gzTlNNMnBmdWhtSHVXY05jZm9MYUd2dXFTWHN5TV9NSjB3?oc=5",
+      "summary": "連載:迫る県議選 選挙区情勢》(2) つくば市(定数5) 8人表明 激戦必至（茨城新聞クロスアイ Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-09T08:55:00+00:00",
+      "firstSeenAt": "2026-11-11T10:10:19.082484+00:00"
     },
     {
       "id": "60bfa443833698d98234",
@@ -4484,18 +4556,6 @@
       "sourceType": "news",
       "publishedAt": "2026-08-18T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
-    },
-    {
-      "id": "1937681c5d3db72e19e5",
-      "title": "つくばで約1650軒停電 茨城【まとめ】 - 47NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wN2VQQVNHVUM5V1VHaDl3dGcxWmxzdDZNdXZ1M0lJUkVtSjBNbElXQVVPX2o3UTExZC1pQmRIOU9TNDBlbWk4cTBlZw?oc=5",
-      "summary": "つくばで約1650軒停電 茨城【まとめ】 47NEWS",
-      "category": "防災・安全",
-      "areas": [],
-      "source": "47NEWS",
-      "sourceType": "news",
-      "publishedAt": "2026-08-13T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     }
   ]
 }
