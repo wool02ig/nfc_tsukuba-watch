@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T16:07:17.837848+00:00",
-  "articleCount": 369,
+  "updatedAt": "2026-11-12T04:06:01.843636+00:00",
+  "articleCount": 375,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 60
+      "count": 64
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -45,6 +45,42 @@
     }
   ],
   "articles": [
+    {
+      "id": "9010135d6c277bf64558",
+      "title": "筑波技術大 次期学長候補に谷副学長を選出 - 東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QRjh2MUNUSXNOVkg3d1lCb2pCNFdnZzR2SWNkRE1lcXlrbXZWbEw4enJsTjJrRGpaYWVWY0dmZjJYOXdtZ1ZvUVlNSXJpYTg5ZTFN?oc=5",
+      "summary": "筑波技術大 次期学長候補に谷副学長を選出 東京新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "東京新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T23:02:12+00:00",
+      "firstSeenAt": "2026-11-12T04:06:01.843636+00:00"
+    },
+    {
+      "id": "929e01f9c679baa14976",
+      "title": "【つくば市】持久走大会で早く走りたい子集まれ！つくば市内の幼児＆小学生を対象とした、無料の「持久走対策マラソン教室」が開催されますよ。 - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XMEl0MmpDOEthbHJBUi1MSVA5Z0RYMXNDQVdQb0VJUW5NZTU2cGNyZk1KRUYxUHZqMkhiRzdheTFPZTZiRmhEZWdGZ2w3UmdQeEt0ZFRPQkdxZ095UWcwQU5RQkI?oc=5",
+      "summary": "【つくば市】持久走大会で早く走りたい子集まれ！つくば市内の幼児＆小学生を対象とした、無料の「持久走対策マラソン教室」が開催されますよ。 号外NET つくば市",
+      "category": "イベント",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T22:38:12+00:00",
+      "firstSeenAt": "2026-11-12T04:06:01.843636+00:00"
+    },
+    {
+      "id": "c7b8c2f4ac40a4cb042b",
+      "title": "【つくば市】11/12 最低3℃、昼間は過ごしやすい予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pRGY1SWlDZWlxU2NwUC15QlFuT0hFY2JLazZNMFk1eWFyLTZoSVBjUnB4Y2hkMTg2Yk9ZSVJ5dVVBejNQZFhDX21XbzdHR0g1R3ExWU9qcDNBck1XLUNLYnR5ejg0WERHM0djS2ZzZnJwVXA1MldOb1lIRmJnOTQ?oc=5",
+      "summary": "【つくば市】11/12 最低3℃、昼間は過ごしやすい予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T20:42:36+00:00",
+      "firstSeenAt": "2026-11-12T04:06:01.843636+00:00"
+    },
     {
       "id": "b1d3ca6a1536c8fa5831",
       "title": "【茨城・つくば】HYROX全8種目をトレーニングできる屋外型ジム「THE EIGHT GYM つくば」が誕生！オープンに伴いクラウドファンディングを実施 - Infoseek",
@@ -106,6 +142,18 @@
       "firstSeenAt": "2026-11-11T10:10:19.082484+00:00"
     },
     {
+      "id": "0993f7cf1d7d48979f5c",
+      "title": "「交通事故の被害者が、一人で抱え込まないように」つくば第一法律事務所がホームページを全面リニューアル - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSbGNPS18xWmlmTGNwOUp5blZteEotdkFQYjFoUlZHanBfeklZYllFZ0JWV3ctMTJtUUNrX2ZhYTBGU2MwQmVTMllNVGVldG1fTzZKUFlIbWpDQlMtTWdldF9JWUFTNWZJeXY2VG03bnFWUQ?oc=5",
+      "summary": "「交通事故の被害者が、一人で抱え込まないように」つくば第一法律事務所がホームページを全面リニューアル Infoseek",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Infoseek",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T02:15:25+00:00",
+      "firstSeenAt": "2026-11-12T04:06:01.843636+00:00"
+    },
+    {
       "id": "31124dc8b3340a35fce9",
       "title": "つくば市はなぜデータセンター工事の一時中止を要請できないのか《投稿・酒井泉》 - NEWSつくば",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45TFZFdjVZTjJUMl9Qd3BVVGh6NzVVODZmVVZnTHd4emxIam1oclBzM3huejI4TWhQLTc5bS1fdDNkUkROSnlneWQ2QQ?oc=5",
@@ -142,6 +190,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-11T01:00:02+00:00",
       "firstSeenAt": "2026-11-11T04:06:46.416276+00:00"
+    },
+    {
+      "id": "3fdb5d514fab31f2e4c5",
+      "title": "つくばボードゲームフェア2026開催 - wowKorea",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JMDRQWTJZb2lHX3lEUV9TdURYbzBvVDRyREhGT1hNeU9CdlFUZmFPRVZPdmhxXzVRZVlMWlpENmFnTWtzanZQaHB2aHpKdGVjVTNKcTIwcXBodw?oc=5",
+      "summary": "つくばボードゲームフェア2026開催 wowKorea",
+      "category": "イベント",
+      "areas": [],
+      "source": "wowKorea",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T01:00:00+00:00",
+      "firstSeenAt": "2026-11-12T04:06:01.843636+00:00"
     },
     {
       "id": "a7e12864e3bd0ea2b7f5",
@@ -240,6 +300,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-10T20:42:24+00:00",
       "firstSeenAt": "2026-11-11T04:06:46.416276+00:00"
+    },
+    {
+      "id": "30c95c5571928b1733d5",
+      "title": "筑波技術大の新学長に谷氏 ／茨城 - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fVmJfcFdrNUlrNHp2c2pKLUt1LTNVZVRSa2JBLVlOem1vdGFqbElJaldaMkRiSTY1NHJTbEMwUk5ydk9aV1pZekt6VDVuX19RRGRwX1hGcXhpNWU2SlRURDVuYlBtdm5FS1N4c2ZZRQ?oc=5",
+      "summary": "筑波技術大の新学長に谷氏 ／茨城 毎日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "毎日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T20:01:16+00:00",
+      "firstSeenAt": "2026-11-12T04:06:01.843636+00:00"
     },
     {
       "id": "9bb98e6684c87d84be84",
@@ -2686,10 +2758,10 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "592ebc3ed37cfb931001",
-      "title": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 (朝日新聞) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWN3UmVVTDNfcXA3TzhTcDhfVWh2TzhDY09iOHpUdGV2UTlkM0tITDBkQkcteDZadTVWUUF6V1FSVGxKVF9RcGhMb2JkS0lCbFJoQXdXSWVrWDBuN1FmN1FsVnVFMkNPTWJGelZTNTR1cWhlYmhwNm5QVUNXX1hrZkNDMFVMMGpnM3RJbVRn?oc=5",
-      "summary": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 (朝日新聞) Yahoo!ニュース",
+      "id": "f64748648cb47969dc13",
+      "title": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YWlptVkMwS3JjeXhRMGlpbEJ0WnFqSXc4NHFwbXlwLXlDWC1iSU5oUm9UYXhEX2h3RUdKeVY5N0RXRVVxdnFtVTdiSXpkbUI1ek1vYUhVMWgzTFJOTEFhRDItM0xFVkJUM0lucElIRTlBeC1GX2dQcGhmTXZvN0k?oc=5",
+      "summary": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催（朝日新聞） Yahoo!ニュース",
       "category": "イベント",
       "areas": [],
       "source": "Yahoo!ニュース",
@@ -2698,10 +2770,10 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "f64748648cb47969dc13",
-      "title": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YWlptVkMwS3JjeXhRMGlpbEJ0WnFqSXc4NHFwbXlwLXlDWC1iSU5oUm9UYXhEX2h3RUdKeVY5N0RXRVVxdnFtVTdiSXpkbUI1ek1vYUhVMWgzTFJOTEFhRDItM0xFVkJUM0lucElIRTlBeC1GX2dQcGhmTXZvN0k?oc=5",
-      "summary": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催（朝日新聞） Yahoo!ニュース",
+      "id": "592ebc3ed37cfb931001",
+      "title": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 (朝日新聞) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWN3UmVVTDNfcXA3TzhTcDhfVWh2TzhDY09iOHpUdGV2UTlkM0tITDBkQkcteDZadTVWUUF6V1FSVGxKVF9RcGhMb2JkS0lCbFJoQXdXSWVrWDBuN1FmN1FsVnVFMkNPTWJGelZTNTR1cWhlYmhwNm5QVUNXX1hrZkNDMFVMMGpnM3RJbVRn?oc=5",
+      "summary": "宇宙産業に特化した就活イベント 茨城・つくばで11月1日開催 (朝日新聞) Yahoo!ニュース",
       "category": "イベント",
       "areas": [],
       "source": "Yahoo!ニュース",
