@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T16:14:32.601650+00:00",
-  "articleCount": 381,
+  "updatedAt": "2026-11-12T21:56:57.739116+00:00",
+  "articleCount": 382,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 55
+      "count": 54
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -31,12 +31,12 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 2
+      "count": 3
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 2
+      "count": 1
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -92,6 +92,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-12T07:03:43+00:00",
       "firstSeenAt": "2026-11-12T10:14:50.397725+00:00"
+    },
+    {
+      "id": "ef92a46cb47fff684a59",
+      "title": "株式会社ジョイパック、新規事業となるクレーンゲーム専門店「とってクレーン！」1号店を茨城県つくば市にオープン - AERA DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9na2tZSGp1Zjc5UFl0VElKdUM3Z3VDUWpjNVNHdVRlUGxCR1I3WkJxaE5wWU9wWmtlNG5mbmNJRWxFWGNDdWt3clhvX1hKUEp1?oc=5",
+      "summary": "株式会社ジョイパック、新規事業となるクレーンゲーム専門店「とってクレーン！」1号店を茨城県つくば市にオープン AERA DIGITAL",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "AERA DIGITAL",
+      "sourceType": "news",
+      "publishedAt": "2026-11-12T05:52:00+00:00",
+      "firstSeenAt": "2026-11-12T21:56:57.739116+00:00"
     },
     {
       "id": "47540fb7b67149f71c5a",
@@ -3616,6 +3628,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "12db0b289c26d65c562f",
+      "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZmMwVEJ2Rnc4MkdrbXVOWGR2VG1uRlc1M2tOMExOc1k2WUIxeXlJRmtoS0d1Yk52cUI5aUJPaEpZamNMRUVCbklYeTJlTmZwd3NmTXhhQUliaEd6LUN6SDEzOGZ4UdIBa0FVX3lxTE9QbDlUOGczcUV5QmdyVXMtV0RlaUk0VTlEUk1HSm5GR0JWREJ0UnJ0OWZiWFhnRTVTSloza3NGQTJrVTItRXNRUWVicXEzQ1FkY0dIXzV3X1drYjBXbElJVVZkNkRhVF96dXJB?oc=5",
+      "summary": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 Infoseek",
+      "category": "交通・生活",
+      "areas": [],
+      "source": "Infoseek",
+      "sourceType": "news",
+      "publishedAt": "2026-10-09T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "098accf715f1882b4bca",
       "title": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vS2k3RlEwejhUTUZWYnAxVS1ZVmhxNG55VUkzdTBYeW1wajdYQjFYTVFMNnNlSUlFNGVMVE9pVUpBaFBnZF9vZFJwa1hyQmRIdXpyajZIS1MwT1o4dm9sZFpEWDU2SDQ?oc=5",
@@ -3628,18 +3652,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-09T07:00:00+00:00",
       "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
-    },
-    {
-      "id": "12db0b289c26d65c562f",
-      "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZmMwVEJ2Rnc4MkdrbXVOWGR2VG1uRlc1M2tOMExOc1k2WUIxeXlJRmtoS0d1Yk52cUI5aUJPaEpZamNMRUVCbklYeTJlTmZwd3NmTXhhQUliaEd6LUN6SDEzOGZ4UdIBa0FVX3lxTE9QbDlUOGczcUV5QmdyVXMtV0RlaUk0VTlEUk1HSm5GR0JWREJ0UnJ0OWZiWFhnRTVTSloza3NGQTJrVTItRXNRUWVicXEzQ1FkY0dIXzV3X1drYjBXbElJVVZkNkRhVF96dXJB?oc=5",
-      "summary": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 Infoseek",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "Infoseek",
-      "sourceType": "news",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "54f0e5303bacb8cc8f65",
