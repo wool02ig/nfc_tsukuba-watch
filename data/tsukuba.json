@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T10:14:50.397725+00:00",
-  "articleCount": 380,
+  "updatedAt": "2026-11-12T16:14:32.601650+00:00",
+  "articleCount": 381,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 56
+      "count": 55
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -45,6 +45,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "f378596050b90d4d11c6",
+      "title": "クレーンゲーム213台が集結！10円から遊べて野菜も狙える新店が茨城・つくばに開店 - いこーよニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pOGpzb1ZfUWZSTVpqd0dYaVBtMGxHQnlCRE5LdVpnRmlTeXRrUUFrUTJLcWp3b0JFazFhcXVSNW9fR1BxRTg4amdUdTFIYWhjenc?oc=5",
+      "summary": "クレーンゲーム213台が集結！10円から遊べて野菜も狙える新店が茨城・つくばに開店 いこーよニュース",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "いこーよニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-12T10:47:01+00:00",
+      "firstSeenAt": "2026-11-12T16:14:32.601650+00:00"
+    },
     {
       "id": "62433c713b1a1bd7d627",
       "title": "工事一時中止を 住民団体が事業者に要望【つくばに国内最大級のデータセンター】 - NEWSつくば",
@@ -400,18 +412,6 @@
       "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
     },
     {
-      "id": "2b849652272829402229",
-      "title": "茨城：筑波技術大 学長に谷氏 定員割れなど課題、改革に意欲：地域ニュース - 読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93V1dQbmpfSXdwaklsQTFObW1GUDUwYjVQbm11UnJZNFhUNm1yNXhiYURlSGZjdnJwME9GZlFWRFRrZnZVX3pJTFlaQjdzZHJtaHN3eTJoR1FCYUxBVnoxdVFxV3A3QWFUS2Vwa1VRbll4Vzg?oc=5",
-      "summary": "茨城：筑波技術大 学長に谷氏 定員割れなど課題、改革に意欲：地域ニュース 読売新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "読売新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-11-10T20:00:00+00:00",
-      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
-    },
-    {
       "id": "d1d2236ae96010451a70",
       "title": "「誘致、全国がこぞって進めてる」2地区のデータセンター問題に五十嵐つくば市長 - NEWSつくば",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DWGJQbUJoMDVuelIyMUpkMW5fcTNEd2pZdWVhNnZ4Q2txeU9leFM4dG8xbUlZblBFVkRkRTZsQS1QSDZZS3pyZzZZQQ?oc=5",
@@ -419,6 +419,18 @@
       "category": "行政・市政",
       "areas": [],
       "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T20:00:00+00:00",
+      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
+    },
+    {
+      "id": "2b849652272829402229",
+      "title": "茨城：筑波技術大 学長に谷氏 定員割れなど課題、改革に意欲：地域ニュース - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93V1dQbmpfSXdwaklsQTFObW1GUDUwYjVQbm11UnJZNFhUNm1yNXhiYURlSGZjdnJwME9GZlFWRFRrZnZVX3pJTFlaQjdzZHJtaHN3eTJoR1FCYUxBVnoxdVFxV3A3QWFUS2Vwa1VRbll4Vzg?oc=5",
+      "summary": "茨城：筑波技術大 学長に谷氏 定員割れなど課題、改革に意欲：地域ニュース 読売新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "読売新聞",
       "sourceType": "news",
       "publishedAt": "2026-11-10T20:00:00+00:00",
       "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
