@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T04:06:01.843636+00:00",
-  "articleCount": 375,
+  "updatedAt": "2026-11-12T10:14:50.397725+00:00",
+  "articleCount": 380,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,17 +11,17 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 64
+      "count": 56
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 6
+      "count": 8
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 3
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -45,6 +45,54 @@
     }
   ],
   "articles": [
+    {
+      "id": "62433c713b1a1bd7d627",
+      "title": "工事一時中止を 住民団体が事業者に要望【つくばに国内最大級のデータセンター】 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ERVB5UnpYcjVHanl3T2s5Y016RDh5Wk9pWk5ZenpEeHE3bzItXzFHRHFKMnNDWUY4c0FZM2dFTVJHZ3dJOHBKVHBQTQ?oc=5",
+      "summary": "工事一時中止を 住民団体が事業者に要望【つくばに国内最大級のデータセンター】 NEWSつくば",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-12T09:29:12+00:00",
+      "firstSeenAt": "2026-11-12T10:14:50.397725+00:00"
+    },
+    {
+      "id": "b34fc29afc0aff7c1b4d",
+      "title": "【茨城・つくば】HYROX全8種目をトレーニングできる屋外型ジム「THE EIGHT GYM つくば」が誕生！オープンに伴いクラウドファンディングを実施 - AERA DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tZjduTWNoTEt1VFJzWGZhOW1qTktteGR3Um5uQjhDb040bkNJNzFfMnMtLWQxTWpaVVVhSlJaLXdtOXRDTUdLaHl0UWptamlz?oc=5",
+      "summary": "【茨城・つくば】HYROX全8種目をトレーニングできる屋外型ジム「THE EIGHT GYM つくば」が誕生！オープンに伴いクラウドファンディングを実施 AERA DIGITAL",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "AERA DIGITAL",
+      "sourceType": "news",
+      "publishedAt": "2026-11-12T08:16:10+00:00",
+      "firstSeenAt": "2026-11-12T10:14:50.397725+00:00"
+    },
+    {
+      "id": "cec66a8e8d19d8908b44",
+      "title": "筋力低下で糖尿病リスク増 筑波大病院でイベント ロコモ対策呼びかけ | イベント | ニュース一覧 - LuckyFM茨城放送",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2emhWbW1NMG9xMmxQTUJzWVY3U3FLd3ZtbUhSbW5qMmRwTWZNOS1Bel81MFdmdlFwY0FuRW0waWlVbDZiMV9rVE5DblMyTDBfNE5UdnNn?oc=5",
+      "summary": "筋力低下で糖尿病リスク増 筑波大病院でイベント ロコモ対策呼びかけ | イベント | ニュース一覧 LuckyFM茨城放送",
+      "category": "イベント",
+      "areas": [],
+      "source": "LuckyFM茨城放送",
+      "sourceType": "news",
+      "publishedAt": "2026-11-12T07:03:43+00:00",
+      "firstSeenAt": "2026-11-12T10:14:50.397725+00:00"
+    },
+    {
+      "id": "47540fb7b67149f71c5a",
+      "title": "株式会社ジョイパック、新規事業となるクレーンゲーム専門店「とってクレーン！」1号店を茨城県つくば市にオープン - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzLVIzWTYxRUJlZDZrR2ZDV1NHRXFBXzItcTJJZW1RNXo5emY5cllGVmZFd1hJbFl2MVJYN01DWXNZanh5M1pkeVBVRmxqRGR6RWlXazh2cy11aUxqUkdRc2g0N0I2ZVNUNFE?oc=5",
+      "summary": "株式会社ジョイパック、新規事業となるクレーンゲーム専門店「とってクレーン！」1号店を茨城県つくば市にオープン PR TIMES",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "PR TIMES",
+      "sourceType": "news",
+      "publishedAt": "2026-11-12T05:51:35+00:00",
+      "firstSeenAt": "2026-11-12T10:14:50.397725+00:00"
+    },
     {
       "id": "9010135d6c277bf64558",
       "title": "筑波技術大 次期学長候補に谷副学長を選出 - 東京新聞",
@@ -80,6 +128,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-11T20:42:36+00:00",
       "firstSeenAt": "2026-11-12T04:06:01.843636+00:00"
+    },
+    {
+      "id": "0a31672494001f248286",
+      "title": "【つくば市】11/12 最低3℃、昼間は過ごしやすい予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFdyMFFOMHFpeVNhWFVtTDItQWVLWWRFY0Y5bHdyclFHQ01WOXgtazNkdE5xSHZMVWZJek1vWkNEVWpDMnVsOFlRZTdiUW9mY25heVBPTEhHR3FIc09hOFYxT3NMOXJWaVRBU0kzYzFPYThUNzdWeWQxN1daOUFPRUtQcG5NMDdzYVRRMzNR?oc=5",
+      "summary": "【つくば市】11/12 最低3℃、昼間は過ごしやすい予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T20:42:36+00:00",
+      "firstSeenAt": "2026-11-12T10:14:50.397725+00:00"
     },
     {
       "id": "b1d3ca6a1536c8fa5831",
@@ -340,18 +400,6 @@
       "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
     },
     {
-      "id": "d1d2236ae96010451a70",
-      "title": "「誘致、全国がこぞって進めてる」2地区のデータセンター問題に五十嵐つくば市長 - NEWSつくば",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DWGJQbUJoMDVuelIyMUpkMW5fcTNEd2pZdWVhNnZ4Q2txeU9leFM4dG8xbUlZblBFVkRkRTZsQS1QSDZZS3pyZzZZQQ?oc=5",
-      "summary": "「誘致、全国がこぞって進めてる」2地区のデータセンター問題に五十嵐つくば市長 NEWSつくば",
-      "category": "行政・市政",
-      "areas": [],
-      "source": "NEWSつくば",
-      "sourceType": "news",
-      "publishedAt": "2026-11-10T20:00:00+00:00",
-      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
-    },
-    {
       "id": "2b849652272829402229",
       "title": "茨城：筑波技術大 学長に谷氏 定員割れなど課題、改革に意欲：地域ニュース - 読売新聞",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93V1dQbmpfSXdwaklsQTFObW1GUDUwYjVQbm11UnJZNFhUNm1yNXhiYURlSGZjdnJwME9GZlFWRFRrZnZVX3pJTFlaQjdzZHJtaHN3eTJoR1FCYUxBVnoxdVFxV3A3QWFUS2Vwa1VRbll4Vzg?oc=5",
@@ -359,6 +407,18 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "読売新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T20:00:00+00:00",
+      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
+    },
+    {
+      "id": "d1d2236ae96010451a70",
+      "title": "「誘致、全国がこぞって進めてる」2地区のデータセンター問題に五十嵐つくば市長 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DWGJQbUJoMDVuelIyMUpkMW5fcTNEd2pZdWVhNnZ4Q2txeU9leFM4dG8xbUlZblBFVkRkRTZsQS1QSDZZS3pyZzZZQQ?oc=5",
+      "summary": "「誘致、全国がこぞって進めてる」2地区のデータセンター問題に五十嵐つくば市長 NEWSつくば",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "NEWSつくば",
       "sourceType": "news",
       "publishedAt": "2026-11-10T20:00:00+00:00",
       "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
@@ -598,18 +658,6 @@
       "firstSeenAt": "2026-11-09T10:17:20.925917+00:00"
     },
     {
-      "id": "a398b271b2cf599692ec",
-      "title": "連載:迫る県議選 選挙区情勢》(2) つくば市(定数5) 8人表明 激戦必至（茨城新聞クロスアイ - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDhqbXdoRmVDalZXZlotTF9ockxSSkJKWllZRDNOUXpVMFh1Q3BTZFlUMHJFUWs3Ul9xWnBfYi15WHZ0a0VNbUxOSE1yemZhTlZHblBBZExUZWRSWk93Nkg0dDRhc3ZDdzNOM3gzTlNNMnBmdWhtSHVXY05jZm9MYUd2dXFTWHN5TV9NSjB3?oc=5",
-      "summary": "連載:迫る県議選 選挙区情勢》(2) つくば市(定数5) 8人表明 激戦必至（茨城新聞クロスアイ Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-09T08:55:00+00:00",
-      "firstSeenAt": "2026-11-11T10:10:19.082484+00:00"
-    },
-    {
       "id": "60bfa443833698d98234",
       "title": "《連載:迫る県議選 選挙区情勢》(2) つくば市(定数5) 8人表明 激戦必至 (茨城新聞クロスアイ) - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdTFRRkNMVFJMcTJoWVZRaE42RTdkdlJ1ek4xS1NWbE9KdHFGeDQ3aXB0SkpkQVBhX2tqdHRUbk5OdTFmbXN3NlFxLVk5ZllQNnctVlBUWGpVdnpDZk5pM21QMWJDRVRKNEJvLWExOVFrZHg4QkctMDBENlJlZnlUajQ1by01VWJKX2VleXJ3?oc=5",
@@ -620,6 +668,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-09T08:55:00+00:00",
       "firstSeenAt": "2026-11-09T16:13:41.208139+00:00"
+    },
+    {
+      "id": "a398b271b2cf599692ec",
+      "title": "連載:迫る県議選 選挙区情勢》(2) つくば市(定数5) 8人表明 激戦必至（茨城新聞クロスアイ - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDhqbXdoRmVDalZXZlotTF9ockxSSkJKWllZRDNOUXpVMFh1Q3BTZFlUMHJFUWs3Ul9xWnBfYi15WHZ0a0VNbUxOSE1yemZhTlZHblBBZExUZWRSWk93Nkg0dDRhc3ZDdzNOM3gzTlNNMnBmdWhtSHVXY05jZm9MYUd2dXFTWHN5TV9NSjB3?oc=5",
+      "summary": "連載:迫る県議選 選挙区情勢》(2) つくば市(定数5) 8人表明 激戦必至（茨城新聞クロスアイ Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-09T08:55:00+00:00",
+      "firstSeenAt": "2026-11-11T10:10:19.082484+00:00"
     },
     {
       "id": "321e8ad2b65b4e265846",
