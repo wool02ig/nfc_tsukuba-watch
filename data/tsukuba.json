@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T15:58:49.061113+00:00",
-  "articleCount": 392,
+  "updatedAt": "2026-11-13T21:55:53.241320+00:00",
+  "articleCount": 395,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 51
+      "count": 54
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -31,12 +31,12 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 3
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 2
+      "count": 1
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -45,6 +45,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "acf0be1cd8378b7468a7",
+      "title": "つくば 竹園公園の秋《ご近所スケッチ》26 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XMjY4aWtvZ1pHWTFSaXN1SjVtODUxOV8wRXRYOHdheWEwYm50Snc4S3BVM2ZUcHZEcmNNRlFxdl8xZHAxcGtrS3BYOA?oc=5",
+      "summary": "つくば 竹園公園の秋《ご近所スケッチ》26 NEWSつくば",
+      "category": "地域ニュース",
+      "areas": [
+        "つくば駅周辺"
+      ],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-13T21:00:00+00:00",
+      "firstSeenAt": "2026-11-13T21:55:53.241320+00:00"
+    },
     {
       "id": "c4b28e768b8c3073c22b",
       "title": "【つくばで地産地消！農業体験イベント参加者募集】菊芋収穫体験",
@@ -130,6 +144,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-12T22:38:03+00:00",
       "firstSeenAt": "2026-11-13T04:04:22.164037+00:00"
+    },
+    {
+      "id": "3d95c27b2990d18b2eae",
+      "title": "【つくば市】11/13 最低5℃、ひんやりする場面も、朝から夜まで晴れる予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZzZ6YUR3Q1ZMQ05NTl9YblhjV3R4ZmZ3QUtMUWxZZHNESXphSVBPZXJQSmJPUzlYeEJmVzVjZWFNMEdOYmctZXk5ZzMxVlpLRU1PbEhuOWdROUxWcXJLTHBqWjZ4RGNNdW80c09TOXpjYVVkUW9SMXZVQ0FvVm0wcFFvNzlsWnRqb1hYMGt3?oc=5",
+      "summary": "【つくば市】11/13 最低5℃、ひんやりする場面も、朝から夜まで晴れる予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-12T20:43:03+00:00",
+      "firstSeenAt": "2026-11-13T21:55:53.241320+00:00"
     },
     {
       "id": "f378596050b90d4d11c6",
@@ -250,6 +276,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-11T20:42:36+00:00",
       "firstSeenAt": "2026-11-12T04:06:01.843636+00:00"
+    },
+    {
+      "id": "9e4cb697c1bc7c6d8f0b",
+      "title": "【茨城・つくば】HYROX全8種目をトレーニングできる屋外型ジム「THE EIGHT GYM つくば」が誕生！オープンに伴いクラウドファンディングを実施 | リトルリンク株式会社のプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aamxYVzI4WFM1RkRxWDk4VVZ6Z2l1dk9EblBtbHJEYjNrcU9aUW5Ib24tQjYzdlc0a3JFMjFMZGZrZGNtOXduNm5yNmkyVEZsbUtrTG0xSWxWS2lPN3A2akJsV2FoWUVuUkE?oc=5",
+      "summary": "【茨城・つくば】HYROX全8種目をトレーニングできる屋外型ジム「THE EIGHT GYM つくば」が誕生！オープンに伴いクラウドファンディングを実施 | リトルリンク株式会社のプレスリリース PR TIMES",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "PR TIMES",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T07:01:34+00:00",
+      "firstSeenAt": "2026-11-13T21:55:53.241320+00:00"
     },
     {
       "id": "b1d3ca6a1536c8fa5831",
@@ -1196,6 +1234,18 @@
       "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
     },
     {
+      "id": "9c1c64ca55bb8e21e9db",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
       "id": "3c4aa2c4430f9f077af2",
       "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
@@ -1371,18 +1421,6 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-04T22:00:00+00:00",
-      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
-    },
-    {
-      "id": "9c1c64ca55bb8e21e9db",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "朝日新聞",
       "sourceType": "news",
       "publishedAt": "2026-11-04T22:00:00+00:00",
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
