@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T21:56:57.739116+00:00",
-  "articleCount": 382,
+  "updatedAt": "2026-11-13T04:04:22.164037+00:00",
+  "articleCount": 386,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 54
+      "count": 56
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -45,6 +45,56 @@
     }
   ],
   "articles": [
+    {
+      "id": "cea2f2815d14fa3ad9a1",
+      "title": "ジョイパックがクレーンゲーム専門店「とってクレーン！」1号店、13日つくばに開業 食品・日用品が景品の「娯楽×スーパー型」 - 遊技日本",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93bzgzT0podjhiRWZEMEdPdlNYVWduVzREaHRDdE1Hb3FYRjdMV212djJZVFdVWFd3S3B6ZVcxZWhrR2RsQ1lIdDdhaFlTakw2QldrYnVsQTRUa2VUbmc?oc=5",
+      "summary": "ジョイパックがクレーンゲーム専門店「とってクレーン！」1号店、13日つくばに開業 食品・日用品が景品の「娯楽×スーパー型」 遊技日本",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "遊技日本",
+      "sourceType": "news",
+      "publishedAt": "2026-11-13T01:49:51+00:00",
+      "firstSeenAt": "2026-11-13T04:04:22.164037+00:00"
+    },
+    {
+      "id": "e29505e38491bcd3b1ca",
+      "title": "「GLOBALTREE」「S.C.P. Japan」「筑波大学・TIAS2.0」が【スポーツを通じた国際交流プログラム】を全3回実施！5か国の留学生と栃木・埼玉の子どもたち約75名が「違い」を楽しむ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MdWtwTGxvT1dMckZYWlRKa2tXajhSMUJtVkR0YUFQWTBnU3duLTZWMXZSbUptRnppRURldFl1XzRZbHAtRWJKcDFZWldrY1dEbnlrZ0tCZS1qM3FkeWpUMVA4eHJRc0lrdEE?oc=5",
+      "summary": "「GLOBALTREE」「S.C.P. Japan」「筑波大学・TIAS2.0」が【スポーツを通じた国際交流プログラム】を全3回実施！5か国の留学生と栃木・埼玉の子どもたち約75名が「違い」を楽しむ PR TIMES",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "PR TIMES",
+      "sourceType": "news",
+      "publishedAt": "2026-11-13T00:10:01+00:00",
+      "firstSeenAt": "2026-11-13T04:04:22.164037+00:00"
+    },
+    {
+      "id": "774a24f7644d17a2c23e",
+      "title": "「ビックマーチ」のジョイパック、クレーンゲーム事業に参入 つくば市に1号店、213台を設置 - パチンコ・パチスロ情報島＋",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51SUthZUZJOGRPV2E4bGJ3a3RiOEJCSGRzNERPelVPelJlMFJvNVBjMGdvTWhUazJMSHEzTlA0Nm5tZEs3QThiY2hORmZPZ28?oc=5",
+      "summary": "「ビックマーチ」のジョイパック、クレーンゲーム事業に参入 つくば市に1号店、213台を設置 パチンコ・パチスロ情報島＋",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "パチンコ・パチスロ情報島＋",
+      "sourceType": "news",
+      "publishedAt": "2026-11-12T23:30:28+00:00",
+      "firstSeenAt": "2026-11-13T04:04:22.164037+00:00"
+    },
+    {
+      "id": "f4564feb3f149c347a32",
+      "title": "【つくば市】大穂のカスミで焼きそばのお弁当を見つけました！ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XamxLdFIwWnJOd1A4QWxrY3ZFdV9OemdUdUZfMFQwRWNVejNBT0puQXU0ZkF4TThrWWM5MmpDRXhXcll5cmdYODh0bElZWEtxQklTUExwV1NZdWIxRTRBczBGRnJyYjhCbEE?oc=5",
+      "summary": "【つくば市】大穂のカスミで焼きそばのお弁当を見つけました！ 号外NET つくば市",
+      "category": "地域ニュース",
+      "areas": [
+        "大穂・豊里"
+      ],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-12T22:38:03+00:00",
+      "firstSeenAt": "2026-11-13T04:04:22.164037+00:00"
+    },
     {
       "id": "f378596050b90d4d11c6",
       "title": "クレーンゲーム213台が集結！10円から遊べて野菜も狙える新店が茨城・つくばに開店 - いこーよニュース",
@@ -424,18 +474,6 @@
       "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
     },
     {
-      "id": "d1d2236ae96010451a70",
-      "title": "「誘致、全国がこぞって進めてる」2地区のデータセンター問題に五十嵐つくば市長 - NEWSつくば",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DWGJQbUJoMDVuelIyMUpkMW5fcTNEd2pZdWVhNnZ4Q2txeU9leFM4dG8xbUlZblBFVkRkRTZsQS1QSDZZS3pyZzZZQQ?oc=5",
-      "summary": "「誘致、全国がこぞって進めてる」2地区のデータセンター問題に五十嵐つくば市長 NEWSつくば",
-      "category": "行政・市政",
-      "areas": [],
-      "source": "NEWSつくば",
-      "sourceType": "news",
-      "publishedAt": "2026-11-10T20:00:00+00:00",
-      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
-    },
-    {
       "id": "2b849652272829402229",
       "title": "茨城：筑波技術大 学長に谷氏 定員割れなど課題、改革に意欲：地域ニュース - 読売新聞",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93V1dQbmpfSXdwaklsQTFObW1GUDUwYjVQbm11UnJZNFhUNm1yNXhiYURlSGZjdnJwME9GZlFWRFRrZnZVX3pJTFlaQjdzZHJtaHN3eTJoR1FCYUxBVnoxdVFxV3A3QWFUS2Vwa1VRbll4Vzg?oc=5",
@@ -443,6 +481,18 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "読売新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T20:00:00+00:00",
+      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
+    },
+    {
+      "id": "d1d2236ae96010451a70",
+      "title": "「誘致、全国がこぞって進めてる」2地区のデータセンター問題に五十嵐つくば市長 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DWGJQbUJoMDVuelIyMUpkMW5fcTNEd2pZdWVhNnZ4Q2txeU9leFM4dG8xbUlZblBFVkRkRTZsQS1QSDZZS3pyZzZZQQ?oc=5",
+      "summary": "「誘致、全国がこぞって進めてる」2地区のデータセンター問題に五十嵐つくば市長 NEWSつくば",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "NEWSつくば",
       "sourceType": "news",
       "publishedAt": "2026-11-10T20:00:00+00:00",
       "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
@@ -1602,6 +1652,20 @@
       "firstSeenAt": "2026-11-03T16:02:11.874917+00:00"
     },
     {
+      "id": "1c4f0380352a0a517876",
+      "title": "【つくば市】市内で2店舗目のバーガーキングがそよら学園の森にオープンしました！ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95NWxtQ0IxMmY2TjBBQkl0RE1OcWQyV0EtM3FneHFaYnFvSFhsRGxmMU5oczYxLXQzTEJ4cDJzUWloc2p5MzlxNmFhY0lSSHpiVms3UkJDbjhmTy05UmhVU1hfbW1yQkZPS0E?oc=5",
+      "summary": "【つくば市】市内で2店舗目のバーガーキングがそよら学園の森にオープンしました！ 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-03T08:00:00+00:00",
+      "firstSeenAt": "2026-11-03T04:00:36.104333+00:00"
+    },
+    {
       "id": "5e5557c580df155b8393",
       "title": "（茨城）つくば市竹園で不審な接触 １１月２日 - ｄメニューニュース",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObEZzV0g2TFo5dE1rOEVDcWtkWjFwRVRkMDBRZEppaUZDNVZQRXRxd0JtbTQxYUx4c2hIZWZycUxBSGczT2xRYlNONlYzOFdHUjMtTkRFTnJXUUR5aFJvZDBJVmo2UENuNkRVTDB1REVKYXd2aW1jYmZjYl82SzkwQUVBQ2JzTldpMVlJdTBLYXJRT3U5U1dZSkw4U0bSAaIBQVVfeXFMTlZ1TnhBVW91eTRFd1RoN2c3NjFQbVhveHFLcGZVTW5nWUpPRDZoVy1fT2d1eUFuaFNMSTJIcC1Fc1FCY3NBMjU0dFFuWC13R3BremFGcEdoNTZlRk10ZXRINzRmaGdINngwWEUxQkZiYklFVmI1d2o0NmFoeVFfZm5ROHZlR3lLVklqOFM4SVpibHZuanpTVE83cGxNMklnYWV3?oc=5",
@@ -1628,20 +1692,6 @@
       "sourceType": "news",
       "publishedAt": "2026-11-03T01:43:00+00:00",
       "firstSeenAt": "2026-11-03T21:55:45.026370+00:00"
-    },
-    {
-      "id": "1c4f0380352a0a517876",
-      "title": "【つくば市】市内で2店舗目のバーガーキングがそよら学園の森にオープンしました！ - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95NWxtQ0IxMmY2TjBBQkl0RE1OcWQyV0EtM3FneHFaYnFvSFhsRGxmMU5oczYxLXQzTEJ4cDJzUWloc2p5MzlxNmFhY0lSSHpiVms3UkJDbjhmTy05UmhVU1hfbW1yQkZPS0E?oc=5",
-      "summary": "【つくば市】市内で2店舗目のバーガーキングがそよら学園の森にオープンしました！ 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [
-        "研究学園"
-      ],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-11-02T22:38:21+00:00",
-      "firstSeenAt": "2026-11-03T04:00:36.104333+00:00"
     },
     {
       "id": "2662af38b434d345f725",
@@ -4178,18 +4228,6 @@
       "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
     },
     {
-      "id": "739440ea693fd72ed864",
-      "title": "【更新】つくばの殺人未遂 容疑で男5人逮捕 茨城県警（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVWVSRWtWdFFIVndCWC1fV0VkaVRMVGJ6QlVNZDVpSU1yVDJTOVVyczBuRnVtdjQtYlB6THlsUl9EamE3Z2xqV3M2WUhlQXBjb2JvZGhTUkFGSHVsemVWR1MtRmtsR1g0NHdXUDg1V1hweGlINTJRdk5pbTYxNWc?oc=5",
-      "summary": "【更新】つくばの殺人未遂 容疑で男5人逮捕 茨城県警（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-25T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "a31583021a154406938b",
       "title": "【更新】つくばの殺人未遂 容疑で新たに21歳男逮捕 6人目 就寝中の雇用主襲撃か 茨城県警（茨城新聞クロスアイ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3X282MEIwRS1ya0FWLXhOQi1zd1I4ZmJxY1AxNXNBNk90QTFwVFpLVWptbERtSkg1TE1NcVpaRFhBXzJjdWsxSlBJN0ZNOHVBcXA0d01rWTVYTE9lVmZsT1pmQk5hUXRENUQ5TzZOdkRpTkMzRjIzSFFXRFRtWG8?oc=5",
@@ -4223,6 +4261,18 @@
       "category": "開発・建設",
       "areas": [],
       "source": "ダイヤモンド・チェーンストアオンライン",
+      "sourceType": "news",
+      "publishedAt": "2026-09-25T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "739440ea693fd72ed864",
+      "title": "【更新】つくばの殺人未遂 容疑で男5人逮捕 茨城県警（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVWVSRWtWdFFIVndCWC1fV0VkaVRMVGJ6QlVNZDVpSU1yVDJTOVVyczBuRnVtdjQtYlB6THlsUl9EamE3Z2xqV3M2WUhlQXBjb2JvZGhTUkFGSHVsemVWR1MtRmtsR1g0NHdXUDg1V1hweGlINTJRdk5pbTYxNWc?oc=5",
+      "summary": "【更新】つくばの殺人未遂 容疑で男5人逮捕 茨城県警（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-09-25T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
