@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T10:11:58.223176+00:00",
+  "updatedAt": "2026-11-13T15:58:49.061113+00:00",
   "articleCount": 392,
   "sources": [
     {
@@ -16,7 +16,7 @@
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -58,6 +58,18 @@
       "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
     },
     {
+      "id": "4b9a552fead68a91e0d6",
+      "title": "ラサール不動産投資顧問／茨城県「ロジポートつくば」内覧会11月24・25日開催 - 物流ニュースのLNEWS",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZUWVleUxudUZQaHc0WUY2WEQ4WW1ybUpaWVdtajFLUHVnVjRINWZ1NkpleDRBbU5MQzlEOWYwTUlYUkUydnpUT0VQU2JraWFEZFBxSA?oc=5",
+      "summary": "ラサール不動産投資顧問／茨城県「ロジポートつくば」内覧会11月24・25日開催 物流ニュースのLNEWS",
+      "category": "イベント",
+      "areas": [],
+      "source": "物流ニュースのLNEWS",
+      "sourceType": "news",
+      "publishedAt": "2026-11-13T07:38:16+00:00",
+      "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
+    },
+    {
       "id": "be2eae11675618c5c9eb",
       "title": "つくばのネコ、12年間で4千匹が路上で事故死 「外に出さないで」 [茨城県] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qTGdNNEpBWDltVU56LVhfVXBKS3BFdGVjXy1vTy1WX3hOT3J4X0JLcVo2RU04bWVTQ29ySzdKMHlvbXRfUmdtT1lyRnROY09RdHpOZmZwRGxyWEZ6YzI5QUhBTkI4LTg?oc=5",
@@ -67,18 +79,6 @@
       "source": "朝日新聞",
       "sourceType": "news",
       "publishedAt": "2026-11-13T07:30:00+00:00",
-      "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
-    },
-    {
-      "id": "4b9a552fead68a91e0d6",
-      "title": "ラサール不動産投資顧問／茨城県「ロジポートつくば」内覧会11月24・25日開催 - 物流ニュースのLNEWS",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZUWVleUxudUZQaHc0WUY2WEQ4WW1ybUpaWVdtajFLUHVnVjRINWZ1NkpleDRBbU5MQzlEOWYwTUlYUkUydnpUT0VQU2JraWFEZFBxSA?oc=5",
-      "summary": "ラサール不動産投資顧問／茨城県「ロジポートつくば」内覧会11月24・25日開催 物流ニュースのLNEWS",
-      "category": "イベント",
-      "areas": [],
-      "source": "物流ニュースのLNEWS",
-      "sourceType": "news",
-      "publishedAt": "2026-11-13T07:20:52+00:00",
       "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
     },
     {
@@ -228,18 +228,6 @@
       "firstSeenAt": "2026-11-12T04:06:01.843636+00:00"
     },
     {
-      "id": "c7b8c2f4ac40a4cb042b",
-      "title": "【つくば市】11/12 最低3℃、昼間は過ごしやすい予想【朝版】 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pRGY1SWlDZWlxU2NwUC15QlFuT0hFY2JLazZNMFk1eWFyLTZoSVBjUnB4Y2hkMTg2Yk9ZSVJ5dVVBejNQZFhDX21XbzdHR0g1R3ExWU9qcDNBck1XLUNLYnR5ejg0WERHM0djS2ZzZnJwVXA1MldOb1lIRmJnOTQ?oc=5",
-      "summary": "【つくば市】11/12 最低3℃、昼間は過ごしやすい予想【朝版】 Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-11T20:42:36+00:00",
-      "firstSeenAt": "2026-11-12T04:06:01.843636+00:00"
-    },
-    {
       "id": "0a31672494001f248286",
       "title": "【つくば市】11/12 最低3℃、昼間は過ごしやすい予想【朝版】 - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFdyMFFOMHFpeVNhWFVtTDItQWVLWWRFY0Y5bHdyclFHQ01WOXgtazNkdE5xSHZMVWZJek1vWkNEVWpDMnVsOFlRZTdiUW9mY25heVBPTEhHR3FIc09hOFYxT3NMOXJWaVRBU0kzYzFPYThUNzdWeWQxN1daOUFPRUtQcG5NMDdzYVRRMzNR?oc=5",
@@ -250,6 +238,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-11T20:42:36+00:00",
       "firstSeenAt": "2026-11-12T10:14:50.397725+00:00"
+    },
+    {
+      "id": "c7b8c2f4ac40a4cb042b",
+      "title": "【つくば市】11/12 最低3℃、昼間は過ごしやすい予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pRGY1SWlDZWlxU2NwUC15QlFuT0hFY2JLazZNMFk1eWFyLTZoSVBjUnB4Y2hkMTg2Yk9ZSVJ5dVVBejNQZFhDX21XbzdHR0g1R3ExWU9qcDNBck1XLUNLYnR5ejg0WERHM0djS2ZzZnJwVXA1MldOb1lIRmJnOTQ?oc=5",
+      "summary": "【つくば市】11/12 最低3℃、昼間は過ごしやすい予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T20:42:36+00:00",
+      "firstSeenAt": "2026-11-12T04:06:01.843636+00:00"
     },
     {
       "id": "b1d3ca6a1536c8fa5831",
@@ -1196,6 +1196,18 @@
       "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
     },
     {
+      "id": "3c4aa2c4430f9f077af2",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
       "id": "fc40dcb98320ce448020",
       "title": "茨城・つくば市、データセンター集積へ事業者公募 - 建設通信新聞Digital",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pcWw1UXR3TlZiblpnNkZlNTdhU1BvMjRHa1dUT2g1YlptMkdpVFh3d1ZjdGtWaFZrU2htX0JHUXVhdnpsLWRkbFVQWmNmSzEtdmYwUDVR?oc=5",
@@ -1349,18 +1361,6 @@
       "source": "選挙ドットコム",
       "sourceType": "news",
       "publishedAt": "2026-11-04T23:35:10+00:00",
-      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
-    },
-    {
-      "id": "3c4aa2c4430f9f077af2",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-04T22:00:00+00:00",
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
     },
     {
