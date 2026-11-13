@@ -1,22 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T04:04:22.164037+00:00",
-  "articleCount": 386,
+  "updatedAt": "2026-11-13T10:11:58.223176+00:00",
+  "articleCount": 392,
   "sources": [
     {
       "source": "つくば市公式",
       "ok": true,
-      "count": 13
+      "count": 14
     },
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 56
+      "count": 51
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 8
+      "count": 9
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -36,7 +36,7 @@
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 1
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -45,6 +45,42 @@
     }
   ],
   "articles": [
+    {
+      "id": "c4b28e768b8c3073c22b",
+      "title": "【つくばで地産地消！農業体験イベント参加者募集】菊芋収穫体験",
+      "url": "https://www.city.tsukuba.lg.jp/soshikikarasagasu/keizaibunogyoseisakuka/gyomuannai/7/19183.html",
+      "summary": "",
+      "category": "イベント",
+      "areas": [],
+      "source": "つくば市公式",
+      "sourceType": "official",
+      "publishedAt": "2026-11-13T07:38:52+00:00",
+      "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
+    },
+    {
+      "id": "be2eae11675618c5c9eb",
+      "title": "つくばのネコ、12年間で4千匹が路上で事故死 「外に出さないで」 [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qTGdNNEpBWDltVU56LVhfVXBKS3BFdGVjXy1vTy1WX3hOT3J4X0JLcVo2RU04bWVTQ29ySzdKMHlvbXRfUmdtT1lyRnROY09RdHpOZmZwRGxyWEZ6YzI5QUhBTkI4LTg?oc=5",
+      "summary": "つくばのネコ、12年間で4千匹が路上で事故死 「外に出さないで」 [茨城県] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-13T07:30:00+00:00",
+      "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
+    },
+    {
+      "id": "4b9a552fead68a91e0d6",
+      "title": "ラサール不動産投資顧問／茨城県「ロジポートつくば」内覧会11月24・25日開催 - 物流ニュースのLNEWS",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZUWVleUxudUZQaHc0WUY2WEQ4WW1ybUpaWVdtajFLUHVnVjRINWZ1NkpleDRBbU5MQzlEOWYwTUlYUkUydnpUT0VQU2JraWFEZFBxSA?oc=5",
+      "summary": "ラサール不動産投資顧問／茨城県「ロジポートつくば」内覧会11月24・25日開催 物流ニュースのLNEWS",
+      "category": "イベント",
+      "areas": [],
+      "source": "物流ニュースのLNEWS",
+      "sourceType": "news",
+      "publishedAt": "2026-11-13T07:20:52+00:00",
+      "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
+    },
     {
       "id": "cea2f2815d14fa3ad9a1",
       "title": "ジョイパックがクレーンゲーム専門店「とってクレーン！」1号店、13日つくばに開業 食品・日用品が景品の「娯楽×スーパー型」 - 遊技日本",
@@ -326,6 +362,20 @@
       "firstSeenAt": "2026-11-11T04:06:46.416276+00:00"
     },
     {
+      "id": "5e6b045a01a12e9e1082",
+      "title": "つくばボードゲームフェア2026、11月28日(土)につくば駅前で開催 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YSUk2Nmw4YnkwTFFDei1fR1hTSWU5T1JBcXNMSzdQV3RDaEdocjhuMmRTV0RXS3JveTlzaEV2dFo0ajJxdDFxQVptdDdiWUE?oc=5",
+      "summary": "つくばボードゲームフェア2026、11月28日(土)につくば駅前で開催 Newscast.jp",
+      "category": "イベント",
+      "areas": [
+        "つくば駅周辺"
+      ],
+      "source": "Newscast.jp",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T01:00:00+00:00",
+      "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
+    },
+    {
       "id": "3fdb5d514fab31f2e4c5",
       "title": "つくばボードゲームフェア2026開催 - wowKorea",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JMDRQWTJZb2lHX3lEUV9TdURYbzBvVDRyREhGT1hNeU9CdlFUZmFPRVZPdmhxXzVRZVlMWlpENmFnTWtzanZQaHB2aHpKdGVjVTNKcTIwcXBodw?oc=5",
@@ -363,10 +413,10 @@
     },
     {
       "id": "942617dd9e50750418c1",
-      "title": "「誰でも参加可」説明会開催 つくばデータセンター計画 25日から計7日間 前回、一部住民に「接待」と批判 - 東京新聞",
+      "title": "今度は「接待のような」説明会ではなく…つくばデータセンター計画で25日から「誰でも参加可」の説明会 - 東京新聞",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WQnBYT0l3X3MtekJWR0w0elJTb0NVcDVoakU1bjB3SlpOWmlXUXFILWtWWWloM2tkYzZsanNGckRXSXN0MHJOUnlSZ3BoS2JJVnQw?oc=5",
-      "summary": "「誰でも参加可」説明会開催 つくばデータセンター計画 25日から計7日間 前回、一部住民に「接待」と批判 東京新聞",
-      "category": "イベント",
+      "summary": "今度は「接待のような」説明会ではなく…つくばデータセンター計画で25日から「誰でも参加可」の説明会 東京新聞",
+      "category": "地域ニュース",
       "areas": [],
       "source": "東京新聞",
       "sourceType": "news",
@@ -388,18 +438,6 @@
       "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
     },
     {
-      "id": "1cd4e161c3d6a4bb0c1a",
-      "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zWmNXRjI5QldYOHlFdmxwVFY3UHN6WC02c3lpM2l4aEdPODNtdGxLX1prQ1NqYllzMThzUDRodW9Uc3ktcjJiWE5URmdOckpsMDNkbTdMQTE1VDRMQ2QtSTRWYlF3SVk?oc=5",
-      "summary": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] 朝日新聞",
-      "category": "行政・市政",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-11-10T21:15:00+00:00",
-      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
-    },
-    {
       "id": "099be5f8db03e1783155",
       "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める (朝日新聞) - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVBseGVCQkpZTWpiZVBOSXEwQVhNaFRicUM2TEtxb3FGZFNWcTVwaWNGV1l4LWpnLU53bDUyWjNFTC1Kby01NE5KNXZxWDZSS0l1emxmVlo2ZFI5aXpkb2JtMmZqQmk4Sl9UQlN5d2VBTVFhck83MEo3blJFbDY2NThXWXJlMF9QT1E5Z2l3?oc=5",
@@ -410,6 +448,30 @@
       "sourceType": "news",
       "publishedAt": "2026-11-10T21:15:00+00:00",
       "firstSeenAt": "2026-11-11T10:10:19.082484+00:00"
+    },
+    {
+      "id": "fa4a667b67585aab7440",
+      "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tT0wweTB6UGR0ek9XSWVQRkJyOGFTYy1lNFkwMVRYc2h5Z3RNMGxrdUQtNm5QSThieTZ5UUp4Vmp1dlRRN01nQzQ3cTg5b3o0VEx2RkpaOWc4YWZGZGl5enNRTFNiQ2JOOEFzQWY2dEg3WkhacVlKX0J1M1l1ejA?oc=5",
+      "summary": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める（朝日新聞） Yahoo!ニュース",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T21:15:00+00:00",
+      "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
+    },
+    {
+      "id": "1cd4e161c3d6a4bb0c1a",
+      "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zWmNXRjI5QldYOHlFdmxwVFY3UHN6WC02c3lpM2l4aEdPODNtdGxLX1prQ1NqYllzMThzUDRodW9Uc3ktcjJiWE5URmdOckpsMDNkbTdMQTE1VDRMQ2QtSTRWYlF3SVk?oc=5",
+      "summary": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] 朝日新聞",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T21:15:00+00:00",
+      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
     },
     {
       "id": "f240b7d7b8c1b09f5aaa",
@@ -532,6 +594,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-10T10:10:00+00:00",
       "firstSeenAt": "2026-11-10T15:58:41.344457+00:00"
+    },
+    {
+      "id": "3355c8a1744288c3d3ec",
+      "title": "大宮駅前にちゃん系の「新橋ニューともちんラーメン」がオープンへ すずらん通り「つくば本店」跡地 - 日進大宮なび",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1RZFkyejBXbVN4SW5NQTRJUjNXSmdCYnNsYkFBTnhybDdMNDJZMzRYUmZZRGg3eHJyLXozZmU4U2dDVUJDNVJ3?oc=5",
+      "summary": "大宮駅前にちゃん系の「新橋ニューともちんラーメン」がオープンへ すずらん通り「つくば本店」跡地 日進大宮なび",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "日進大宮なび",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T09:39:41+00:00",
+      "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
     },
     {
       "id": "887cdd2db101a83f4cfc",
@@ -1278,6 +1352,18 @@
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
     },
     {
+      "id": "3c4aa2c4430f9f077af2",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T22:00:00+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
       "id": "9cbf5d4d04fc6990a087",
       "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い (朝日新聞) - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLThnd0lEUi0xR3RpYWZzSUNiWGpWV2RtWWo5SXRYSjI1NV9oMkZhZnFkakdVc19rSHFveVQyX3BSZjdnSmxYakN6ZjFuX093NzJmVEVOZUJ3ZGVpeXU3UUExQnMtb0cwanlnaktJTU1mdmxacjNNQjdqN0FoeTV3LXk0cGRQS1MyOG1zMFZn?oc=5",
@@ -1297,18 +1383,6 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-11-04T22:00:00+00:00",
-      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
-    },
-    {
-      "id": "3c4aa2c4430f9f077af2",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-11-04T22:00:00+00:00",
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
