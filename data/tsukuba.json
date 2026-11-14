@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T21:55:53.241320+00:00",
-  "articleCount": 395,
+  "updatedAt": "2026-11-14T04:01:48.985295+00:00",
+  "articleCount": 398,
   "sources": [
     {
       "source": "つくば市公式",
@@ -16,7 +16,7 @@
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -31,12 +31,12 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 2
+      "count": 3
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 1
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -45,6 +45,42 @@
     }
   ],
   "articles": [
+    {
+      "id": "269f81e0c2de7d39cb02",
+      "title": "障害者への理解深めるパラスポーツのイベント 茨城 つくば - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tcFhSWjhOR3JlemxURGY4dnlXTW9HblB3aTF4RlNUZmJJM3dyay1zZ3R6Q2JxUlNrNU1ydzlDVmV6Y2dXS0dVSU5WRnlqVjlhTEFlWW1oSG1mN21hS2Nn?oc=5",
+      "summary": "障害者への理解深めるパラスポーツのイベント 茨城 つくば NHKニュース",
+      "category": "イベント",
+      "areas": [],
+      "source": "NHKニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-14T03:15:51+00:00",
+      "firstSeenAt": "2026-11-14T04:01:48.985295+00:00"
+    },
+    {
+      "id": "2be0a95adc5492c4cbfb",
+      "title": "つくば中央署跡地 「財産交換」で利活用 県、売却しフロア取得へ（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xeUVsbXhNVnpKMkczTjVMdTcwRGdnSVZ4amJnV1VuMzhOYW5pUUtLWm01V2ZhSk1kNGFua2pxVVFILTBLQUQxS19PejdJem9Fa3ZubE0xaWdPeVBFSk5DVFZkdFBzWjBSanZpclphenhRblVWY0hfWmJaelZhWEk?oc=5",
+      "summary": "つくば中央署跡地 「財産交換」で利活用 県、売却しフロア取得へ（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-13T23:00:00+00:00",
+      "firstSeenAt": "2026-11-14T04:01:48.985295+00:00"
+    },
+    {
+      "id": "6ccb1e1085350f905f0e",
+      "title": "【つくば市】「わくわく広場 トナリエクレオつくば店」で発見！ふわふわの手作りパウンドケーキと「sopo bagel」のベーグル - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GUEdDcHo1N1JOZnhwajh3WTZqR0dZNkFMeFhtaW1XNV9rSDVheXE4RlRMd1kzSm5wNkhlOUIybTNRNGo4SUpNcks5cFMxaWc2UkxXWmkwaHFtRG1BOEhHWFlyZVFWajNB?oc=5",
+      "summary": "【つくば市】「わくわく広場 トナリエクレオつくば店」で発見！ふわふわの手作りパウンドケーキと「sopo bagel」のベーグル 号外NET つくば市",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-13T22:38:46+00:00",
+      "firstSeenAt": "2026-11-14T04:01:48.985295+00:00"
+    },
     {
       "id": "acf0be1cd8378b7468a7",
       "title": "つくば 竹園公園の秋《ご近所スケッチ》26 - NEWSつくば",
@@ -476,18 +512,6 @@
       "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
     },
     {
-      "id": "099be5f8db03e1783155",
-      "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める (朝日新聞) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVBseGVCQkpZTWpiZVBOSXEwQVhNaFRicUM2TEtxb3FGZFNWcTVwaWNGV1l4LWpnLU53bDUyWjNFTC1Kby01NE5KNXZxWDZSS0l1emxmVlo2ZFI5aXpkb2JtMmZqQmk4Sl9UQlN5d2VBTVFhck83MEo3blJFbDY2NThXWXJlMF9QT1E5Z2l3?oc=5",
-      "summary": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める (朝日新聞) Yahoo!ニュース",
-      "category": "行政・市政",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-10T21:15:00+00:00",
-      "firstSeenAt": "2026-11-11T10:10:19.082484+00:00"
-    },
-    {
       "id": "fa4a667b67585aab7440",
       "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める（朝日新聞） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tT0wweTB6UGR0ek9XSWVQRkJyOGFTYy1lNFkwMVRYc2h5Z3RNMGxrdUQtNm5QSThieTZ5UUp4Vmp1dlRRN01nQzQ3cTg5b3o0VEx2RkpaOWc4YWZGZGl5enNRTFNiQ2JOOEFzQWY2dEg3WkhacVlKX0J1M1l1ejA?oc=5",
@@ -510,6 +534,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-10T21:15:00+00:00",
       "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
+    },
+    {
+      "id": "099be5f8db03e1783155",
+      "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める (朝日新聞) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVBseGVCQkpZTWpiZVBOSXEwQVhNaFRicUM2TEtxb3FGZFNWcTVwaWNGV1l4LWpnLU53bDUyWjNFTC1Kby01NE5KNXZxWDZSS0l1emxmVlo2ZFI5aXpkb2JtMmZqQmk4Sl9UQlN5d2VBTVFhck83MEo3blJFbDY2NThXWXJlMF9QT1E5Z2l3?oc=5",
+      "summary": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める (朝日新聞) Yahoo!ニュース",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T21:15:00+00:00",
+      "firstSeenAt": "2026-11-11T10:10:19.082484+00:00"
     },
     {
       "id": "f240b7d7b8c1b09f5aaa",
@@ -3224,18 +3260,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "e71de94891fd47db78a8",
-      "title": "【つくば市】気になる…！黒墨商店というシフォンケーキみたいなドーナツのお店がオープンするみたい - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85N2cycWkyZFFVaGFkOFRFS2pZbGY4cDgwNWhZallaY2hQT29JMHg5a3BpWGdJb3dNNWRJcThEZ19YY3RsSjFnbnJHSzRWV1ZSUU1jYmh3QnVqTzFXX1lwSjdwdmstZw?oc=5",
-      "summary": "【つくば市】気になる…！黒墨商店というシフォンケーキみたいなドーナツのお店がオープンするみたい 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-10-26T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "c13a61f47313ecb742c7",
       "title": "つくば「そよら」 オープン 茨城県内初出店 「日常使い」都市型店舗（茨城新聞クロスアイ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aQnMwSnVZTXRJcW9CRmNURm1EdEdLTngyR3NrNkFhdGZ6TDlZT2VnMmZMVTNNek9SNlVPZmdjWk9TanROUTdTOGEwcUw1MXFFd3RJNlN1cTl2U1RDTjRxNkl0UHNqamhlblpnWFNJdkI3clhYZWJudGw3bEk1TzQ?oc=5",
@@ -3243,6 +3267,18 @@
       "category": "店舗・グルメ",
       "areas": [],
       "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-26T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "e71de94891fd47db78a8",
+      "title": "【つくば市】気になる…！黒墨商店というシフォンケーキみたいなドーナツのお店がオープンするみたい - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85N2cycWkyZFFVaGFkOFRFS2pZbGY4cDgwNWhZallaY2hQT29JMHg5a3BpWGdJb3dNNWRJcThEZ19YY3RsSjFnbnJHSzRWV1ZSUU1jYmh3QnVqTzFXX1lwSjdwdmstZw?oc=5",
+      "summary": "【つくば市】気になる…！黒墨商店というシフォンケーキみたいなドーナツのお店がオープンするみたい 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
       "sourceType": "news",
       "publishedAt": "2026-10-26T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
