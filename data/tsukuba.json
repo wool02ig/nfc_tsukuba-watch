@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T09:56:15.522940+00:00",
-  "articleCount": 400,
+  "updatedAt": "2026-11-14T15:50:17.648654+00:00",
+  "articleCount": 404,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,17 +11,17 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 48
+      "count": 49
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 2
+      "count": 3
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -45,6 +45,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "fdfe4e12d6d1bbdcaa85",
+      "title": "11月1日｜大学同期の友人と筑波山へ！筑波山神社のお祭りと秋の景色にほっと一息♪ - 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12ZlFvUnZHcDFkVU5OSEtMSmZXcnlyM0kxRmFOZU5uYl9HNWNRWnNnRjlJVHhsVFB6TlpPTUdWRko1U0dELTRnNXRBNDh2dmV2c0pzb18ybXZfZEtCUzI0?oc=5",
+      "summary": "11月1日｜大学同期の友人と筑波山へ！筑波山神社のお祭りと秋の景色にほっと一息♪ 選挙ドットコム",
+      "category": "イベント",
+      "areas": [
+        "筑波山"
+      ],
+      "source": "選挙ドットコム",
+      "sourceType": "news",
+      "publishedAt": "2026-11-14T09:14:09+00:00",
+      "firstSeenAt": "2026-11-14T15:50:17.648654+00:00"
+    },
     {
       "id": "269f81e0c2de7d39cb02",
       "title": "障害者への理解深めるパラスポーツのイベント 茨城 つくば - NHKニュース",
@@ -144,6 +158,18 @@
       "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
     },
     {
+      "id": "11bc844c650c00bb6d85",
+      "title": "「GLOBALTREE」「S.C.P. Japan」「筑波大学・TIAS2.0」が【スポーツを通じた国際交流プログラム】を全3回実施！5か国の留学生と栃木・埼玉の子どもたち約75名が「違い」を楽しむ - 足利経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LMGRiNV9YdW9Rd1J1aF9tS1VnR1hWNW1ZRGxuRmZ1ZWx2bDhxeklsQnRmTXRZZkt1RkRSa25FZU05Nkt3ZzM5YW13MDNEM05hT2poaHR3?oc=5",
+      "summary": "「GLOBALTREE」「S.C.P. Japan」「筑波大学・TIAS2.0」が【スポーツを通じた国際交流プログラム】を全3回実施！5か国の留学生と栃木・埼玉の子どもたち約75名が「違い」を楽しむ 足利経済新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "足利経済新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-13T04:23:41+00:00",
+      "firstSeenAt": "2026-11-14T15:50:17.648654+00:00"
+    },
+    {
       "id": "0ef0764102fbc1490903",
       "title": "「GLOBALTREE」「S.C.P. Japan」「筑波大学・TIAS2.0」が【スポーツを通じた国際交流プログラム】を全3回実施！5か国の留学生と栃木・埼玉の子どもたち約75名が「違い」を楽しむ - 水戸経済新聞",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YSWJnRGpwUEpvSDRQSmlTR09WdU9wTUVWMi0yLUYwT1UwdzNBMGpjXzdkSkw0U2MxbXk3M2tGUl93TjJzX1k0TEhXQTBRVWcy?oc=5",
@@ -216,6 +242,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-12T20:43:03+00:00",
       "firstSeenAt": "2026-11-13T21:55:53.241320+00:00"
+    },
+    {
+      "id": "0791ab3f3f7e1f8159ce",
+      "title": "今日も、森澤きょうこ品川区長の応援へ！📣つくば市の五十嵐立青市長、美濃加茂市の藤井浩人市長も駆... - 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLSmVCQXhhTGlWRXlyWWhpYklNVGI1QW1fZkdtVkZseFJodnc1U2w5UDlJVjBmLVRCd29BZldIS1VWZ19hX0V2cWVodm8wXzBtSGV1MWNnb3BybGRXR1h3?oc=5",
+      "summary": "今日も、森澤きょうこ品川区長の応援へ！📣つくば市の五十嵐立青市長、美濃加茂市の藤井浩人市長も駆... 選挙ドットコム",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "選挙ドットコム",
+      "sourceType": "news",
+      "publishedAt": "2026-11-12T14:59:07+00:00",
+      "firstSeenAt": "2026-11-14T15:50:17.648654+00:00"
     },
     {
       "id": "f378596050b90d4d11c6",
@@ -1162,6 +1200,18 @@
       "firstSeenAt": "2026-11-06T15:58:31.399736+00:00"
     },
     {
+      "id": "d59f94c1e92ac9c23237",
+      "title": "【つくば市】どんなお店ができたの？気になる新店情報2軒をお伝えします！ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lMnU0VVhqNnZDcEZ2ckYyblBGQllCck1lbkRoR21qRjlhbHNzU0xKNGl0anpRMDBNT3dSWGRadTJyRWxYY1k2d00xMzhYZDJvdDk5dnY0YVptWUV6Z2dLTA?oc=5",
+      "summary": "【つくば市】どんなお店ができたの？気になる新店情報2軒をお伝えします！ 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-06T08:00:00+00:00",
+      "firstSeenAt": "2026-11-06T04:02:32.022857+00:00"
+    },
+    {
       "id": "ec05763ea1201dee7ac1",
       "title": "【令和9年2月8日（月曜日）及び2月9日（火曜日）17時まで】 小野川交流センター利用制限のお知らせ",
       "url": "https://www.city.tsukuba.lg.jp/soshikikarasagasu/shimimbuchiikisiennka/gyomuannai/kyukan/26414.html",
@@ -1220,18 +1270,6 @@
       "sourceType": "news",
       "publishedAt": "2026-11-05T23:00:00+00:00",
       "firstSeenAt": "2026-11-06T15:58:31.399736+00:00"
-    },
-    {
-      "id": "d59f94c1e92ac9c23237",
-      "title": "【つくば市】どんなお店ができたの？気になる新店情報2軒をお伝えします！ - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lMnU0VVhqNnZDcEZ2ckYyblBGQllCck1lbkRoR21qRjlhbHNzU0xKNGl0anpRMDBNT3dSWGRadTJyRWxYY1k2d00xMzhYZDJvdDk5dnY0YVptWUV6Z2dLTA?oc=5",
-      "summary": "【つくば市】どんなお店ができたの？気になる新店情報2軒をお伝えします！ 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-11-05T22:38:06+00:00",
-      "firstSeenAt": "2026-11-06T04:02:32.022857+00:00"
     },
     {
       "id": "de5e95f0afb45fe55e00",
@@ -3296,6 +3334,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "31c482e32610db1bd486",
+      "title": "茨城県つくば市、データセンター建設指針を策定 環境対策など求める - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83bGNDZTdlRXo1T2V0NkQ3NGhTdjNVcEEtSlNrYXljZDlyOWtfMGJBeXk3aHQ2MmVtR3NFLVgxcENZTmlPbHZFUU1rY1VKV055NnUzY2RJZGNfV0hSVFlkZTk2WnU1eDR2OEtYTQ?oc=5",
+      "summary": "茨城県つくば市、データセンター建設指針を策定 環境対策など求める 日本経済新聞",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "日本経済新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-10-26T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "e71de94891fd47db78a8",
       "title": "【つくば市】気になる…！黒墨商店というシフォンケーキみたいなドーナツのお店がオープンするみたい - 号外NET つくば市",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85N2cycWkyZFFVaGFkOFRFS2pZbGY4cDgwNWhZallaY2hQT29JMHg5a3BpWGdJb3dNNWRJcThEZ19YY3RsSjFnbnJHSzRWV1ZSUU1jYmh3QnVqTzFXX1lwSjdwdmstZw?oc=5",
@@ -3305,18 +3355,6 @@
       "source": "号外NET つくば市",
       "sourceType": "news",
       "publishedAt": "2026-10-26T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "31c482e32610db1bd486",
-      "title": "茨城県つくば市、データセンター建設指針を策定 環境対策など求める - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83bGNDZTdlRXo1T2V0NkQ3NGhTdjNVcEEtSlNrYXljZDlyOWtfMGJBeXk3aHQ2MmVtR3NFLVgxcENZTmlPbHZFUU1rY1VKV055NnUzY2RJZGNfV0hSVFlkZTk2WnU1eDR2OEtYTQ?oc=5",
-      "summary": "茨城県つくば市、データセンター建設指針を策定 環境対策など求める 日本経済新聞",
-      "category": "開発・建設",
-      "areas": [],
-      "source": "日本経済新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-10-26T05:30:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
@@ -4248,6 +4286,20 @@
       "sourceType": "news",
       "publishedAt": "2026-10-01T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "25485b0247f0d640e788",
+      "title": "イオンの都市型商業施設「そよらつくば学園の森」10月25日オープン 県内初出店 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5scUl0Y2x6YW56b1dwdlNHSEtZT1g2akwwMkd4OXhVNmVhenR3R0gwc2s5cEFiNVZvZHlsQk8wN2M3TnJrOHQxamgtTQ?oc=5",
+      "summary": "イオンの都市型商業施設「そよらつくば学園の森」10月25日オープン 県内初出店 NEWSつくば",
+      "category": "開発・建設",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-09-30T07:00:00+00:00",
+      "firstSeenAt": "2026-11-14T15:50:17.648654+00:00"
     },
     {
       "id": "3ff8f29e6c18f9542946",
