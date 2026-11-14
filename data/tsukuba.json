@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T04:01:48.985295+00:00",
-  "articleCount": 398,
+  "updatedAt": "2026-11-14T09:56:15.522940+00:00",
+  "articleCount": 400,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 54
+      "count": 48
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -54,8 +54,20 @@
       "areas": [],
       "source": "NHKニュース",
       "sourceType": "news",
-      "publishedAt": "2026-11-14T03:15:51+00:00",
+      "publishedAt": "2026-11-14T03:15:00+00:00",
       "firstSeenAt": "2026-11-14T04:01:48.985295+00:00"
+    },
+    {
+      "id": "6ce81881e823daaf2868",
+      "title": "つくば中央署跡地 「財産交換」で利活用 県、売却しフロア取得へ (茨城新聞クロスアイ) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSV9kR1FUMlRvOVk0WEFMTThNRUxoUzFvakZfU1ZJWXdRSzNiWFpTZXBJSGN3ODVhSzRSU2liaWJTQV9pcEtlNGVOUXN3bWc0Zkw4dmJyeUlvSmhRNG14N2ZKV28yWmpwNE8zbzBUeVZPdTZ6VTI0N05BMHJtSzN6am9iWFNiQnFLMG1WeVFB?oc=5",
+      "summary": "つくば中央署跡地 「財産交換」で利活用 県、売却しフロア取得へ (茨城新聞クロスアイ) Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-14T03:12:26+00:00",
+      "firstSeenAt": "2026-11-14T09:56:15.522940+00:00"
     },
     {
       "id": "2be0a95adc5492c4cbfb",
@@ -130,6 +142,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-13T07:30:00+00:00",
       "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
+    },
+    {
+      "id": "0ef0764102fbc1490903",
+      "title": "「GLOBALTREE」「S.C.P. Japan」「筑波大学・TIAS2.0」が【スポーツを通じた国際交流プログラム】を全3回実施！5か国の留学生と栃木・埼玉の子どもたち約75名が「違い」を楽しむ - 水戸経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YSWJnRGpwUEpvSDRQSmlTR09WdU9wTUVWMi0yLUYwT1UwdzNBMGpjXzdkSkw0U2MxbXk3M2tGUl93TjJzX1k0TEhXQTBRVWcy?oc=5",
+      "summary": "「GLOBALTREE」「S.C.P. Japan」「筑波大学・TIAS2.0」が【スポーツを通じた国際交流プログラム】を全3回実施！5か国の留学生と栃木・埼玉の子どもたち約75名が「違い」を楽しむ 水戸経済新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "水戸経済新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-13T04:22:48+00:00",
+      "firstSeenAt": "2026-11-14T09:56:15.522940+00:00"
     },
     {
       "id": "cea2f2815d14fa3ad9a1",
@@ -512,18 +536,6 @@
       "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
     },
     {
-      "id": "fa4a667b67585aab7440",
-      "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tT0wweTB6UGR0ek9XSWVQRkJyOGFTYy1lNFkwMVRYc2h5Z3RNMGxrdUQtNm5QSThieTZ5UUp4Vmp1dlRRN01nQzQ3cTg5b3o0VEx2RkpaOWc4YWZGZGl5enNRTFNiQ2JOOEFzQWY2dEg3WkhacVlKX0J1M1l1ejA?oc=5",
-      "summary": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める（朝日新聞） Yahoo!ニュース",
-      "category": "行政・市政",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-10T21:15:00+00:00",
-      "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
-    },
-    {
       "id": "1cd4e161c3d6a4bb0c1a",
       "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zWmNXRjI5QldYOHlFdmxwVFY3UHN6WC02c3lpM2l4aEdPODNtdGxLX1prQ1NqYllzMThzUDRodW9Uc3ktcjJiWE5URmdOckpsMDNkbTdMQTE1VDRMQ2QtSTRWYlF3SVk?oc=5",
@@ -546,6 +558,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-10T21:15:00+00:00",
       "firstSeenAt": "2026-11-11T10:10:19.082484+00:00"
+    },
+    {
+      "id": "fa4a667b67585aab7440",
+      "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tT0wweTB6UGR0ek9XSWVQRkJyOGFTYy1lNFkwMVRYc2h5Z3RNMGxrdUQtNm5QSThieTZ5UUp4Vmp1dlRRN01nQzQ3cTg5b3o0VEx2RkpaOWc4YWZGZGl5enNRTFNiQ2JOOEFzQWY2dEg3WkhacVlKX0J1M1l1ejA?oc=5",
+      "summary": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める（朝日新聞） Yahoo!ニュース",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T21:15:00+00:00",
+      "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
     },
     {
       "id": "f240b7d7b8c1b09f5aaa",
