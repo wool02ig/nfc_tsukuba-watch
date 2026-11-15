@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T15:51:12.939099+00:00",
-  "articleCount": 409,
+  "updatedAt": "2026-11-15T21:49:49.811546+00:00",
+  "articleCount": 412,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 38
+      "count": 39
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -21,7 +21,7 @@
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 3
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -45,6 +45,30 @@
     }
   ],
   "articles": [
+    {
+      "id": "bccf5d8b107db5a4b38c",
+      "title": "【石岡市】駐車場の一角にラーメン屋台が登場！つくばに本店を構える「麺処明り石岡屋台店」が10/30から営業を開始しました - 地域ニュースサイト号外NET",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQkxla1hSa0xTa0xIQzFTcjJMQW5OLXg3cWlzcUZnZWxXYVJEN1R2dUtuRGRzXzZxUW5ORDFYR29PTEpVOVZEcnRqVmp4dEdkTTBwUHprd1ZuT1hMTzcza0pqU0FBa29sdGVybThMWGFZNDRVMW5qUUMwRl8zcFB0LXdVamtaMkVJSFQw?oc=5",
+      "summary": "【石岡市】駐車場の一角にラーメン屋台が登場！つくばに本店を構える「麺処明り石岡屋台店」が10/30から営業を開始しました 地域ニュースサイト号外NET",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "地域ニュースサイト号外NET",
+      "sourceType": "news",
+      "publishedAt": "2026-11-15T21:22:58+00:00",
+      "firstSeenAt": "2026-11-15T21:49:49.811546+00:00"
+    },
+    {
+      "id": "0f6f96d408314e74e065",
+      "title": "【つくば市】11/16 最高18℃、最低10℃、朝から夜まで晴れる予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FekpIUHFkUmhWZHJzOERnaFhJQ3B6QzFNVFBUVjlxR2NrVmdDTzROR1JYYVpFWmJ6T1MtQ2VUTjdVRF9mT1hOOEkwT21scElpbC0xeFBjaWdYdm5mVHJ4alJ0eFJBTDFQTEdxOUhnTXpsdEptYTMzX19saTl1M3c?oc=5",
+      "summary": "【つくば市】11/16 最高18℃、最低10℃、朝から夜まで晴れる予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-15T20:41:52+00:00",
+      "firstSeenAt": "2026-11-15T21:49:49.811546+00:00"
+    },
     {
       "id": "d5eafd740a6685fed3e0",
       "title": "「つくばボードゲームフェア2026」が11月28日につくば市 T.S.BUILで開催！筆談・手話のサポート付きボードゲーム体験やミニトークなどを展開 - Gamer",
@@ -636,18 +660,6 @@
       "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
     },
     {
-      "id": "1cd4e161c3d6a4bb0c1a",
-      "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zWmNXRjI5QldYOHlFdmxwVFY3UHN6WC02c3lpM2l4aEdPODNtdGxLX1prQ1NqYllzMThzUDRodW9Uc3ktcjJiWE5URmdOckpsMDNkbTdMQTE1VDRMQ2QtSTRWYlF3SVk?oc=5",
-      "summary": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] 朝日新聞",
-      "category": "行政・市政",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-11-10T21:15:00+00:00",
-      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
-    },
-    {
       "id": "099be5f8db03e1783155",
       "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める (朝日新聞) - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVBseGVCQkpZTWpiZVBOSXEwQVhNaFRicUM2TEtxb3FGZFNWcTVwaWNGV1l4LWpnLU53bDUyWjNFTC1Kby01NE5KNXZxWDZSS0l1emxmVlo2ZFI5aXpkb2JtMmZqQmk4Sl9UQlN5d2VBTVFhck83MEo3blJFbDY2NThXWXJlMF9QT1E5Z2l3?oc=5",
@@ -670,6 +682,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-10T21:15:00+00:00",
       "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
+    },
+    {
+      "id": "1cd4e161c3d6a4bb0c1a",
+      "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zWmNXRjI5QldYOHlFdmxwVFY3UHN6WC02c3lpM2l4aEdPODNtdGxLX1prQ1NqYllzMThzUDRodW9Uc3ktcjJiWE5URmdOckpsMDNkbTdMQTE1VDRMQ2QtSTRWYlF3SVk?oc=5",
+      "summary": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] 朝日新聞",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T21:15:00+00:00",
+      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
     },
     {
       "id": "f240b7d7b8c1b09f5aaa",
@@ -828,6 +852,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-10T06:15:03+00:00",
       "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
+    },
+    {
+      "id": "a160136cfa0c18250eb9",
+      "title": "GX戦略地域、2カ所認定 つくば市「DC集積型」 環境配慮、地域共生に重点 説明会も (茨城新聞クロスアイ) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOckJ0OC03aWxpT01CeXJrdUthb2swRHdpblNMd2RmSFJ5X1JhN3NHNkVmRjd4WUJRWGJ0ZkF5MjZIOFoyY1FHMFg1Y3BiQjlZZm5SRkRrUVh2eXJYdk1MNFhVVGRxMVpYalkycjNXVDBEaEZ6cm5EaWJ5QWRlRjlKb2l4RXM0VUNsN2VHcHN3?oc=5",
+      "summary": "GX戦略地域、2カ所認定 つくば市「DC集積型」 環境配慮、地域共生に重点 説明会も (茨城新聞クロスアイ) Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T02:50:08+00:00",
+      "firstSeenAt": "2026-11-15T21:49:49.811546+00:00"
     },
     {
       "id": "6ec12aad8a0bc779e4f0",
