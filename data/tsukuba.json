@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T21:47:47.616122+00:00",
-  "articleCount": 405,
+  "updatedAt": "2026-11-15T04:02:18.550946+00:00",
+  "articleCount": 407,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 51
+      "count": 41
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -31,7 +31,7 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 3
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
@@ -45,6 +45,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "0df238890bfb899de65e",
+      "title": "茨城県「JAXA 筑波宇宙センター」へ行ってきた！ - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFQTU0TV8xS1VqUGFhOU9sa0hxNUcydW92VzFUY3doNVRSWnZ0TkQ4d3F4VlVFeE5HX1ZmcDBaVW9xbm9keE85Tl9LWFlKVXpGZ0FpRTIwYmdNMEttLURYZWFueWVIWlRyaGEyMndjYmhjdHIzZlZZRGJUMA?oc=5",
+      "summary": "茨城県「JAXA 筑波宇宙センター」へ行ってきた！ ニコニコニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ニコニコニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-15T02:00:02+00:00",
+      "firstSeenAt": "2026-11-15T04:02:18.550946+00:00"
+    },
     {
       "id": "61e702e018d1404b8270",
       "title": "茨城：県議選２６ 注目区ルポ つくば市選挙区（定数５） 星田氏票狙う９氏激突 ：地域ニュース - 読売新聞",
@@ -290,6 +302,20 @@
       "sourceType": "news",
       "publishedAt": "2026-11-12T09:29:12+00:00",
       "firstSeenAt": "2026-11-12T10:14:50.397725+00:00"
+    },
+    {
+      "id": "c1f213577ff949f1b6c9",
+      "title": "三郷中央駅・八潮駅から筑波山へ！つくばエクスプレスが10/26（月）〜12/4（金）の平日に「筑波山平日限定キャンペーン」、温泉の日帰り入浴が一律800円 - 三郷ぐらし",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5V1BFMGJXRllvc0k0MFNjZEV4SjJTRUc1WWctVG1SY3lLMDktb0RLdXJBMzNNVXd3cjJaQU1sNzgxZ0RyODNTN0ZWelItVThrOFNZag?oc=5",
+      "summary": "三郷中央駅・八潮駅から筑波山へ！つくばエクスプレスが10/26（月）〜12/4（金）の平日に「筑波山平日限定キャンペーン」、温泉の日帰り入浴が一律800円 三郷ぐらし",
+      "category": "交通・生活",
+      "areas": [
+        "筑波山"
+      ],
+      "source": "三郷ぐらし",
+      "sourceType": "news",
+      "publishedAt": "2026-11-12T09:24:33+00:00",
+      "firstSeenAt": "2026-11-15T04:02:18.550946+00:00"
     },
     {
       "id": "b34fc29afc0aff7c1b4d",
@@ -586,18 +612,6 @@
       "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
     },
     {
-      "id": "1cd4e161c3d6a4bb0c1a",
-      "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zWmNXRjI5QldYOHlFdmxwVFY3UHN6WC02c3lpM2l4aEdPODNtdGxLX1prQ1NqYllzMThzUDRodW9Uc3ktcjJiWE5URmdOckpsMDNkbTdMQTE1VDRMQ2QtSTRWYlF3SVk?oc=5",
-      "summary": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] 朝日新聞",
-      "category": "行政・市政",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-11-10T21:15:00+00:00",
-      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
-    },
-    {
       "id": "099be5f8db03e1783155",
       "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める (朝日新聞) - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVBseGVCQkpZTWpiZVBOSXEwQVhNaFRicUM2TEtxb3FGZFNWcTVwaWNGV1l4LWpnLU53bDUyWjNFTC1Kby01NE5KNXZxWDZSS0l1emxmVlo2ZFI5aXpkb2JtMmZqQmk4Sl9UQlN5d2VBTVFhck83MEo3blJFbDY2NThXWXJlMF9QT1E5Z2l3?oc=5",
@@ -620,6 +634,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-10T21:15:00+00:00",
       "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
+    },
+    {
+      "id": "1cd4e161c3d6a4bb0c1a",
+      "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zWmNXRjI5QldYOHlFdmxwVFY3UHN6WC02c3lpM2l4aEdPODNtdGxLX1prQ1NqYllzMThzUDRodW9Uc3ktcjJiWE5URmdOckpsMDNkbTdMQTE1VDRMQ2QtSTRWYlF3SVk?oc=5",
+      "summary": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] 朝日新聞",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-10T21:15:00+00:00",
+      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
     },
     {
       "id": "f240b7d7b8c1b09f5aaa",
