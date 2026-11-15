@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T04:02:18.550946+00:00",
-  "articleCount": 407,
+  "updatedAt": "2026-11-15T09:56:56.009101+00:00",
+  "articleCount": 408,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 41
+      "count": 34
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -45,6 +45,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "d5eafd740a6685fed3e0",
+      "title": "「つくばボードゲームフェア2026」が11月28日につくば市 T.S.BUILで開催！筆談・手話のサポート付きボードゲーム体験やミニトークなどを展開 - Gamer",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRZk10aTZUWlpVQ1lYcU9HZjlxTkttaWJERlZKWXF5d0FZcFBhZHRuZlNLa0U1b2FNcV9zeUxQVzNteHRmZzk5ek9EcUctX3FzYy12aQ?oc=5",
+      "summary": "「つくばボードゲームフェア2026」が11月28日につくば市 T.S.BUILで開催！筆談・手話のサポート付きボードゲーム体験やミニトークなどを展開 Gamer",
+      "category": "イベント",
+      "areas": [],
+      "source": "Gamer",
+      "sourceType": "news",
+      "publishedAt": "2026-11-15T09:00:00+00:00",
+      "firstSeenAt": "2026-11-15T09:56:56.009101+00:00"
+    },
     {
       "id": "0df238890bfb899de65e",
       "title": "茨城県「JAXA 筑波宇宙センター」へ行ってきた！ - ニコニコニュース",
@@ -3830,10 +3842,10 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "fe883255b3c67dc5d17e",
-      "title": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題（共同通信） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11WFo0VFQ1Mk56QUhuZ1NLMU5jMWNZbVp4dFVac3ZVVk91Wk9UUU13cVNsZUQyeUg5Nm9pOXVjZVJQQnZ0RmNmSzY1T3ljZjY1aTgwb1FnQnNXUElaSWhZblVxdFp1ZTlFdmZGVmM2UWZINDlVTGdrS2ptclFHS0U?oc=5",
-      "summary": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題（共同通信） Yahoo!ニュース",
+      "id": "1efb7600ab1716cfeb79",
+      "title": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題 (共同通信) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHAySDZDM0VpMlB2SVBtdlczemRIS01iTHBqSHI2M0hjWE0zS0RmdldZVWQyZHpzVFlfc2RjZGFUQVpJZUF4UWsxN3Npb0RPUkIxSWRtekFtbWp1Z3puTTRIdEpOeTIzZUVBd2NrSUpmdUR3QzRpakY0QTRVdkVVOHdSejBoWjRsdHBVaVlB?oc=5",
+      "summary": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題 (共同通信) Yahoo!ニュース",
       "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
@@ -3842,10 +3854,10 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "1efb7600ab1716cfeb79",
-      "title": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題 (共同通信) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHAySDZDM0VpMlB2SVBtdlczemRIS01iTHBqSHI2M0hjWE0zS0RmdldZVWQyZHpzVFlfc2RjZGFUQVpJZUF4UWsxN3Npb0RPUkIxSWRtekFtbWp1Z3puTTRIdEpOeTIzZUVBd2NrSUpmdUR3QzRpakY0QTRVdkVVOHdSejBoWjRsdHBVaVlB?oc=5",
-      "summary": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題 (共同通信) Yahoo!ニュース",
+      "id": "fe883255b3c67dc5d17e",
+      "title": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11WFo0VFQ1Mk56QUhuZ1NLMU5jMWNZbVp4dFVac3ZVVk91Wk9UUU13cVNsZUQyeUg5Nm9pOXVjZVJQQnZ0RmNmSzY1T3ljZjY1aTgwb1FnQnNXUElaSWhZblVxdFp1ZTlFdmZGVmM2UWZINDlVTGdrS2ptclFHS0U?oc=5",
+      "summary": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題（共同通信） Yahoo!ニュース",
       "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
