@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T04:36:19.767298+00:00",
-  "articleCount": 415,
+  "updatedAt": "2026-11-16T10:46:06.791208+00:00",
+  "articleCount": 418,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,17 +11,17 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 34
+      "count": 39
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 1
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -45,6 +45,54 @@
     }
   ],
   "articles": [
+    {
+      "id": "1ed9cb9b69a287e55697",
+      "title": "持久走大会に向けてプロの指導 イオンモールつくばで無料マラソン教室 | イベント | ニュース一覧 - LuckyFM茨城放送",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53TktXcW1ib0VyUi1Sd0RMWTBMbEowWmZFR3dmaU9kNFNrRk9jajFZVFItVzNYYThVYkN1Y20wU0ctVkFlX0wxcm40Z2hoTkRvSGF0bnln?oc=5",
+      "summary": "持久走大会に向けてプロの指導 イオンモールつくばで無料マラソン教室 | イベント | ニュース一覧 LuckyFM茨城放送",
+      "category": "イベント",
+      "areas": [],
+      "source": "LuckyFM茨城放送",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T08:34:43+00:00",
+      "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
+    },
+    {
+      "id": "001810e41469c3b6163b",
+      "title": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vTnhsOU1lbEtSNGd4Nnk3RE5pWk91a2hsbFc1a2NIblRuMUhKZEpwdmRqaVB2dGsxQzZDQ2FySi1lRHFEZ09DWFJoN3h5MXZJSlVQZVZveFB0eDF1ejhrMDhR?oc=5",
+      "summary": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 Infoseek",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Infoseek",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T08:15:00+00:00",
+      "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
+    },
+    {
+      "id": "67b3d51f48bc2300ae53",
+      "title": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LSVBjZkNUeHlDanVKWFoyb2Z5RFFvczhfdzlVMkFfczFCWVlBbmY1Y3hfdUdsSWFfSUVQZmx5UFNudUF5TkhueVdycWRYTE9FZjJtcS1rb010UGlhQ2l3?oc=5",
+      "summary": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 ライブドアニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ライブドアニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T08:15:00+00:00",
+      "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
+    },
+    {
+      "id": "871ca474ad69d89a3e44",
+      "title": "つくば市データセンター計画 住民団体が双方向の説明会要求 | 社会 | ニュース一覧 - LuckyFM茨城放送",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XMzI2VEtvZV80TUxXUVE3NTNvUUx5ODJXUnhCUFN2LUZCLTBCNHhpYTZVOHVYNDlIOHlFeW5Nc0tNbVVKS1BOY2FEVldzT3J0dmE4VWhn?oc=5",
+      "summary": "つくば市データセンター計画 住民団体が双方向の説明会要求 | 社会 | ニュース一覧 LuckyFM茨城放送",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "LuckyFM茨城放送",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T04:54:51+00:00",
+      "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
+    },
     {
       "id": "18d532e9a1e48312af68",
       "title": "【つくば市】気になる…！上ノ室に古民家カフェがオープンしたみたいです。 - 号外NET つくば市",
@@ -5118,20 +5166,6 @@
       "sourceType": "news",
       "publishedAt": "2026-08-20T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "aec6d59951a1f80852dd",
-      "title": "【つくば市】研究学園駅前の新たなランドマーク！2026年秋にオープンする「つくば寿横丁」が気になる - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mS2hCcmg0d0pkdk9RSlgxQkE2N1kzcENWYkNFR1dwRnl0bER0Y0g1b1p4WFhDdWQ4b0hvQjlQZ0xrbjI3SU1rcEJPcDh4QnJtU0hDNDJzSWNibFlPa2FUNkZtS01XTWFzVG1rWlAzclJ1Zw?oc=5",
-      "summary": "【つくば市】研究学園駅前の新たなランドマーク！2026年秋にオープンする「つくば寿横丁」が気になる 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [
-        "研究学園"
-      ],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-08-18T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
     }
   ]
 }
