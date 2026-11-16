@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T16:48:20.186081+00:00",
-  "articleCount": 423,
+  "updatedAt": "2026-11-16T21:58:04.527375+00:00",
+  "articleCount": 424,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,22 +11,24 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 42
+      "count": 39
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
-      "ok": true,
-      "count": 2
+      "ok": false,
+      "count": 0,
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%2"
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
-      "ok": true,
-      "count": 1
+      "ok": false,
+      "count": 0,
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%2"
     },
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
@@ -40,22 +42,23 @@
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "count": 0,
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%2"
     }
   ],
   "articles": [
     {
-      "id": "c9cf3011bed0b9b4ed85",
-      "title": "つくば市にクレーンゲーム専門店「とってクレーン！」がオープン。食品や日用品をクレーンゲームでゲットしよう！ - STRAIGHT PRESS",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TaGxHSGJsM0JRNjZ0RHZMZ1B1WFd0R1NwU0lVLWVsY3JiNS1WUF82RVphZ2h4elBJZHRIUUs0OHhfVW92U05ud0pwaE5OWXFhaUhF?oc=5",
-      "summary": "つくば市にクレーンゲーム専門店「とってクレーン！」がオープン。食品や日用品をクレーンゲームでゲットしよう！ STRAIGHT PRESS",
-      "category": "店舗・グルメ",
+      "id": "5987efd42238f98fe2ee",
+      "title": "茨城：つくば万博バス牛久市が再現 ２１日にツアー：地域ニュース - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aSVJ0MlY2aFN6NXp2Y1hOQUZXbmNxWno4X1R4WkhRNGJMVFFWMktPZVduMU9YLTZvNmNvZU5zZkgyWXVqWGc1NThMTnVUc1RCOGdzdW04Qnc5SnZDY0tvYUNCbnFfaHZGRWtHb1dvTVdEbGs?oc=5",
+      "summary": "茨城：つくば万博バス牛久市が再現 ２１日にツアー：地域ニュース 読売新聞",
+      "category": "交通・生活",
       "areas": [],
-      "source": "STRAIGHT PRESS",
+      "source": "読売新聞",
       "sourceType": "news",
-      "publishedAt": "2026-11-16T13:41:15+00:00",
-      "firstSeenAt": "2026-11-16T16:48:20.186081+00:00"
+      "publishedAt": "2026-11-16T20:00:00+00:00",
+      "firstSeenAt": "2026-11-16T21:58:04.527375+00:00"
     },
     {
       "id": "1659a9ebd2844ee2aaa7",
@@ -68,7 +71,19 @@
       ],
       "source": "選挙ドットコム",
       "sourceType": "news",
-      "publishedAt": "2026-11-16T13:32:54+00:00",
+      "publishedAt": "2026-11-16T14:07:17+00:00",
+      "firstSeenAt": "2026-11-16T16:48:20.186081+00:00"
+    },
+    {
+      "id": "c9cf3011bed0b9b4ed85",
+      "title": "つくば市にクレーンゲーム専門店「とってクレーン！」がオープン。食品や日用品をクレーンゲームでゲットしよう！ - STRAIGHT PRESS",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TaGxHSGJsM0JRNjZ0RHZMZ1B1WFd0R1NwU0lVLWVsY3JiNS1WUF82RVphZ2h4elBJZHRIUUs0OHhfVW92U05ud0pwaE5OWXFhaUhF?oc=5",
+      "summary": "つくば市にクレーンゲーム専門店「とってクレーン！」がオープン。食品や日用品をクレーンゲームでゲットしよう！ STRAIGHT PRESS",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "STRAIGHT PRESS",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T13:41:15+00:00",
       "firstSeenAt": "2026-11-16T16:48:20.186081+00:00"
     },
     {
