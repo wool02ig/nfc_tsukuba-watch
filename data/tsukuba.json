@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T10:46:06.791208+00:00",
-  "articleCount": 418,
+  "updatedAt": "2026-11-16T16:48:20.186081+00:00",
+  "articleCount": 423,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 39
+      "count": 42
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -46,6 +46,44 @@
   ],
   "articles": [
     {
+      "id": "c9cf3011bed0b9b4ed85",
+      "title": "つくば市にクレーンゲーム専門店「とってクレーン！」がオープン。食品や日用品をクレーンゲームでゲットしよう！ - STRAIGHT PRESS",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TaGxHSGJsM0JRNjZ0RHZMZ1B1WFd0R1NwU0lVLWVsY3JiNS1WUF82RVphZ2h4elBJZHRIUUs0OHhfVW92U05ud0pwaE5OWXFhaUhF?oc=5",
+      "summary": "つくば市にクレーンゲーム専門店「とってクレーン！」がオープン。食品や日用品をクレーンゲームでゲットしよう！ STRAIGHT PRESS",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "STRAIGHT PRESS",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T13:41:15+00:00",
+      "firstSeenAt": "2026-11-16T16:48:20.186081+00:00"
+    },
+    {
+      "id": "1659a9ebd2844ee2aaa7",
+      "title": "今日は筑波山の麓を回りました😆気持ちのいい天気☀️ - 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9STzV0UWNubktoUkZxMWgwQWZxLXdyWEdjSDVqX2ducVVzQmVVaFI3ZzVWVFlKQWMwWndGR2k2cjk1NlR6TE15TFVPTnlER2tpTTVVTFRSc2pIbkJZbnBN?oc=5",
+      "summary": "今日は筑波山の麓を回りました😆気持ちのいい天気☀️ 選挙ドットコム",
+      "category": "地域ニュース",
+      "areas": [
+        "筑波山"
+      ],
+      "source": "選挙ドットコム",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T13:32:54+00:00",
+      "firstSeenAt": "2026-11-16T16:48:20.186081+00:00"
+    },
+    {
+      "id": "84a0ee6a59faade3a0af",
+      "title": "つくば市にクレーンゲーム専門店「とってクレーン！」がオープン。食品や日用品をクレーンゲームでゲットしよう！ - ガジェット通信",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wRFp1LVY0Y3ZVS0hDb3h1VXF0WmMwaUZuaW03dVJKbndrckpLSm1OUXNDRWd5aWx6dnc0dWQ2SnNEMUhMWmc1dUZBTQ?oc=5",
+      "summary": "つくば市にクレーンゲーム専門店「とってクレーン！」がオープン。食品や日用品をクレーンゲームでゲットしよう！ ガジェット通信",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "ガジェット通信",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T12:45:00+00:00",
+      "firstSeenAt": "2026-11-16T16:48:20.186081+00:00"
+    },
+    {
       "id": "1ed9cb9b69a287e55697",
       "title": "持久走大会に向けてプロの指導 イオンモールつくばで無料マラソン教室 | イベント | ニュース一覧 - LuckyFM茨城放送",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53TktXcW1ib0VyUi1Sd0RMWTBMbEowWmZFR3dmaU9kNFNrRk9jajFZVFItVzNYYThVYkN1Y20wU0ctVkFlX0wxcm40Z2hoTkRvSGF0bnln?oc=5",
@@ -55,6 +93,30 @@
       "source": "LuckyFM茨城放送",
       "sourceType": "news",
       "publishedAt": "2026-11-16T08:34:43+00:00",
+      "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
+    },
+    {
+      "id": "4f1b16e994343f7b5334",
+      "title": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXI4ZlZQcGYtUEZLdC13cmg4a014eXl6Z2NMb2pwWGtHWXI0eE8yRmtLNzd4THVseFZZNFoxbnZBMDA4U1NWamZSaHExYW12NGM3WnJOR2NIcE8yY1VlN2NMZm56YUJPeUdYOVAwM0k5RkpWdXBKbzh0eU1QY1p4SE45cWjSAYoBQVVfeXFMTzQxaE5vSERueHFieWxhRWJhVVFYUnNpM0VTSl9UeDF3ZWNVb1oxbWxPbTBpTUhvZEQ3RzlBUzA5TVh4ZHhBaFlzVlFyVXVFM044LTZqSWpJMmhxTTcza2ZEcEdEQV9pejhFRXZOQ2xPMUd1clhCd3dadElpVVg5SjR6bW96YWVnVDdB?oc=5",
+      "summary": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 ｄメニューニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ｄメニューニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T08:15:00+00:00",
+      "firstSeenAt": "2026-11-16T16:48:20.186081+00:00"
+    },
+    {
+      "id": "67b3d51f48bc2300ae53",
+      "title": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LSVBjZkNUeHlDanVKWFoyb2Z5RFFvczhfdzlVMkFfczFCWVlBbmY1Y3hfdUdsSWFfSUVQZmx5UFNudUF5TkhueVdycWRYTE9FZjJtcS1rb010UGlhQ2l3?oc=5",
+      "summary": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 ライブドアニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ライブドアニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T08:15:00+00:00",
       "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
     },
     {
@@ -70,18 +132,6 @@
       "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
     },
     {
-      "id": "67b3d51f48bc2300ae53",
-      "title": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LSVBjZkNUeHlDanVKWFoyb2Z5RFFvczhfdzlVMkFfczFCWVlBbmY1Y3hfdUdsSWFfSUVQZmx5UFNudUF5TkhueVdycWRYTE9FZjJtcS1rb010UGlhQ2l3?oc=5",
-      "summary": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 ライブドアニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "ライブドアニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-16T08:15:00+00:00",
-      "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
-    },
-    {
       "id": "871ca474ad69d89a3e44",
       "title": "つくば市データセンター計画 住民団体が双方向の説明会要求 | 社会 | ニュース一覧 - LuckyFM茨城放送",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XMzI2VEtvZV80TUxXUVE3NTNvUUx5ODJXUnhCUFN2LUZCLTBCNHhpYTZVOHVYNDlIOHlFeW5Nc0tNbVVKS1BOY2FEVldzT3J0dmE4VWhn?oc=5",
@@ -90,7 +140,7 @@
       "areas": [],
       "source": "LuckyFM茨城放送",
       "sourceType": "news",
-      "publishedAt": "2026-11-16T04:54:51+00:00",
+      "publishedAt": "2026-11-16T05:00:44+00:00",
       "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
     },
     {
@@ -422,6 +472,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-12T10:47:01+00:00",
       "firstSeenAt": "2026-11-12T16:14:32.601650+00:00"
+    },
+    {
+      "id": "af055b70d57577328739",
+      "title": "株式会社ジョイパック、新規事業となるクレーンゲーム専門店「とってクレーン！」1号店を茨城県つくば市にオープン - 福島民友新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QSFlWODdCNW9fUlMtZGozMEYweXJ1SGVvSDNqQ21uWlBnaXBnR19vZk5LeDAzM3B3UWdXcVBvYk1QZjkydnNaNGtvUDczNW9JQ3htMUQ5bnRldDdadFZNVHJaUGc?oc=5",
+      "summary": "株式会社ジョイパック、新規事業となるクレーンゲーム専門店「とってクレーン！」1号店を茨城県つくば市にオープン 福島民友新聞社",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "福島民友新聞社",
+      "sourceType": "news",
+      "publishedAt": "2026-11-12T10:09:11+00:00",
+      "firstSeenAt": "2026-11-16T16:48:20.186081+00:00"
     },
     {
       "id": "62433c713b1a1bd7d627",
