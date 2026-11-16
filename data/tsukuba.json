@@ -1,27 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T21:49:49.811546+00:00",
-  "articleCount": 412,
+  "updatedAt": "2026-11-16T04:36:19.767298+00:00",
+  "articleCount": 415,
   "sources": [
     {
       "source": "つくば市公式",
       "ok": true,
-      "count": 14
+      "count": 15
     },
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 39
+      "count": 34
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 8
+      "count": 9
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 2
+      "count": 1
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -31,12 +31,12 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 2
+      "count": 3
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 1
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -45,6 +45,30 @@
     }
   ],
   "articles": [
+    {
+      "id": "18d532e9a1e48312af68",
+      "title": "【つくば市】気になる…！上ノ室に古民家カフェがオープンしたみたいです。 - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlcnEtVTJEWGh0Vlg0d1ZrdFo5dEtVaVBZd3hiaFQ5WmFIczVNemo3Z3dKdC13V0VIampMWFB0WUlyNE5HYldJYlFEX2RQRkNsMkJaTjNNbw?oc=5",
+      "summary": "【つくば市】気になる…！上ノ室に古民家カフェがオープンしたみたいです。 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-15T22:38:21+00:00",
+      "firstSeenAt": "2026-11-16T04:36:19.767298+00:00"
+    },
+    {
+      "id": "bb6f3e8e55d1d06f7bfe",
+      "title": "とんきゅう、カフェ参入 若年層向け「雪ノ下珈琲」 つくば出店 看板商品「豚かつサンド」 - きたかんナビ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QMVV0ODNHdl93ZjI1MWNQd0xmVW1MX1h1U183QW5CRXBhZ2lERWh5djRiUVJEdzFxQzFHeXVZRFkwZV9FNHRlbXd3OFdLZFIy?oc=5",
+      "summary": "とんきゅう、カフェ参入 若年層向け「雪ノ下珈琲」 つくば出店 看板商品「豚かつサンド」 きたかんナビ",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "きたかんナビ",
+      "sourceType": "news",
+      "publishedAt": "2026-11-15T22:32:34+00:00",
+      "firstSeenAt": "2026-11-16T04:36:19.767298+00:00"
+    },
     {
       "id": "bccf5d8b107db5a4b38c",
       "title": "【石岡市】駐車場の一角にラーメン屋台が登場！つくばに本店を構える「麺処明り石岡屋台店」が10/30から営業を開始しました - 地域ニュースサイト号外NET",
@@ -68,6 +92,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-15T20:41:52+00:00",
       "firstSeenAt": "2026-11-15T21:49:49.811546+00:00"
+    },
+    {
+      "id": "e8bc58d9e42d875d5229",
+      "title": "市民窓口課会計年度任用職員募集（令和9年1月1日採用）",
+      "url": "https://www.city.tsukuba.lg.jp/soshikikarasagasu/shimimbushimimmadoguchika/gyomuannai/8/1/1019192.html",
+      "summary": "",
+      "category": "イベント",
+      "areas": [],
+      "source": "つくば市公式",
+      "sourceType": "official",
+      "publishedAt": "2026-11-15T15:00:00+00:00",
+      "firstSeenAt": "2026-11-16T04:36:19.767298+00:00"
     },
     {
       "id": "d5eafd740a6685fed3e0",
