@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T04:05:41.790078+00:00",
-  "articleCount": 427,
+  "updatedAt": "2026-11-17T10:18:53.754249+00:00",
+  "articleCount": 429,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 35
+      "count": 39
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 10
+      "count": 8
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -25,9 +25,8 @@
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
-      "ok": false,
-      "count": 0,
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%2"
+      "ok": true,
+      "count": 1
     },
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
@@ -37,7 +36,7 @@
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 2
+      "count": 1
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -47,16 +46,28 @@
   ],
   "articles": [
     {
-      "id": "d94e6629547d3eba78cd",
-      "title": "【猫のロードキル】つくば 11年間で4348匹が犠牲に 交通事故だけじゃない屋外飼育の危険性とは？ #エキスパートトピ - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOEczZlFBUkpwTXhRS05FUnR5Q0RSMEpkRFJwemJ6YlljRVZwMmRfOFc3MElFM3E5ZHRLR0N1ZHpLMEF2MVlJMnFoZ1FtS3pXRWR4SG83eW90cmpOa0NoQjZ4OXFQaThnV0ZKWV9fQm5SNFM3WVNyc0o0bVhoWUZLeTltTlVydzRI?oc=5",
-      "summary": "【猫のロードキル】つくば 11年間で4348匹が犠牲に 交通事故だけじゃない屋外飼育の危険性とは？ #エキスパートトピ Yahoo!ニュース",
+      "id": "049609c71ec4ebe9e35d",
+      "title": "つくば市「LEBER」でメールアドレス計1万6,570件が漏えい 学校の健康観察・休日夜間の医療相談に影響、アララへの不正アクセスが波及|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdXppbmw2YU1wYWYxYkJ6c0FmU203dFFOZXBSUEJGT2ljNk5ZdUJoTmRxbkhKVzFudlB0Y0F5MVNWY3RPd0lDalZKQ1RiZVVleDJsMC1OWERsRkx6YlVLNVlIMW9hYkM2REpzcHJqWDJRWVRrajZIelpubUo2c1JvTzhZdFN4am91NGVwenR6bEJPbmVoaTFUSWFWWlo2R3FxZW1fT2VZUnA?oc=5",
+      "summary": "つくば市「LEBER」でメールアドレス計1万6,570件が漏えい 学校の健康観察・休日夜間の医療相談に影響、アララへの不正アクセスが波及|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
       "category": "地域ニュース",
       "areas": [],
-      "source": "Yahoo!ニュース",
+      "source": "合同会社ロケットボーイズ",
       "sourceType": "news",
-      "publishedAt": "2026-11-16T23:09:14+00:00",
-      "firstSeenAt": "2026-11-17T04:05:41.790078+00:00"
+      "publishedAt": "2026-11-17T10:00:23+00:00",
+      "firstSeenAt": "2026-11-17T10:18:53.754249+00:00"
+    },
+    {
+      "id": "87e64e8a588f7890cd87",
+      "title": "保護者らのメルアド1万6570件が漏えい つくば市のアプリ利用者 不正アクセス受け - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xNkU3LUJYUHBuYU5RZjdTMmxVZjdZRnpFVU9RN0Vjc0UxVldjdzI1TUN6ckN5REVOMWZsaDdESVVvRGUxTFNMNW85SQ?oc=5",
+      "summary": "保護者らのメルアド1万6570件が漏えい つくば市のアプリ利用者 不正アクセス受け NEWSつくば",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-17T07:46:10+00:00",
+      "firstSeenAt": "2026-11-17T10:18:53.754249+00:00"
     },
     {
       "id": "0850a42d715ec8dfba2d",
@@ -67,7 +78,19 @@
       "areas": [],
       "source": "地域ニュースサイト号外NET",
       "sourceType": "news",
-      "publishedAt": "2026-11-16T22:38:40+00:00",
+      "publishedAt": "2026-11-17T04:41:18+00:00",
+      "firstSeenAt": "2026-11-17T04:05:41.790078+00:00"
+    },
+    {
+      "id": "d94e6629547d3eba78cd",
+      "title": "【猫のロードキル】つくば 11年間で4348匹が犠牲に 交通事故だけじゃない屋外飼育の危険性とは？ #エキスパートトピ - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOEczZlFBUkpwTXhRS05FUnR5Q0RSMEpkRFJwemJ6YlljRVZwMmRfOFc3MElFM3E5ZHRLR0N1ZHpLMEF2MVlJMnFoZ1FtS3pXRWR4SG83eW90cmpOa0NoQjZ4OXFQaThnV0ZKWV9fQm5SNFM3WVNyc0o0bVhoWUZLeTltTlVydzRI?oc=5",
+      "summary": "【猫のロードキル】つくば 11年間で4348匹が犠牲に 交通事故だけじゃない屋外飼育の危険性とは？ #エキスパートトピ Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T23:09:14+00:00",
       "firstSeenAt": "2026-11-17T04:05:41.790078+00:00"
     },
     {
@@ -1494,12 +1517,12 @@
     },
     {
       "id": "d59f94c1e92ac9c23237",
-      "title": "【つくば市】どんなお店ができたの？気になる新店情報2軒をお伝えします！ - 号外NET つくば市",
+      "title": "【つくば市】どんなお店ができたの？気になる新店情報2軒をお伝えします！ - 地域ニュースサイト号外NET",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lMnU0VVhqNnZDcEZ2ckYyblBGQllCck1lbkRoR21qRjlhbHNzU0xKNGl0anpRMDBNT3dSWGRadTJyRWxYY1k2d00xMzhYZDJvdDk5dnY0YVptWUV6Z2dLTA?oc=5",
-      "summary": "【つくば市】どんなお店ができたの？気になる新店情報2軒をお伝えします！ 号外NET つくば市",
+      "summary": "【つくば市】どんなお店ができたの？気になる新店情報2軒をお伝えします！ 地域ニュースサイト号外NET",
       "category": "店舗・グルメ",
       "areas": [],
-      "source": "号外NET つくば市",
+      "source": "地域ニュースサイト号外NET",
       "sourceType": "news",
       "publishedAt": "2026-11-06T08:00:00+00:00",
       "firstSeenAt": "2026-11-06T04:02:32.022857+00:00"
@@ -3940,12 +3963,12 @@
     },
     {
       "id": "0fb25950e0d339bf5312",
-      "title": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ - 号外NET つくば市",
+      "title": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ - 地域ニュースサイト号外NET",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRXpOVjBMb1puUVJjZnlWLURhek5lY0JFWmNNRTl6OTVxaXdZMHNwR2t0Mm1CTFd0UC1tWldQNXlzT0ZVZG1uV25NbWNQYlRMUHVlaGFpUHZNcXlROVg5WA?oc=5",
-      "summary": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ 号外NET つくば市",
+      "summary": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ 地域ニュースサイト号外NET",
       "category": "店舗・グルメ",
       "areas": [],
-      "source": "号外NET つくば市",
+      "source": "地域ニュースサイト号外NET",
       "sourceType": "news",
       "publishedAt": "2026-10-20T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
@@ -5120,14 +5143,14 @@
     },
     {
       "id": "a29855c58e7a449c9806",
-      "title": "【つくば市】バーキン派の皆様に朗報です♪バーガーキングがそよらつくば学園の森店にオープンするみたい！ - 号外NET つくば市",
+      "title": "【つくば市】バーキン派の皆様に朗報です♪バーガーキングがそよらつくば学園の森店にオープンするみたい！ - 地域ニュースサイト号外NET",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GYUNxcDdIUzRpQ0pydmRrWGtQalIxcEZTNGNHR2dnc1VGckZQbTI0NTYxQzRuQ0t0aXJuM0J6bm9tOURfNGV5MmoyNnpSY0hCdjNaWDhuMjJmaVViLWwtSUNBOFA0MzZWRjlncGF2ZTQ?oc=5",
-      "summary": "【つくば市】バーキン派の皆様に朗報です♪バーガーキングがそよらつくば学園の森店にオープンするみたい！ 号外NET つくば市",
+      "summary": "【つくば市】バーキン派の皆様に朗報です♪バーガーキングがそよらつくば学園の森店にオープンするみたい！ 地域ニュースサイト号外NET",
       "category": "店舗・グルメ",
       "areas": [
         "研究学園"
       ],
-      "source": "号外NET つくば市",
+      "source": "地域ニュースサイト号外NET",
       "sourceType": "news",
       "publishedAt": "2026-09-02T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
