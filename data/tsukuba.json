@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T16:07:20.063266+00:00",
-  "articleCount": 431,
+  "updatedAt": "2026-11-17T22:02:31.780541+00:00",
+  "articleCount": 433,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,17 +11,17 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 41
+      "count": 39
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 10
+      "count": 7
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 2
+      "count": 3
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -45,6 +45,30 @@
     }
   ],
   "articles": [
+    {
+      "id": "9d8f0d79f88738a84e72",
+      "title": "絶滅危惧オウム譲渡疑い つくばの会社役員逮捕（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuX3hzbTJFbW4yREpzQ0k3c0s1SGY4ZGloUEZRdnlWd2ZuZUZBTWRKVG1QT0NsTzYtN1VmWUp2R241VGR6bU9jQWp6UXkyTjJUUkpfUGw5QTFheUQ1Zkd5c2VEVmIyN04tLXNMWlZaYkVUalFlcmR2Rkc1V0hpV1U?oc=5",
+      "summary": "絶滅危惧オウム譲渡疑い つくばの会社役員逮捕（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-17T21:16:24+00:00",
+      "firstSeenAt": "2026-11-17T22:02:31.780541+00:00"
+    },
+    {
+      "id": "efae152f0dd34a117c47",
+      "title": "【つくば市】11/18 最高22℃、最低9℃、朝は雨の可能性があり昼間は晴れる予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkTk1zbk1MQzVLcFNZR1JiTE9xWDhfYWFCZ25wQ2FHXy1IeFJlUWlvdGxEaVV2M1ZfM01aT2FHeFZ6V1VCNm5pYXhJUTNWTUxBakRNLWVPNy1BQi14R05tQUpNeFNWREE0dFpLV1JzY1ZRdjdYajM0bzBQVDM4Vm8?oc=5",
+      "summary": "【つくば市】11/18 最高22℃、最低9℃、朝は雨の可能性があり昼間は晴れる予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-17T20:43:39+00:00",
+      "firstSeenAt": "2026-11-17T22:02:31.780541+00:00"
+    },
     {
       "id": "8786ba5b41e5c2614e8d",
       "title": "【研究学園駅 車で5分】女性専門パーソナルピラティス COCOLANCE（ココランス）つくば店が２０２６年１２月２０日にオープン - PR TIMES",
@@ -1543,12 +1567,12 @@
     },
     {
       "id": "d59f94c1e92ac9c23237",
-      "title": "【つくば市】どんなお店ができたの？気になる新店情報2軒をお伝えします！ - 地域ニュースサイト号外NET",
+      "title": "【つくば市】どんなお店ができたの？気になる新店情報2軒をお伝えします！ - 号外NET つくば市",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lMnU0VVhqNnZDcEZ2ckYyblBGQllCck1lbkRoR21qRjlhbHNzU0xKNGl0anpRMDBNT3dSWGRadTJyRWxYY1k2d00xMzhYZDJvdDk5dnY0YVptWUV6Z2dLTA?oc=5",
-      "summary": "【つくば市】どんなお店ができたの？気になる新店情報2軒をお伝えします！ 地域ニュースサイト号外NET",
+      "summary": "【つくば市】どんなお店ができたの？気になる新店情報2軒をお伝えします！ 号外NET つくば市",
       "category": "店舗・グルメ",
       "areas": [],
-      "source": "地域ニュースサイト号外NET",
+      "source": "号外NET つくば市",
       "sourceType": "news",
       "publishedAt": "2026-11-06T08:00:00+00:00",
       "firstSeenAt": "2026-11-06T04:02:32.022857+00:00"
@@ -1674,18 +1698,6 @@
       "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
     },
     {
-      "id": "9c1c64ca55bb8e21e9db",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-11-05T08:00:00+00:00",
-      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
-    },
-    {
       "id": "3c4aa2c4430f9f077af2",
       "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
@@ -1693,6 +1705,18 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
+      "id": "9c1c64ca55bb8e21e9db",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
       "sourceType": "news",
       "publishedAt": "2026-11-05T08:00:00+00:00",
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
@@ -4134,10 +4158,10 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "1efb7600ab1716cfeb79",
-      "title": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題 (共同通信) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHAySDZDM0VpMlB2SVBtdlczemRIS01iTHBqSHI2M0hjWE0zS0RmdldZVWQyZHpzVFlfc2RjZGFUQVpJZUF4UWsxN3Npb0RPUkIxSWRtekFtbWp1Z3puTTRIdEpOeTIzZUVBd2NrSUpmdUR3QzRpakY0QTRVdkVVOHdSejBoWjRsdHBVaVlB?oc=5",
-      "summary": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題 (共同通信) Yahoo!ニュース",
+      "id": "fe883255b3c67dc5d17e",
+      "title": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11WFo0VFQ1Mk56QUhuZ1NLMU5jMWNZbVp4dFVac3ZVVk91Wk9UUU13cVNsZUQyeUg5Nm9pOXVjZVJQQnZ0RmNmSzY1T3ljZjY1aTgwb1FnQnNXUElaSWhZblVxdFp1ZTlFdmZGVmM2UWZINDlVTGdrS2ptclFHS0U?oc=5",
+      "summary": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題（共同通信） Yahoo!ニュース",
       "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
@@ -4146,10 +4170,10 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "fe883255b3c67dc5d17e",
-      "title": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題（共同通信） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11WFo0VFQ1Mk56QUhuZ1NLMU5jMWNZbVp4dFVac3ZVVk91Wk9UUU13cVNsZUQyeUg5Nm9pOXVjZVJQQnZ0RmNmSzY1T3ljZjY1aTgwb1FnQnNXUElaSWhZblVxdFp1ZTlFdmZGVmM2UWZINDlVTGdrS2ptclFHS0U?oc=5",
-      "summary": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題（共同通信） Yahoo!ニュース",
+      "id": "1efb7600ab1716cfeb79",
+      "title": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題 (共同通信) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHAySDZDM0VpMlB2SVBtdlczemRIS01iTHBqSHI2M0hjWE0zS0RmdldZVWQyZHpzVFlfc2RjZGFUQVpJZUF4UWsxN3Npb0RPUkIxSWRtekFtbWp1Z3puTTRIdEpOeTIzZUVBd2NrSUpmdUR3QzRpakY0QTRVdkVVOHdSejBoWjRsdHBVaVlB?oc=5",
+      "summary": "動物の交通事故死、ネコが4割 つくば市、飼育管理に課題 (共同通信) Yahoo!ニュース",
       "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
@@ -4808,18 +4832,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "a31583021a154406938b",
-      "title": "【更新】つくばの殺人未遂 容疑で新たに21歳男逮捕 6人目 就寝中の雇用主襲撃か 茨城県警（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3X282MEIwRS1ya0FWLXhOQi1zd1I4ZmJxY1AxNXNBNk90QTFwVFpLVWptbERtSkg1TE1NcVpaRFhBXzJjdWsxSlBJN0ZNOHVBcXA0d01rWTVYTE9lVmZsT1pmQk5hUXRENUQ5TzZOdkRpTkMzRjIzSFFXRFRtWG8?oc=5",
-      "summary": "【更新】つくばの殺人未遂 容疑で新たに21歳男逮捕 6人目 就寝中の雇用主襲撃か 茨城県警（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-25T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "9fb446df4739a7c753b7",
       "title": "ミスターマックスが茨城・つくばに1万4000㎡超の大型施設を開設！【今週の大店立地法速報】 - ダイヤモンド・チェーンストアオンライン",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Kd0JtTU9odG1RdkRsd0FIaVAzQXpLUktTNmNmYlZSZEdYMzdwYUo5RDdoMkljVDNzbnNhdElHZ3RONjYxRG56Sk5aeEI?oc=5",
@@ -4827,6 +4839,18 @@
       "category": "開発・建設",
       "areas": [],
       "source": "ダイヤモンド・チェーンストアオンライン",
+      "sourceType": "news",
+      "publishedAt": "2026-09-25T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "a31583021a154406938b",
+      "title": "【更新】つくばの殺人未遂 容疑で新たに21歳男逮捕 6人目 就寝中の雇用主襲撃か 茨城県警（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3X282MEIwRS1ya0FWLXhOQi1zd1I4ZmJxY1AxNXNBNk90QTFwVFpLVWptbERtSkg1TE1NcVpaRFhBXzJjdWsxSlBJN0ZNOHVBcXA0d01rWTVYTE9lVmZsT1pmQk5hUXRENUQ5TzZOdkRpTkMzRjIzSFFXRFRtWG8?oc=5",
+      "summary": "【更新】つくばの殺人未遂 容疑で新たに21歳男逮捕 6人目 就寝中の雇用主襲撃か 茨城県警（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-09-25T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
