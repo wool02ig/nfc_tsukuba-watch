@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T10:18:53.754249+00:00",
-  "articleCount": 429,
+  "updatedAt": "2026-11-17T16:07:20.063266+00:00",
+  "articleCount": 431,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 39
+      "count": 41
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 8
+      "count": 10
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -31,7 +31,7 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 2
+      "count": 3
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
@@ -45,6 +45,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "8786ba5b41e5c2614e8d",
+      "title": "【研究学園駅 車で5分】女性専門パーソナルピラティス COCOLANCE（ココランス）つくば店が２０２６年１２月２０日にオープン - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5MUhjUHBaU1BicmNzdUVhd00tVW9nX00xeHQ4NWpvN2VxRHRFaUxVNHptVkxLUTB0eWlBRmhIQUJ0R19rbVdQVDRFQjNseFFtZnVYN2k3Ulk3Q1ZiVFV5dElWdjUteE9FYnc?oc=5",
+      "summary": "【研究学園駅 車で5分】女性専門パーソナルピラティス COCOLANCE（ココランス）つくば店が２０２６年１２月２０日にオープン PR TIMES",
+      "category": "店舗・グルメ",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "PR TIMES",
+      "sourceType": "news",
+      "publishedAt": "2026-11-17T10:43:47+00:00",
+      "firstSeenAt": "2026-11-17T16:07:20.063266+00:00"
+    },
     {
       "id": "049609c71ec4ebe9e35d",
       "title": "つくば市「LEBER」でメールアドレス計1万6,570件が漏えい 学校の健康観察・休日夜間の医療相談に影響、アララへの不正アクセスが波及|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
@@ -90,7 +104,7 @@
       "areas": [],
       "source": "Yahoo!ニュース",
       "sourceType": "news",
-      "publishedAt": "2026-11-16T23:09:14+00:00",
+      "publishedAt": "2026-11-16T23:00:57+00:00",
       "firstSeenAt": "2026-11-17T04:05:41.790078+00:00"
     },
     {
@@ -262,6 +276,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-15T20:41:52+00:00",
       "firstSeenAt": "2026-11-15T21:49:49.811546+00:00"
+    },
+    {
+      "id": "2b97e5ec6687f3f5ecda",
+      "title": "【つくば市】11/16 最高18℃、最低10℃、朝から夜まで晴れる予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFZjYjdsOE5BVW9QSVplcHo1WHRiaE5CX0xfVml6d25ia3pjZGhFWmI2OUVTb194R2VvRUNpTEJnY1ZsRnNBaFFwSVc5NEI4c251VHdERXQ5QUpET1dSWEtiNUJuN3dMWnhBTXZnS0ZsOGJBN1UyMkxYNlk5SW9jZGgtZ09mRVZSQlRsaTVn?oc=5",
+      "summary": "【つくば市】11/16 最高18℃、最低10℃、朝から夜まで晴れる予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-15T20:41:52+00:00",
+      "firstSeenAt": "2026-11-17T16:07:20.063266+00:00"
     },
     {
       "id": "e8bc58d9e42d875d5229",
@@ -3963,12 +3989,12 @@
     },
     {
       "id": "0fb25950e0d339bf5312",
-      "title": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ - 地域ニュースサイト号外NET",
+      "title": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ - 号外NET つくば市",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRXpOVjBMb1puUVJjZnlWLURhek5lY0JFWmNNRTl6OTVxaXdZMHNwR2t0Mm1CTFd0UC1tWldQNXlzT0ZVZG1uV25NbWNQYlRMUHVlaGFpUHZNcXlROVg5WA?oc=5",
-      "summary": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ 地域ニュースサイト号外NET",
+      "summary": "【つくば市】スパ湯～ワールド跡地に新しいお店が入るみたいです！ 号外NET つくば市",
       "category": "店舗・グルメ",
       "areas": [],
-      "source": "地域ニュースサイト号外NET",
+      "source": "号外NET つくば市",
       "sourceType": "news",
       "publishedAt": "2026-10-20T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
