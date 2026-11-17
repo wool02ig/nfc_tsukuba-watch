@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T21:58:04.527375+00:00",
-  "articleCount": 424,
+  "updatedAt": "2026-11-17T04:05:41.790078+00:00",
+  "articleCount": 427,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 39
+      "count": 35
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -20,9 +20,8 @@
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
-      "ok": false,
-      "count": 0,
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%2"
+      "ok": true,
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -33,7 +32,7 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 3
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
@@ -42,12 +41,35 @@
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
-      "ok": false,
-      "count": 0,
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%2"
+      "ok": true,
+      "count": 0
     }
   ],
   "articles": [
+    {
+      "id": "d94e6629547d3eba78cd",
+      "title": "【猫のロードキル】つくば 11年間で4348匹が犠牲に 交通事故だけじゃない屋外飼育の危険性とは？ #エキスパートトピ - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOEczZlFBUkpwTXhRS05FUnR5Q0RSMEpkRFJwemJ6YlljRVZwMmRfOFc3MElFM3E5ZHRLR0N1ZHpLMEF2MVlJMnFoZ1FtS3pXRWR4SG83eW90cmpOa0NoQjZ4OXFQaThnV0ZKWV9fQm5SNFM3WVNyc0o0bVhoWUZLeTltTlVydzRI?oc=5",
+      "summary": "【猫のロードキル】つくば 11年間で4348匹が犠牲に 交通事故だけじゃない屋外飼育の危険性とは？ #エキスパートトピ Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T23:09:14+00:00",
+      "firstSeenAt": "2026-11-17T04:05:41.790078+00:00"
+    },
+    {
+      "id": "0850a42d715ec8dfba2d",
+      "title": "【つくば市】ちょっと早い忘年会？！今週土曜日(11月21日)「第8回 つくばポットラックフリーマーケット」が開催されます - 地域ニュースサイト号外NET",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yeWR4amZmLXVGUVo4M2Jub3EzTXJmcHJMU3FBLWlSMjFKLXBXV01FSmJJZVoxdUxseWVXVmNWTGNJQTlDTjg5cG1iX3oxZExZTTBCS1g0Q2RhZFdwbU5lSG80YUE?oc=5",
+      "summary": "【つくば市】ちょっと早い忘年会？！今週土曜日(11月21日)「第8回 つくばポットラックフリーマーケット」が開催されます 地域ニュースサイト号外NET",
+      "category": "イベント",
+      "areas": [],
+      "source": "地域ニュースサイト号外NET",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T22:38:40+00:00",
+      "firstSeenAt": "2026-11-17T04:05:41.790078+00:00"
+    },
     {
       "id": "5987efd42238f98fe2ee",
       "title": "茨城：つくば万博バス牛久市が再現 ２１日にツアー：地域ニュース - 読売新聞",
@@ -83,7 +105,7 @@
       "areas": [],
       "source": "STRAIGHT PRESS",
       "sourceType": "news",
-      "publishedAt": "2026-11-16T13:41:15+00:00",
+      "publishedAt": "2026-11-16T13:44:24+00:00",
       "firstSeenAt": "2026-11-16T16:48:20.186081+00:00"
     },
     {
@@ -147,6 +169,18 @@
       "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
     },
     {
+      "id": "a0cad6ea868bad84d2d8",
+      "title": "【つくば地球ひろば訪問レポート】 「好きが未来につながる」茨城県立牛久高校の皆さんがJICAつくば地球ひろばで学ぶ国際協力 - JICA - 国際協力機構",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ2YxUm55VEdyaHpGaVNnci1uLWNnWlhPOFlQY19jUEdsZ1JlZWdsaDRreGJ3YnNMTHR3ZjNndk1jdVNjRklVc1hacndXUDdCSTJuMTF0d2lqa3JYRkhsM1JWa1FBQ3FINURVN2IwaldZV084bmo4V0llbzF1WVBma0ZyZFVDenB0b0E?oc=5",
+      "summary": "【つくば地球ひろば訪問レポート】 「好きが未来につながる」茨城県立牛久高校の皆さんがJICAつくば地球ひろばで学ぶ国際協力 JICA - 国際協力機構",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "JICA - 国際協力機構",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T07:28:59+00:00",
+      "firstSeenAt": "2026-11-17T04:05:41.790078+00:00"
+    },
+    {
       "id": "871ca474ad69d89a3e44",
       "title": "つくば市データセンター計画 住民団体が双方向の説明会要求 | 社会 | ニュース一覧 - LuckyFM茨城放送",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XMzI2VEtvZV80TUxXUVE3NTNvUUx5ODJXUnhCUFN2LUZCLTBCNHhpYTZVOHVYNDlIOHlFeW5Nc0tNbVVKS1BOY2FEVldzT3J0dmE4VWhn?oc=5",
@@ -160,12 +194,12 @@
     },
     {
       "id": "18d532e9a1e48312af68",
-      "title": "【つくば市】気になる…！上ノ室に古民家カフェがオープンしたみたいです。 - 号外NET つくば市",
+      "title": "【つくば市】気になる…！上ノ室に古民家カフェがオープンしたみたいです。 - 地域ニュースサイト号外NET",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlcnEtVTJEWGh0Vlg0d1ZrdFo5dEtVaVBZd3hiaFQ5WmFIczVNemo3Z3dKdC13V0VIampMWFB0WUlyNE5HYldJYlFEX2RQRkNsMkJaTjNNbw?oc=5",
-      "summary": "【つくば市】気になる…！上ノ室に古民家カフェがオープンしたみたいです。 号外NET つくば市",
+      "summary": "【つくば市】気になる…！上ノ室に古民家カフェがオープンしたみたいです。 地域ニュースサイト号外NET",
       "category": "店舗・グルメ",
       "areas": [],
-      "source": "号外NET つくば市",
+      "source": "地域ニュースサイト号外NET",
       "sourceType": "news",
       "publishedAt": "2026-11-15T22:38:21+00:00",
       "firstSeenAt": "2026-11-16T04:36:19.767298+00:00"
