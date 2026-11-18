@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T22:02:31.780541+00:00",
-  "articleCount": 433,
+  "updatedAt": "2026-11-18T04:07:49.858604+00:00",
+  "articleCount": 436,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 39
+      "count": 38
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -31,7 +31,7 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
@@ -46,6 +46,32 @@
   ],
   "articles": [
     {
+      "id": "6a5f36f11b03ec601e2a",
+      "title": "健康づくりに母親の育児支援 筑波大発ベンチャー企業と協定 名張市（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSXRlMVA4cFJlbVA4M0xJUndLR2tLa05Ub2MySi16VHJQb3JpVkJQM3BUR0FNOEg4NTVfa1ZSOGhxak55WVRCekRJVVVGY3Npbk5nRXJ5d01lQmpNOHEwUEhSN0lBbU5UT3lvaW5YRkxPUXFTZHpUampWbzB6LW8?oc=5",
+      "summary": "健康づくりに母親の育児支援 筑波大発ベンチャー企業と協定 名張市（朝日新聞） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-18T02:00:00+00:00",
+      "firstSeenAt": "2026-11-18T04:07:49.858604+00:00"
+    },
+    {
+      "id": "789a79a6732bab2ce30b",
+      "title": "【つくば市】イオンスタイルつくば学園の森でパンを購入！大きくてリーズナブルな5種類を紹介 - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CQUxiNnhoYzNJS21odENFNElrRnFkUW5OX0RzSWNMd3dPdzI1MU52R0dmNGQ2clI0dHV3Z3loNDh2WVU5elBaQmFGSkNPWkJBVUxCU1dqaGJqQkRwZ3dV?oc=5",
+      "summary": "【つくば市】イオンスタイルつくば学園の森でパンを購入！大きくてリーズナブルな5種類を紹介 号外NET つくば市",
+      "category": "地域ニュース",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-17T22:38:07+00:00",
+      "firstSeenAt": "2026-11-18T04:07:49.858604+00:00"
+    },
+    {
       "id": "9d8f0d79f88738a84e72",
       "title": "絶滅危惧オウム譲渡疑い つくばの会社役員逮捕（茨城新聞クロスアイ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuX3hzbTJFbW4yREpzQ0k3c0s1SGY4ZGloUEZRdnlWd2ZuZUZBTWRKVG1QT0NsTzYtN1VmWUp2R241VGR6bU9jQWp6UXkyTjJUUkpfUGw5QTFheUQ1Zkd5c2VEVmIyN04tLXNMWlZaYkVUalFlcmR2Rkc1V0hpV1U?oc=5",
@@ -54,7 +80,7 @@
       "areas": [],
       "source": "Yahoo!ニュース",
       "sourceType": "news",
-      "publishedAt": "2026-11-17T21:16:24+00:00",
+      "publishedAt": "2026-11-17T21:00:00+00:00",
       "firstSeenAt": "2026-11-17T22:02:31.780541+00:00"
     },
     {
@@ -94,6 +120,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-17T10:00:23+00:00",
       "firstSeenAt": "2026-11-17T10:18:53.754249+00:00"
+    },
+    {
+      "id": "9db0970efa2890016a20",
+      "title": "アスリートで注目の「目の運動」 小中学生の視覚機能向上にも効果か 筑波大 | 社会 | ニュース一覧 - LuckyFM茨城放送",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NLVJrMnV2dkVyYVVwQTNfNmx2WE8xRlQ1T0NBQi02S1dOZ0JQT0llZnBwUzZwXzlRbldkcHRHT3c2MXFjRVljUFJacnFDbWowYm50aTRn?oc=5",
+      "summary": "アスリートで注目の「目の運動」 小中学生の視覚機能向上にも効果か 筑波大 | 社会 | ニュース一覧 LuckyFM茨城放送",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "LuckyFM茨城放送",
+      "sourceType": "news",
+      "publishedAt": "2026-11-17T08:35:53+00:00",
+      "firstSeenAt": "2026-11-18T04:07:49.858604+00:00"
     },
     {
       "id": "87e64e8a588f7890cd87",
@@ -255,12 +293,12 @@
     },
     {
       "id": "18d532e9a1e48312af68",
-      "title": "【つくば市】気になる…！上ノ室に古民家カフェがオープンしたみたいです。 - 地域ニュースサイト号外NET",
+      "title": "【つくば市】気になる…！上ノ室に古民家カフェがオープンしたみたいです。 - 号外NET つくば市",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlcnEtVTJEWGh0Vlg0d1ZrdFo5dEtVaVBZd3hiaFQ5WmFIczVNemo3Z3dKdC13V0VIampMWFB0WUlyNE5HYldJYlFEX2RQRkNsMkJaTjNNbw?oc=5",
-      "summary": "【つくば市】気になる…！上ノ室に古民家カフェがオープンしたみたいです。 地域ニュースサイト号外NET",
+      "summary": "【つくば市】気になる…！上ノ室に古民家カフェがオープンしたみたいです。 号外NET つくば市",
       "category": "店舗・グルメ",
       "areas": [],
-      "source": "地域ニュースサイト号外NET",
+      "source": "号外NET つくば市",
       "sourceType": "news",
       "publishedAt": "2026-11-15T22:38:21+00:00",
       "firstSeenAt": "2026-11-16T04:36:19.767298+00:00"
