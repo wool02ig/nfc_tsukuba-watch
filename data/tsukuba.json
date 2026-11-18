@@ -1,22 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T04:07:49.858604+00:00",
+  "updatedAt": "2026-11-18T10:16:26.400401+00:00",
   "articleCount": 436,
   "sources": [
     {
       "source": "つくば市公式",
       "ok": true,
-      "count": 15
+      "count": 14
     },
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 38
+      "count": 36
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -31,7 +31,7 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 4
+      "count": 3
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
@@ -45,6 +45,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "7cbc53a44374d10a9641",
+      "title": "茨城・つくば市の陸上競技場工事、48.8億円の株木建設JV - 建設通信新聞Digital",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SMkJOSU5PVlBFcE40ekRFRmZ4aXdyT2ltLTB1QnVHX2dxNnYtSXFZNkdCVGoyVTFZMzY4b2hWTmpLanB3SEVzR2FPd203X0JEMFpORW1n?oc=5",
+      "summary": "茨城・つくば市の陸上競技場工事、48.8億円の株木建設JV 建設通信新聞Digital",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "建設通信新聞Digital",
+      "sourceType": "news",
+      "publishedAt": "2026-11-18T07:36:45+00:00",
+      "firstSeenAt": "2026-11-18T10:16:26.400401+00:00"
+    },
     {
       "id": "6a5f36f11b03ec601e2a",
       "title": "健康づくりに母親の育児支援 筑波大発ベンチャー企業と協定 名張市（朝日新聞） - Yahoo!ニュース",
@@ -232,6 +244,18 @@
       "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
     },
     {
+      "id": "001810e41469c3b6163b",
+      "title": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vTnhsOU1lbEtSNGd4Nnk3RE5pWk91a2hsbFc1a2NIblRuMUhKZEpwdmRqaVB2dGsxQzZDQ2FySi1lRHFEZ09DWFJoN3h5MXZJSlVQZVZveFB0eDF1ejhrMDhR?oc=5",
+      "summary": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 Infoseek",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Infoseek",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T08:15:00+00:00",
+      "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
+    },
+    {
       "id": "4f1b16e994343f7b5334",
       "title": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - ｄメニューニュース",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXI4ZlZQcGYtUEZLdC13cmg4a014eXl6Z2NMb2pwWGtHWXI0eE8yRmtLNzd4THVseFZZNFoxbnZBMDA4U1NWamZSaHExYW12NGM3WnJOR2NIcE8yY1VlN2NMZm56YUJPeUdYOVAwM0k5RkpWdXBKbzh0eU1QY1p4SE45cWjSAYoBQVVfeXFMTzQxaE5vSERueHFieWxhRWJhVVFYUnNpM0VTSl9UeDF3ZWNVb1oxbWxPbTBpTUhvZEQ3RzlBUzA5TVh4ZHhBaFlzVlFyVXVFM044LTZqSWpJMmhxTTcza2ZEcEdEQV9pejhFRXZOQ2xPMUd1clhCd3dadElpVVg5SjR6bW96YWVnVDdB?oc=5",
@@ -251,18 +275,6 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "ライブドアニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-16T08:15:00+00:00",
-      "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
-    },
-    {
-      "id": "001810e41469c3b6163b",
-      "title": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vTnhsOU1lbEtSNGd4Nnk3RE5pWk91a2hsbFc1a2NIblRuMUhKZEpwdmRqaVB2dGsxQzZDQ2FySi1lRHFEZ09DWFJoN3h5MXZJSlVQZVZveFB0eDF1ejhrMDhR?oc=5",
-      "summary": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 Infoseek",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Infoseek",
       "sourceType": "news",
       "publishedAt": "2026-11-16T08:15:00+00:00",
       "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
@@ -328,18 +340,6 @@
       "firstSeenAt": "2026-11-15T21:49:49.811546+00:00"
     },
     {
-      "id": "0f6f96d408314e74e065",
-      "title": "【つくば市】11/16 最高18℃、最低10℃、朝から夜まで晴れる予想【朝版】 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FekpIUHFkUmhWZHJzOERnaFhJQ3B6QzFNVFBUVjlxR2NrVmdDTzROR1JYYVpFWmJ6T1MtQ2VUTjdVRF9mT1hOOEkwT21scElpbC0xeFBjaWdYdm5mVHJ4alJ0eFJBTDFQTEdxOUhnTXpsdEptYTMzX19saTl1M3c?oc=5",
-      "summary": "【つくば市】11/16 最高18℃、最低10℃、朝から夜まで晴れる予想【朝版】 Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-15T20:41:52+00:00",
-      "firstSeenAt": "2026-11-15T21:49:49.811546+00:00"
-    },
-    {
       "id": "2b97e5ec6687f3f5ecda",
       "title": "【つくば市】11/16 最高18℃、最低10℃、朝から夜まで晴れる予想【朝版】 - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFZjYjdsOE5BVW9QSVplcHo1WHRiaE5CX0xfVml6d25ia3pjZGhFWmI2OUVTb194R2VvRUNpTEJnY1ZsRnNBaFFwSVc5NEI4c251VHdERXQ5QUpET1dSWEtiNUJuN3dMWnhBTXZnS0ZsOGJBN1UyMkxYNlk5SW9jZGgtZ09mRVZSQlRsaTVn?oc=5",
@@ -350,6 +350,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-15T20:41:52+00:00",
       "firstSeenAt": "2026-11-17T16:07:20.063266+00:00"
+    },
+    {
+      "id": "0f6f96d408314e74e065",
+      "title": "【つくば市】11/16 最高18℃、最低10℃、朝から夜まで晴れる予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FekpIUHFkUmhWZHJzOERnaFhJQ3B6QzFNVFBUVjlxR2NrVmdDTzROR1JYYVpFWmJ6T1MtQ2VUTjdVRF9mT1hOOEkwT21scElpbC0xeFBjaWdYdm5mVHJ4alJ0eFJBTDFQTEdxOUhnTXpsdEptYTMzX19saTl1M3c?oc=5",
+      "summary": "【つくば市】11/16 最高18℃、最低10℃、朝から夜まで晴れる予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-15T20:41:52+00:00",
+      "firstSeenAt": "2026-11-15T21:49:49.811546+00:00"
     },
     {
       "id": "e8bc58d9e42d875d5229",
@@ -1736,18 +1748,6 @@
       "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
     },
     {
-      "id": "3c4aa2c4430f9f077af2",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-05T08:00:00+00:00",
-      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
-    },
-    {
       "id": "9c1c64ca55bb8e21e9db",
       "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
@@ -1755,6 +1755,18 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
+      "id": "3c4aa2c4430f9f077af2",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-11-05T08:00:00+00:00",
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
@@ -5231,14 +5243,14 @@
     },
     {
       "id": "a29855c58e7a449c9806",
-      "title": "【つくば市】バーキン派の皆様に朗報です♪バーガーキングがそよらつくば学園の森店にオープンするみたい！ - 地域ニュースサイト号外NET",
+      "title": "【つくば市】バーキン派の皆様に朗報です♪バーガーキングがそよらつくば学園の森店にオープンするみたい！ - 号外NET つくば市",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GYUNxcDdIUzRpQ0pydmRrWGtQalIxcEZTNGNHR2dnc1VGckZQbTI0NTYxQzRuQ0t0aXJuM0J6bm9tOURfNGV5MmoyNnpSY0hCdjNaWDhuMjJmaVViLWwtSUNBOFA0MzZWRjlncGF2ZTQ?oc=5",
-      "summary": "【つくば市】バーキン派の皆様に朗報です♪バーガーキングがそよらつくば学園の森店にオープンするみたい！ 地域ニュースサイト号外NET",
+      "summary": "【つくば市】バーキン派の皆様に朗報です♪バーガーキングがそよらつくば学園の森店にオープンするみたい！ 号外NET つくば市",
       "category": "店舗・グルメ",
       "areas": [
         "研究学園"
       ],
-      "source": "地域ニュースサイト号外NET",
+      "source": "号外NET つくば市",
       "sourceType": "news",
       "publishedAt": "2026-09-02T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
@@ -5375,18 +5387,6 @@
       "source": "いこーよニュース",
       "sourceType": "news",
       "publishedAt": "2026-08-21T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "928b9b334e4d6e6ea9d2",
-      "title": "「陸の孤島」つくば市が全国屈指の人口増エリアに、「つくばエクスプレス」が分けた沿線の明暗 - 楽待",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oaTMwUEU4UE9OUzZ1Si00WFRLUVlvSXEwTGdUNTdzdlhIUk41dmRra256UVhHU2Jzb1lmQzhSYjZVaUJ0UmhFSFoydGtoVTVNMHBPVV9B?oc=5",
-      "summary": "「陸の孤島」つくば市が全国屈指の人口増エリアに、「つくばエクスプレス」が分けた沿線の明暗 楽待",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "楽待",
-      "sourceType": "news",
-      "publishedAt": "2026-08-20T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     }
   ]
