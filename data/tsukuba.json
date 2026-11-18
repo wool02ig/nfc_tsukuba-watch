@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T10:16:26.400401+00:00",
-  "articleCount": 436,
+  "updatedAt": "2026-11-18T16:12:54.685573+00:00",
+  "articleCount": 438,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 36
+      "count": 38
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -45,6 +45,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "33998d5e551971a95767",
+      "title": "つくば市区は5人超の10人 土浦市区は3人超の6人 県議選事前審査 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LcUJvSlQzTFNrLU45b2xUNGlrdDkwd0VKVTBTenlVWkpSWUpSWVlBZlFRU0NhUFBEZDV4dnR5aGdCZHl6ZTZhUUxYRQ?oc=5",
+      "summary": "つくば市区は5人超の10人 土浦市区は3人超の6人 県議選事前審査 NEWSつくば",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-18T11:12:03+00:00",
+      "firstSeenAt": "2026-11-18T16:12:54.685573+00:00"
+    },
     {
       "id": "7cbc53a44374d10a9641",
       "title": "茨城・つくば市の陸上競技場工事、48.8億円の株木建設JV - 建設通信新聞Digital",
@@ -182,6 +194,18 @@
       "firstSeenAt": "2026-11-17T04:05:41.790078+00:00"
     },
     {
+      "id": "a1f76c6f997a8bfe5bfe",
+      "title": "【つくば市】11/17 最高13℃、ひんやりする場面も、夜は雨の予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSnh3N3pmeDhPS3U4eDJ4cWZWa1l3ckNjUWJWYnRIVlNjcjUzaHVRWFRSWVUxMG1nMnRJNlZfYU1BRHhQVElpN1hQaXhQZ0dCUk0xMHEtRndJV1VybGVVYVk4alZjUG1rUTNRX0xJRUtld0ZZckpGZWdnRzZNakFPam56Rmw4ZkZKaHdLenRB?oc=5",
+      "summary": "【つくば市】11/17 最高13℃、ひんやりする場面も、夜は雨の予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T20:43:23+00:00",
+      "firstSeenAt": "2026-11-18T16:12:54.685573+00:00"
+    },
+    {
       "id": "5987efd42238f98fe2ee",
       "title": "茨城：つくば万博バス牛久市が再現 ２１日にツアー：地域ニュース - 読売新聞",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aSVJ0MlY2aFN6NXp2Y1hOQUZXbmNxWno4X1R4WkhRNGJMVFFWMktPZVduMU9YLTZvNmNvZU5zZkgyWXVqWGc1NThMTnVUc1RCOGdzdW04Qnc5SnZDY0tvYUNCbnFfaHZGRWtHb1dvTVdEbGs?oc=5",
@@ -244,18 +268,6 @@
       "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
     },
     {
-      "id": "001810e41469c3b6163b",
-      "title": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vTnhsOU1lbEtSNGd4Nnk3RE5pWk91a2hsbFc1a2NIblRuMUhKZEpwdmRqaVB2dGsxQzZDQ2FySi1lRHFEZ09DWFJoN3h5MXZJSlVQZVZveFB0eDF1ejhrMDhR?oc=5",
-      "summary": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 Infoseek",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Infoseek",
-      "sourceType": "news",
-      "publishedAt": "2026-11-16T08:15:00+00:00",
-      "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
-    },
-    {
       "id": "4f1b16e994343f7b5334",
       "title": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - ｄメニューニュース",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXI4ZlZQcGYtUEZLdC13cmg4a014eXl6Z2NMb2pwWGtHWXI0eE8yRmtLNzd4THVseFZZNFoxbnZBMDA4U1NWamZSaHExYW12NGM3WnJOR2NIcE8yY1VlN2NMZm56YUJPeUdYOVAwM0k5RkpWdXBKbzh0eU1QY1p4SE45cWjSAYoBQVVfeXFMTzQxaE5vSERueHFieWxhRWJhVVFYUnNpM0VTSl9UeDF3ZWNVb1oxbWxPbTBpTUhvZEQ3RzlBUzA5TVh4ZHhBaFlzVlFyVXVFM044LTZqSWpJMmhxTTcza2ZEcEdEQV9pejhFRXZOQ2xPMUd1clhCd3dadElpVVg5SjR6bW96YWVnVDdB?oc=5",
@@ -266,6 +278,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-16T08:15:00+00:00",
       "firstSeenAt": "2026-11-16T16:48:20.186081+00:00"
+    },
+    {
+      "id": "001810e41469c3b6163b",
+      "title": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vTnhsOU1lbEtSNGd4Nnk3RE5pWk91a2hsbFc1a2NIblRuMUhKZEpwdmRqaVB2dGsxQzZDQ2FySi1lRHFEZ09DWFJoN3h5MXZJSlVQZVZveFB0eDF1ejhrMDhR?oc=5",
+      "summary": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 Infoseek",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Infoseek",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T08:15:00+00:00",
+      "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
     },
     {
       "id": "67b3d51f48bc2300ae53",
@@ -1748,18 +1772,6 @@
       "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
     },
     {
-      "id": "9c1c64ca55bb8e21e9db",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-11-05T08:00:00+00:00",
-      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
-    },
-    {
       "id": "3c4aa2c4430f9f077af2",
       "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
@@ -1767,6 +1779,18 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
+      "id": "9c1c64ca55bb8e21e9db",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
       "sourceType": "news",
       "publishedAt": "2026-11-05T08:00:00+00:00",
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
