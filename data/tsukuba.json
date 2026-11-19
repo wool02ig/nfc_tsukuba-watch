@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T22:00:24.309182+00:00",
-  "articleCount": 441,
+  "updatedAt": "2026-11-19T04:10:05.081279+00:00",
+  "articleCount": 447,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 41
+      "count": 45
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 11
+      "count": 7
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -45,6 +45,80 @@
     }
   ],
   "articles": [
+    {
+      "id": "7cbc53a44374d10a9641",
+      "title": "茨城・つくば市の陸上競技場工事、48.8億円の株木建設JV - 建設通信新聞Digital",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SMkJOSU5PVlBFcE40ekRFRmZ4aXdyT2ltLTB1QnVHX2dxNnYtSXFZNkdCVGoyVTFZMzY4b2hWTmpLanB3SEVzR2FPd203X0JEMFpORW1n?oc=5",
+      "summary": "茨城・つくば市の陸上競技場工事、48.8億円の株木建設JV 建設通信新聞Digital",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "建設通信新聞Digital",
+      "sourceType": "news",
+      "publishedAt": "2026-11-19T03:45:26+00:00",
+      "firstSeenAt": "2026-11-18T10:16:26.400401+00:00"
+    },
+    {
+      "id": "912cd451ac1750197a7c",
+      "title": "【茨城・つくば】卵を産み終えた鶏を、最後まで自分たちの手で食卓へ。障害のある人が働く農場「ごきげんファーム」が、つくば - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzaktTRkR1WVBwaXp6WGpzRmFwemg0aG1UaFVnX052MmlEek90ZkFJZDV4c3dqUjAzZXlFQl9HTHVPNmtDUEZDeE02RXM4YnNiWjhrRkpuRmZOOXJ2U2EyNmdpS1ljOGFjZWV5dlFWd2RFZjNMZVdnVg?oc=5",
+      "summary": "【茨城・つくば】卵を産み終えた鶏を、最後まで自分たちの手で食卓へ。障害のある人が働く農場「ごきげんファーム」が、つくば ニコニコニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ニコニコニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-19T02:21:16+00:00",
+      "firstSeenAt": "2026-11-19T04:10:05.081279+00:00"
+    },
+    {
+      "id": "042f93378b0ff0f0f3f0",
+      "title": "研究者カード手に入れて 産総研、21日「特別公開」 茨城・つくば（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLcXZLbE9OQWFaQWV0X3FYZHYzWmFWUkdhUlF2XzVCdnFDdG54Z1hpRlhyel92RUZ1YXQwV2dJMTlpRlN6Yi0wNC0yOVRnNEFHQU1SV1VfYmhyUEl3X2xDQVBGUkRwR2ZYeXVZaU15T21GeVc0ckw1dHY1WG1sWEU?oc=5",
+      "summary": "研究者カード手に入れて 産総研、21日「特別公開」 茨城・つくば（朝日新聞） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-19T02:15:01+00:00",
+      "firstSeenAt": "2026-11-19T04:10:05.081279+00:00"
+    },
+    {
+      "id": "f1a8d1b66c8f2b73a59e",
+      "title": "データの力を、業務の味方に。インフォ・ラウンジ、つくば市のデータ活用を支援 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84MjBFakJuLWQ0ZVUwUHBfOGVDZTgxZG84eHdpam5Dc25YT3ctSUJJOXR3SjRpM2JUQmstdC1HLWZXUUdNQkxGT3ozamMyUHVCQXZ2LVhVNmlsUVc0OF90ZzdKYWVITUJtX2c?oc=5",
+      "summary": "データの力を、業務の味方に。インフォ・ラウンジ、つくば市のデータ活用を支援 PR TIMES",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "PR TIMES",
+      "sourceType": "news",
+      "publishedAt": "2026-11-19T02:00:02+00:00",
+      "firstSeenAt": "2026-11-19T04:10:05.081279+00:00"
+    },
+    {
+      "id": "192cf2f0cae34045c615",
+      "title": "【茨城・つくば】卵を産み終えた鶏を、最後まで自分たちの手で食卓へ。障害のある人が働く農場「ごきげんファーム」が、つくば市上郷に食鳥処理施設を建設 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hNUlYSS0xRTl3SmEwR2FpWndGVGNRUUprTFBSVm9LT2VjT1JhMlBBQlplUUZIWlJBTGtJVFVxTlEyWnpTd016LTlzOXRIcGs5cHB4UkdmOHR2MjZOV2toTnVZcjJnMmY4bW9BcmZIVXRCZw?oc=5",
+      "summary": "【茨城・つくば】卵を産み終えた鶏を、最後まで自分たちの手で食卓へ。障害のある人が働く農場「ごきげんファーム」が、つくば市上郷に食鳥処理施設を建設 Infoseek",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "Infoseek",
+      "sourceType": "news",
+      "publishedAt": "2026-11-19T01:45:57+00:00",
+      "firstSeenAt": "2026-11-19T04:10:05.081279+00:00"
+    },
+    {
+      "id": "0021a6647cc91552c836",
+      "title": "【つくば市】こんなものまで自販機で買える！つくばセンター広場にある2台の自動販売機 - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDUGRqbnZvX1k1YUkwMm1Ea0VBYjFUdmpkNWdLU19PSnRZeHJiVUJXVVpWS3h1WGMxWGhEbFdHZDk2ek9Zb01pQ0NUUHFOSnN6b1ZNaldZOU9SdWNDZ09VS0EyajZOSkRGMXJOeGRTQXNtZw?oc=5",
+      "summary": "【つくば市】こんなものまで自販機で買える！つくばセンター広場にある2台の自動販売機 号外NET つくば市",
+      "category": "地域ニュース",
+      "areas": [
+        "つくば駅周辺"
+      ],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-18T22:38:02+00:00",
+      "firstSeenAt": "2026-11-19T04:10:05.081279+00:00"
+    },
     {
       "id": "0b2fdefd105f37d02088",
       "title": "【つくば市】11/19 最低8℃、乾燥、昼間はやや風がある晴れの予想【朝版】 - Yahoo!ニュース",
@@ -82,16 +156,18 @@
       "firstSeenAt": "2026-11-18T16:12:54.685573+00:00"
     },
     {
-      "id": "7cbc53a44374d10a9641",
-      "title": "茨城・つくば市の陸上競技場工事、48.8億円の株木建設JV - 建設通信新聞Digital",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SMkJOSU5PVlBFcE40ekRFRmZ4aXdyT2ltLTB1QnVHX2dxNnYtSXFZNkdCVGoyVTFZMzY4b2hWTmpLanB3SEVzR2FPd203X0JEMFpORW1n?oc=5",
-      "summary": "茨城・つくば市の陸上競技場工事、48.8億円の株木建設JV 建設通信新聞Digital",
-      "category": "開発・建設",
-      "areas": [],
-      "source": "建設通信新聞Digital",
+      "id": "4beb650d875a19187f21",
+      "title": "TX研究学園駅近くに「寿横丁」開業、高架下に5店舗 - やしおん",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE81TUI0dnJBYzFOT1JXdDZOSC1YcjZ3QUtzYkpPaC1WOTg4aVk0Ym9Wa3hnZXJUbTl5a0VYNmFDQ3RCSHM?oc=5",
+      "summary": "TX研究学園駅近くに「寿横丁」開業、高架下に5店舗 やしおん",
+      "category": "交通・生活",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "やしおん",
       "sourceType": "news",
-      "publishedAt": "2026-11-18T07:36:45+00:00",
-      "firstSeenAt": "2026-11-18T10:16:26.400401+00:00"
+      "publishedAt": "2026-11-18T09:00:04+00:00",
+      "firstSeenAt": "2026-11-19T04:10:05.081279+00:00"
     },
     {
       "id": "6a5f36f11b03ec601e2a",
@@ -304,18 +380,6 @@
       "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
     },
     {
-      "id": "4f1b16e994343f7b5334",
-      "title": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXI4ZlZQcGYtUEZLdC13cmg4a014eXl6Z2NMb2pwWGtHWXI0eE8yRmtLNzd4THVseFZZNFoxbnZBMDA4U1NWamZSaHExYW12NGM3WnJOR2NIcE8yY1VlN2NMZm56YUJPeUdYOVAwM0k5RkpWdXBKbzh0eU1QY1p4SE45cWjSAYoBQVVfeXFMTzQxaE5vSERueHFieWxhRWJhVVFYUnNpM0VTSl9UeDF3ZWNVb1oxbWxPbTBpTUhvZEQ3RzlBUzA5TVh4ZHhBaFlzVlFyVXVFM044LTZqSWpJMmhxTTcza2ZEcEdEQV9pejhFRXZOQ2xPMUd1clhCd3dadElpVVg5SjR6bW96YWVnVDdB?oc=5",
-      "summary": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 ｄメニューニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "ｄメニューニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-16T08:15:00+00:00",
-      "firstSeenAt": "2026-11-16T16:48:20.186081+00:00"
-    },
-    {
       "id": "001810e41469c3b6163b",
       "title": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - Infoseek",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vTnhsOU1lbEtSNGd4Nnk3RE5pWk91a2hsbFc1a2NIblRuMUhKZEpwdmRqaVB2dGsxQzZDQ2FySi1lRHFEZ09DWFJoN3h5MXZJSlVQZVZveFB0eDF1ejhrMDhR?oc=5",
@@ -326,6 +390,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-16T08:15:00+00:00",
       "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
+    },
+    {
+      "id": "4f1b16e994343f7b5334",
+      "title": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXI4ZlZQcGYtUEZLdC13cmg4a014eXl6Z2NMb2pwWGtHWXI0eE8yRmtLNzd4THVseFZZNFoxbnZBMDA4U1NWamZSaHExYW12NGM3WnJOR2NIcE8yY1VlN2NMZm56YUJPeUdYOVAwM0k5RkpWdXBKbzh0eU1QY1p4SE45cWjSAYoBQVVfeXFMTzQxaE5vSERueHFieWxhRWJhVVFYUnNpM0VTSl9UeDF3ZWNVb1oxbWxPbTBpTUhvZEQ3RzlBUzA5TVh4ZHhBaFlzVlFyVXVFM044LTZqSWpJMmhxTTcza2ZEcEdEQV9pejhFRXZOQ2xPMUd1clhCd3dadElpVVg5SjR6bW96YWVnVDdB?oc=5",
+      "summary": "「ナンバープレートにしたい」と思う茨城県の地名ランキング！ 2位は「つくば市」、1位は？【2026年調査】 ｄメニューニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ｄメニューニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T08:15:00+00:00",
+      "firstSeenAt": "2026-11-16T16:48:20.186081+00:00"
     },
     {
       "id": "67b3d51f48bc2300ae53",
