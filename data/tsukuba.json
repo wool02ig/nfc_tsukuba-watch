@@ -1,17 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T10:19:36.877271+00:00",
-  "articleCount": 448,
+  "updatedAt": "2026-11-19T16:14:20.631459+00:00",
+  "articleCount": 450,
   "sources": [
     {
       "source": "つくば市公式",
-      "ok": true,
-      "count": 14
+      "ok": false,
+      "count": 0,
+      "error": "502 Server Error: Bad Gateway for url: https://www.city.tsukuba.lg.jp/cgi-bin/feed.php"
     },
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 38
+      "count": 33
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -21,7 +22,7 @@
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 3
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -54,8 +55,32 @@
       "areas": [],
       "source": "建設通信新聞Digital",
       "sourceType": "news",
-      "publishedAt": "2026-11-19T09:51:37+00:00",
+      "publishedAt": "2026-11-19T16:05:12+00:00",
       "firstSeenAt": "2026-11-18T10:16:26.400401+00:00"
+    },
+    {
+      "id": "0d549f5b503b16971c4c",
+      "title": "茨城県議選 選挙区別の事前審査出席陣営数一覧 計97陣営、最多はつくば市区の10陣営（産経新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KU29fbDZDb1p0M3BncXZWRlJPRUJWSVVNS3ZITGVHYVhYQk5TUXFCOTVEZjMyNGZjQk1XcDhMbXBXcFI3LU1XTjJkeXZmWEduYWM0WXgwaUVMU2RfSFFfNmNaWHdmeU9MbmQxMGNqUUxycXFhT1JXeDJCYVlNQjA?oc=5",
+      "summary": "茨城県議選 選挙区別の事前審査出席陣営数一覧 計97陣営、最多はつくば市区の10陣営（産経新聞） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-19T11:55:40+00:00",
+      "firstSeenAt": "2026-11-19T16:14:20.631459+00:00"
+    },
+    {
+      "id": "27287d6264452b11923a",
+      "title": "筑波大、広島育成2位・田代旭の適時二塁打などで一回から7得点／明治神宮大会 - サンスポ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeVdEWm1sbHN6OWVmOTAtajAxbnlIa21fcDlTM0NDdTlueU9Ib29xMXhQZXR1T244WW5SaW5nb0JGcnZ1QnJHMzd6Slk0VFN1SG9OY01LSDl3Rk1sSE5Db2xyY3RhUFNSMmdzVzFablA2RElnWHZjQW5lRHBTaUUxUjZpYWZwOFpUWVNNLUNXSUNydGdOMVVXTWNGeUFGZ9IBigFBVV95cUxOSy14NHF5VG5iZkJrbEV3djl1eGZWNGhKeTZ4bm94SWVuaGFZS2IzWFlkY3dyZWtUUmpVOWJ6MUF4VGtwek5CeHNpS1N6aTUwQ2VuQWswVmRMWlRYdUxLek1ldlZhbnc2c3FFRnlQVWFlRC0xSTBqSGNVWTV5VU1hbkhaU0F2amQwcFE?oc=5",
+      "summary": "筑波大、広島育成2位・田代旭の適時二塁打などで一回から7得点／明治神宮大会 サンスポ",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "サンスポ",
+      "sourceType": "news",
+      "publishedAt": "2026-11-19T05:22:47+00:00",
+      "firstSeenAt": "2026-11-19T16:14:20.631459+00:00"
     },
     {
       "id": "912cd451ac1750197a7c",
@@ -2202,6 +2227,18 @@
       "firstSeenAt": "2026-11-04T16:03:20.008996+00:00"
     },
     {
+      "id": "f94e48673cc684059538",
+      "title": "農家減は「暮らせる所得がないから」 つくばで令和の百姓一揆（毎日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0LW9lenI5Rmo1TnR5dXdYLS1EQ05LaTB5Ui13ZjFwclhlRGlVUFJHZVNjWmRQR1dwaEx0emFVVndNSWc1YWV2LTBJUF9ZM0tNYWU1Yndnc0paTC1vUV9rYWxRM0JjWGY4emRMT3VnT1lNOWE2b0h0Z0VZR1JWQkU?oc=5",
+      "summary": "農家減は「暮らせる所得がないから」 つくばで令和の百姓一揆（毎日新聞） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-04T08:00:00+00:00",
+      "firstSeenAt": "2026-11-08T04:01:56.034771+00:00"
+    },
+    {
       "id": "9cbf5d4d04fc6990a087",
       "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い (朝日新聞) - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLThnd0lEUi0xR3RpYWZzSUNiWGpWV2RtWWo5SXRYSjI1NV9oMkZhZnFkakdVc19rSHFveVQyX3BSZjdnSmxYakN6ZjFuX093NzJmVEVOZUJ3ZGVpeXU3UUExQnMtb0cwanlnaktJTU1mdmxacjNNQjdqN0FoeTV3LXk0cGRQS1MyOG1zMFZn?oc=5",
@@ -2254,18 +2291,6 @@
       "sourceType": "news",
       "publishedAt": "2026-11-04T07:15:00+00:00",
       "firstSeenAt": "2026-11-04T16:03:20.008996+00:00"
-    },
-    {
-      "id": "f94e48673cc684059538",
-      "title": "農家減は「暮らせる所得がないから」 つくばで令和の百姓一揆（毎日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0LW9lenI5Rmo1TnR5dXdYLS1EQ05LaTB5Ui13ZjFwclhlRGlVUFJHZVNjWmRQR1dwaEx0emFVVndNSWc1YWV2LTBJUF9ZM0tNYWU1Yndnc0paTC1vUV9rYWxRM0JjWGY4emRMT3VnT1lNOWE2b0h0Z0VZR1JWQkU?oc=5",
-      "summary": "農家減は「暮らせる所得がないから」 つくばで令和の百姓一揆（毎日新聞） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-04T06:23:57+00:00",
-      "firstSeenAt": "2026-11-08T04:01:56.034771+00:00"
     },
     {
       "id": "a931984d3f79ad78d9af",
@@ -4440,6 +4465,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "8864bd4c1b482475e14e",
+      "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - 乗りものニュース",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XcGpfYmFWejBQbnhBOHRnNnh1eHM5WERJLU5ZRDUyMEI2NWdIY0c5Y3N0OVc4NGN2TlY2cjE0b2Nvd2YzQk5ndWJB?oc=5",
+      "summary": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 乗りものニュース",
+      "category": "交通・生活",
+      "areas": [],
+      "source": "乗りものニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-09T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "098accf715f1882b4bca",
       "title": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vS2k3RlEwejhUTUZWYnAxVS1ZVmhxNG55VUkzdTBYeW1wajdYQjFYTVFMNnNlSUlFNGVMVE9pVUpBaFBnZF9vZFJwa1hyQmRIdXpyajZIS1MwT1o4dm9sZFpEWDU2SDQ?oc=5",
@@ -4452,18 +4489,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-09T07:00:00+00:00",
       "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
-    },
-    {
-      "id": "8864bd4c1b482475e14e",
-      "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - 乗りものニュース",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XcGpfYmFWejBQbnhBOHRnNnh1eHM5WERJLU5ZRDUyMEI2NWdIY0c5Y3N0OVc4NGN2TlY2cjE0b2Nvd2YzQk5ndWJB?oc=5",
-      "summary": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 乗りものニュース",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "乗りものニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "12db0b289c26d65c562f",
@@ -5315,12 +5340,12 @@
     },
     {
       "id": "9bb7aabf75dec18a2db8",
-      "title": "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査 - テレビ朝日",
+      "title": "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査 - テレ朝NEWS",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UeDljOGRXcktORWNGY0RFQzUwNXQ5ekhnMENkQlEweHczMFJubW93a3FVWVJpNFNCLWNkSVlwS2NudDhFUmhFRzNWbG1TaUthbXhfQ3V1Z3d2d19SMkVxeFNEczRMS2txTW9ycHM4MjFJdw?oc=5",
-      "summary": "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査 テレビ朝日",
+      "summary": "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査 テレ朝NEWS",
       "category": "地域ニュース",
       "areas": [],
-      "source": "テレビ朝日",
+      "source": "テレ朝NEWS",
       "sourceType": "news",
       "publishedAt": "2026-09-09T07:00:00+00:00",
       "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
