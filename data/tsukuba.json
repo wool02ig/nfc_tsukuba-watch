@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T04:10:05.081279+00:00",
-  "articleCount": 447,
+  "updatedAt": "2026-11-19T10:19:36.877271+00:00",
+  "articleCount": 448,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,7 +11,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 45
+      "count": 38
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -26,7 +26,7 @@
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
       "ok": true,
-      "count": 1
+      "count": 0
     },
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
@@ -54,7 +54,7 @@
       "areas": [],
       "source": "建設通信新聞Digital",
       "sourceType": "news",
-      "publishedAt": "2026-11-19T03:45:26+00:00",
+      "publishedAt": "2026-11-19T09:51:37+00:00",
       "firstSeenAt": "2026-11-18T10:16:26.400401+00:00"
     },
     {
@@ -68,6 +68,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-19T02:21:16+00:00",
       "firstSeenAt": "2026-11-19T04:10:05.081279+00:00"
+    },
+    {
+      "id": "650543fd4d13e3e3dae3",
+      "title": "研究者カード手に入れて 産総研、21日「特別公開」 茨城・つくば [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ISjg0NkMtVUR0bFNfUU5CekFqeW8ySjFfM05oMkVZLUt3QnJZY3g2eXplbVI1QTF2b3RnWHoxVkw5T3ZBTDZCX0VNRmtSdDR5LWlPZWNFNENvNUMyUndqNDNBekxid2c?oc=5",
+      "summary": "研究者カード手に入れて 産総研、21日「特別公開」 茨城・つくば [茨城県] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-19T02:15:01+00:00",
+      "firstSeenAt": "2026-11-19T10:19:36.877271+00:00"
     },
     {
       "id": "042f93378b0ff0f0f3f0",
@@ -1884,18 +1896,6 @@
       "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
     },
     {
-      "id": "3c4aa2c4430f9f077af2",
-      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
-      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-05T08:00:00+00:00",
-      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
-    },
-    {
       "id": "9c1c64ca55bb8e21e9db",
       "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い [茨城県] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbG80dTIwUDB3b2pPUkZtcGlfZFYydmVWeWZiUGx0R0trdXR4TGI3VDdaQTROTG5qZ0N3ZlNJZGpFMGtwX2wxQ3BVMVNxNlFMbkV5VTR6aTdFZ0JtVU9mWTYwa2F2VWs?oc=5",
@@ -1903,6 +1903,30 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
+    },
+    {
+      "id": "414c9bd5c7c966034a42",
+      "title": "茨城・つくば市、データセンター集積拠点整備 GX戦略地域認定で - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ocURtUERXN3FKZ2pwYjNjTmlDcWp4WktBel9qOE1OOHZlazB6N3BvX2pHSWtTQ2J3VUlWZ05xQzR0Y09WU2xsZ0dXdUloMW9aRWExLTRoOVpTamNDS3ZwM3Q4V2paR1VXWW9Qeg?oc=5",
+      "summary": "茨城・つくば市、データセンター集積拠点整備 GX戦略地域認定で 日本経済新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "日本経済新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
+    },
+    {
+      "id": "3c4aa2c4430f9f077af2",
+      "title": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRVZ3RnNrUmxtYWMyblBxcUhVRUxIMWtRdmNjUjV3UGNITjFhakdTb0VETk9zdFRZUDlOVnZMU3B5Q0NXeXJGeWNMNXpWb1QtcTlvc19ldkFnZTlUQ2Z3ak01MTFIZ2pxWXpRc1RtOXNPam5sbU5FbS0yWnI0UUU?oc=5",
+      "summary": "つくば市が圏央道沿いにデータセンター誘致へ 産業集積、税収増狙い（朝日新聞） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-11-05T08:00:00+00:00",
       "firstSeenAt": "2026-11-05T04:04:38.420641+00:00"
@@ -1977,18 +2001,6 @@
       "source": "BigGo ファイナンス",
       "sourceType": "news",
       "publishedAt": "2026-11-05T06:36:00+00:00",
-      "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
-    },
-    {
-      "id": "414c9bd5c7c966034a42",
-      "title": "茨城・つくば市、データセンター集積拠点整備 GX戦略地域認定で - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ocURtUERXN3FKZ2pwYjNjTmlDcWp4WktBel9qOE1OOHZlazB6N3BvX2pHSWtTQ2J3VUlWZ05xQzR0Y09WU2xsZ0dXdUloMW9aRWExLTRoOVpTamNDS3ZwM3Q4V2paR1VXWW9Qeg?oc=5",
-      "summary": "茨城・つくば市、データセンター集積拠点整備 GX戦略地域認定で 日本経済新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "日本経済新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-11-05T06:15:00+00:00",
       "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
     },
     {
@@ -4428,6 +4440,20 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "098accf715f1882b4bca",
+      "title": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vS2k3RlEwejhUTUZWYnAxVS1ZVmhxNG55VUkzdTBYeW1wajdYQjFYTVFMNnNlSUlFNGVMVE9pVUpBaFBnZF9vZFJwa1hyQmRIdXpyajZIS1MwT1o4dm9sZFpEWDU2SDQ?oc=5",
+      "summary": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] 朝日新聞",
+      "category": "交通・生活",
+      "areas": [
+        "筑波山"
+      ],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-10-09T07:00:00+00:00",
+      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
+    },
+    {
       "id": "8864bd4c1b482475e14e",
       "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - 乗りものニュース",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XcGpfYmFWejBQbnhBOHRnNnh1eHM5WERJLU5ZRDUyMEI2NWdIY0c5Y3N0OVc4NGN2TlY2cjE0b2Nvd2YzQk5ndWJB?oc=5",
@@ -4450,20 +4476,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-09T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "098accf715f1882b4bca",
-      "title": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vS2k3RlEwejhUTUZWYnAxVS1ZVmhxNG55VUkzdTBYeW1wajdYQjFYTVFMNnNlSUlFNGVMVE9pVUpBaFBnZF9vZFJwa1hyQmRIdXpyajZIS1MwT1o4dm9sZFpEWDU2SDQ?oc=5",
-      "summary": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] 朝日新聞",
-      "category": "交通・生活",
-      "areas": [
-        "筑波山"
-      ],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
     },
     {
       "id": "54f0e5303bacb8cc8f65",
@@ -4826,6 +4838,18 @@
       "sourceType": "official",
       "publishedAt": "2026-10-02T06:44:33+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "9c6261be5f217c3789ce",
+      "title": "povoデータが無料でもらえる「povo Data Oasis」、つくば市の自動運転バスで期間限定提供 - KDDI ニュースルーム",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nZW43dHl4ZmI3V0x3YVE2ajBIOGtzYzVoVFJYWUhfWENoaTBqZWpnc1hBbEtLUEt1blZCdGExN2REYlBBdXV2a0JRTndfcVlPVG9PWXlxZUJRbkdSaXF5Q21kTXlZUW5yTmdQbg?oc=5",
+      "summary": "povoデータが無料でもらえる「povo Data Oasis」、つくば市の自動運転バスで期間限定提供 KDDI ニュースルーム",
+      "category": "交通・生活",
+      "areas": [],
+      "source": "KDDI ニュースルーム",
+      "sourceType": "news",
+      "publishedAt": "2026-10-01T07:00:00+00:00",
+      "firstSeenAt": "2026-11-19T10:19:36.877271+00:00"
     },
     {
       "id": "b98a2480dec0eb706e84",
@@ -5291,12 +5315,12 @@
     },
     {
       "id": "9bb7aabf75dec18a2db8",
-      "title": "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査 - テレ朝NEWS",
+      "title": "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査 - テレビ朝日",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UeDljOGRXcktORWNGY0RFQzUwNXQ5ekhnMENkQlEweHczMFJubW93a3FVWVJpNFNCLWNkSVlwS2NudDhFUmhFRzNWbG1TaUthbXhfQ3V1Z3d2d19SMkVxeFNEczRMS2txTW9ycHM4MjFJdw?oc=5",
-      "summary": "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査 テレ朝NEWS",
+      "summary": "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査 テレビ朝日",
       "category": "地域ニュース",
       "areas": [],
-      "source": "テレ朝NEWS",
+      "source": "テレビ朝日",
       "sourceType": "news",
       "publishedAt": "2026-09-09T07:00:00+00:00",
       "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
@@ -5378,6 +5402,18 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "e04ea7523befa9aeca4c",
+      "title": "茨城・つくばのデータセンター計画、住民が市に説明会を求め請願提出 [茨城県] [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tSWpRTzBLWENKNWpZT2ZxNXk1TVdna2V5clpjT19qMGVkaHJXWUFkbkluY3kyMmVBQ3NIX1dyc2RtU1VTRUpLOFBMcFFCaHIxb3Rnd1pFc2xvcGl1NzRqeG1XNFdaaEU?oc=5",
+      "summary": "茨城・つくばのデータセンター計画、住民が市に説明会を求め請願提出 [茨城県] [AIの時代] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-09-02T07:00:00+00:00",
+      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
+    },
+    {
       "id": "a29855c58e7a449c9806",
       "title": "【つくば市】バーキン派の皆様に朗報です♪バーガーキングがそよらつくば学園の森店にオープンするみたい！ - 号外NET つくば市",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GYUNxcDdIUzRpQ0pydmRrWGtQalIxcEZTNGNHR2dnc1VGckZQbTI0NTYxQzRuQ0t0aXJuM0J6bm9tOURfNGV5MmoyNnpSY0hCdjNaWDhuMjJmaVViLWwtSUNBOFA0MzZWRjlncGF2ZTQ?oc=5",
@@ -5390,18 +5426,6 @@
       "sourceType": "news",
       "publishedAt": "2026-09-02T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
-    },
-    {
-      "id": "e04ea7523befa9aeca4c",
-      "title": "茨城・つくばのデータセンター計画、住民が市に説明会を求め請願提出 [茨城県] [AIの時代] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tSWpRTzBLWENKNWpZT2ZxNXk1TVdna2V5clpjT19qMGVkaHJXWUFkbkluY3kyMmVBQ3NIX1dyc2RtU1VTRUpLOFBMcFFCaHIxb3Rnd1pFc2xvcGl1NzRqeG1XNFdaaEU?oc=5",
-      "summary": "茨城・つくばのデータセンター計画、住民が市に説明会を求め請願提出 [茨城県] [AIの時代] 朝日新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-09-02T07:00:00+00:00",
-      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
     },
     {
       "id": "5c108317003df8787165",
@@ -5512,18 +5536,6 @@
       "sourceType": "news",
       "publishedAt": "2026-08-22T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
-    },
-    {
-      "id": "7d0c0c48239b9995d116",
-      "title": "【茨城】2026年8月22日・23日週末開催の無料イベント6選 まつりつくば＆下妻まつりも - いこーよニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wMjhTNzRfWXViWHRyWG5odHBMaWliNmhFMU1vV2pPSXJTV2tSaXBvaS1idUkwME1aZG1DNzY1dTZPRXdpOXlKQk5wSGxzclBLcmc?oc=5",
-      "summary": "【茨城】2026年8月22日・23日週末開催の無料イベント6選 まつりつくば＆下妻まつりも いこーよニュース",
-      "category": "イベント",
-      "areas": [],
-      "source": "いこーよニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-08-21T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     }
   ]
 }
