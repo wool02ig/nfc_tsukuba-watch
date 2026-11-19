@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T16:14:20.631459+00:00",
-  "articleCount": 450,
+  "updatedAt": "2026-11-19T22:00:13.131825+00:00",
+  "articleCount": 452,
   "sources": [
     {
       "source": "つくば市公式",
@@ -12,7 +12,7 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 33
+      "count": 32
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
@@ -32,12 +32,12 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 3
+      "count": 5
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 1
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -55,7 +55,7 @@
       "areas": [],
       "source": "建設通信新聞Digital",
       "sourceType": "news",
-      "publishedAt": "2026-11-19T16:05:12+00:00",
+      "publishedAt": "2026-11-19T18:58:19+00:00",
       "firstSeenAt": "2026-11-18T10:16:26.400401+00:00"
     },
     {
@@ -191,6 +191,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-18T11:12:03+00:00",
       "firstSeenAt": "2026-11-18T16:12:54.685573+00:00"
+    },
+    {
+      "id": "c260d1f58f2b25a6c0f3",
+      "title": "“最後にもう一度…” 江夏豊さんと交流あった人たちは つくば - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00THR3U3VIYXZBU1lHemlPTm9xeXdaLTFkSUNXYWVYZ3hLaDZyLUpvRGgxdEEtdDd3SlI4X2JoMklqTUdqdXU5VEYyUmxMTVhld3VoOXNSLVZkaDNTdmM4?oc=5",
+      "summary": "“最後にもう一度…” 江夏豊さんと交流あった人たちは つくば NHKニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NHKニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-18T09:43:17+00:00",
+      "firstSeenAt": "2026-11-19T22:00:13.131825+00:00"
     },
     {
       "id": "4beb650d875a19187f21",
@@ -4731,18 +4743,6 @@
       "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
     },
     {
-      "id": "22189fa9a5102947b349",
-      "title": "【つくば市】10月6日デイズタウンに新しい居酒屋がオープンするみたい♪「土佐炉端と藁焼き なぶら」が気になる！ - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05VEgzNkZQOTJiRGtzaUJKMlllRm5Oa3BBRHV2QUg1cUdDenBMbkdoTnJwR05ORDY2bWhDTUk1RGRUejFvNFJLMlk5N3NQR3lUcmdZYUlXeFhBQVNzTlp6SA?oc=5",
-      "summary": "【つくば市】10月6日デイズタウンに新しい居酒屋がオープンするみたい♪「土佐炉端と藁焼き なぶら」が気になる！ 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-10-05T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
-    },
-    {
       "id": "4dc763b2c9a5cfad2178",
       "title": "つくばで30年愛された「らーめん三水」が下妻へ！ 10/5(月)、待望の3号店をグランドオープン ― 30年の味と人を受け継ぎ、つくば・守谷に続く新たな一歩 - Newscast.jp",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KYklRU2U3QnQwMEhfR0hxNVhKS2ZOZk5xMFVhSWdCcjJsNkJmVGhhbUxIRk90YnoyckhqcnB2TGpMVVZ2Q1pOYXU2VW11Nmc?oc=5",
@@ -4753,6 +4753,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-05T07:00:00+00:00",
       "firstSeenAt": "2026-11-02T16:11:39.323189+00:00"
+    },
+    {
+      "id": "22189fa9a5102947b349",
+      "title": "【つくば市】10月6日デイズタウンに新しい居酒屋がオープンするみたい♪「土佐炉端と藁焼き なぶら」が気になる！ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05VEgzNkZQOTJiRGtzaUJKMlllRm5Oa3BBRHV2QUg1cUdDenBMbkdoTnJwR05ORDY2bWhDTUk1RGRUejFvNFJLMlk5N3NQR3lUcmdZYUlXeFhBQVNzTlp6SA?oc=5",
+      "summary": "【つくば市】10月6日デイズタウンに新しい居酒屋がオープンするみたい♪「土佐炉端と藁焼き なぶら」が気になる！ 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-10-05T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
     },
     {
       "id": "24bcc4e03f4734d684b5",
@@ -4887,6 +4899,20 @@
       "sourceType": "news",
       "publishedAt": "2026-10-01T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "13254350b4460849abef",
+      "title": "「そよらつくば学園の森」１０月２５日（日）オープン - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BdUdCNjkwSjNubVE2cUFrU0lUY0NFZEQxSTV2VzlZZlRFM3J4MzBUY3pxVkppQ2IzZklyU2pfUlFaOWJsMU1UUGtMaUdZenhVSkJ1VA?oc=5",
+      "summary": "「そよらつくば学園の森」１０月２５日（日）オープン ニコニコニュース",
+      "category": "店舗・グルメ",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "ニコニコニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-09-30T07:00:00+00:00",
+      "firstSeenAt": "2026-11-19T22:00:13.131825+00:00"
     },
     {
       "id": "25485b0247f0d640e788",
@@ -5249,6 +5275,20 @@
       "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
     },
     {
+      "id": "380d96ee9875bd69b786",
+      "title": "常磐道に「新しいインター」開業！ 11kmの「IC空白地帯」解消で発展中の「新興住宅地」にもほど近く！ 谷和原と谷田部の間に「つくばみらいSIC」 8月29日に開通 茨城 - くるまのニュース",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mZkFHdlcwOVRCVWZlbjdSSkNvellLX0tHWHVINi1Ha01xeWc5RTFmZzV6elY0Y3diOWVGSlRheHRCSXFOQkhqMVJXNA?oc=5",
+      "summary": "常磐道に「新しいインター」開業！ 11kmの「IC空白地帯」解消で発展中の「新興住宅地」にもほど近く！ 谷和原と谷田部の間に「つくばみらいSIC」 8月29日に開通 茨城 くるまのニュース",
+      "category": "交通・生活",
+      "areas": [
+        "みどりの"
+      ],
+      "source": "くるまのニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-09-14T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
+    },
+    {
       "id": "953b01db3cf844466b33",
       "title": "常磐道に新IC「つくばみらいSIC」8月29日に開通 TX「みらい平駅」周辺の住宅地が最寄り - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00UmJtN2xXay1QU1ZBc3gzaXBQdl93NUpqdjRpMXVzclVEZ19fNWk5RUM0QWEzMW5kREQ4TkV4OTlHWm83amU4U3lGdTVOeUxyV3pfTWpKZHN5eDN0QW9UMlZQWHZzWGxBNGpzQjdMUl9LU0tfWFBNdjRGdExTX2s?oc=5",
@@ -5282,20 +5322,6 @@
         "みどりの"
       ],
       "source": "Infoseek",
-      "sourceType": "news",
-      "publishedAt": "2026-09-14T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
-    },
-    {
-      "id": "380d96ee9875bd69b786",
-      "title": "常磐道に「新しいインター」開業！ 11kmの「IC空白地帯」解消で発展中の「新興住宅地」にもほど近く！ 谷和原と谷田部の間に「つくばみらいSIC」 8月29日に開通 茨城 - くるまのニュース",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mZkFHdlcwOVRCVWZlbjdSSkNvellLX0tHWHVINi1Ha01xeWc5RTFmZzV6elY0Y3diOWVGSlRheHRCSXFOQkhqMVJXNA?oc=5",
-      "summary": "常磐道に「新しいインター」開業！ 11kmの「IC空白地帯」解消で発展中の「新興住宅地」にもほど近く！ 谷和原と谷田部の間に「つくばみらいSIC」 8月29日に開通 茨城 くるまのニュース",
-      "category": "交通・生活",
-      "areas": [
-        "みどりの"
-      ],
-      "source": "くるまのニュース",
       "sourceType": "news",
       "publishedAt": "2026-09-14T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
