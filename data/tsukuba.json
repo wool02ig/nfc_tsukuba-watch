@@ -1,22 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T11:41:53.213236+00:00",
-  "articleCount": 464,
+  "updatedAt": "2026-11-20T22:14:52.988762+00:00",
+  "articleCount": 467,
   "sources": [
     {
       "source": "つくば市公式",
       "ok": true,
-      "count": 13
+      "count": 12
     },
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 37
+      "count": 36
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 12
+      "count": 6
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -31,20 +31,32 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 5
+      "count": 3
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 3
+      "count": 1
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
       "ok": true,
-      "count": 0
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "acc52f7b20db698c41c6",
+      "title": "参政党茨城県連チャンネル❗️ 今回は堀幸太が、つくば市の水道 - 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoZjRoZTJWZFJ4V0ZUVzFqLXBUME1iZm9Xamc0eUhEcWdhS29penhxZjVkX3dneVNTWU43MDM3TGNMSFpiZlRnbTdDTjNmcjJYOEJjc1dwTHduY3pxNWtn?oc=5",
+      "summary": "参政党茨城県連チャンネル❗️ 今回は堀幸太が、つくば市の水道 選挙ドットコム",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "選挙ドットコム",
+      "sourceType": "news",
+      "publishedAt": "2026-11-20T13:09:09+00:00",
+      "firstSeenAt": "2026-11-20T22:14:52.988762+00:00"
+    },
     {
       "id": "43932ff2b8b8cbd12f75",
       "title": "DV等支援対象者の住所、秘匿を怠り加害側に誤送付 茨城・つくば市（朝日新聞） - Yahoo!ニュース",
@@ -58,16 +70,16 @@
       "firstSeenAt": "2026-11-20T11:41:53.213236+00:00"
     },
     {
-      "id": "7cbc53a44374d10a9641",
-      "title": "茨城・つくば市の陸上競技場工事、48.8億円の株木建設JV - 建設通信新聞Digital",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SMkJOSU5PVlBFcE40ekRFRmZ4aXdyT2ltLTB1QnVHX2dxNnYtSXFZNkdCVGoyVTFZMzY4b2hWTmpLanB3SEVzR2FPd203X0JEMFpORW1n?oc=5",
-      "summary": "茨城・つくば市の陸上競技場工事、48.8億円の株木建設JV 建設通信新聞Digital",
-      "category": "開発・建設",
+      "id": "01fa20bb4c6cf1f53913",
+      "title": "DV等支援対象者の住所、秘匿を怠り加害側に誤送付 茨城・つくば市 [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SUnExeE5kVkVZb1I1QldaX3UtRVprcmNQRWRNVkFsT2lXTjlaanA2OGJ6WDNjZ0k2WFFTXzRYMlZvdm8zSmVJYnc3Ri16MW4xWmZpVzRaZVBJbU10NmR1Q3NMMlRjQlU?oc=5",
+      "summary": "DV等支援対象者の住所、秘匿を怠り加害側に誤送付 茨城・つくば市 [茨城県] 朝日新聞",
+      "category": "地域ニュース",
       "areas": [],
-      "source": "建設通信新聞Digital",
+      "source": "朝日新聞",
       "sourceType": "news",
-      "publishedAt": "2026-11-20T10:03:17+00:00",
-      "firstSeenAt": "2026-11-18T10:16:26.400401+00:00"
+      "publishedAt": "2026-11-20T11:22:39+00:00",
+      "firstSeenAt": "2026-11-20T22:14:52.988762+00:00"
     },
     {
       "id": "64cf02e3f56af01958a7",
@@ -190,6 +202,18 @@
       "firstSeenAt": "2026-11-20T11:41:53.213236+00:00"
     },
     {
+      "id": "5cf6c9eeb91170cabf8a",
+      "title": "DV当事者の住所 つくば市が漏らす 相手方に郵送、転居費払う - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hZTVGbUhwUnlMMVlVOHYxOW9MeEZzVkdFeTJvMEU3VEQ1aF9yVUVDSHdNZlcwLXc0a2l5eTBjREFQSHB6a1dOXzQ0b0RZaEZqbnF4ZTVWS1V1NldNcWtmOVg3S2lIMENaR1hNTElmYlJydjjSAXhBVV95cUxQc2V1alA1S0VleVUwVnBrTnFTR2tkdVRYbEsxdHpLMjlteWc0UjRpLUstSUxwaFZ5MFJZZDd3TFdMaU1Ddk1kUG96Rm1CRzRvZEVYTmVDNkJJRDdLSk1wSEJVZmxVYVN5UUQ5bEJIS2N6WjlUQWtlWWY?oc=5",
+      "summary": "DV当事者の住所 つくば市が漏らす 相手方に郵送、転居費払う ｄメニューニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ｄメニューニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-19T23:27:00+00:00",
+      "firstSeenAt": "2026-11-20T22:14:52.988762+00:00"
+    },
+    {
       "id": "11b77c2e090a540edced",
       "title": "1985年・つくば科学万博の連節バス、あす復活 牛久市制40年記念イベント ひたち野うしく駅発着 - 東京新聞",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JYjhsMldnamVLRm9USURmbzdncHFpVWFFSW5jeF9JYUJRcmJpeTRXTDF2S1JJZWZ2b3I2NmwzYmVZLVZOOV9Bdjd6NDVmcGJ2Q2s4?oc=5",
@@ -224,6 +248,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-19T11:50:08+00:00",
       "firstSeenAt": "2026-11-20T11:41:53.213236+00:00"
+    },
+    {
+      "id": "7cbc53a44374d10a9641",
+      "title": "茨城・つくば市の陸上競技場工事、48.8億円の株木建設JV - 建設通信新聞Digital",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SMkJOSU5PVlBFcE40ekRFRmZ4aXdyT2ltLTB1QnVHX2dxNnYtSXFZNkdCVGoyVTFZMzY4b2hWTmpLanB3SEVzR2FPd203X0JEMFpORW1n?oc=5",
+      "summary": "茨城・つくば市の陸上競技場工事、48.8億円の株木建設JV 建設通信新聞Digital",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "建設通信新聞Digital",
+      "sourceType": "news",
+      "publishedAt": "2026-11-19T08:00:00+00:00",
+      "firstSeenAt": "2026-11-18T10:16:26.400401+00:00"
     },
     {
       "id": "27287d6264452b11923a",
@@ -460,6 +496,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-17T10:00:23+00:00",
       "firstSeenAt": "2026-11-17T10:18:53.754249+00:00"
+    },
+    {
+      "id": "3a7ed48ba9b23e0e5d27",
+      "title": "サンヨーリアルティ株式会社 エイブルネットワークつくば学園店 - CHINTAI",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vb1JfNDhZVVhjaWMyaDJYaGNWRm1qbGk3R0ZBYUYyc1J2YUdiU3g0WkdFbFNjZXJjQlhZUi05RG5oYlR1eWcwRy00N1l3RnNUamhVVzFxLTNlQQ?oc=5",
+      "summary": "サンヨーリアルティ株式会社 エイブルネットワークつくば学園店 CHINTAI",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "CHINTAI",
+      "sourceType": "news",
+      "publishedAt": "2026-11-17T09:52:54+00:00",
+      "firstSeenAt": "2026-11-20T22:14:52.988762+00:00"
     },
     {
       "id": "9db0970efa2890016a20",
@@ -5715,18 +5763,6 @@
       "source": "zakⅡ",
       "sourceType": "news",
       "publishedAt": "2026-08-23T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "51f5a59f66f197fb8a9e",
-      "title": "市内中小企業による技術展示会「Tsukuba Lab. Meetup in AIST」",
-      "url": "https://www.city.tsukuba.lg.jp/soshikikarasagasu/keizaibusangyoshinkoka/gyomuannai/2/13909.html",
-      "summary": "",
-      "category": "行政・市政",
-      "areas": [],
-      "source": "つくば市公式",
-      "sourceType": "official",
-      "publishedAt": "2026-08-22T22:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     }
   ]
