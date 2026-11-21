@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T11:03:32.995177+00:00",
-  "articleCount": 469,
+  "updatedAt": "2026-11-21T20:54:25.641491+00:00",
+  "articleCount": 471,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,17 +11,17 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 37
+      "count": 34
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 2
+      "count": 4
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -31,12 +31,12 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 5
+      "count": 3
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 1
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -45,6 +45,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "9b90913a9b8cee9383e2",
+      "title": "障害者が描いた絵がワインラベルに つくばワイナリーで販売開始 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VZF9jekVOUUNnNE5CWTBjZmRDWERxdmZxRlFZLWJKOUR5djdKZUNyZ3hNSDJoUC1Ha2JjdUwyd21RcjEwV0pGV182Yw?oc=5",
+      "summary": "障害者が描いた絵がワインラベルに つくばワイナリーで販売開始 NEWSつくば",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-21T09:51:49+00:00",
+      "firstSeenAt": "2026-11-21T20:54:25.641491+00:00"
+    },
     {
       "id": "b61ffe23e8fb4fe8bfbc",
       "title": "【つくば市】明日11月22日(日)は第46回つくばマラソンです。市内の交通規制にご注意ください。 - 号外NET つくば市",
@@ -56,6 +68,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-20T22:38:25+00:00",
       "firstSeenAt": "2026-11-21T11:03:32.995177+00:00"
+    },
+    {
+      "id": "1fbdca7248271e3c4a26",
+      "title": "茨城：つくばマラソンあす号砲 フルに１万１２０７人エントリー：地域ニュース - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MdVVLU1U1em5LUkQyZDZRdzh3V0F1UW9ZOHJIcnNTNkI5ZGgwVjNBeWZZRkh6a3pHVGt5YUlGRHIzWERkaDZfcFI1akhqVGZGVGtaWTJ4YXZwOHRpWXFmRXVMNi1hY01WRGJZQUh2WUg0UFk?oc=5",
+      "summary": "茨城：つくばマラソンあす号砲 フルに１万１２０７人エントリー：地域ニュース 読売新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "読売新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-20T20:00:00+00:00",
+      "firstSeenAt": "2026-11-21T20:54:25.641491+00:00"
     },
     {
       "id": "acc52f7b20db698c41c6",
@@ -310,18 +334,6 @@
       "firstSeenAt": "2026-11-19T04:10:05.081279+00:00"
     },
     {
-      "id": "042f93378b0ff0f0f3f0",
-      "title": "研究者カード手に入れて 産総研、21日「特別公開」 茨城・つくば（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLcXZLbE9OQWFaQWV0X3FYZHYzWmFWUkdhUlF2XzVCdnFDdG54Z1hpRlhyel92RUZ1YXQwV2dJMTlpRlN6Yi0wNC0yOVRnNEFHQU1SV1VfYmhyUEl3X2xDQVBGUkRwR2ZYeXVZaU15T21GeVc0ckw1dHY1WG1sWEU?oc=5",
-      "summary": "研究者カード手に入れて 産総研、21日「特別公開」 茨城・つくば（朝日新聞） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-19T02:15:01+00:00",
-      "firstSeenAt": "2026-11-19T04:10:05.081279+00:00"
-    },
-    {
       "id": "650543fd4d13e3e3dae3",
       "title": "研究者カード手に入れて 産総研、21日「特別公開」 茨城・つくば [茨城県] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ISjg0NkMtVUR0bFNfUU5CekFqeW8ySjFfM05oMkVZLUt3QnJZY3g2eXplbVI1QTF2b3RnWHoxVkw5T3ZBTDZCX0VNRmtSdDR5LWlPZWNFNENvNUMyUndqNDNBekxid2c?oc=5",
@@ -332,6 +344,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-19T02:15:01+00:00",
       "firstSeenAt": "2026-11-19T10:19:36.877271+00:00"
+    },
+    {
+      "id": "042f93378b0ff0f0f3f0",
+      "title": "研究者カード手に入れて 産総研、21日「特別公開」 茨城・つくば（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLcXZLbE9OQWFaQWV0X3FYZHYzWmFWUkdhUlF2XzVCdnFDdG54Z1hpRlhyel92RUZ1YXQwV2dJMTlpRlN6Yi0wNC0yOVRnNEFHQU1SV1VfYmhyUEl3X2xDQVBGUkRwR2ZYeXVZaU15T21GeVc0ckw1dHY1WG1sWEU?oc=5",
+      "summary": "研究者カード手に入れて 産総研、21日「特別公開」 茨城・つくば（朝日新聞） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-19T02:15:01+00:00",
+      "firstSeenAt": "2026-11-19T04:10:05.081279+00:00"
     },
     {
       "id": "f1a8d1b66c8f2b73a59e",
@@ -4052,18 +4076,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "c95f14261b2f26ecf4d0",
-      "title": "ミスターマックスほか／茨城県つくば市に「（仮称）つくば市上河原崎商業施設（店舗面積1万4854m2）」27年6月1日新設 - 流通ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbkVDMnhJbkpHN0Vjd284X0xxVF9YekgtcEhjMG9sQnQ0R2dsbmwyMFloVm9GallzZGtVMWRJZTBQc1NEdlRpUTVmaGozaE14SEtHa1VB?oc=5",
-      "summary": "ミスターマックスほか／茨城県つくば市に「（仮称）つくば市上河原崎商業施設（店舗面積1万4854m2）」27年6月1日新設 流通ニュース",
-      "category": "開発・建設",
-      "areas": [],
-      "source": "流通ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-27T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
       "id": "3f8e6b73755b21fc74e6",
       "title": "つくば市上河原崎商業施設 2027年夏開業！約30店舗が出店へ！テナントは？最新情報も！ - 出店ウォッチ",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xSHRsZ2VWUVpLRFk5SWJ1RElxV1VKekgwS09IeVJjenFsNDVod3puQUl3LXp0NzRNaUZZVXZWU3NOWkpJS2FKTXo3bFhDNUE?oc=5",
@@ -4074,6 +4086,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-27T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T21:53:04.722721+00:00"
+    },
+    {
+      "id": "c95f14261b2f26ecf4d0",
+      "title": "ミスターマックスほか／茨城県つくば市に「（仮称）つくば市上河原崎商業施設（店舗面積1万4854m2）」27年6月1日新設 - 流通ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbkVDMnhJbkpHN0Vjd284X0xxVF9YekgtcEhjMG9sQnQ0R2dsbmwyMFloVm9GallzZGtVMWRJZTBQc1NEdlRpUTVmaGozaE14SEtHa1VB?oc=5",
+      "summary": "ミスターマックスほか／茨城県つくば市に「（仮称）つくば市上河原崎商業施設（店舗面積1万4854m2）」27年6月1日新設 流通ニュース",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "流通ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-10-27T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "3ffafb1baadbd779466e",
@@ -5140,6 +5164,20 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
+      "id": "3ff8f29e6c18f9542946",
+      "title": "そよらつくば学園の森 2026年10月25日(日)開業！全11テナント一覧！最新情報も！ - 出店ウォッチ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yT09DRXRUdWQ3VlVhU2hETkhpcGQtbVByRFBqY0xJdmN1aGl0UGd1MVBFYWNicTd2TFhWVjB6MWlselFrY3lZOFdMTWRtVWM?oc=5",
+      "summary": "そよらつくば学園の森 2026年10月25日(日)開業！全11テナント一覧！最新情報も！ 出店ウォッチ",
+      "category": "店舗・グルメ",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "出店ウォッチ",
+      "sourceType": "news",
+      "publishedAt": "2026-09-30T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
       "id": "13254350b4460849abef",
       "title": "「そよらつくば学園の森」１０月２５日（日）オープン - ニコニコニュース",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BdUdCNjkwSjNubVE2cUFrU0lUY0NFZEQxSTV2VzlZZlRFM3J4MzBUY3pxVkppQ2IzZklyU2pfUlFaOWJsMU1UUGtMaUdZenhVSkJ1VA?oc=5",
@@ -5166,20 +5204,6 @@
       "sourceType": "news",
       "publishedAt": "2026-09-30T07:00:00+00:00",
       "firstSeenAt": "2026-11-14T15:50:17.648654+00:00"
-    },
-    {
-      "id": "3ff8f29e6c18f9542946",
-      "title": "そよらつくば学園の森 2026年10月25日(日)開業！全11テナント一覧！最新情報も！ - 出店ウォッチ",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yT09DRXRUdWQ3VlVhU2hETkhpcGQtbVByRFBqY0xJdmN1aGl0UGd1MVBFYWNicTd2TFhWVjB6MWlselFrY3lZOFdMTWRtVWM?oc=5",
-      "summary": "そよらつくば学園の森 2026年10月25日(日)開業！全11テナント一覧！最新情報も！ 出店ウォッチ",
-      "category": "店舗・グルメ",
-      "areas": [
-        "研究学園"
-      ],
-      "source": "出店ウォッチ",
-      "sourceType": "news",
-      "publishedAt": "2026-09-30T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
       "id": "547c38730b0fff60d595",
