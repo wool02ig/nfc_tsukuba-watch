@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T22:14:52.988762+00:00",
-  "articleCount": 467,
+  "updatedAt": "2026-11-21T11:03:32.995177+00:00",
+  "articleCount": 469,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 36
+      "count": 37
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 6
+      "count": 7
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -31,7 +31,7 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 3
+      "count": 5
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
@@ -46,6 +46,18 @@
   ],
   "articles": [
     {
+      "id": "b61ffe23e8fb4fe8bfbc",
+      "title": "【つくば市】明日11月22日(日)は第46回つくばマラソンです。市内の交通規制にご注意ください。 - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hMHA0Z1BCOUVkc1pOdjR5bVhoWE5VQmdXcnlScDJEX0F5dGd0bWdEdFB4TUZjLWpWUmFfUXdUNWVQeUxCTkU5UXZnNFh1M2RtaHdsQ1JKRjdfeUxLN1h5UUNnT25WZzRRZDlWVWRn?oc=5",
+      "summary": "【つくば市】明日11月22日(日)は第46回つくばマラソンです。市内の交通規制にご注意ください。 号外NET つくば市",
+      "category": "交通・生活",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-20T22:38:25+00:00",
+      "firstSeenAt": "2026-11-21T11:03:32.995177+00:00"
+    },
+    {
       "id": "acc52f7b20db698c41c6",
       "title": "参政党茨城県連チャンネル❗️ 今回は堀幸太が、つくば市の水道 - 選挙ドットコム",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoZjRoZTJWZFJ4V0ZUVzFqLXBUME1iZm9Xamc0eUhEcWdhS29penhxZjVkX3dneVNTWU43MDM3TGNMSFpiZlRnbTdDTjNmcjJYOEJjc1dwTHduY3pxNWtn?oc=5",
@@ -55,6 +67,18 @@
       "source": "選挙ドットコム",
       "sourceType": "news",
       "publishedAt": "2026-11-20T13:09:09+00:00",
+      "firstSeenAt": "2026-11-20T22:14:52.988762+00:00"
+    },
+    {
+      "id": "01fa20bb4c6cf1f53913",
+      "title": "DV等支援対象者の住所、秘匿を怠り加害側に誤送付 茨城・つくば市 [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SUnExeE5kVkVZb1I1QldaX3UtRVprcmNQRWRNVkFsT2lXTjlaanA2OGJ6WDNjZ0k2WFFTXzRYMlZvdm8zSmVJYnc3Ri16MW4xWmZpVzRaZVBJbU10NmR1Q3NMMlRjQlU?oc=5",
+      "summary": "DV等支援対象者の住所、秘匿を怠り加害側に誤送付 茨城・つくば市 [茨城県] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-20T11:22:39+00:00",
       "firstSeenAt": "2026-11-20T22:14:52.988762+00:00"
     },
     {
@@ -68,18 +92,6 @@
       "sourceType": "news",
       "publishedAt": "2026-11-20T11:22:39+00:00",
       "firstSeenAt": "2026-11-20T11:41:53.213236+00:00"
-    },
-    {
-      "id": "01fa20bb4c6cf1f53913",
-      "title": "DV等支援対象者の住所、秘匿を怠り加害側に誤送付 茨城・つくば市 [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SUnExeE5kVkVZb1I1QldaX3UtRVprcmNQRWRNVkFsT2lXTjlaanA2OGJ6WDNjZ0k2WFFTXzRYMlZvdm8zSmVJYnc3Ri16MW4xWmZpVzRaZVBJbU10NmR1Q3NMMlRjQlU?oc=5",
-      "summary": "DV等支援対象者の住所、秘匿を怠り加害側に誤送付 茨城・つくば市 [茨城県] 朝日新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-11-20T11:22:39+00:00",
-      "firstSeenAt": "2026-11-20T22:14:52.988762+00:00"
     },
     {
       "id": "64cf02e3f56af01958a7",
@@ -128,6 +140,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-20T07:55:47+00:00",
       "firstSeenAt": "2026-11-20T11:41:53.213236+00:00"
+    },
+    {
+      "id": "2cf276db5f5bd23dc99f",
+      "title": "「科学の芽」賞、小中高１５件に＝筑波大 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHVkV4aEgwUEJZTnkxRkhWRHJDLUtPUUVLcV9vbzNOSE1uc2N6VFNJX0RyTEgzelYwTkxtTUx5aVRBOHZsNUdGbnlZU21jeTFRZmVTZktpSndLNk04N0NjNl9XWmFBQdIBa0FVX3lxTE9oRnF6d2QxSllVWUFaYW5KdnB3VGY3T2lEWTVzWHNDRm1FNDc2Z3ZLUFh5azRIVFBqUlRRR3VUTHFHT2FkRmNpZUt3SE95ZDlJeDdkRnMyRWxPUzB6SExtSTk2Q1lPV3RYcWg4?oc=5",
+      "summary": "「科学の芽」賞、小中高１５件に＝筑波大 Infoseek",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Infoseek",
+      "sourceType": "news",
+      "publishedAt": "2026-11-20T07:43:27+00:00",
+      "firstSeenAt": "2026-11-21T11:03:32.995177+00:00"
     },
     {
       "id": "f3e99460cb8ee77729a6",
@@ -286,18 +310,6 @@
       "firstSeenAt": "2026-11-19T04:10:05.081279+00:00"
     },
     {
-      "id": "650543fd4d13e3e3dae3",
-      "title": "研究者カード手に入れて 産総研、21日「特別公開」 茨城・つくば [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ISjg0NkMtVUR0bFNfUU5CekFqeW8ySjFfM05oMkVZLUt3QnJZY3g2eXplbVI1QTF2b3RnWHoxVkw5T3ZBTDZCX0VNRmtSdDR5LWlPZWNFNENvNUMyUndqNDNBekxid2c?oc=5",
-      "summary": "研究者カード手に入れて 産総研、21日「特別公開」 茨城・つくば [茨城県] 朝日新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-11-19T02:15:01+00:00",
-      "firstSeenAt": "2026-11-19T10:19:36.877271+00:00"
-    },
-    {
       "id": "042f93378b0ff0f0f3f0",
       "title": "研究者カード手に入れて 産総研、21日「特別公開」 茨城・つくば（朝日新聞） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLcXZLbE9OQWFaQWV0X3FYZHYzWmFWUkdhUlF2XzVCdnFDdG54Z1hpRlhyel92RUZ1YXQwV2dJMTlpRlN6Yi0wNC0yOVRnNEFHQU1SV1VfYmhyUEl3X2xDQVBGUkRwR2ZYeXVZaU15T21GeVc0ckw1dHY1WG1sWEU?oc=5",
@@ -308,6 +320,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-19T02:15:01+00:00",
       "firstSeenAt": "2026-11-19T04:10:05.081279+00:00"
+    },
+    {
+      "id": "650543fd4d13e3e3dae3",
+      "title": "研究者カード手に入れて 産総研、21日「特別公開」 茨城・つくば [茨城県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ISjg0NkMtVUR0bFNfUU5CekFqeW8ySjFfM05oMkVZLUt3QnJZY3g2eXplbVI1QTF2b3RnWHoxVkw5T3ZBTDZCX0VNRmtSdDR5LWlPZWNFNENvNUMyUndqNDNBekxid2c?oc=5",
+      "summary": "研究者カード手に入れて 産総研、21日「特別公開」 茨城・つくば [茨城県] 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-19T02:15:01+00:00",
+      "firstSeenAt": "2026-11-19T10:19:36.877271+00:00"
     },
     {
       "id": "f1a8d1b66c8f2b73a59e",
@@ -332,6 +356,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-19T01:45:57+00:00",
       "firstSeenAt": "2026-11-19T04:10:05.081279+00:00"
+    },
+    {
+      "id": "b919dd1cddc8fc06660c",
+      "title": "【茨城・つくば】卵を産み終えた鶏を、最後まで自分たちの手で食卓へ。障害のある人が働く農場「ごきげんファーム」が、つくば市上郷に食鳥処理施設を建設 | NPO法人ユアフィールドつくばのプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VOHdFMG9EQlMwZEVjY19HWlBsSE9IbWZfT2VrV0N5RHhVZUltTXRnb2dMaFpnOXFCR0dPcDVsYy1MSFpPOC1jbThMYVRCRFJoby1ZNmdOY0hGcjM2RHlUMmwzeWdad3hLY2c?oc=5",
+      "summary": "【茨城・つくば】卵を産み終えた鶏を、最後まで自分たちの手で食卓へ。障害のある人が働く農場「ごきげんファーム」が、つくば市上郷に食鳥処理施設を建設 | NPO法人ユアフィールドつくばのプレスリリース PR TIMES",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "PR TIMES",
+      "sourceType": "news",
+      "publishedAt": "2026-11-19T00:00:02+00:00",
+      "firstSeenAt": "2026-11-21T11:03:32.995177+00:00"
     },
     {
       "id": "0021a6647cc91552c836",
@@ -4946,18 +4982,6 @@
       "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
     },
     {
-      "id": "22189fa9a5102947b349",
-      "title": "【つくば市】10月6日デイズタウンに新しい居酒屋がオープンするみたい♪「土佐炉端と藁焼き なぶら」が気になる！ - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05VEgzNkZQOTJiRGtzaUJKMlllRm5Oa3BBRHV2QUg1cUdDenBMbkdoTnJwR05ORDY2bWhDTUk1RGRUejFvNFJLMlk5N3NQR3lUcmdZYUlXeFhBQVNzTlp6SA?oc=5",
-      "summary": "【つくば市】10月6日デイズタウンに新しい居酒屋がオープンするみたい♪「土佐炉端と藁焼き なぶら」が気になる！ 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-10-05T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
-    },
-    {
       "id": "4dc763b2c9a5cfad2178",
       "title": "つくばで30年愛された「らーめん三水」が下妻へ！ 10/5(月)、待望の3号店をグランドオープン ― 30年の味と人を受け継ぎ、つくば・守谷に続く新たな一歩 - Newscast.jp",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KYklRU2U3QnQwMEhfR0hxNVhKS2ZOZk5xMFVhSWdCcjJsNkJmVGhhbUxIRk90YnoyckhqcnB2TGpMVVZ2Q1pOYXU2VW11Nmc?oc=5",
@@ -4968,6 +4992,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-05T07:00:00+00:00",
       "firstSeenAt": "2026-11-02T16:11:39.323189+00:00"
+    },
+    {
+      "id": "22189fa9a5102947b349",
+      "title": "【つくば市】10月6日デイズタウンに新しい居酒屋がオープンするみたい♪「土佐炉端と藁焼き なぶら」が気になる！ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05VEgzNkZQOTJiRGtzaUJKMlllRm5Oa3BBRHV2QUg1cUdDenBMbkdoTnJwR05ORDY2bWhDTUk1RGRUejFvNFJLMlk5N3NQR3lUcmdZYUlXeFhBQVNzTlp6SA?oc=5",
+      "summary": "【つくば市】10月6日デイズタウンに新しい居酒屋がオープンするみたい♪「土佐炉端と藁焼き なぶら」が気になる！ 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-10-05T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
     },
     {
       "id": "24bcc4e03f4734d684b5",
@@ -5752,18 +5788,6 @@
       "sourceType": "news",
       "publishedAt": "2026-08-24T07:00:00+00:00",
       "firstSeenAt": "2026-10-31T09:50:47.806792+00:00"
-    },
-    {
-      "id": "bf291f64efca5f4d3f7d",
-      "title": "東京足立区・川口・つくばで震度5弱 震源地は茨城県南部でM5.9 - zakⅡ",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6MXVSbmlIV2RuenNfU1FnOUtjeWpJbTZPSU1SQ0dyUDFRc2pIRkJpYTIxX3UyT2p0VmF6c2tTZ1dCSjhlc25Xcjc1MHFmQWczMmJ3Unc0aXkxZjYxYUliSHpVVjUxaDBVOURrQ2lZSVNfSFlSaElnWNIBjAFBVV95cUxNWG1ZS0UwdGZ4SWlYbVZ4OWJDSGhDZHJRSlJPX3ZHck92dkdFYkFSSWwtSjl0RDIyRDlpVDRkcWY3ckt3NkFHMFRJZE1JeTNxZVVmRV9mNTZOVXJSY0ZFV1d2R2k5OUM1UFRYUExQSnpBVlhtTkFNM1dib19FbGU1MFJJVmRsZWpEVmkwYg?oc=5",
-      "summary": "東京足立区・川口・つくばで震度5弱 震源地は茨城県南部でM5.9 zakⅡ",
-      "category": "防災・安全",
-      "areas": [],
-      "source": "zakⅡ",
-      "sourceType": "news",
-      "publishedAt": "2026-08-23T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     }
   ]
 }
