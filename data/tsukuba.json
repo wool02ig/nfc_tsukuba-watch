@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T11:26:32.259471+00:00",
-  "articleCount": 483,
+  "updatedAt": "2026-11-22T21:03:55.168918+00:00",
+  "articleCount": 489,
   "sources": [
     {
       "source": "つくば市公式",
@@ -11,12 +11,12 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 29
+      "count": 33
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
@@ -45,6 +45,68 @@
     }
   ],
   "articles": [
+    {
+      "id": "451856463cee78bc4191",
+      "title": "茨城：学園都市１万人疾走 つくばマラソンに熱い声援 ：地域ニュース - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GSXl4S0pqUGRBXzZubzZrbHp0eF9mblo1SEt2ZjFpRkt4UE02NTZKYnpEZmY5akpaSkRlR0JvMlB5Q1poRVo1clI5VEZVNTVfVV9yck9Wd2hURUx4X1g3ZGtVaTlHazlTc1lNVldLcnRwZzQ?oc=5",
+      "summary": "茨城：学園都市１万人疾走 つくばマラソンに熱い声援 ：地域ニュース 読売新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "読売新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-22T20:00:00+00:00",
+      "firstSeenAt": "2026-11-22T21:03:55.168918+00:00"
+    },
+    {
+      "id": "94b0a5301e0a3f1216a8",
+      "title": "住宅と歯科医院の2棟全焼 火事に気づき消火活動を行った女性がやけど 命に別条なし 茨城・つくば市 - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ia2RsMkp4RTFNdWpRcUh2Y3dUdFF0MDlxa1hHZUhUelpRT3hPZnh1eDdLTWs1QlBDOTRxazVSRXlCRjdRRDB6NVBWTjJPNXZBVHdsaUdjMWZFRDZ6NnRB?oc=5",
+      "summary": "住宅と歯科医院の2棟全焼 火事に気づき消火活動を行った女性がやけど 命に別条なし 茨城・つくば市 千葉テレビ放送株式会社",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "千葉テレビ放送株式会社",
+      "sourceType": "news",
+      "publishedAt": "2026-11-22T17:53:21+00:00",
+      "firstSeenAt": "2026-11-22T21:03:55.168918+00:00"
+    },
+    {
+      "id": "d35d44b18dacf3c592b3",
+      "title": "住宅と歯科医院の2棟全焼 火事に気づき消火活動を行った女性がやけど 命に別条なし 茨城・つくば市 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZSkRBTDh2NkxwaXhEQ2hvTEpLUzhIcHpOaEhQdU1ac2otS2RtZTFua1QzOG9CUF9TRk5xWldTNEk4VGMzTjNMMDVSS3cwV0FhLTAtNmVLNGFQLUJ3bnFCc2diREFVdWc2QTd4TVZB?oc=5",
+      "summary": "住宅と歯科医院の2棟全焼 火事に気づき消火活動を行った女性がやけど 命に別条なし 茨城・つくば市 Excite エキサイト",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Excite エキサイト",
+      "sourceType": "news",
+      "publishedAt": "2026-11-22T17:53:00+00:00",
+      "firstSeenAt": "2026-11-22T21:03:55.168918+00:00"
+    },
+    {
+      "id": "eac8a22ea7301564d6a6",
+      "title": "住宅と歯科医院の2棟全焼 火事に気づき消火活動を行った女性がやけど 命に別条なし 茨城・つくば市 - FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2Znd0cWRURV9kQUpoMWZTcHlraHBUeV9uY1I1V3ZHRUVEUlZJTzdOWGthTmtIbUNiVVExaWh6Qm03eUdqMU91Y251bEtrZw?oc=5",
+      "summary": "住宅と歯科医院の2棟全焼 火事に気づき消火活動を行った女性がやけど 命に別条なし 茨城・つくば市 FNNプライムオンライン",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "FNNプライムオンライン",
+      "sourceType": "news",
+      "publishedAt": "2026-11-22T17:48:00+00:00",
+      "firstSeenAt": "2026-11-22T21:03:55.168918+00:00"
+    },
+    {
+      "id": "2539f396b6fb94c28c5f",
+      "title": "つくばマラソンが終わり、明日はイーアスつくば前の研究学園交差点 - 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1feDdXRnNQdkczN3lNT3RJVmdsVGpHNHNpaDZSeC1JUU14d3NsOFliNjdmbExEVHZ4MlNtaXNlOEFCcEotWGR5VG9NWVlHV2k3c3BncU5DLUdNeDRFdnBz?oc=5",
+      "summary": "つくばマラソンが終わり、明日はイーアスつくば前の研究学園交差点 選挙ドットコム",
+      "category": "地域ニュース",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "選挙ドットコム",
+      "sourceType": "news",
+      "publishedAt": "2026-11-22T14:21:54+00:00",
+      "firstSeenAt": "2026-11-22T21:03:55.168918+00:00"
+    },
     {
       "id": "56619cc90efa3207ef57",
       "title": "【つくば市】旧小学校で楽しむ親子のハーモニー♪12月5日(土)親子ギター弾き語りユニット「JOKER」の弾き語りライブが「つくばアートスタジオたみやま」で開催されるそうですよ - 号外NET つくば市",
@@ -118,18 +180,6 @@
       "firstSeenAt": "2026-11-20T22:14:52.988762+00:00"
     },
     {
-      "id": "43932ff2b8b8cbd12f75",
-      "title": "DV等支援対象者の住所、秘匿を怠り加害側に誤送付 茨城・つくば市（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTX2FrYVhfYmxfajg1V1hsUHBDTzFtZmRfSFhpX1A5STBBN0ZpV2FWZGp2RVN2MGM5QzJLTDdIMnJUd3ppT3lKV19lUWtxZm9PTzA4UkxGUzJnOXJKMVlVUWFFS1QzZEp0LUl4MHhuVUVGVkloUW9CV0ZEV3JUSWc?oc=5",
-      "summary": "DV等支援対象者の住所、秘匿を怠り加害側に誤送付 茨城・つくば市（朝日新聞） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-20T11:22:39+00:00",
-      "firstSeenAt": "2026-11-20T11:41:53.213236+00:00"
-    },
-    {
       "id": "01fa20bb4c6cf1f53913",
       "title": "DV等支援対象者の住所、秘匿を怠り加害側に誤送付 茨城・つくば市 [茨城県] - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SUnExeE5kVkVZb1I1QldaX3UtRVprcmNQRWRNVkFsT2lXTjlaanA2OGJ6WDNjZ0k2WFFTXzRYMlZvdm8zSmVJYnc3Ri16MW4xWmZpVzRaZVBJbU10NmR1Q3NMMlRjQlU?oc=5",
@@ -140,6 +190,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-20T11:22:39+00:00",
       "firstSeenAt": "2026-11-20T22:14:52.988762+00:00"
+    },
+    {
+      "id": "43932ff2b8b8cbd12f75",
+      "title": "DV等支援対象者の住所、秘匿を怠り加害側に誤送付 茨城・つくば市（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTX2FrYVhfYmxfajg1V1hsUHBDTzFtZmRfSFhpX1A5STBBN0ZpV2FWZGp2RVN2MGM5QzJLTDdIMnJUd3ppT3lKV19lUWtxZm9PTzA4UkxGUzJnOXJKMVlVUWFFS1QzZEp0LUl4MHhuVUVGVkloUW9CV0ZEV3JUSWc?oc=5",
+      "summary": "DV等支援対象者の住所、秘匿を怠り加害側に誤送付 茨城・つくば市（朝日新聞） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-20T11:22:39+00:00",
+      "firstSeenAt": "2026-11-20T11:41:53.213236+00:00"
     },
     {
       "id": "bcd09360705d4a4cb76a",
@@ -272,6 +334,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-20T01:42:30+00:00",
       "firstSeenAt": "2026-11-20T11:41:53.213236+00:00"
+    },
+    {
+      "id": "80c1f167ef373ea99887",
+      "title": "アートをまとった防災水栓―盛岡市の試み ヘラルボニー、品川区・つくば市・世田谷区へ広がる - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51Y2pZcEotSWdrcmhRUVlKTGY4RDktcldiejlybTVYNHVqYzd4VUZaMUo5NHY0V2JWcFE2aHJpaS1qc3VwdndsbnI4THlvQ1pLMEg2RW1tVkVlMkNSd1E?oc=5",
+      "summary": "アートをまとった防災水栓―盛岡市の試み ヘラルボニー、品川区・つくば市・世田谷区へ広がる Infoseek",
+      "category": "防災・安全",
+      "areas": [],
+      "source": "Infoseek",
+      "sourceType": "news",
+      "publishedAt": "2026-11-20T01:01:34+00:00",
+      "firstSeenAt": "2026-11-22T21:03:55.168918+00:00"
     },
     {
       "id": "35216ec96a8aed9552f6",
@@ -1336,6 +1410,18 @@
       "firstSeenAt": "2026-11-12T04:06:01.843636+00:00"
     },
     {
+      "id": "1cd4e161c3d6a4bb0c1a",
+      "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zWmNXRjI5QldYOHlFdmxwVFY3UHN6WC02c3lpM2l4aEdPODNtdGxLX1prQ1NqYllzMThzUDRodW9Uc3ktcjJiWE5URmdOckpsMDNkbTdMQTE1VDRMQ2QtSTRWYlF3SVk?oc=5",
+      "summary": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] 朝日新聞",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
+    },
+    {
       "id": "fc40dcb98320ce448020",
       "title": "茨城・つくば市、データセンター集積へ事業者公募 - 建設通信新聞Digital",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pcWw1UXR3TlZiblpnNkZlNTdhU1BvMjRHa1dUT2g1YlptMkdpVFh3d1ZjdGtWaFZrU2htX0JHUXVhdnpsLWRkbFVQWmNmSzEtdmYwUDVR?oc=5",
@@ -1372,18 +1458,6 @@
       "sourceType": "news",
       "publishedAt": "2026-11-11T08:00:00+00:00",
       "firstSeenAt": "2026-11-13T10:11:58.223176+00:00"
-    },
-    {
-      "id": "1cd4e161c3d6a4bb0c1a",
-      "title": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zWmNXRjI5QldYOHlFdmxwVFY3UHN6WC02c3lpM2l4aEdPODNtdGxLX1prQ1NqYllzMThzUDRodW9Uc3ktcjJiWE5URmdOckpsMDNkbTdMQTE1VDRMQ2QtSTRWYlF3SVk?oc=5",
-      "summary": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める [茨城県] [AIの時代] 朝日新聞",
-      "category": "行政・市政",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-11-11T08:00:00+00:00",
-      "firstSeenAt": "2026-11-10T21:52:15.782814+00:00"
     },
     {
       "id": "9e4cb697c1bc7c6d8f0b",
@@ -5610,18 +5684,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "9cd65c1946d4719562a2",
-      "title": "柏旭町のラーメン店「麺屋こうじ本店」が9月30日閉店、約20年の歴史を経てつくば店へ機能移管 - 柏つうしん",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QejlMZ2NTcEdQeXVGMTRJUVlCTWRCajJvSGtmemN4bnZ3TG1vbm5RTHExaTZmeDE4X1lXX1M3Qi1PdEJDMHNHYjNzYXZzQVk?oc=5",
-      "summary": "柏旭町のラーメン店「麺屋こうじ本店」が9月30日閉店、約20年の歴史を経てつくば店へ機能移管 柏つうしん",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "柏つうしん",
-      "sourceType": "news",
-      "publishedAt": "2026-09-21T07:00:00+00:00",
-      "firstSeenAt": "2026-11-06T21:51:14.744350+00:00"
-    },
-    {
       "id": "cbcf5d4e50d252ca2bf8",
       "title": "【レベル３土砂災害警報】茨城県・つくば市に発表 17:15時点 - TBS NEWS DIG",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3MkFPX0praTVXamNfb1p0TmFieDZoTUpNN0pwTE41M01aMklVUVk3WTJaVC1VUHFWeWVuckF6OHYxYnNPM3NuY2pNMEx4LUhqaXdtaVhNMA?oc=5",
@@ -5632,6 +5694,18 @@
       "sourceType": "news",
       "publishedAt": "2026-09-21T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "9cd65c1946d4719562a2",
+      "title": "柏旭町のラーメン店「麺屋こうじ本店」が9月30日閉店、約20年の歴史を経てつくば店へ機能移管 - 柏つうしん",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QejlMZ2NTcEdQeXVGMTRJUVlCTWRCajJvSGtmemN4bnZ3TG1vbm5RTHExaTZmeDE4X1lXX1M3Qi1PdEJDMHNHYjNzYXZzQVk?oc=5",
+      "summary": "柏旭町のラーメン店「麺屋こうじ本店」が9月30日閉店、約20年の歴史を経てつくば店へ機能移管 柏つうしん",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "柏つうしん",
+      "sourceType": "news",
+      "publishedAt": "2026-09-21T07:00:00+00:00",
+      "firstSeenAt": "2026-11-06T21:51:14.744350+00:00"
     },
     {
       "id": "994c8a5a1da36ab3e0b1",
