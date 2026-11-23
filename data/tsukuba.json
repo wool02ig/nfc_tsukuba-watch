@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T01:44:42.459998+00:00",
+  "updatedAt": "2026-11-23T12:44:18.044963+00:00",
   "articleCount": 494,
   "sources": [
     {
@@ -10,38 +10,45 @@
     },
     {
       "source": "ニュース検索：つくば市 ニュース",
-      "ok": true,
-      "count": 77
+      "ok": false,
+      "count": 0,
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82"
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0,
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82"
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
-      "ok": true,
-      "count": 2
+      "ok": false,
+      "count": 0,
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82"
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "count": 0,
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82"
     },
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
-      "ok": true,
-      "count": 3
+      "ok": false,
+      "count": 0,
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82"
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
-      "ok": true,
-      "count": 1
+      "ok": false,
+      "count": 0,
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82"
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
-      "ok": true,
-      "count": 1
+      "ok": false,
+      "count": 0,
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82"
     }
   ],
   "articles": [
