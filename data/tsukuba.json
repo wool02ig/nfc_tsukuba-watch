@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T23:53:55.637760+00:00",
+  "updatedAt": "2026-11-25T12:57:48.949391+00:00",
   "articleCount": 500,
   "sources": [
     {
@@ -11,17 +11,17 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 36
+      "count": 33
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 12
+      "count": 8
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 3
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -31,7 +31,7 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 4
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
@@ -46,6 +46,42 @@
   ],
   "articles": [
     {
+      "id": "10ad4f0560af1102a863",
+      "title": "茨城・つくば市の壮年「挑戦重ねる人生は面白い！」 〈多宝世代のページ 今を晴れ晴れと〉 - 聖教新聞",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13Q2xINkhHbU1MNUVlc0d6ZUYySWxCc1oyRFBncnI1bWFHM0R3YjFXTE5vVEhqQ3RtSzRkYjhrSm1UX1FsMVNJTktrVHpyTmdCM0xsTUJDRTNRT1JkRlgxekFsQUt3dDFhM1EwdVFHMW9scDBkRXJFeA?oc=5",
+      "summary": "茨城・つくば市の壮年「挑戦重ねる人生は面白い！」 〈多宝世代のページ 今を晴れ晴れと〉 聖教新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "聖教新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-25T10:35:28+00:00",
+      "firstSeenAt": "2026-11-25T12:57:48.949391+00:00"
+    },
+    {
+      "id": "cf09754c08812ab0989b",
+      "title": "「これじゃ説明会じゃない」つくば市のデータセンター計画 説明会始まるも反発 | 政・経 | ニュース一覧 - LuckyFM茨城放送",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wQ25pRW1CY3VPemtvdGd1R01rdDF3eldFUVB6cVk5Y3dhcHRWS2VvWlNkdm00bkhmM21CdEFObDQ1UTB6QVpXQzNvZFh1bjVkLXJoUmZR?oc=5",
+      "summary": "「これじゃ説明会じゃない」つくば市のデータセンター計画 説明会始まるも反発 | 政・経 | ニュース一覧 LuckyFM茨城放送",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "LuckyFM茨城放送",
+      "sourceType": "news",
+      "publishedAt": "2026-11-25T07:50:46+00:00",
+      "firstSeenAt": "2026-11-25T12:57:48.949391+00:00"
+    },
+    {
+      "id": "0ed7aeb6d7c691fe9014",
+      "title": "第2回講演会は12/13「都市型データセンターあり方検討会」の伊瀬洋昭さん - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LSkdxZ1Q2YkVoZXJQcElrWTBqRGh3TW0tZkN6MmFWYXZUT2J6Rm83UEllSnYzSlBLbHBQZC1nMW03VEk0N2dlYmpsYw?oc=5",
+      "summary": "第2回講演会は12/13「都市型データセンターあり方検討会」の伊瀬洋昭さん NEWSつくば",
+      "category": "イベント",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-25T01:19:46+00:00",
+      "firstSeenAt": "2026-11-25T12:57:48.949391+00:00"
+    },
+    {
       "id": "6dd8ced33bfb36c38cc6",
       "title": "〈リポートいばらき〉つくばデータセンター建設、情報開示に課題 地下水への影響、住民ら不安 - ｄメニューニュース",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WaVpBQV80QS1KUnhwUXNWcktOZ2p0aW1CbDN6RGFROERZYXoxbjF1a1g1OWI4RjJTcE9oYUVVTUdQWGd1UlpTSVdoSTV6S0g1cFhwcFM2ZjlnUWg1T3ZyVVNYOWVRNjlxdEdNZDc5VzE4ZzjSAXhBVV95cUxOUk14emFzY2RQLU0xREN1bHN2VTZGZTJVTG1CcTNIU1Q1NzBWTGZBN2lfMlcxYVZEMVdVbHBDQ1RxSjFHNEdXVkl4dV9OaTV1bFhBTUdXSE44RU9ZVTBCSkdRS1pKMGwxdWxhRFhtSHlVS1lRVlR0am4?oc=5",
@@ -56,6 +92,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-24T23:12:02+00:00",
       "firstSeenAt": "2026-11-24T23:53:55.637760+00:00"
+    },
+    {
+      "id": "eb92f6e5736a72cc4d06",
+      "title": "つくばデータセンター、水の契約量「公表しない」 不透明な環境負荷に不安の声収まらず - 東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hbm9nNTh6czUzUGtDR2N6Sk52clV3b0l2cFpfLWFZZTg1M0hXMWxCZm4xdmZ4SDVVNUhZUk9GdmtvRXJVbWNBTkdhV3Fzck1reGJn?oc=5",
+      "summary": "つくばデータセンター、水の契約量「公表しない」 不透明な環境負荷に不安の声収まらず 東京新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "東京新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-24T23:02:32+00:00",
+      "firstSeenAt": "2026-11-25T12:57:48.949391+00:00"
     },
     {
       "id": "94d8b635b43e419e520e",
@@ -80,6 +128,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-24T21:36:24+00:00",
       "firstSeenAt": "2026-11-24T23:53:55.637760+00:00"
+    },
+    {
+      "id": "b4e6e5a630f96bb5cc2d",
+      "title": "【つくば市】11/25 最低4℃、乾燥に注意、昼間は晴れて過ごしやすい予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeHd6NDBjRnJsMFFiNUZKUXNTYnItT3JjVnpLU1FGWDFRNDhzVExXYkR0UTFMc3I4MUV2TGdfUDZ1V01RYXJGVDNPWWRocDB4eWtjQW9MdXVnVzBORDEzWnR5TVhUdzc4SnpybkhjTTZEN0p1RXdUcWpZMVN0VEp0UEFFMUhCVVVkSWRUSWVn?oc=5",
+      "summary": "【つくば市】11/25 最低4℃、乾燥に注意、昼間は晴れて過ごしやすい予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-24T20:41:48+00:00",
+      "firstSeenAt": "2026-11-25T12:57:48.949391+00:00"
     },
     {
       "id": "bba926cbc6b0a53c38c4",
@@ -1212,6 +1272,18 @@
       "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
     },
     {
+      "id": "18d532e9a1e48312af68",
+      "title": "【つくば市】気になる…！上ノ室に古民家カフェがオープンしたみたいです。 - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlcnEtVTJEWGh0Vlg0d1ZrdFo5dEtVaVBZd3hiaFQ5WmFIczVNemo3Z3dKdC13V0VIampMWFB0WUlyNE5HYldJYlFEX2RQRkNsMkJaTjNNbw?oc=5",
+      "summary": "【つくば市】気になる…！上ノ室に古民家カフェがオープンしたみたいです。 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "firstSeenAt": "2026-11-16T04:36:19.767298+00:00"
+    },
+    {
       "id": "a0cad6ea868bad84d2d8",
       "title": "【つくば地球ひろば訪問レポート】 「好きが未来につながる」茨城県立牛久高校の皆さんがJICAつくば地球ひろばで学ぶ国際協力 - JICA - 国際協力機構",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ2YxUm55VEdyaHpGaVNnci1uLWNnWlhPOFlQY19jUEdsZ1JlZWdsaDRreGJ3YnNMTHR3ZjNndk1jdVNjRklVc1hacndXUDdCSTJuMTF0d2lqa3JYRkhsM1JWa1FBQ3FINURVN2IwaldZV084bmo4V0llbzF1WVBma0ZyZFVDenB0b0E?oc=5",
@@ -1234,18 +1306,6 @@
       "sourceType": "news",
       "publishedAt": "2026-11-16T05:00:44+00:00",
       "firstSeenAt": "2026-11-16T10:46:06.791208+00:00"
-    },
-    {
-      "id": "18d532e9a1e48312af68",
-      "title": "【つくば市】気になる…！上ノ室に古民家カフェがオープンしたみたいです。 - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlcnEtVTJEWGh0Vlg0d1ZrdFo5dEtVaVBZd3hiaFQ5WmFIczVNemo3Z3dKdC13V0VIampMWFB0WUlyNE5HYldJYlFEX2RQRkNsMkJaTjNNbw?oc=5",
-      "summary": "【つくば市】気になる…！上ノ室に古民家カフェがオープンしたみたいです。 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-11-15T22:38:21+00:00",
-      "firstSeenAt": "2026-11-16T04:36:19.767298+00:00"
     },
     {
       "id": "bb6f3e8e55d1d06f7bfe",
@@ -3738,18 +3798,6 @@
       "firstSeenAt": "2026-10-31T09:50:47.806792+00:00"
     },
     {
-      "id": "3f86fe9cdc03f1c03069",
-      "title": "【茨城県】牛久市に「そよらひたち野うしく」が11月18日オープン！飲食店や屋内型プレイグラウンドも - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lajRhQ080bWY2aXJVWTctMVR4UmlHdUhhZ3RTVk8yUmpubjZ3MDJHazV5NE5MbHNrZnNJX0VfYXl4b0pUdnI4TVVpUS1POEt3ZmJKNjBmZE9sbkdERDF1bGxYbFZwQkw5UUprN3hhRk9QWTRZVmc?oc=5",
-      "summary": "【茨城県】牛久市に「そよらひたち野うしく」が11月18日オープン！飲食店や屋内型プレイグラウンドも 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-10-31T07:00:00+00:00",
-      "firstSeenAt": "2026-10-31T09:50:47.806792+00:00"
-    },
-    {
       "id": "d6c84f89678699ad8338",
       "title": "つくば市消防フェア2026 in つくば市消防本部｜2026年10月31日(土) - 陸自調査団",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkxUTU5lQl9KNXVaS3VtSXREY3JOSGN1MEdTZkdJNnhOZzlWbk04WHdqdTliMGRuZ0VEc2tNNnpKNVBhZkFQNGFoRWc5aG5KX01QeFhkUS1YSTlNRUpfZmZSaHdCNkJpd3FFak9zTldicVNMRlNaZkE0MGZtVmNnTjJWMlZtdmZXUjd2Z05hN3JLUQ?oc=5",
@@ -3760,6 +3808,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-31T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
+    },
+    {
+      "id": "3f86fe9cdc03f1c03069",
+      "title": "【茨城県】牛久市に「そよらひたち野うしく」が11月18日オープン！飲食店や屋内型プレイグラウンドも - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lajRhQ080bWY2aXJVWTctMVR4UmlHdUhhZ3RTVk8yUmpubjZ3MDJHazV5NE5MbHNrZnNJX0VfYXl4b0pUdnI4TVVpUS1POEt3ZmJKNjBmZE9sbkdERDF1bGxYbFZwQkw5UUprN3hhRk9QWTRZVmc?oc=5",
+      "summary": "【茨城県】牛久市に「そよらひたち野うしく」が11月18日オープン！飲食店や屋内型プレイグラウンドも 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "firstSeenAt": "2026-10-31T09:50:47.806792+00:00"
     },
     {
       "id": "a7723909cea36ff9505d",
@@ -4560,18 +4620,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "3f8e6b73755b21fc74e6",
-      "title": "つくば市上河原崎商業施設 2027年夏開業！約30店舗が出店へ！テナントは？最新情報も！ - 出店ウォッチ",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xSHRsZ2VWUVpLRFk5SWJ1RElxV1VKekgwS09IeVJjenFsNDVod3puQUl3LXp0NzRNaUZZVXZWU3NOWkpJS2FKTXo3bFhDNUE?oc=5",
-      "summary": "つくば市上河原崎商業施設 2027年夏開業！約30店舗が出店へ！テナントは？最新情報も！ 出店ウォッチ",
-      "category": "開発・建設",
-      "areas": [],
-      "source": "出店ウォッチ",
-      "sourceType": "news",
-      "publishedAt": "2026-10-27T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T21:53:04.722721+00:00"
-    },
-    {
       "id": "c95f14261b2f26ecf4d0",
       "title": "ミスターマックスほか／茨城県つくば市に「（仮称）つくば市上河原崎商業施設（店舗面積1万4854m2）」27年6月1日新設 - 流通ニュース",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbkVDMnhJbkpHN0Vjd284X0xxVF9YekgtcEhjMG9sQnQ0R2dsbmwyMFloVm9GallzZGtVMWRJZTBQc1NEdlRpUTVmaGozaE14SEtHa1VB?oc=5",
@@ -4582,6 +4630,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-27T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "3f8e6b73755b21fc74e6",
+      "title": "つくば市上河原崎商業施設 2027年夏開業！約30店舗が出店へ！テナントは？最新情報も！ - 出店ウォッチ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xSHRsZ2VWUVpLRFk5SWJ1RElxV1VKekgwS09IeVJjenFsNDVod3puQUl3LXp0NzRNaUZZVXZWU3NOWkpJS2FKTXo3bFhDNUE?oc=5",
+      "summary": "つくば市上河原崎商業施設 2027年夏開業！約30店舗が出店へ！テナントは？最新情報も！ 出店ウォッチ",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "出店ウォッチ",
+      "sourceType": "news",
+      "publishedAt": "2026-10-27T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T21:53:04.722721+00:00"
     },
     {
       "id": "4459a285bc2b3568b327",
@@ -6093,70 +6153,6 @@
       "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-09-14T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "380d96ee9875bd69b786",
-      "title": "常磐道に「新しいインター」開業！ 11kmの「IC空白地帯」解消で発展中の「新興住宅地」にもほど近く！ 谷和原と谷田部の間に「つくばみらいSIC」 8月29日に開通 茨城 - くるまのニュース",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mZkFHdlcwOVRCVWZlbjdSSkNvellLX0tHWHVINi1Ha01xeWc5RTFmZzV6elY0Y3diOWVGSlRheHRCSXFOQkhqMVJXNA?oc=5",
-      "summary": "常磐道に「新しいインター」開業！ 11kmの「IC空白地帯」解消で発展中の「新興住宅地」にもほど近く！ 谷和原と谷田部の間に「つくばみらいSIC」 8月29日に開通 茨城 くるまのニュース",
-      "category": "交通・生活",
-      "areas": [
-        "みどりの"
-      ],
-      "source": "くるまのニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-14T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
-    },
-    {
-      "id": "248cacef52e260ce50f4",
-      "title": "【更新】商業施設駐車場ではねられ67歳男性重体 茨城・つくば（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mZnozQXVieTB4UzFNTWNwZkJMU3BTM0hqc2s3cVh1Z3k2Rld5a2ZNTGluOFdQYjZ0cm16RlhrTHhoRVdCRVA0bXYtMmpkRE51TlIydzNoSmtVb21XYTFQUTBSTmltaVVHanRiSUw1WFIxUmRvbzJqWm45Mm1HaU0?oc=5",
-      "summary": "【更新】商業施設駐車場ではねられ67歳男性重体 茨城・つくば（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "開発・建設",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-14T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "10773c904f315506f7a1",
-      "title": "常磐道に「新しいインター」開業！ 11kmの「IC空白地帯」解消で発展中の「新興住宅地」にもほど近く！ 谷和原と谷田部の間に「つくばみらいSIC」 8月29日に開通 茨城 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JU1Jwa3Z6blh0SmNUZ2Y3UUM3RVZNaTZFb0otOWNaSzFOanJMYVFSWkpKV0g1bDNpMkgxb3RWY2E4dmZ5TE1QQndkcDlJR2ZpM3gtb1NVV0xpdU9Na3JmaXdhWm5Zd9IBa0FVX3lxTE1PdXBTTUNnWXBJbGMxZFFzMkxpTjZ6aVhRRExSNVI0NnIyekF5MzdNTGd1TkE1ZFI5ZXdJbElOUi1Nb25WUWsyUVVKTHR6T0xIemllTS1EeFVORmdJczdoNThndWlwQkVBMUdV?oc=5",
-      "summary": "常磐道に「新しいインター」開業！ 11kmの「IC空白地帯」解消で発展中の「新興住宅地」にもほど近く！ 谷和原と谷田部の間に「つくばみらいSIC」 8月29日に開通 茨城 Infoseek",
-      "category": "交通・生活",
-      "areas": [
-        "みどりの"
-      ],
-      "source": "Infoseek",
-      "sourceType": "news",
-      "publishedAt": "2026-09-14T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
-    },
-    {
-      "id": "e9b530f4bc8435aff5ee",
-      "title": "【11月23日（月曜日）】筑波交流センター・市民ホールつくばね臨時休館のお知らせ",
-      "url": "https://www.city.tsukuba.lg.jp/soshikikarasagasu/shimimbuchiikisiennka/gyomuannai/kyukan/26099.html",
-      "summary": "",
-      "category": "行政・市政",
-      "areas": [],
-      "source": "つくば市公式",
-      "sourceType": "official",
-      "publishedAt": "2026-09-14T06:40:58+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "7ff3f5c88f561e412180",
-      "title": "新ケーブルカー、72年ぶり 筑波観光鉄道 来年2月導入 茨城（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbnJwUmduR2diaEVnRXh1c2Jfa3o2YUJRUEZLNEZHTmFzb01pWWYxOHBQYzNtM1hWVHB1V1Awd2VxaWF1WkU4LTNfbWZzQXVaeFJPaHpLZVRZcXRKX0loZUFmS2t2UWI2UUR2d1VlOHU5b3BsaUFBZWVmY1hyQ0k?oc=5",
-      "summary": "新ケーブルカー、72年ぶり 筑波観光鉄道 来年2月導入 茨城（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-12T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     }
   ]
