@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T12:57:48.949391+00:00",
+  "updatedAt": "2026-11-25T23:37:30.658029+00:00",
   "articleCount": 500,
   "sources": [
     {
@@ -11,17 +11,17 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 33
+      "count": 39
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 8
+      "count": 12
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 2
+      "count": 4
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -31,20 +31,68 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 2
+      "count": 4
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 4
+      "count": 1
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
       "ok": true,
-      "count": 1
+      "count": 0
     }
   ],
   "articles": [
+    {
+      "id": "29a41cf89438b2d4721e",
+      "title": "「オープン」うたい閉鎖的運営 撮影「厳禁」、担当者取材「NG」 つくばDC 事業者が説明会 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KOGpXMGpXanRkMzlUbGtFS21NNU1kbE13QjJxZExQWTJEM1hiNmVzSGhDT0JBSFdLV3JrYkc5S3A5SXc0a3hkT0R6SExETHRBam9ISERJOEZDTnlQeXlvUzM1T2ptcGpKZFducXpJREZwT2vSAXhBVV95cUxQZzlETERsaXd2Rjd0N1hDTnFZSEpiWE5tdFNNcHdqc2d2eFEyOEVaTTI5NHZGR041cW5yX0RQdXdfaUMzWWhvMVVkLVZBcWhBcjFqalNHRXkydXh4S1Axc0VIZEhEMFlEa09rb0xPS0pYMWt5RlFGZTk?oc=5",
+      "summary": "「オープン」うたい閉鎖的運営 撮影「厳禁」、担当者取材「NG」 つくばDC 事業者が説明会 ｄメニューニュース",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "ｄメニューニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-25T23:21:32+00:00",
+      "firstSeenAt": "2026-11-25T23:37:30.658029+00:00"
+    },
+    {
+      "id": "ff7b93ec5224bf9aeffb",
+      "title": "つくば市役所にデータセンター情報コーナー 事業者、市の要請受け開設（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pdkpRcDRMYzByUTBtU0RIVm1wS3R6VHlKTWxSS2o4S2NnVF8zOXprWlJTMVlZT0ZmYmd4eUNMTWtRSjVXZnJLeUxrZWE5TzlzZFVrRVhSbFlLVTVLWGVrNHVYV0VweXZ4ZGtGUGNuajVjNlFocjhxYllNb3M5c3c?oc=5",
+      "summary": "つくば市役所にデータセンター情報コーナー 事業者、市の要請受け開設（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-25T23:10:04+00:00",
+      "firstSeenAt": "2026-11-25T23:37:30.658029+00:00"
+    },
+    {
+      "id": "0f9b2e078733857b864e",
+      "title": "【つくば市】嬉しい♪人気ラーメン店「喜元門」が北条にもオープンするみたいです！ - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9acnZydGtLcUFSWGpYelJLdEpyaFN1ZUZjV3RLbVJRMUhSY08ydVNWdmJiRktISXIxQk10enBMTTJ6YVJKcWQzNVJMU2docExkR0VPTVdmYjFWMGs4RzB5Qk9XVjhSeG1jTHcwdmpB?oc=5",
+      "summary": "【つくば市】嬉しい♪人気ラーメン店「喜元門」が北条にもオープンするみたいです！ 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-11-25T22:38:27+00:00",
+      "firstSeenAt": "2026-11-25T23:37:30.658029+00:00"
+    },
+    {
+      "id": "190c900499c439e4c026",
+      "title": "障害者が描いた絵がワインラベルに つくばワイナリーで販売開始（NEWSつくば） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DV3d3UFc5SWVPZ0JmMGNuMFFGQWlBWl9FY2RPWlY4WFZXeDJKdVFqQkRFZDFXRHFkbDFNd2hORHlBd0pSRUs0b0ZpVTBVOWNocWVObHo0VXM5QlV3SGVpNjFkb3hLN2RkdVdjY01McTVPQnVzZnZoVzhjR0J4VUk?oc=5",
+      "summary": "障害者が描いた絵がワインラベルに つくばワイナリーで販売開始（NEWSつくば） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-25T22:20:33+00:00",
+      "firstSeenAt": "2026-11-25T23:37:30.658029+00:00"
+    },
     {
       "id": "10ad4f0560af1102a863",
       "title": "茨城・つくば市の壮年「挑戦重ねる人生は面白い！」 〈多宝世代のページ 今を晴れ晴れと〉 - 聖教新聞",
@@ -54,8 +102,58 @@
       "areas": [],
       "source": "聖教新聞",
       "sourceType": "news",
-      "publishedAt": "2026-11-25T10:35:28+00:00",
+      "publishedAt": "2026-11-25T21:06:30+00:00",
       "firstSeenAt": "2026-11-25T12:57:48.949391+00:00"
+    },
+    {
+      "id": "9b46d841ac69bbefcd4a",
+      "title": "11/21 つくば中央公園のポットラックフリーマーケットへ。 - 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00SnFPaW9yeEFLZXdTeWVYeVgxbjhfQmdUQWVPYUdxSmpLbldoSGVNUFBMVGM3cHJTUGZNbEpxbDdvT1ExNXA1T041S3NrWmNaNHJnTmVvemtqSWRQd1NZ?oc=5",
+      "summary": "11/21 つくば中央公園のポットラックフリーマーケットへ。 選挙ドットコム",
+      "category": "地域ニュース",
+      "areas": [
+        "つくば駅周辺"
+      ],
+      "source": "選挙ドットコム",
+      "sourceType": "news",
+      "publishedAt": "2026-11-25T20:55:23+00:00",
+      "firstSeenAt": "2026-11-25T23:37:30.658029+00:00"
+    },
+    {
+      "id": "2138a5e5496cd8b41dc9",
+      "title": "＜産経抄＞脳機能高める「スローランニング」、筑波大などが研究成果 - 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83MER1LS1aQ2g5Nm1KTmZNaHdQX3NwWks4NFNSc1dxSFJPWkhiaXpYSzRxSzItUElNS01mN0Y2WERmRzljR3Rzb0RPTWZDdzhqMkhKeE10UlhMV2M3bFc4ZUxSOHNkZHlIZlRXVm9qbGpabmFwdmc?oc=5",
+      "summary": "＜産経抄＞脳機能高める「スローランニング」、筑波大などが研究成果 産経ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "産経ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-25T20:00:01+00:00",
+      "firstSeenAt": "2026-11-25T23:37:30.658029+00:00"
+    },
+    {
+      "id": "b72261c1ef4ea011ca56",
+      "title": "つくばのデータセンター計画で市民説明会 業者側が回答控える場面も - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5SjJSdkhwQlBjYkpoOG1UNFk4T2VHUzZKUWRvNURacjVobFJnSl82WnRLd05rMjVxMmFGeE16VWdGeVBWaVRVYXBxdnJsN2RBUjdWeU5qa295Si1PRXZNeXpwdFhlNVE?oc=5",
+      "summary": "つくばのデータセンター計画で市民説明会 業者側が回答控える場面も 朝日新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "朝日新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-25T19:30:00+00:00",
+      "firstSeenAt": "2026-11-25T23:37:30.658029+00:00"
+    },
+    {
+      "id": "f16f61ea33b5e2d9da18",
+      "title": "老後に住みたい「茨城県の自治体」ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - All About ニュース",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdU9MWXhpNXN4a3RrVzdxRWlvTjltUFZFbmF1WVNMMkc0WmpHM2NWd3J5bzYtSVVWY0pVU0VSUWpMYzdXcVkwdGktUlNNWTVhSXBXTmlmMDFzQ1pjLTFWVVlfUmp5MEcyYXptRWk2YTJuM3VfRm41dEVTUDBMVi04OG5naVJheHcwV2tHaTUzODQwa2E0TkRNeGdjanZWdjl3MnhNeWFFVTBuNU9hY19YUWtLLWxLS3d6X0lGbzhueVRrbkhySUVUNUNWY1VCUQ?oc=5",
+      "summary": "老後に住みたい「茨城県の自治体」ランキング！ 2位は「つくば市」、1位は？【2026年調査】 All About ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "All About ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-25T14:00:00+00:00",
+      "firstSeenAt": "2026-11-25T23:37:30.658029+00:00"
     },
     {
       "id": "cf09754c08812ab0989b",
@@ -360,6 +458,18 @@
       "firstSeenAt": "2026-11-24T02:12:59.652523+00:00"
     },
     {
+      "id": "50129c8bffb4a230aba3",
+      "title": "「スローランニング」で健康に 10分間でも効果、筑波大チーム - 北海道新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lVW1VV29sRDJhVHBRbUpYZ3ktamRRLTg3SmpZc0diRndVTU15Y0pWRVFxaU1DcW82RjRELU45RjVpVkFKSTJQZVhOamxnblQzcmFDd3hTZVl6dw?oc=5",
+      "summary": "「スローランニング」で健康に 10分間でも効果、筑波大チーム 北海道新聞デジタル",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "北海道新聞デジタル",
+      "sourceType": "news",
+      "publishedAt": "2026-11-23T05:15:36+00:00",
+      "firstSeenAt": "2026-11-25T23:37:30.658029+00:00"
+    },
+    {
       "id": "488284bbe3897abcfe4d",
       "title": "「公害防止協定のように数値目標、常時モニタリング、緊急時規定を」歌川学さん【データセンターを議論しよう1】上 - NEWSつくば",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FeklKcWFrWVFKR3dSY2pLdU1pbHRCMUlKVnRLVFEtaFVCREh2Q3RiVHJpcmRhRXEtdmpqekNSU0N6cUZqLVdtbmRzQQ?oc=5",
@@ -397,12 +507,12 @@
     },
     {
       "id": "94b0a5301e0a3f1216a8",
-      "title": "住宅と歯科医院の2棟全焼 火事に気づき消火活動を行った女性がやけど 命に別条なし 茨城・つくば市 - 千葉テレビ放送株式会社",
+      "title": "住宅と歯科医院の2棟全焼 火事に気づき消火活動を行った女性がやけど 命に別条なし 茨城・つくば市 - 千葉テレビ放送",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ia2RsMkp4RTFNdWpRcUh2Y3dUdFF0MDlxa1hHZUhUelpRT3hPZnh1eDdLTWs1QlBDOTRxazVSRXlCRjdRRDB6NVBWTjJPNXZBVHdsaUdjMWZFRDZ6NnRB?oc=5",
-      "summary": "住宅と歯科医院の2棟全焼 火事に気づき消火活動を行った女性がやけど 命に別条なし 茨城・つくば市 千葉テレビ放送株式会社",
+      "summary": "住宅と歯科医院の2棟全焼 火事に気づき消火活動を行った女性がやけど 命に別条なし 茨城・つくば市 千葉テレビ放送",
       "category": "地域ニュース",
       "areas": [],
-      "source": "千葉テレビ放送株式会社",
+      "source": "千葉テレビ放送",
       "sourceType": "news",
       "publishedAt": "2026-11-22T17:53:21+00:00",
       "firstSeenAt": "2026-11-22T21:03:55.168918+00:00"
@@ -3798,18 +3908,6 @@
       "firstSeenAt": "2026-10-31T09:50:47.806792+00:00"
     },
     {
-      "id": "d6c84f89678699ad8338",
-      "title": "つくば市消防フェア2026 in つくば市消防本部｜2026年10月31日(土) - 陸自調査団",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkxUTU5lQl9KNXVaS3VtSXREY3JOSGN1MEdTZkdJNnhOZzlWbk04WHdqdTliMGRuZ0VEc2tNNnpKNVBhZkFQNGFoRWc5aG5KX01QeFhkUS1YSTlNRUpfZmZSaHdCNkJpd3FFak9zTldicVNMRlNaZkE0MGZtVmNnTjJWMlZtdmZXUjd2Z05hN3JLUQ?oc=5",
-      "summary": "つくば市消防フェア2026 in つくば市消防本部｜2026年10月31日(土) 陸自調査団",
-      "category": "防災・安全",
-      "areas": [],
-      "source": "陸自調査団",
-      "sourceType": "news",
-      "publishedAt": "2026-10-31T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
-    },
-    {
       "id": "3f86fe9cdc03f1c03069",
       "title": "【茨城県】牛久市に「そよらひたち野うしく」が11月18日オープン！飲食店や屋内型プレイグラウンドも - 号外NET つくば市",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lajRhQ080bWY2aXJVWTctMVR4UmlHdUhhZ3RTVk8yUmpubjZ3MDJHazV5NE5MbHNrZnNJX0VfYXl4b0pUdnI4TVVpUS1POEt3ZmJKNjBmZE9sbkdERDF1bGxYbFZwQkw5UUprN3hhRk9QWTRZVmc?oc=5",
@@ -3820,6 +3918,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-31T07:00:00+00:00",
       "firstSeenAt": "2026-10-31T09:50:47.806792+00:00"
+    },
+    {
+      "id": "d6c84f89678699ad8338",
+      "title": "つくば市消防フェア2026 in つくば市消防本部｜2026年10月31日(土) - 陸自調査団",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkxUTU5lQl9KNXVaS3VtSXREY3JOSGN1MEdTZkdJNnhOZzlWbk04WHdqdTliMGRuZ0VEc2tNNnpKNVBhZkFQNGFoRWc5aG5KX01QeFhkUS1YSTlNRUpfZmZSaHdCNkJpd3FFak9zTldicVNMRlNaZkE0MGZtVmNnTjJWMlZtdmZXUjd2Z05hN3JLUQ?oc=5",
+      "summary": "つくば市消防フェア2026 in つくば市消防本部｜2026年10月31日(土) 陸自調査団",
+      "category": "防災・安全",
+      "areas": [],
+      "source": "陸自調査団",
+      "sourceType": "news",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
     },
     {
       "id": "a7723909cea36ff9505d",
@@ -5770,20 +5880,6 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "13254350b4460849abef",
-      "title": "「そよらつくば学園の森」１０月２５日（日）オープン - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BdUdCNjkwSjNubVE2cUFrU0lUY0NFZEQxSTV2VzlZZlRFM3J4MzBUY3pxVkppQ2IzZklyU2pfUlFaOWJsMU1UUGtMaUdZenhVSkJ1VA?oc=5",
-      "summary": "「そよらつくば学園の森」１０月２５日（日）オープン ニコニコニュース",
-      "category": "店舗・グルメ",
-      "areas": [
-        "研究学園"
-      ],
-      "source": "ニコニコニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-30T07:00:00+00:00",
-      "firstSeenAt": "2026-11-19T22:00:13.131825+00:00"
-    },
-    {
       "id": "3ff8f29e6c18f9542946",
       "title": "そよらつくば学園の森 2026年10月25日(日)開業！全11テナント一覧！最新情報も！ - 出店ウォッチ",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yT09DRXRUdWQ3VlVhU2hETkhpcGQtbVByRFBqY0xJdmN1aGl0UGd1MVBFYWNicTd2TFhWVjB6MWlselFrY3lZOFdMTWRtVWM?oc=5",
@@ -5796,6 +5892,20 @@
       "sourceType": "news",
       "publishedAt": "2026-09-30T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
+    },
+    {
+      "id": "13254350b4460849abef",
+      "title": "「そよらつくば学園の森」１０月２５日（日）オープン - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BdUdCNjkwSjNubVE2cUFrU0lUY0NFZEQxSTV2VzlZZlRFM3J4MzBUY3pxVkppQ2IzZklyU2pfUlFaOWJsMU1UUGtMaUdZenhVSkJ1VA?oc=5",
+      "summary": "「そよらつくば学園の森」１０月２５日（日）オープン ニコニコニュース",
+      "category": "店舗・グルメ",
+      "areas": [
+        "研究学園"
+      ],
+      "source": "ニコニコニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-09-30T07:00:00+00:00",
+      "firstSeenAt": "2026-11-19T22:00:13.131825+00:00"
     },
     {
       "id": "547c38730b0fff60d595",
@@ -6046,114 +6156,6 @@
       "sourceType": "news",
       "publishedAt": "2026-09-22T07:00:00+00:00",
       "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
-    },
-    {
-      "id": "84c84619fc1659567589",
-      "title": "【続報】つくばで殺人未遂 28歳男性、背中刺され搬送 茨城（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5abUNLd19feGlzdXV4TVhZR191dXNwNTZoVEFId2s3TlJYR0NQemhMaGJ6VkxlQTlQRVlSTGFVUXkxNTdrM1kxbDc4TFB5bWRrVll6RUw4azRkd19EWTJSc3NLcHB5X2FhNlZxWTNJS3l6aWZnb1oxLWVMU0ptaG8?oc=5",
-      "summary": "【続報】つくばで殺人未遂 28歳男性、背中刺され搬送 茨城（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-22T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "cbcf5d4e50d252ca2bf8",
-      "title": "【レベル３土砂災害警報】茨城県・つくば市に発表 17:15時点 - TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3MkFPX0praTVXamNfb1p0TmFieDZoTUpNN0pwTE41M01aMklVUVk3WTJaVC1VUHFWeWVuckF6OHYxYnNPM3NuY2pNMEx4LUhqaXdtaVhNMA?oc=5",
-      "summary": "【レベル３土砂災害警報】茨城県・つくば市に発表 17:15時点 TBS NEWS DIG",
-      "category": "防災・安全",
-      "areas": [],
-      "source": "TBS NEWS DIG",
-      "sourceType": "news",
-      "publishedAt": "2026-09-21T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "9cd65c1946d4719562a2",
-      "title": "柏旭町のラーメン店「麺屋こうじ本店」が9月30日閉店、約20年の歴史を経てつくば店へ機能移管 - 柏つうしん",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QejlMZ2NTcEdQeXVGMTRJUVlCTWRCajJvSGtmemN4bnZ3TG1vbm5RTHExaTZmeDE4X1lXX1M3Qi1PdEJDMHNHYjNzYXZzQVk?oc=5",
-      "summary": "柏旭町のラーメン店「麺屋こうじ本店」が9月30日閉店、約20年の歴史を経てつくば店へ機能移管 柏つうしん",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "柏つうしん",
-      "sourceType": "news",
-      "publishedAt": "2026-09-21T07:00:00+00:00",
-      "firstSeenAt": "2026-11-06T21:51:14.744350+00:00"
-    },
-    {
-      "id": "994c8a5a1da36ab3e0b1",
-      "title": "つくばで約1300軒停電 茨城【まとめ】（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtU2hvR3p0Q0t1bThlaUo4a1FzSHVpSFNUS0N1OXhLLWN3aWU3RXFKcGtTTlg5eE1sRW5RYkpzOXB0amNBd25jSUJMRWgzOXVqR09zY1NfVFkzamNnUE9YV1d0YVhzY1RwdGc5QURRNmo0blI1QklNZUtQLXFTN00?oc=5",
-      "summary": "つくばで約1300軒停電 茨城【まとめ】（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "防災・安全",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-21T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "176fb75ba8b53c5d1b0d",
-      "title": "かしま大使・研ナオコさん 安全運転呼びかけ 茨城・つくばで県警一日交通部長（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IdF81RTAxRWFyQjl2T083SlFxRldKbmthdm9nR1p1OU1GVERhWDhzX3ExMkhYYm8xR3NHVjlGdkhGb3NOZ0xvdTROMjRnbHVObWlPTDdNMlVPWElieUFXNWt5VzVxR0JwVXlkdlE2YTFMWlU2RDNQUHVoSUp3LTg?oc=5",
-      "summary": "かしま大使・研ナオコさん 安全運転呼びかけ 茨城・つくばで県警一日交通部長（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-20T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "30828b58cb98487cf131",
-      "title": "かしま大使・研ナオコさん 安全運転呼びかけ 茨城・つくばで県警一日交通部長 (茨城新聞クロスアイ) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0JDSmNkd1dIWFlmMkxHSEhWajFWTjNpR2d2R3dYaWNJSFNGRlhXdG5ka0h6NzZVZDJhOERldmt6UEowSkNrUHJQeDhCQ0tuMkx5Tm1ybXo1eDlrcG9YT2lsblBEU2d3dVdYNWp6ZlVHMThlU0xueFpFZENIUlBRQVJuMDZMQ0RkeFRqY2V3?oc=5",
-      "summary": "かしま大使・研ナオコさん 安全運転呼びかけ 茨城・つくばで県警一日交通部長 (茨城新聞クロスアイ) Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-20T00:44:54+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "d12190dfce715338b0c7",
-      "title": "「要塞のような本屋さん」茨城県つくば市で見つけた大きすぎる書店が「夢の城だ」「半日はいられそう」（LIMO） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tRHYyTUNDVllLREJsUnptak5xTWk1ZE41VGJtaVVkd000blNTbjZWRjMzMWI2OWxsNXU2LVEwbFJxSlF2UTF5Qy1kQWNuWGh4aEhxaHIwRVd4SzBUd3RwQTRTUmNqbk83SlRzOUNuMF8xZko2YWh6aTl1M1pscHM?oc=5",
-      "summary": "「要塞のような本屋さん」茨城県つくば市で見つけた大きすぎる書店が「夢の城だ」「半日はいられそう」（LIMO） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-19T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "e59fd74ec376b9c39649",
-      "title": "つくば市で自動運転バスの本格運行を10月2日から開始 - KDDI ニュースルーム",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jTDVoR19aanN5MnhUWUJDdTh5NTI4WVFTMzJPYzFodldCa2lLWGN2ZFNEMjVQUXhPVTF4YTVIOTVWWUtqNTc5eGMwWXZUdmYwYWJ1Z3hCMFZDMmw4ZWcwOGp0MksyTl9MUmRVVw?oc=5",
-      "summary": "つくば市で自動運転バスの本格運行を10月2日から開始 KDDI ニュースルーム",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "KDDI ニュースルーム",
-      "sourceType": "news",
-      "publishedAt": "2026-09-16T07:00:00+00:00",
-      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
-    },
-    {
-      "id": "953b01db3cf844466b33",
-      "title": "常磐道に新IC「つくばみらいSIC」8月29日に開通 TX「みらい平駅」周辺の住宅地が最寄り - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00UmJtN2xXay1QU1ZBc3gzaXBQdl93NUpqdjRpMXVzclVEZ19fNWk5RUM0QWEzMW5kREQ4TkV4OTlHWm83amU4U3lGdTVOeUxyV3pfTWpKZHN5eDN0QW9UMlZQWHZzWGxBNGpzQjdMUl9LU0tfWFBNdjRGdExTX2s?oc=5",
-      "summary": "常磐道に新IC「つくばみらいSIC」8月29日に開通 TX「みらい平駅」周辺の住宅地が最寄り Yahoo!ニュース",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-14T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     }
   ]
 }
