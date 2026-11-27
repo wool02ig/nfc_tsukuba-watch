@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T23:51:33.772833+00:00",
+  "updatedAt": "2026-11-27T12:22:51.674009+00:00",
   "articleCount": 500,
   "sources": [
     {
@@ -11,17 +11,17 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 92
+      "count": 89
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 14
+      "count": 8
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 2
+      "count": 4
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -31,12 +31,12 @@
     {
       "source": "ニュース検索：つくば市 交通 つくばエクスプレス 道路",
       "ok": true,
-      "count": 2
+      "count": 4
     },
     {
       "source": "ニュース検索：つくば市 防災 災害 警報",
       "ok": true,
-      "count": 3
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 研究学園 みどりの 万博記念公園 陣場",
@@ -45,6 +45,224 @@
     }
   ],
   "articles": [
+    {
+      "id": "90dd0d04f5b9c1dc77b4",
+      "title": "茨城・つくばの圏央道で4台絡む多重事故、1人死亡 大型トラック運転の男逮捕 - 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jc0c5S095ZkpYLTlfenpFQlJYbi0zLTNVQjdBVmYtLVNkN3FnRjlVYjljdjV1cklqeFdxZlZGNEVnOUJsRzctMWotaXEwb3F1bS1LQ0FnMi1kRHROWkg0WEdMUERSV1J4QlktYlU4VW1FMXlrTnc?oc=5",
+      "summary": "茨城・つくばの圏央道で4台絡む多重事故、1人死亡 大型トラック運転の男逮捕 産経ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "産経ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T10:13:21+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "6a80309a2a0453ed14ba",
+      "title": "圏央道でトラックなど4台絡む追突事故…男性死亡 トラック運転の男を現行犯逮捕 茨城・つくば市 - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JdEU3aTZ5bGFXb3ZjYTROeGtscFdkZ0pLOEFqX0RGbFlXVFU4TnV0WkdFc3lMNnpraXNBZTIxcUYyOHA3TGVvNmllbDNURy1SMFRNWFRGVnk0ekl5OHJGOWU2b3NrVmhCdC1UU2NvMGlZU0NKbXZCWHppOFQ?oc=5",
+      "summary": "圏央道でトラックなど4台絡む追突事故…男性死亡 トラック運転の男を現行犯逮捕 茨城・つくば市 日テレNEWS NNN",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "日テレNEWS NNN",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T09:51:00+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "745a6cc3604f66deb26b",
+      "title": "【参加費無料】150以上の研究機関が集まる「科学の街・つくば」が、高校生たちの研究室になる。つくばまるごとLAB第3回「挑戦のラボ」を12月19日に開催！ - 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xSml1MXZjcnZtT0tXYTVuLWpZUEpCMmxOTV91SGVRN00tTDhXQmpDdTJocGRFN2NHUnRpdkxEV1NGbGxBd09ORGpxWm1VUWU0RUhaSFV3LUVGZUhzYjlFVkw4bUdReVFlOFJKSldld1paaHZHNXBrMEljQQ?oc=5",
+      "summary": "【参加費無料】150以上の研究機関が集まる「科学の街・つくば」が、高校生たちの研究室になる。つくばまるごとLAB第3回「挑戦のラボ」を12月19日に開催！ 産経ニュース",
+      "category": "イベント",
+      "areas": [],
+      "source": "産経ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T09:32:18+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "5474a7370b97a72e7010",
+      "title": "《秋さんぽ》勾配の鉄路 包むモミジ 筑波山ケーブルカー - きたかんナビ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tb3VreG9nSUoyV01MeVpZb09tR1lNNlBtWHRzUzA0cFdZeFpMV3JvN043dFN4dnhLa0tkX1NwbTVLa2hYaEZqY1lWVDdyRy1k?oc=5",
+      "summary": "《秋さんぽ》勾配の鉄路 包むモミジ 筑波山ケーブルカー きたかんナビ",
+      "category": "地域ニュース",
+      "areas": [
+        "筑波山"
+      ],
+      "source": "きたかんナビ",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T09:31:40+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "83f9c1c2f87417fbb72f",
+      "title": "茨城 つくば 圏央道で車4台事故1人死亡 トラック運転手逮捕 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xbHAxcndCRkVjeW5xUlcyY21XNjBLbnlBYVZ3ZUhnSXV5bzRDd2NmV29EUEJzVEhPbEN0akcxRjNGVjJhWG5GdE1WdkhmQjhIWFJ2WW42RU9VbjdMNHo0?oc=5",
+      "summary": "茨城 つくば 圏央道で車4台事故1人死亡 トラック運転手逮捕 NHKニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NHKニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T09:15:02+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "eb672c4a4b6b2016c492",
+      "title": "圏央道で大型トラックなど4台関係の事故 1人死亡 つくば - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yWVlvZTlZTTFpcEVMN3B1MkpTNExrVjhUTTlCcThhM05jSWt5c0NMLUhqYzJQd0pRNVNVUmxXQnZSNGliUl9aNHJTM1VMQmJ4RHAxQkcyTjZNTWRQOFJ3?oc=5",
+      "summary": "圏央道で大型トラックなど4台関係の事故 1人死亡 つくば NHKニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NHKニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T08:52:09+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "176e6f92b2815246f6b0",
+      "title": "【圏央道】つくば市内で4台衝突死亡事故 7時間半ぶり通行止め解除（27日17:35現在） - 千葉テレビ放送",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KMmVEdndtZGRGanpvYV9haU83Q01vbTRxQWhwQUNBS1JzSGNsaWRVYXpfOFZxRG54QnVjWmtvX2dDMVdwLTRPaHY0YlZueHVIRjdsZFFpeXEwRWZTTGdz?oc=5",
+      "summary": "【圏央道】つくば市内で4台衝突死亡事故 7時間半ぶり通行止め解除（27日17:35現在） 千葉テレビ放送",
+      "category": "交通・生活",
+      "areas": [],
+      "source": "千葉テレビ放送",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T08:48:31+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "f2811a6dca567412bec9",
+      "title": "茨城・つくば市、生活保護業務の不適切処理で管理職2人懲戒処分 県の監査に虚偽報告も - 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mR1pIQktHRW1IalJKMV84UmJCVzcxRjRnOE1wVF9MaHJwaGgtU2hxV2pRNXVneWRuX3c0STg0ZmJuODJqRVpwdFlSMUZmWFJ4WHUtRXYzUE9wbV9VYk9nNXlVVjF6S085bVY0VkpQcXBnX25Wa1E?oc=5",
+      "summary": "茨城・つくば市、生活保護業務の不適切処理で管理職2人懲戒処分 県の監査に虚偽報告も 産経ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "産経ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T05:52:10+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "ad1900c0e032aaf95550",
+      "title": "BMXレーシング体験会をイーアスつくばで12月19日（土）に開催！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQaVU0WFExSHVONjhnNExGR1h0elQ5bEczOXI3LXJnMTJ2NkozN3FQM2ZmMWx3X2c4WGJwSGx3V2VlSHNiVEJROGttbUlSeFgzSXJqcHRDT21lTlFlTk0yYlYzX0FiYkpWV0E?oc=5",
+      "summary": "BMXレーシング体験会をイーアスつくばで12月19日（土）に開催！ PR TIMES",
+      "category": "イベント",
+      "areas": [],
+      "source": "PR TIMES",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T05:50:27+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "69deaacd1efd12c3c070",
+      "title": "【速報】圏央道でトラックなど4台絡む事故 1人搬送 茨城・つくば市 - TVer",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fbkdHZWQtM05qWFFHY0VZNmNjeFVhTkdGeGctYVJjTDRtLV9TcnJKTFhOdEZLOHIxZ1B3US1CVURERHdCMjMxQkxZZw?oc=5",
+      "summary": "【速報】圏央道でトラックなど4台絡む事故 1人搬送 茨城・つくば市 TVer",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "TVer",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T05:20:36+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "ea96fef618d72d788e38",
+      "title": "【速報】圏央道でトラックなど4台絡む事故 1人搬送 茨城・つくば市（日テレNEWS NNN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DQ2hLQjQ3ZTUyMS1memNZQVRVOEVSZUwyNzg2OFNxQlZMblpVdkdvakV4QU8xT3hNYl8xR2dZNEFrbERSTTgta2tmRHpSTlNING00LXdWa3J3QnFFWERFY0ptX3ZtcG5ZUVczaTFuVDNQd19LeGZzcXgtM0tBVDA?oc=5",
+      "summary": "【速報】圏央道でトラックなど4台絡む事故 1人搬送 茨城・つくば市（日テレNEWS NNN） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T04:15:00+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "fa37684262a39806f3fe",
+      "title": "【速報】圏央道でトラックなど4台絡む事故 1人搬送 茨城・つくば市（2026年11月26日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zY2Q5ZndxWUZJTVR4dWRFclJUcEw0U2Q0bWlzUjRrT2dYNmNNeEdLa2JJQXRjYXg5Q291U1V0UXdDRHlaN3ZoSUNfZ2Q5T0E3ajYwYzFVZDdScVhmX1RfbFdvY3NfWkl6cmJqV3U0OGdNbUZRUmM3bTRqOWQ?oc=5",
+      "summary": "【速報】圏央道でトラックなど4台絡む事故 1人搬送 茨城・つくば市（2026年11月26日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "日テレNEWS NNN",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T04:15:00+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "d35db230ad1e16792700",
+      "title": "圏央道で大型トラックなど車両計４台が絡む事故、男性１人死亡…常総ＩＣ―つくば中央ＩＣ間で通行止め - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fdGNNTk82NWtVQW1sbzNkV3plemVyMHJidmZkWWtDMExja3JlMmhHaFVaYjlfc19JeENDdHo0c3VnU0pCNGRQU3NJdVQ4T2tUN29ZRTdidXB4RXRyZXJNaWZTWjJlQQ?oc=5",
+      "summary": "圏央道で大型トラックなど車両計４台が絡む事故、男性１人死亡…常総ＩＣ―つくば中央ＩＣ間で通行止め 読売新聞",
+      "category": "交通・生活",
+      "areas": [],
+      "source": "読売新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T04:14:00+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "f630e6dc9c7512a95c51",
+      "title": "【圏央道】つくば市内でトラック衝突事故 通行止め解除見通し立たず（27日13:00現在）トイレカー出動や支援物資配布も - 千葉テレビ放送",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MdFUwT2JYOEhuNkJ2NlZsM0ltX0pHTzRKcXJmOEh1elVJWFAwajIydlk5eDhzdkdOczRyM1RCZ1VGQ2J0eHJwNXpxdTVKWkY3WjlEd1hzemtiTVlLN3BR?oc=5",
+      "summary": "【圏央道】つくば市内でトラック衝突事故 通行止め解除見通し立たず（27日13:00現在）トイレカー出動や支援物資配布も 千葉テレビ放送",
+      "category": "交通・生活",
+      "areas": [],
+      "source": "千葉テレビ放送",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T04:05:09+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "36764f688df7ae83bcfc",
+      "title": "省エネつながる「スマート照明灯」導入目指し実証実験 つくば - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wRTVUQVdEQWVTWUFZQnRoNG5QSjlEWm9JalZORW1wT3VCY2luNkk2Uy1oeUl6YXlwaVVrQ2lrSDZ2VEd3aTE5M1dZbVdoa05iT1E0OVpaelVnWHhVa2xv?oc=5",
+      "summary": "省エネつながる「スマート照明灯」導入目指し実証実験 つくば NHKニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NHKニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T03:07:59+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "4b3d8789a6a3a5d44e47",
+      "title": "圏央道でトラックなど4台関係の事故 1人意識なし つくば - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pcTgwUE90NVkxeVZxcUJzODRyMk5nckstQjE2bmtOMXJ6YWFTeTBPWVFsbm1zX1pBc0pQU3lhZ1lITmZyanY5TTB2blk5TGJwZVgxRVc2anNyek1SX1pz?oc=5",
+      "summary": "圏央道でトラックなど4台関係の事故 1人意識なし つくば NHKニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NHKニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T03:02:00+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "f95e1aaa9df335144af2",
+      "title": "茨城 つくば 圏央道でトラックなど複数台の事故 1人意識なし - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRU0xFWmpibVQ2bk9mNjNvMG5yQTZKX0duQ2E3MXVSM3FSZENVd1M1bmQ1bU5vVmhDOFA1WkprbUpLS0V4YjYwa0ZPVlh3RTcyNWhjTlBVb29KZkpRVXg4?oc=5",
+      "summary": "茨城 つくば 圏央道でトラックなど複数台の事故 1人意識なし NHKニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NHKニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T02:59:00+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "b96207d51e114d901ecd",
+      "title": "未明の義務教育校に侵入 容疑で自称大学生の男逮捕 県警つくば署（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55Vk1udkViOXhZQzNsYzduVFBPXzVGUGFxeDlFbjZvQjRuZEdxcThIanFaSnRidFhzR1dRMEdDQ1o2QmhVYWdqU05aZ2hxSUNta29SdWtYNHk2UzVTQUtSdVBsTVZkMTVLcU5LdGhmenBWOWtmMFVsbVVVVnp1NzA?oc=5",
+      "summary": "未明の義務教育校に侵入 容疑で自称大学生の男逮捕 県警つくば署（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T02:29:00+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
     {
       "id": "cf91f3b133d4497f4669",
       "title": "【つくば市】11/27 最低2℃、冷え込み、昼間は晴れる予想【朝版】 - Yahoo!ニュース",
@@ -58,6 +276,18 @@
       "firstSeenAt": "2026-11-26T23:51:33.772833+00:00"
     },
     {
+      "id": "97e98695b73cc9ffe543",
+      "title": "【つくば市】11/27 最低2℃、冷え込み、昼間は晴れる予想【朝版】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZG5PUjZuRUhYQlBZVG9iSUR5RzhBRlp2Rm1BNXY3N2xVWlY4alZLNXRPdy02dUU2cW9TQlIxTWlzMjhzUk15Wkt3VUI0eTMtam5DOVJtQVg4TDZFZXdHRHR0bl9YbTctQ0ltdTJadWN5c1VyTm9DZWEyOEdZZzFLZW5ETUdoS3JTQ1N3S3NB?oc=5",
+      "summary": "【つくば市】11/27 最低2℃、冷え込み、昼間は晴れる予想【朝版】 Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-26T20:42:29+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
       "id": "57b31e5d560fec44d475",
       "title": "つくば市 生活保護費返還者の氏名、開示文書で漏えい 「黒塗り」処理不十分 （茨城新聞クロスアイ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LTmlOaWVsaXM5QWRvQmV3bFVtTmdIX0tVbWZfNWRReFY1eHAtUUJxbWJEV0JkZWp4ZmJ4MnN2UmkxN1c2dzh6b1MwWXg4ZDdSOU1TYlpPbWNTM3prbzVzc0Vuek5rX2wzRnJncGd1bXIycnN3UmJrVDVVdjNmNFU?oc=5",
@@ -66,7 +296,7 @@
       "areas": [],
       "source": "Yahoo!ニュース",
       "sourceType": "news",
-      "publishedAt": "2026-11-26T19:25:40+00:00",
+      "publishedAt": "2026-11-26T19:00:00+00:00",
       "firstSeenAt": "2026-11-26T23:51:33.772833+00:00"
     },
     {
@@ -104,6 +334,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-26T05:12:00+00:00",
       "firstSeenAt": "2026-11-26T12:36:36.164606+00:00"
+    },
+    {
+      "id": "b4b46e96f6657460a345",
+      "title": "茨城県で最大震度1の地震 茨城県・笠間市、土浦市、石岡市、下妻市、取手市、つくば市、筑西市、桜川市 - FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WNGxybXRISTFUOGJJTXVGY0lTdU15UWVkbzhBMG9MdU1NeDlrSEdEQW1sT3A0cXVrVm9wOHItZS05MndrTXNmd1pURGxjdw?oc=5",
+      "summary": "茨城県で最大震度1の地震 茨城県・笠間市、土浦市、石岡市、下妻市、取手市、つくば市、筑西市、桜川市 FNNプライムオンライン",
+      "category": "防災・安全",
+      "areas": [],
+      "source": "FNNプライムオンライン",
+      "sourceType": "news",
+      "publishedAt": "2026-11-26T05:11:00+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
     },
     {
       "id": "56d3512469166fe3bff8",
@@ -1978,18 +2220,6 @@
       "firstSeenAt": "2026-11-16T16:48:20.186081+00:00"
     },
     {
-      "id": "62433c713b1a1bd7d627",
-      "title": "工事一時中止を 住民団体が事業者に要望【つくばに国内最大級のデータセンター】 - NEWSつくば",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ERVB5UnpYcjVHanl3T2s5Y016RDh5Wk9pWk5ZenpEeHE3bzItXzFHRHFKMnNDWUY4c0FZM2dFTVJHZ3dJOHBKVHBQTQ?oc=5",
-      "summary": "工事一時中止を 住民団体が事業者に要望【つくばに国内最大級のデータセンター】 NEWSつくば",
-      "category": "開発・建設",
-      "areas": [],
-      "source": "NEWSつくば",
-      "sourceType": "news",
-      "publishedAt": "2026-11-12T09:29:12+00:00",
-      "firstSeenAt": "2026-11-12T10:14:50.397725+00:00"
-    },
-    {
       "id": "c1f213577ff949f1b6c9",
       "title": "三郷中央駅・八潮駅から筑波山へ！つくばエクスプレスが10/26（月）〜12/4（金）の平日に「筑波山平日限定キャンペーン」、温泉の日帰り入浴が一律800円 - 三郷ぐらし",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5V1BFMGJXRllvc0k0MFNjZEV4SjJTRUc1WWctVG1SY3lLMDktb0RLdXJBMzNNVXd3cjJaQU1sNzgxZ0RyODNTN0ZWelItVThrOFNZag?oc=5",
@@ -2013,6 +2243,18 @@
       "source": "AERA DIGITAL",
       "sourceType": "news",
       "publishedAt": "2026-11-12T08:16:10+00:00",
+      "firstSeenAt": "2026-11-12T10:14:50.397725+00:00"
+    },
+    {
+      "id": "62433c713b1a1bd7d627",
+      "title": "工事一時中止を 住民団体が事業者に要望【つくばに国内最大級のデータセンター】 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ERVB5UnpYcjVHanl3T2s5Y016RDh5Wk9pWk5ZenpEeHE3bzItXzFHRHFKMnNDWUY4c0FZM2dFTVJHZ3dJOHBKVHBQTQ?oc=5",
+      "summary": "工事一時中止を 住民団体が事業者に要望【つくばに国内最大級のデータセンター】 NEWSつくば",
+      "category": "開発・建設",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-12T08:00:00+00:00",
       "firstSeenAt": "2026-11-12T10:14:50.397725+00:00"
     },
     {
@@ -2492,11 +2734,11 @@
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     },
     {
-      "id": "229ea7f05642a7831fdf",
-      "title": "とんきゅう、カフェ参入 若年層向け「雪ノ下珈琲」 つくば出店 看板商品「豚かつサンド」（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3elFaVUt4RGV5VElDbC1uQlRyNUVwQkx3LTBheDV6NjJjZHhLTGFCWlZQMWFnX3hvRk4weFkwYmpqNmgxb0V3X0FfbnJ0eFdieXhsSFhjSWFFcE9ZN0piQnVhRzd4NmtXWWt5a3h6WWNLWGtpUVVkV1Y5LXBJZWs?oc=5",
-      "summary": "とんきゅう、カフェ参入 若年層向け「雪ノ下珈琲」 つくば出店 看板商品「豚かつサンド」（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "店舗・グルメ",
+      "id": "6ec12aad8a0bc779e4f0",
+      "title": "GX戦略地域、2カ所認定 つくば市「DC集積型」 環境配慮、地域共生に重点 説明会も（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1haElOX181UU02UDJKUW5LM2NUV3VlTlpRUldNTGxpVG1icVRzVktkai12YVVmLWFXbEx2V0M0akpZTTFFOWlpcnJfZlBVRldiWUJJWU11S21kaTRBdzlJbnNwd2VLQmhYT3I5SGlUOUpISlpBSTlycGhBcVBsVlE?oc=5",
+      "summary": "GX戦略地域、2カ所認定 つくば市「DC集積型」 環境配慮、地域共生に重点 説明会も（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "地域ニュース",
       "areas": [],
       "source": "Yahoo!ニュース",
       "sourceType": "news",
@@ -2504,11 +2746,11 @@
       "firstSeenAt": "2026-11-10T04:00:03.020825+00:00"
     },
     {
-      "id": "6ec12aad8a0bc779e4f0",
-      "title": "GX戦略地域、2カ所認定 つくば市「DC集積型」 環境配慮、地域共生に重点 説明会も（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1haElOX181UU02UDJKUW5LM2NUV3VlTlpRUldNTGxpVG1icVRzVktkai12YVVmLWFXbEx2V0M0akpZTTFFOWlpcnJfZlBVRldiWUJJWU11S21kaTRBdzlJbnNwd2VLQmhYT3I5SGlUOUpISlpBSTlycGhBcVBsVlE?oc=5",
-      "summary": "GX戦略地域、2カ所認定 つくば市「DC集積型」 環境配慮、地域共生に重点 説明会も（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "地域ニュース",
+      "id": "229ea7f05642a7831fdf",
+      "title": "とんきゅう、カフェ参入 若年層向け「雪ノ下珈琲」 つくば出店 看板商品「豚かつサンド」（茨城新聞クロスアイ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3elFaVUt4RGV5VElDbC1uQlRyNUVwQkx3LTBheDV6NjJjZHhLTGFCWlZQMWFnX3hvRk4weFkwYmpqNmgxb0V3X0FfbnJ0eFdieXhsSFhjSWFFcE9ZN0piQnVhRzd4NmtXWWt5a3h6WWNLWGtpUVVkV1Y5LXBJZWs?oc=5",
+      "summary": "とんきゅう、カフェ参入 若年層向け「雪ノ下珈琲」 つくば出店 看板商品「豚かつサンド」（茨城新聞クロスアイ） Yahoo!ニュース",
+      "category": "店舗・グルメ",
       "areas": [],
       "source": "Yahoo!ニュース",
       "sourceType": "news",
@@ -3044,18 +3286,6 @@
       "firstSeenAt": "2026-11-08T04:01:56.034771+00:00"
     },
     {
-      "id": "d33158e7e36e93c7631d",
-      "title": "市南部にも1000メガワット つくば市、新たなデータセンター集積地誘致 - NEWSつくば",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuTzFlWl9acmNxLU1XMlJzbU5ySGdCVHJYRmZ5dzBjdzNIY0RNSlA5aThNbkszWFhicks4YllYTnYwcmwyU3RPcFJEcw?oc=5",
-      "summary": "市南部にも1000メガワット つくば市、新たなデータセンター集積地誘致 NEWSつくば",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "NEWSつくば",
-      "sourceType": "news",
-      "publishedAt": "2026-11-05T12:32:00+00:00",
-      "firstSeenAt": "2026-11-05T21:56:33.949249+00:00"
-    },
-    {
       "id": "77ef82a2329ba19e5daf",
       "title": "つくば市内の交差点では、雨でも皆さん温かく手を振り返してくださいます👋だからこそ、皆さんの声援... - 選挙ドットコム",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aHJ4bUZ1aU1rSWt4RXFuNFBUd2ZIbm5VY1hGbFNwZ3Z2UDRzUWdWWGVrR1FRalh6T05KVWRKQXB0SlFVdVRTZXJUWmRTRGhHcS1kaV93NGhGekt6UzJR?oc=5",
@@ -3102,6 +3332,18 @@
       "sourceType": "news",
       "publishedAt": "2026-11-05T08:00:00+00:00",
       "firstSeenAt": "2026-11-05T10:15:41.720200+00:00"
+    },
+    {
+      "id": "d33158e7e36e93c7631d",
+      "title": "市南部にも1000メガワット つくば市、新たなデータセンター集積地誘致 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuTzFlWl9acmNxLU1XMlJzbU5ySGdCVHJYRmZ5dzBjdzNIY0RNSlA5aThNbkszWFhicks4YllYTnYwcmwyU3RPcFJEcw?oc=5",
+      "summary": "市南部にも1000メガワット つくば市、新たなデータセンター集積地誘致 NEWSつくば",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "firstSeenAt": "2026-11-05T21:56:33.949249+00:00"
     },
     {
       "id": "9c1c64ca55bb8e21e9db",
@@ -5902,252 +6144,6 @@
       "sourceType": "news",
       "publishedAt": "2026-10-06T07:00:00+00:00",
       "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
-    },
-    {
-      "id": "270cf09bb94729624dc4",
-      "title": "復活Ｖ大の里「次の場所が大事」 茨城県つくば市で秋巡業始まる | 全国のニュース - 福井新聞社",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kV2FxSWR1Znp0QjRlLWdzajcyRmxGZHozSVZzRkRrN0FlQ1NGUDZHeXJ1YVB6ZWlLcDRVcmlnakFwT0pQc3Zma203cnJzdG83WTNRLTJxS29aekRGUFE?oc=5",
-      "summary": "復活Ｖ大の里「次の場所が大事」 茨城県つくば市で秋巡業始まる | 全国のニュース 福井新聞社",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "福井新聞社",
-      "sourceType": "news",
-      "publishedAt": "2026-10-06T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "22189fa9a5102947b349",
-      "title": "【つくば市】10月6日デイズタウンに新しい居酒屋がオープンするみたい♪「土佐炉端と藁焼き なぶら」が気になる！ - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05VEgzNkZQOTJiRGtzaUJKMlllRm5Oa3BBRHV2QUg1cUdDenBMbkdoTnJwR05ORDY2bWhDTUk1RGRUejFvNFJLMlk5N3NQR3lUcmdZYUlXeFhBQVNzTlp6SA?oc=5",
-      "summary": "【つくば市】10月6日デイズタウンに新しい居酒屋がオープンするみたい♪「土佐炉端と藁焼き なぶら」が気になる！ 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-10-05T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
-    },
-    {
-      "id": "4dc763b2c9a5cfad2178",
-      "title": "つくばで30年愛された「らーめん三水」が下妻へ！ 10/5(月)、待望の3号店をグランドオープン ― 30年の味と人を受け継ぎ、つくば・守谷に続く新たな一歩 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KYklRU2U3QnQwMEhfR0hxNVhKS2ZOZk5xMFVhSWdCcjJsNkJmVGhhbUxIRk90YnoyckhqcnB2TGpMVVZ2Q1pOYXU2VW11Nmc?oc=5",
-      "summary": "つくばで30年愛された「らーめん三水」が下妻へ！ 10/5(月)、待望の3号店をグランドオープン ― 30年の味と人を受け継ぎ、つくば・守谷に続く新たな一歩 Newscast.jp",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "Newscast.jp",
-      "sourceType": "news",
-      "publishedAt": "2026-10-05T07:00:00+00:00",
-      "firstSeenAt": "2026-11-02T16:11:39.323189+00:00"
-    },
-    {
-      "id": "24bcc4e03f4734d684b5",
-      "title": "連載:医療の未来 筑波大病院50年》(1) 「開拓者」気概の1期生（茨城新聞クロスアイ - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EdHBwTWR2MDdITFBKRzlmX3JuLWtDS0xNSVNjcWpab3B0Yjg5bXlKd1lfVTFWRTNNY0F4TFl5TlFjQjlpWGdVNlFKQkZ1UXpyZWlKSkNmY2gxOHo0ZDZXd1FtMkVLX0F1RDJtc0xLUTR2NUgtZHFaSmd3SUtWQ1U?oc=5",
-      "summary": "連載:医療の未来 筑波大病院50年》(1) 「開拓者」気概の1期生（茨城新聞クロスアイ Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-05T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "e65c278c073767419587",
-      "title": "水戸9月の雨 平年の3.4倍 つくば、日照時間最短 茨城 - 47NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HWDNZMmZHbkFwSVI4T3BuSGJqamEyZlZvOEJfVHg5NG9CdUVoSVh5Y3pWSmJJc1NwUDV3VzdKWElQUXlleUJXTXpTbw?oc=5",
-      "summary": "水戸9月の雨 平年の3.4倍 つくば、日照時間最短 茨城 47NEWS",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "47NEWS",
-      "sourceType": "news",
-      "publishedAt": "2026-10-05T07:00:00+00:00",
-      "firstSeenAt": "2026-11-02T21:52:12.798709+00:00"
-    },
-    {
-      "id": "ec57887d0aaa6684bfd4",
-      "title": "《連載:医療の未来 筑波大病院50年》(1) 「開拓者」気概の1期生 (茨城新聞クロスアイ) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHZWNnk0UXJsYlN0UnVLUThJYkdyLTh4dFlSbUxsZVROLVEzZ081c3lYVXEzUEN0TEFnWWEtdmtXWWtFZEVRM0xjcGlVVlZfcl9wUk53VGd2eEJRM3pBcjlJSGFKU1I4VEtUbnVyQ0xFam1lREw2TG1GcEQ3bGhpbVAwbkZPaG9XaFRHcUZn?oc=5",
-      "summary": "《連載:医療の未来 筑波大病院50年》(1) 「開拓者」気概の1期生 (茨城新聞クロスアイ) Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-05T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "3c840bc5669432aafec4",
-      "title": "【つくば市】そよらつくば学園の森に入るお店がどんどん明らかに！ダイソー＆JINSも入るそうですよ♪ - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Zd1JPWEVRT2h5ZTRxZlBVSDhGZlR6cGVtN0wtLVRaS1hhbnV6TzFIcWFaVm5FRzFmUFZES1ZIcHpycHNWX2xuanlya3NaU0hyR3pNYTRWZmoxX2dLdVVUVXE0YXFGdFRB?oc=5",
-      "summary": "【つくば市】そよらつくば学園の森に入るお店がどんどん明らかに！ダイソー＆JINSも入るそうですよ♪ 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [
-        "研究学園"
-      ],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-10-03T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T09:59:44.516379+00:00"
-    },
-    {
-      "id": "80351bb3e77a821c095d",
-      "title": "茨城・つくば市、自動運転バスを本格運行 「運転手不足の切り札」 [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tQnhVZGJHcXlzR3lTZHoxWnBNWmhLeWxkbk9mcHlUbHJLS2FpZUxsY0M4NGlJRm5vOWpXTXJnYzRpc0hoNjh5QmFiWUU0ZkN1eWNLYUx5V0dPcDdTQlVrcWJmRWlkYm8?oc=5",
-      "summary": "茨城・つくば市、自動運転バスを本格運行 「運転手不足の切り札」 [茨城県] 朝日新聞",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-10-02T07:00:00+00:00",
-      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
-    },
-    {
-      "id": "0647600a9b808f2f8ce9",
-      "title": "自動運転バスを2日から運行 茨城・つくば市、27年度の「運転手なし走行」目指す - 産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd2sza2F0X2czT0FQSFV3MXAyTVJnRkw2eXI0M1RmczdiQWlHQkdObWdWY01jcFRfNTZzaUFZam1PbzZwd1N0RXZKSFc4c0NOWGN2OWxNUnh0RllDZGVicDdiR2ZfWlc2aExidHRNaEo4bjM0YWN0RDJ4YzFndWp0R1dSZFctbnFmYy1qbw?oc=5",
-      "summary": "自動運転バスを2日から運行 茨城・つくば市、27年度の「運転手なし走行」目指す 産経ニュース",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "産経ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-02T07:00:00+00:00",
-      "firstSeenAt": "2026-11-22T01:20:38.470014+00:00"
-    },
-    {
-      "id": "f92cc6af8077e77bf191",
-      "title": "自動運転バス つくばで本格運行 27年度はレベル4計画 茨城（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uX2Y0RW1FS0Z4M2tYV3B6ZHVaTXhSSXd0cTRIWDlSdHo4U0x0SUlKTXYtcG10bUVYa1FhWUhkMjFhTkhpLVZCR2JOV1NmTFRVc1pGamVTNmNWYVYxUHBtLU0wdEpnT2VuaUpVOUNXRjNlUVlBSlZRWGllX1dEYWs?oc=5",
-      "summary": "自動運転バス つくばで本格運行 27年度はレベル4計画 茨城（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-02T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "4dda79830024d52ba996",
-      "title": "自動運転バス つくばで本格運行 27年度はレベル4計画 茨城 (茨城新聞クロスアイ) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTFNYa1lhbEFqZWZ3VjU1d2h4ejV1OXNNUUNjajVuSml6Y0Y3SkNRVC1heW4zV3RZSDRldWNxMlZ5OU1MQVNGVkd0MG1JY0JkaHFWa0hCdVFHMFFIYkg3Z01SMHpvWlZwVEs3ZHZOYjJHbm8tWk0yWk9jakNiaFlqdXhTd1RMWEEtUnZxWTFR?oc=5",
-      "summary": "自動運転バス つくばで本格運行 27年度はレベル4計画 茨城 (茨城新聞クロスアイ) Yahoo!ニュース",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-02T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "6d9e90b29087d888dc79",
-      "title": "2020→2025年｢人口増加数が大きい自治体｣ランキング…5位は神奈川県川崎市､4位は茨城県つくば市､ではトップ3は？ - 東洋経済オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZaFlmXy04bkl6aWJqRnV4N2NXSjduWHBMM3IyTG9nVmZSQWJFTko0YUtyU0ZmaUwwYWctWnlfNXI2V2hRQlFCdGRqajZzUnNrV3BIamZTdDVzNlU?oc=5",
-      "summary": "2020→2025年｢人口増加数が大きい自治体｣ランキング…5位は神奈川県川崎市､4位は茨城県つくば市､ではトップ3は？ 東洋経済オンライン",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "東洋経済オンライン",
-      "sourceType": "news",
-      "publishedAt": "2026-10-02T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "8ed3a288e2a3a8013c0f",
-      "title": "【令和8年12月1日(火曜日)～令和8年12月18日(金曜日)】筑波交流センター休館のお知らせ",
-      "url": "https://www.city.tsukuba.lg.jp/soshikikarasagasu/shimimbuchiikisiennka/gyomuannai/kyukan/29725.html",
-      "summary": "",
-      "category": "行政・市政",
-      "areas": [],
-      "source": "つくば市公式",
-      "sourceType": "official",
-      "publishedAt": "2026-10-02T06:44:33+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "0ac0edcc444b283a6c25",
-      "title": "つくば市で自動運転バス本格運行へ 全国初特例活用 持続可能な公共交通を目指す | 社会 | ニュース一覧 - LuckyFM茨城放送",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lUV9jYXRNV3dGS0tiTkxCVkk3T2h0ckc4QUZiTlRCR21oWlVkaUtpQWNTbE5zckctZTJwbS0yTWZLNHg5ZjhncHdoM3VqOWlZdHNZeVNn?oc=5",
-      "summary": "つくば市で自動運転バス本格運行へ 全国初特例活用 持続可能な公共交通を目指す | 社会 | ニュース一覧 LuckyFM茨城放送",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "LuckyFM茨城放送",
-      "sourceType": "news",
-      "publishedAt": "2026-10-01T07:00:00+00:00",
-      "firstSeenAt": "2026-11-22T01:20:38.470014+00:00"
-    },
-    {
-      "id": "9c6261be5f217c3789ce",
-      "title": "povoデータが無料でもらえる「povo Data Oasis」、つくば市の自動運転バスで期間限定提供 - KDDI ニュースルーム",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nZW43dHl4ZmI3V0x3YVE2ajBIOGtzYzVoVFJYWUhfWENoaTBqZWpnc1hBbEtLUEt1blZCdGExN2REYlBBdXV2a0JRTndfcVlPVG9PWXlxZUJRbkdSaXF5Q21kTXlZUW5yTmdQbg?oc=5",
-      "summary": "povoデータが無料でもらえる「povo Data Oasis」、つくば市の自動運転バスで期間限定提供 KDDI ニュースルーム",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "KDDI ニュースルーム",
-      "sourceType": "news",
-      "publishedAt": "2026-10-01T07:00:00+00:00",
-      "firstSeenAt": "2026-11-19T10:19:36.877271+00:00"
-    },
-    {
-      "id": "b4c8ec19c5ca9130c4c3",
-      "title": "茨城・つくば市、自動運転バスを本格運行 「運転手不足の切り札」 [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rbi1iWHNqNm5VVFJwQm5TdlZrZHdqMlBFdFRZblNBMVJuTzE1WVgyWjdSd0ZyVk1mQjJzT1hoWWp6eXlSN2xVX01zLVlTQWNua05QaTdGMkI5NHhoaF95dnNRSHZBU3J3Z2VoZm1n?oc=5",
-      "summary": "茨城・つくば市、自動運転バスを本格運行 「運転手不足の切り札」 [茨城県] 朝日新聞",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-10-01T07:00:00+00:00",
-      "firstSeenAt": "2026-11-23T01:44:42.459998+00:00"
-    },
-    {
-      "id": "b98a2480dec0eb706e84",
-      "title": "自動運転バス、つくば市で10月2日本格運行開始…関東鉄道「筑波大学循環」で（レスポンス） | 自動車情報・ニュース - carview!",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVB0dTl0aTJkbkdsSXhZUDVRMHZ6dWd6ZFR3cEV4cnd6bWNNSXVlM2xrY3ZqbnNEWTN3ZW5fMmVSZS13ZjRoTDQyYnJqdVhUcWtvMjF0T0cxNDdiNjQ0a2RnOW1ZSElnX2Z6SFVKakVZRWhhblI5R015azlVa2V4eHZPalBDTHZF?oc=5",
-      "summary": "自動運転バス、つくば市で10月2日本格運行開始…関東鉄道「筑波大学循環」で（レスポンス） | 自動車情報・ニュース carview!",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "carview!",
-      "sourceType": "news",
-      "publishedAt": "2026-10-01T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "547c38730b0fff60d595",
-      "title": "ユニバーサルデザイン 筑波技術大学生ら「歩み寄る姿勢で」 つくば市職員 実践通じ学ぶ - 東京新聞",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lN2RmTFlIVmJhakcwN0FnRnc1eFZqYktUQXViN0pBNmZ2S2pyTjV1ZFhEVVNGNjVRYkk5MXE3NVFDZkNfSWUxb29WSFNJWU12LXJj?oc=5",
-      "summary": "ユニバーサルデザイン 筑波技術大学生ら「歩み寄る姿勢で」 つくば市職員 実践通じ学ぶ 東京新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "東京新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-09-30T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "3ff8f29e6c18f9542946",
-      "title": "そよらつくば学園の森 2026年10月25日(日)開業！全11テナント一覧！最新情報も！ - 出店ウォッチ",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yT09DRXRUdWQ3VlVhU2hETkhpcGQtbVByRFBqY0xJdmN1aGl0UGd1MVBFYWNicTd2TFhWVjB6MWlselFrY3lZOFdMTWRtVWM?oc=5",
-      "summary": "そよらつくば学園の森 2026年10月25日(日)開業！全11テナント一覧！最新情報も！ 出店ウォッチ",
-      "category": "店舗・グルメ",
-      "areas": [
-        "研究学園"
-      ],
-      "source": "出店ウォッチ",
-      "sourceType": "news",
-      "publishedAt": "2026-09-30T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "13254350b4460849abef",
-      "title": "「そよらつくば学園の森」１０月２５日（日）オープン - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BdUdCNjkwSjNubVE2cUFrU0lUY0NFZEQxSTV2VzlZZlRFM3J4MzBUY3pxVkppQ2IzZklyU2pfUlFaOWJsMU1UUGtMaUdZenhVSkJ1VA?oc=5",
-      "summary": "「そよらつくば学園の森」１０月２５日（日）オープン ニコニコニュース",
-      "category": "店舗・グルメ",
-      "areas": [
-        "研究学園"
-      ],
-      "source": "ニコニコニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-09-30T07:00:00+00:00",
-      "firstSeenAt": "2026-11-19T22:00:13.131825+00:00"
     }
   ]
 }
