@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T23:27:54.506498+00:00",
+  "updatedAt": "2026-11-28T11:46:32.979443+00:00",
   "articleCount": 500,
   "sources": [
     {
@@ -11,17 +11,17 @@
     {
       "source": "ニュース検索：つくば市 ニュース",
       "ok": true,
-      "count": 58
+      "count": 64
     },
     {
       "source": "ニュース検索：つくば市 新店舗 開店 閉店",
       "ok": true,
-      "count": 14
+      "count": 9
     },
     {
       "source": "ニュース検索：つくば市 再開発 建設 商業施設",
       "ok": true,
-      "count": 4
+      "count": 2
     },
     {
       "source": "ニュース検索：つくば市 イベント 祭り 週末",
@@ -45,6 +45,30 @@
     }
   ],
   "articles": [
+    {
+      "id": "1333c99427331f20f0f3",
+      "title": "12/8つくばで「ロブスタコーヒー×熟成日本酒」ペアリングセミナー開催 飲み比べて“味わいを言葉にする”2時間 - チャリティニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mNjNfdk5UajlGQ3g1OEFCQ3ZtLUVLM1RYcFcxUjA0b0luMHNFbHloWGNtSVRSRzJpSUhKU0lkR3VYZHR0YzZrUEY0em5uM0V6MW5fdFIwU1cxWG9ibUE?oc=5",
+      "summary": "12/8つくばで「ロブスタコーヒー×熟成日本酒」ペアリングセミナー開催 飲み比べて“味わいを言葉にする”2時間 チャリティニュース",
+      "category": "イベント",
+      "areas": [],
+      "source": "チャリティニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-28T10:07:48+00:00",
+      "firstSeenAt": "2026-11-28T11:46:32.979443+00:00"
+    },
+    {
+      "id": "5a78f157369d1c52c72a",
+      "title": "日本科学者会議茨城が市長に提言書「科学的根拠に基づき住民の安心・安全確保を」【つくばに国内最大級のデータセンター】 - NEWSつくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11TXZpWms5U2pRdGE2bXk5LWdNTXl0YjlkcHBtbTBuRzFXTXpVaHZNb3llZUlNQ3RrYk5zWnZ6MFNjOHF6QWgzWnFpNA?oc=5",
+      "summary": "日本科学者会議茨城が市長に提言書「科学的根拠に基づき住民の安心・安全確保を」【つくばに国内最大級のデータセンター】 NEWSつくば",
+      "category": "行政・市政",
+      "areas": [],
+      "source": "NEWSつくば",
+      "sourceType": "news",
+      "publishedAt": "2026-11-28T03:11:52+00:00",
+      "firstSeenAt": "2026-11-28T11:46:32.979443+00:00"
+    },
     {
       "id": "e0a4627189b7e0ed1034",
       "title": "生活保護過払いで職員2人を戒告処分 つくば市 監査に虚偽報告も 「組織的な要因が背景」と判断 - 東京新聞",
@@ -70,6 +94,42 @@
       "firstSeenAt": "2026-11-27T23:27:54.506498+00:00"
     },
     {
+      "id": "11387d5c90649559fe2a",
+      "title": "つくば市、生活保護費 返還対象者308人分の情報を外部に漏えい 開示処理でミス - 東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOeGxvU0VHazRjVTQxNGRFOXB2QXl6djBsc2Z4bEJveldiZFFIS0cxZ09laDluVkVkN0ZvNUc4UEYtc0J5dDNRYzMyWkRQcHdWYUFj?oc=5",
+      "summary": "つくば市、生活保護費 返還対象者308人分の情報を外部に漏えい 開示処理でミス 東京新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "東京新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T22:44:44+00:00",
+      "firstSeenAt": "2026-11-28T11:46:32.979443+00:00"
+    },
+    {
+      "id": "629d4f5779649bd38eae",
+      "title": "老後に住みたい「茨城県の自治体」ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS3pfd1ZqUER6djctYUJEeC1FQU4tdlgxTGNXRV9qeDRadnlYT0w3Q3F0cnIybXpja2duYlM1c3hVV2xhNXh0dG1abjV6b3E5UThPZmlLeGdOT3gtdDZnMGplTDFFdXJYSk1PUkpucWt4T1ctZGJWbTJvVjhhbEZwa1hsRdIBiAFBVV95cUxPQldnbGxDTWRzdTVMeGh2VlZiczBwd2ZHQklGaE1ZMVRSRWVoQmYtWU56aU9Cenk1U1JNdnZ5YmRXaGU5TGtBaEgxS3lJX0k4TEx1THRnb3BYdk5wWTFYbWFVZkNja3VKVXdSaUxKd2FoYmZyNEhnN2k1OTNEaFowTVJsazlSWFBD?oc=5",
+      "summary": "老後に住みたい「茨城県の自治体」ランキング！ 2位は「つくば市」、1位は？【2026年調査】 ｄメニューニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ｄメニューニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T22:40:00+00:00",
+      "firstSeenAt": "2026-11-28T11:46:32.979443+00:00"
+    },
+    {
+      "id": "4e0e48b0dd937e5e42e9",
+      "title": "老後に住みたい「茨城県の自治体」ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wWmFNdkRWRUNYM2ZIazJKbzJYVjBGcXFhRUExcjJKMnRnbkpSMzVSeWhXUlp2R242dS1jTFZfYVB4Zm5qS1V6dnNHUzFHOXdzYW53Y0hYOG1oSWJuOEk4?oc=5",
+      "summary": "老後に住みたい「茨城県の自治体」ランキング！ 2位は「つくば市」、1位は？【2026年調査】 ライブドアニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "ライブドアニュース",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T22:40:00+00:00",
+      "firstSeenAt": "2026-11-28T11:46:32.979443+00:00"
+    },
+    {
       "id": "1391764e224c2c68f86d",
       "title": "老後に住みたい「茨城県の自治体」ランキング！ 2位は「つくば市」、1位は？【2026年調査】 - Infoseek",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56Zi1KamVRUU5GSGpSTEFKVE9fQlA4bzluVjR5Wi1pd0FNMTh2aXdfVlctV3kwQkNqWXg1a0IzRXBmQmlMSVkwYmdTbDhrOXN3VlJwN3EzRnlBbVc3SGlZVVl3?oc=5",
@@ -86,7 +146,7 @@
       "title": "【つくば市】嬉しすぎる…！魚べいが研究学園に帰ってきます♪ - 号外NET つくば市",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WbnJWb0M0OExsaHc3UDZHOUxVb0wzY3Z3emVSeE05OHZrbVVybkZJaGNJb09GNlo5eHdhVlNhS3dyT0xMTkRHZl90NTBLekNGcS0xQ2dwT1JWMEI4RVozTXJOcnFwZmsyb2s2MWVoaXk?oc=5",
       "summary": "【つくば市】嬉しすぎる…！魚べいが研究学園に帰ってきます♪ 号外NET つくば市",
-      "category": "地域ニュース",
+      "category": "店舗・グルメ",
       "areas": [
         "研究学園"
       ],
@@ -116,8 +176,32 @@
       "areas": [],
       "source": "Yahoo!ニュース",
       "sourceType": "news",
-      "publishedAt": "2026-11-27T20:19:33+00:00",
+      "publishedAt": "2026-11-27T20:00:00+00:00",
       "firstSeenAt": "2026-11-27T23:27:54.506498+00:00"
+    },
+    {
+      "id": "e831502e185b3fae3b1e",
+      "title": "茨城：《Focus現場から》教育旅行先につくば注目 探究学習に強み 県、旅行会社が誘致に力 ：地域ニュース - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OQlJVQW1IWS1XZlNtYUdUUDg0VzljVFEyQkNETXZHcHZ2SHFhUi05ZGE1Nl9PaHI4MnFCSzZ1bGpRRHdNR2VMRi1GUTRkRmFLaVgwaWdyVndwb1k3MllrU3drdUhQT1daTFZPNXQ0dFcxUF9GNFVR?oc=5",
+      "summary": "茨城：《Focus現場から》教育旅行先につくば注目 探究学習に強み 県、旅行会社が誘致に力 ：地域ニュース 読売新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "読売新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T20:00:00+00:00",
+      "firstSeenAt": "2026-11-28T11:46:32.979443+00:00"
+    },
+    {
+      "id": "8ad29841a86839f4ac81",
+      "title": "茨城：田中世界柔道Ｖ報告 筑波大４年 ロス五輪へ意気込み ：地域ニュース - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByUTI5UlBCNGJiS3dwYjhHd0xCRWFWUFBWQXVtTUMwTTdSYUFEN28wTTNvOFVDUzhNRlZLM0d0TFl4dC12TEZfMTVyaUVyNE13RWM3eWMzRFZTdmZaXzdnbUhtbWo4TFhUWm5zX180Nmt3TjQ?oc=5",
+      "summary": "茨城：田中世界柔道Ｖ報告 筑波大４年 ロス五輪へ意気込み ：地域ニュース 読売新聞",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "読売新聞",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T20:00:00+00:00",
+      "firstSeenAt": "2026-11-28T11:46:32.979443+00:00"
     },
     {
       "id": "452d9d96a284686295a0",
@@ -314,18 +398,6 @@
       "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
     },
     {
-      "id": "ea96fef618d72d788e38",
-      "title": "【速報】圏央道でトラックなど4台絡む事故 1人搬送 茨城・つくば市（日テレNEWS NNN） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DQ2hLQjQ3ZTUyMS1memNZQVRVOEVSZUwyNzg2OFNxQlZMblpVdkdvakV4QU8xT3hNYl8xR2dZNEFrbERSTTgta2tmRHpSTlNING00LXdWa3J3QnFFWERFY0ptX3ZtcG5ZUVczaTFuVDNQd19LeGZzcXgtM0tBVDA?oc=5",
-      "summary": "【速報】圏央道でトラックなど4台絡む事故 1人搬送 茨城・つくば市（日テレNEWS NNN） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-11-27T04:15:00+00:00",
-      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
-    },
-    {
       "id": "fa37684262a39806f3fe",
       "title": "【速報】圏央道でトラックなど4台絡む事故 1人搬送 茨城・つくば市（2026年11月26日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zY2Q5ZndxWUZJTVR4dWRFclJUcEw0U2Q0bWlzUjRrT2dYNmNNeEdLa2JJQXRjYXg5Q291U1V0UXdDRHlaN3ZoSUNfZ2Q5T0E3ajYwYzFVZDdScVhmX1RfbFdvY3NfWkl6cmJqV3U0OGdNbUZRUmM3bTRqOWQ?oc=5",
@@ -333,6 +405,18 @@
       "category": "地域ニュース",
       "areas": [],
       "source": "日テレNEWS NNN",
+      "sourceType": "news",
+      "publishedAt": "2026-11-27T04:15:00+00:00",
+      "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
+    },
+    {
+      "id": "ea96fef618d72d788e38",
+      "title": "【速報】圏央道でトラックなど4台絡む事故 1人搬送 茨城・つくば市（日テレNEWS NNN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DQ2hLQjQ3ZTUyMS1memNZQVRVOEVSZUwyNzg2OFNxQlZMblpVdkdvakV4QU8xT3hNYl8xR2dZNEFrbERSTTgta2tmRHpSTlNING00LXdWa3J3QnFFWERFY0ptX3ZtcG5ZUVczaTFuVDNQd19LeGZzcXgtM0tBVDA?oc=5",
+      "summary": "【速報】圏央道でトラックなど4台絡む事故 1人搬送 茨城・つくば市（日テレNEWS NNN） Yahoo!ニュース",
+      "category": "地域ニュース",
+      "areas": [],
+      "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-11-27T04:15:00+00:00",
       "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
@@ -382,7 +466,7 @@
       "areas": [],
       "source": "NHKニュース",
       "sourceType": "news",
-      "publishedAt": "2026-11-27T03:07:59+00:00",
+      "publishedAt": "2026-11-27T03:07:00+00:00",
       "firstSeenAt": "2026-11-27T12:22:51.674009+00:00"
     },
     {
@@ -4564,18 +4648,6 @@
       "firstSeenAt": "2026-10-31T09:50:47.806792+00:00"
     },
     {
-      "id": "3f86fe9cdc03f1c03069",
-      "title": "【茨城県】牛久市に「そよらひたち野うしく」が11月18日オープン！飲食店や屋内型プレイグラウンドも - 号外NET つくば市",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lajRhQ080bWY2aXJVWTctMVR4UmlHdUhhZ3RTVk8yUmpubjZ3MDJHazV5NE5MbHNrZnNJX0VfYXl4b0pUdnI4TVVpUS1POEt3ZmJKNjBmZE9sbkdERDF1bGxYbFZwQkw5UUprN3hhRk9QWTRZVmc?oc=5",
-      "summary": "【茨城県】牛久市に「そよらひたち野うしく」が11月18日オープン！飲食店や屋内型プレイグラウンドも 号外NET つくば市",
-      "category": "店舗・グルメ",
-      "areas": [],
-      "source": "号外NET つくば市",
-      "sourceType": "news",
-      "publishedAt": "2026-10-31T07:00:00+00:00",
-      "firstSeenAt": "2026-10-31T09:50:47.806792+00:00"
-    },
-    {
       "id": "d6c84f89678699ad8338",
       "title": "つくば市消防フェア2026 in つくば市消防本部｜2026年10月31日(土) - 陸自調査団",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkxUTU5lQl9KNXVaS3VtSXREY3JOSGN1MEdTZkdJNnhOZzlWbk04WHdqdTliMGRuZ0VEc2tNNnpKNVBhZkFQNGFoRWc5aG5KX01QeFhkUS1YSTlNRUpfZmZSaHdCNkJpd3FFak9zTldicVNMRlNaZkE0MGZtVmNnTjJWMlZtdmZXUjd2Z05hN3JLUQ?oc=5",
@@ -4586,6 +4658,18 @@
       "sourceType": "news",
       "publishedAt": "2026-10-31T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T16:03:57.041493+00:00"
+    },
+    {
+      "id": "3f86fe9cdc03f1c03069",
+      "title": "【茨城県】牛久市に「そよらひたち野うしく」が11月18日オープン！飲食店や屋内型プレイグラウンドも - 号外NET つくば市",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lajRhQ080bWY2aXJVWTctMVR4UmlHdUhhZ3RTVk8yUmpubjZ3MDJHazV5NE5MbHNrZnNJX0VfYXl4b0pUdnI4TVVpUS1POEt3ZmJKNjBmZE9sbkdERDF1bGxYbFZwQkw5UUprN3hhRk9QWTRZVmc?oc=5",
+      "summary": "【茨城県】牛久市に「そよらひたち野うしく」が11月18日オープン！飲食店や屋内型プレイグラウンドも 号外NET つくば市",
+      "category": "店舗・グルメ",
+      "areas": [],
+      "source": "号外NET つくば市",
+      "sourceType": "news",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "firstSeenAt": "2026-10-31T09:50:47.806792+00:00"
     },
     {
       "id": "a7723909cea36ff9505d",
@@ -6059,92 +6143,6 @@
       "source": "Yahoo!ニュース",
       "sourceType": "news",
       "publishedAt": "2026-10-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "8864bd4c1b482475e14e",
-      "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - 乗りものニュース",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XcGpfYmFWejBQbnhBOHRnNnh1eHM5WERJLU5ZRDUyMEI2NWdIY0c5Y3N0OVc4NGN2TlY2cjE0b2Nvd2YzQk5ndWJB?oc=5",
-      "summary": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 乗りものニュース",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "乗りものニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "54f0e5303bacb8cc8f65",
-      "title": "データセンター説明会 つくば市主催求めて住民抗議 - 東京新聞",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnRHBMUU51SFhMVE5MdUdiMDZreDRCVm9ZSFpoX3AwdFRaYUNyWndmOC1PSW5FeHJFQUpNYkh3UlBWbGtqaGwzaVlTLUxLcDdPZkQw?oc=5",
-      "summary": "データセンター説明会 つくば市主催求めて住民抗議 東京新聞",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "東京新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "098accf715f1882b4bca",
-      "title": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vS2k3RlEwejhUTUZWYnAxVS1ZVmhxNG55VUkzdTBYeW1wajdYQjFYTVFMNnNlSUlFNGVMVE9pVUpBaFBnZF9vZFJwa1hyQmRIdXpyajZIS1MwT1o4dm9sZFpEWDU2SDQ?oc=5",
-      "summary": "秋の行楽シーズン、筑波山ケーブルカー運休続く 9月の試運転事故で [茨城県] 朝日新聞",
-      "category": "交通・生活",
-      "areas": [
-        "筑波山"
-      ],
-      "source": "朝日新聞",
-      "sourceType": "news",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-30T15:59:13.934274+00:00"
-    },
-    {
-      "id": "12db0b289c26d65c562f",
-      "title": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZmMwVEJ2Rnc4MkdrbXVOWGR2VG1uRlc1M2tOMExOc1k2WUIxeXlJRmtoS0d1Yk52cUI5aUJPaEpZamNMRUVCbklYeTJlTmZwd3NmTXhhQUliaEd6LUN6SDEzOGZ4UdIBa0FVX3lxTE9QbDlUOGczcUV5QmdyVXMtV0RlaUk0VTlEUk1HSm5GR0JWREJ0UnJ0OWZiWFhnRTVTSloza3NGQTJrVTItRXNRUWVicXEzQ1FkY0dIXzV3X1drYjBXbElJVVZkNkRhVF96dXJB?oc=5",
-      "summary": "「道路版つくばエクスプレス」の“ボトルネック”解消は近い？ ガラガラだった有料橋も着実に利用増 さらにつながる「都市軸道路」 Infoseek",
-      "category": "交通・生活",
-      "areas": [],
-      "source": "Infoseek",
-      "sourceType": "news",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "f88a46c4da2262a12204",
-      "title": "つくばデータセンター 説明会求め地元住民ら抗議 趣旨採択受け 茨城 (茨城新聞クロスアイ) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPamJPMHIxRWI5bnYzUU1nVV90TjRHa1NlZVcwbFpiVEpMZTluY0ExSGlubFFnRjFibWl0a1JHTC1SRkNvakpvMkhtbEFvZTQ2VlREU1pma01jSFlqbjRsTnlMdU9WbUs0SlZDUEs1SG9CdGtRQVg0U05SUzE3eTVRbnVnOEZKSjl0SjdheHln?oc=5",
-      "summary": "つくばデータセンター 説明会求め地元住民ら抗議 趣旨採択受け 茨城 (茨城新聞クロスアイ) Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-08T23:39:57+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "f1a77297f0942e1ebc9d",
-      "title": "動物事故死 ネコとタヌキで6割超 茨城・つくば市内を調査（茨城新聞クロスアイ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tTVdQRVBxVnRIVU9iQ2ZCZ2wwU0xvcjFKY0VUQkpZLVRaTFFQNU9aRUdDdzlkZ0RPQXdrNEFRUFpidWJHSTlLWEVQSm03YktVUHVyQTczX1lnbHAtOEpfNDVTY3pvUklsZmlfemF6V0tmcDRVV1c1bTUtcGtCSTQ?oc=5",
-      "summary": "動物事故死 ネコとタヌキで6割超 茨城・つくば市内を調査（茨城新聞クロスアイ） Yahoo!ニュース",
-      "category": "地域ニュース",
-      "areas": [],
-      "source": "Yahoo!ニュース",
-      "sourceType": "news",
-      "publishedAt": "2026-10-08T07:00:00+00:00",
-      "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
-    },
-    {
-      "id": "2345557294b899152e1e",
-      "title": "「説明会を即時開催せよ」住民ら、初の抗議行動 つくば データセンター建設現場前 - NEWSつくば",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IaTR5SmF6V240RnQtRE9KWWJVOTRvdE9YUDBnTVphdzV1cTY2SGFLb3dYejZNT0JjYnhoTEZrMk1DYlkxNUNqa0RsMA?oc=5",
-      "summary": "「説明会を即時開催せよ」住民ら、初の抗議行動 つくば データセンター建設現場前 NEWSつくば",
-      "category": "開発・建設",
-      "areas": [],
-      "source": "NEWSつくば",
-      "sourceType": "news",
-      "publishedAt": "2026-10-08T07:00:00+00:00",
       "firstSeenAt": "2026-10-29T06:23:03.622987+00:00"
     }
   ]
